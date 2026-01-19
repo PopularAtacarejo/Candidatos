@@ -1,22 +1,25 @@
+[file name]: backend.py
+[file content begin]
 from fastapi import FastAPI, UploadFile, Form, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 import base64
 import os
-from typing import List
+from typing import List, Optional
 import re
 from cachetools import TTLCache
 import hashlib
 from dotenv import load_dotenv
+import urllib.parse
 
 app = FastAPI()
 
 # ==================== CONFIGURAÇÕES ====================
 load_dotenv()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-GITHUB_REPO = "Candidatos"  # Apenas o nome do repositório
+GITHUB_REPO = "Candidatos"
 GITHUB_OWNER = "PopularAtacarejo"
 
 headers = {
@@ -205,7 +208,155 @@ def initialize_repository() -> bool:
 print("=== Inicializando servidor ===")
 initialize_repository()
 
-def get_existing_candidates() -> List[dict]:
+def parse_iso_date(date_str: str) -> Optional[datetime]:
+    """Converte string ISO para datetime com tratamento de erros"""
+    if not date_str:
+        return None
+    
+    try:
+        # Remove o 'Z' se existir e converte para formato ISO
+        if date_str.endswith('Z'):
+            date_str = date_str.replace('Z', '+00:00')
+        
+        # Tenta converter diretamente
+        return datetime.fromisoformat(date_str)
+    except:
+        # Tenta outros formatos comuns
+        try:
+            return datetime.strptime(date_str.split('.')[0], "%Y-%m-%dT%H:%M:%S")
+        except:
+            try:
+                return datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+            except:
+                return None
+
+def is_candidate_expired(candidate: dict) -> bool:
+    """Verifica se a candidatura expirou (mais de 90 dias)"""
+    if "enviado_em" not in candidate:
+        return False
+    
+    candidate_date = parse_iso_date(candidate["enviado_em"])
+    if not candidate_date:
+        return False
+    
+    # Calcula diferença em dias
+    days_diff = (datetime.now() - candidate_date).days
+    return days_diff >= 90
+
+def clean_expired_candidates() -> int:
+    """Remove automaticamente candidaturas expiradas (mais de 90 dias) e seus currículos"""
+    print("Iniciando limpeza de candidaturas expiradas...")
+    
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/candidatos.json"
+    
+    try:
+        # Obtém o arquivo atual
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code != 200:
+            print(f"Erro ao buscar candidatos para limpeza: {response.status_code}")
+            return 0
+        
+        # Decodifica o conteúdo
+        content = response.json()["content"]
+        decoded = base64.b64decode(content).decode("utf-8")
+        candidates = json.loads(decoded)
+        sha = response.json()["sha"]
+        
+        # Separa candidatos ativos e expirados
+        active_candidates = []
+        expired_candidates = []
+        deleted_files = []
+        
+        for candidate in candidates:
+            if is_candidate_expired(candidate):
+                expired_candidates.append(candidate)
+                # Extrai o nome do arquivo da URL para exclusão
+                if "arquivo_url" in candidate:
+                    try:
+                        # Pega o nome do arquivo da URL
+                        file_url = candidate["arquivo_url"]
+                        # Extrai o caminho do arquivo (parte após o branch)
+                        path_match = re.search(f"{BRANCH}/(.+)", file_url)
+                        if path_match:
+                            file_path = path_match.group(1)
+                            deleted_files.append(file_path)
+                    except:
+                        print(f"Não foi possível extrair caminho do arquivo para: {candidate.get('nome', 'Unknown')}")
+            else:
+                active_candidates.append(candidate)
+        
+        if not expired_candidates:
+            print("Nenhuma candidatura expirada encontrada.")
+            return 0
+        
+        print(f"Encontradas {len(expired_candidates)} candidaturas expiradas para remoção.")
+        
+        # Remove os arquivos de currículo expirados
+        deleted_count = 0
+        for file_path in deleted_files:
+            if delete_github_file(file_path):
+                deleted_count += 1
+                # Aguarda um pouco para não sobrecarregar a API
+                import time
+                time.sleep(0.5)
+        
+        # Atualiza o arquivo JSON removendo os candidatos expirados
+        updated_content = json.dumps(active_candidates, indent=2, ensure_ascii=False)
+        content_b64 = base64.b64encode(updated_content.encode("utf-8")).decode("utf-8")
+        
+        update_data = {
+            "message": f"Limpeza automática: Removidas {len(expired_candidates)} candidaturas expiradas",
+            "content": content_b64,
+            "sha": sha,
+            "branch": BRANCH
+        }
+        
+        update_response = requests.put(url, headers=headers, json=update_data, timeout=30)
+        
+        if update_response.status_code in [200, 201]:
+            print(f"✅ Limpeza concluída: {len(expired_candidates)} candidaturas expiradas removidas, {deleted_count} arquivos deletados.")
+            return len(expired_candidates)
+        else:
+            print(f"❌ Erro ao atualizar candidatos.json: {update_response.status_code} - {update_response.text}")
+            return 0
+            
+    except Exception as e:
+        print(f"❌ Erro durante limpeza: {str(e)}")
+        return 0
+
+def delete_github_file(file_path: str) -> bool:
+    """Deleta um arquivo do GitHub via API"""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{file_path}"
+    
+    # Primeiro obtém o SHA do arquivo
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            sha = response.json()["sha"]
+            
+            # Agora deleta o arquivo
+            data = {
+                "message": f"Removendo currículo expirado: {file_path}",
+                "sha": sha,
+                "branch": BRANCH
+            }
+            
+            delete_response = requests.delete(url, headers=headers, json=data, timeout=30)
+            
+            if delete_response.status_code in [200, 204]:
+                print(f"✅ Arquivo {file_path} deletado com sucesso")
+                return True
+            else:
+                print(f"❌ Erro ao deletar {file_path}: {delete_response.status_code} - {delete_response.text}")
+                return False
+        else:
+            print(f"Arquivo {file_path} não encontrado ou já deletado")
+            return False
+    except Exception as e:
+        print(f"Erro ao deletar {file_path}: {str(e)}")
+        return False
+
+def get_existing_candidates(clean_expired: bool = False) -> List[dict]:
     """Obtém candidatos existentes do arquivo JSON no GitHub"""
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/candidatos.json"
     
@@ -214,7 +365,15 @@ def get_existing_candidates() -> List[dict]:
         if response.status_code == 200:
             content = response.json()["content"]
             decoded = base64.b64decode(content).decode("utf-8")
-            return json.loads(decoded)
+            candidates = json.loads(decoded)
+            
+            # Executa limpeza se solicitado
+            if clean_expired:
+                # Remove candidatos expirados da lista retornada
+                active_candidates = [c for c in candidates if not is_candidate_expired(c)]
+                return active_candidates
+            
+            return candidates
         elif response.status_code == 404:
             # Tentar criar o arquivo se não existir
             print("Arquivo candidatos.json não encontrado, tentando criar...")
@@ -241,7 +400,6 @@ def normalize_vagas_data(vagas_data) -> List[dict]:
 
     return normalized
 
-
 def fetch_content_from_github(path: str):
     """Busca um arquivo no GitHub e retorna o JSON decodificado"""
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
@@ -264,7 +422,6 @@ def fetch_content_from_github(path: str):
         print(f"Erro inesperado ao buscar {path}: {str(e)}")
 
     return None
-
 
 def get_vagas_from_github() -> List[dict]:
     """Tenta buscar vagas via API (com token) e depois pela URL RAW"""
@@ -319,16 +476,16 @@ def get_vagas_from_github() -> List[dict]:
 
     return []
 
-def save_candidate(candidate: dict) -> dict:
-    """Salva candidato no arquivo JSON do GitHub"""
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/candidatos.json"
+def check_duplicate_candidate(cpf: str, vaga: str) -> bool:
+    """Verifica se já existe candidatura para o CPF e vaga nos últimos 90 dias"""
+    # Primeiro executa limpeza automática
+    cleaned = clean_expired_candidates()
+    if cleaned > 0:
+        print(f"✅ {cleaned} candidaturas expiradas removidas durante verificação")
     
-    # Obtém candidatos existentes
     existing = get_existing_candidates()
-    
-    # Verifica duplicidade
-    cpf_clean = re.sub(r'[^\d]', '', candidate["cpf"])
-    vaga_lower = candidate["vaga"].lower().strip()
+    cpf_clean = re.sub(r'[^\d]', '', cpf)
+    vaga_lower = vaga.lower().strip()
     
     for existing_candidate in existing:
         existing_cpf = re.sub(r'[^\d]', '', existing_candidate.get("cpf", ""))
@@ -336,13 +493,27 @@ def save_candidate(candidate: dict) -> dict:
         
         if existing_cpf == cpf_clean and existing_vaga == vaga_lower:
             if "enviado_em" in existing_candidate:
-                existing_date = datetime.fromisoformat(existing_candidate["enviado_em"].replace("Z", "+00:00"))
-                days_diff = (datetime.now() - existing_date).days
-                
-                if days_diff < 90:
-                    return {"success": False, "reason": "duplicate"}
+                candidate_date = parse_iso_date(existing_candidate["enviado_em"])
+                if candidate_date:
+                    days_diff = (datetime.now() - candidate_date).days
+                    if days_diff < 90:
+                        return True
+                else:
+                    # Se não conseguir parsear a data, assume como duplicata por segurança
+                    return True
+    
+    return False
+
+def save_candidate(candidate: dict) -> dict:
+    """Salva candidato no arquivo JSON do GitHub"""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/candidatos.json"
+    
+    # Obtém candidatos existentes
+    existing = get_existing_candidates()
     
     # Gera ID único
+    cpf_clean = re.sub(r'[^\d]', '', candidate["cpf"])
+    vaga_lower = candidate["vaga"].lower().strip()
     candidate_id = hashlib.md5(f"{cpf_clean}_{vaga_lower}_{datetime.now().timestamp()}".encode()).hexdigest()[:12]
     
     # Adiciona metadados
@@ -493,7 +664,18 @@ async def wakeup():
 
 @app.get("/status")
 async def status():
-    return {"status": "online", "timestamp": datetime.now().isoformat(), "branch": BRANCH}
+    # Executa limpeza automática ao verificar status
+    cleaned = clean_expired_candidates()
+    status_msg = "online"
+    if cleaned > 0:
+        status_msg = f"online (limpeza: {cleaned} expirados removidos)"
+    
+    return {
+        "status": status_msg, 
+        "timestamp": datetime.now().isoformat(), 
+        "branch": BRANCH,
+        "limpeza_executada": cleaned
+    }
 
 @app.get("/api/vagas")
 async def get_vagas():
@@ -541,6 +723,40 @@ async def get_vagas():
             {"nome": "Caixa"},
             {"nome": "Estoquista"}
         ]
+
+@app.post("/api/cleanup")
+async def manual_cleanup():
+    """Endpoint manual para limpeza de candidaturas expiradas"""
+    try:
+        cleaned = clean_expired_candidates()
+        return {
+            "ok": True,
+            "message": f"✅ Limpeza executada: {cleaned} candidaturas expiradas removidas",
+            "removed_count": cleaned
+        }
+    except Exception as e:
+        return {
+            "ok": False,
+            "message": f"❌ Erro durante limpeza: {str(e)}"
+        }
+
+@app.get("/api/candidatos/ativos")
+async def get_candidatos_ativos():
+    """Retorna apenas candidaturas ativas (menos de 90 dias)"""
+    try:
+        candidates = get_existing_candidates(clean_expired=True)
+        # Filtra apenas os ativos
+        active_candidates = [c for c in candidates if not is_candidate_expired(c)]
+        return {
+            "ok": True,
+            "count": len(active_candidates),
+            "candidatos": active_candidates
+        }
+    except Exception as e:
+        return {
+            "ok": False,
+            "error": str(e)
+        }
 
 @app.post("/api/enviar")
 async def enviar_curriculo(
@@ -592,6 +808,13 @@ async def enviar_curriculo(
         raise HTTPException(status_code=400, detail="Formato inválido. Use PDF, DOC ou DOCX.")
     
     try:
+        # Verifica duplicidade ANTES de fazer qualquer operação
+        if check_duplicate_candidate(cpf, vaga):
+            raise HTTPException(
+                status_code=409,
+                detail="⚠️ Já existe uma candidatura registrada para esta vaga com o mesmo CPF. Aguarde 90 dias antes de reenviar."
+            )
+        
         # Salva arquivo na pasta curriculos do GitHub
         arquivo_url = save_curriculum_to_github(arquivo, nome, cpf, vaga)
         
@@ -623,24 +846,27 @@ async def enviar_curriculo(
                 "arquivo_url": arquivo_url
             }
         else:
-            if result.get("reason") == "duplicate":
-                raise HTTPException(
-                    status_code=409,
-                    detail="⚠️ Já existe uma candidatura registrada para esta vaga com o mesmo CPF. Aguarde 90 dias antes de reenviar."
-                )
-            else:
-                raise HTTPException(
-                    status_code=500,
-                    detail="❌ Erro ao salvar candidatura. Tente novamente em alguns instantes."
-                )
+            # Se chegou aqui, é um erro no GitHub que não é duplicidade
+            raise HTTPException(
+                status_code=500,
+                detail="❌ Erro ao salvar candidatura. Tente novamente em alguns instantes."
+            )
                 
+    except HTTPException as he:
+        # Re-lançar as HTTPExceptions que já foram levantadas
+        raise he
     except ValueError as ve:
         raise HTTPException(status_code=400, detail=str(ve))
     except Exception as e:
-        print(f"Erro interno: {str(e)}")
-        raise HTTPException(status_code=500, detail=f"❌ Erro interno do servidor: {str(e)}")
+        print(f"Erro interno no envio: {str(e)}")
+        # Mensagem genérica para o usuário
+        raise HTTPException(
+            status_code=500, 
+            detail="❌ Erro ao salvar candidatura. Tente novamente em alguns instantes."
+        )
 
 if __name__ == "__main__":
     import uvicorn
     port = int(os.getenv("PORT", 8000))
     uvicorn.run(app, host="0.0.0.0", port=port)
+[file content end]
