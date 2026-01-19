@@ -72,23 +72,33 @@ def get_existing_candidates() -> List[dict]:
     except:
         return []
 
-def get_vagas_from_github() -> List[str]:
-    """Busca apenas os nomes das vagas ativas do GitHub"""
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/vagas.json"
+def get_vagas_from_github_raw() -> List[dict]:
+    """Busca vagas do arquivo JSON no GitHub via RAW URL (sem token)"""
+    raw_url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/vagas.json"
     
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(raw_url, timeout=10)
         if response.status_code == 200:
-            content = response.json()["content"]
-            decoded = base64.b64decode(content).decode("utf-8")
-            vagas_data = json.loads(decoded)
+            vagas_data = response.json()
             
-            # Extrai apenas os nomes das vagas
-            nomes_vagas = [vaga["nome"] for vaga in vagas_data]
-            return nomes_vagas
+            # Se o arquivo contém apenas nomes (strings), converte para formato de objeto
+            if vagas_data and isinstance(vagas_data[0], str):
+                return [{"nome": vaga} for vaga in vagas_data]
+            
+            # Se já estiver no formato de objetos, retorna como está
+            return vagas_data
+        
+        print(f"Erro ao buscar vagas: {response.status_code}")
+        return []
+        
+    except requests.exceptions.RequestException as e:
+        print(f"Erro de rede ao buscar vagas: {str(e)}")
+        return []
+    except json.JSONDecodeError as e:
+        print(f"Erro ao decodificar JSON de vagas: {str(e)}")
         return []
     except Exception as e:
-        print(f"Erro ao buscar vagas: {str(e)}")
+        print(f"Erro inesperado ao buscar vagas: {str(e)}")
         return []
 
 def save_candidate(candidate: dict) -> dict:
@@ -230,36 +240,41 @@ async def status():
 
 @app.get("/api/vagas")
 async def get_vagas():
-    """Retorna apenas os nomes das vagas do GitHub"""
+    """Retorna vagas do arquivo JSON no GitHub"""
     try:
         # Verifica cache primeiro
-        if "vagas_nomes" in vagas_cache:
-            return vagas_cache["vagas_nomes"]
+        if "vagas_data" in vagas_cache:
+            return vagas_cache["vagas_data"]
         
-        # Busca vagas do GitHub
-        nomes_vagas = get_vagas_from_github()
+        # Busca vagas do GitHub via RAW URL
+        vagas_data = get_vagas_from_github_raw()
         
         # Se não encontrar vagas no GitHub, retorna lista padrão
-        if not nomes_vagas:
-            nomes_vagas = [
-                "Auxiliar de Limpeza",
-                "Vendedor",
-                "Caixa",
-                "Estoquista",
-                "Repositor",
-                "Atendente",
-                "Gerente",
-                "Supervisor",
-                "Operador de Caixa"
+        if not vagas_data:
+            print("Nenhuma vaga encontrada no GitHub, retornando lista padrão")
+            vagas_data = [
+                {"nome": "Auxiliar de Limpeza"},
+                {"nome": "Vendedor"},
+                {"nome": "Caixa"},
+                {"nome": "Estoquista"},
+                {"nome": "Repositor"},
+                {"nome": "Atendente"},
+                {"nome": "Gerente"},
+                {"nome": "Supervisor"},
+                {"nome": "Operador de Caixa"}
             ]
         
-        # Formata para o frontend (array de objetos simples)
-        vagas_formatadas = [{"nome": nome} for nome in nomes_vagas]
+        # Filtra apenas os objetos que têm o campo 'nome'
+        vagas_filtradas = []
+        for vaga in vagas_data:
+            if isinstance(vaga, dict) and "nome" in vaga:
+                vagas_filtradas.append({"nome": vaga["nome"]})
         
         # Armazena no cache
-        vagas_cache["vagas_nomes"] = vagas_formatadas
+        vagas_cache["vagas_data"] = vagas_filtradas
         
-        return vagas_formatadas
+        return vagas_filtradas
+        
     except Exception as e:
         print(f"Erro ao obter vagas: {str(e)}")
         # Fallback para vagas padrão
