@@ -16,7 +16,7 @@ app = FastAPI()
 # ==================== CONFIGURAÇÕES ====================
 load_dotenv()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-GITHUB_REPO = "PopularAtacarejo/Candidatos"
+GITHUB_REPO = "Candidatos"  # Apenas o nome do repositório
 GITHUB_OWNER = "PopularAtacarejo"
 
 headers = {
