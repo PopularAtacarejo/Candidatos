@@ -1,3 +1,4 @@
+
 from fastapi import FastAPI, UploadFile, Form, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import requests
@@ -9,20 +10,40 @@ from typing import List
 import re
 from cachetools import TTLCache
 import hashlib
+from dotenv import load_dotenv
 
 app = FastAPI()
 
 # ==================== CONFIGURAÇÕES ====================
+load_dotenv()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_REPO = "PopularAtacarejo/Candidatos"
 GITHUB_OWNER = "PopularAtacarejo"
-BRANCH = "main"
 
 headers = {
-    "Authorization": f"token {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json"
 }
 
+if GITHUB_TOKEN:
+    headers["Authorization"] = f"token {GITHUB_TOKEN}"
+
+
+def get_repo_default_branch() -> str:
+    """Busca o branch padrão do repositório no GitHub."""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}"
+
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            data = response.json()
+            return data.get("default_branch", "main")
+    except requests.exceptions.RequestException:
+        pass
+
+    return "main"
+
+
+BRANCH = os.getenv("GITHUB_BRANCH") or get_repo_default_branch()
 # Cache para vagas (10 minutos)
 vagas_cache = TTLCache(maxsize=1, ttl=600)
 
@@ -72,34 +93,68 @@ def get_existing_candidates() -> List[dict]:
     except:
         return []
 
-def get_vagas_from_github_raw() -> List[dict]:
-    """Busca vagas do arquivo JSON no GitHub via RAW URL (sem token)"""
+def normalize_vagas_data(vagas_data) -> List[dict]:
+    """Normaliza as vagas para garantir o campo 'nome'"""
+    normalized = []
+
+    if isinstance(vagas_data, dict):
+        vagas_data = [vagas_data]
+
+    if isinstance(vagas_data, list):
+        for vaga in vagas_data:
+            if isinstance(vaga, dict) and "nome" in vaga:
+                normalized.append({"nome": vaga["nome"]})
+            elif isinstance(vaga, str):
+                normalized.append({"nome": vaga})
+
+    return normalized
+
+
+def fetch_content_from_github(path: str):
+    """Busca um arquivo no GitHub e retorna o JSON decodificado"""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{path}"
+
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            payload = response.json()
+            content = payload.get("content")
+            if content:
+                decoded = base64.b64decode(content).decode("utf-8")
+                return json.loads(decoded)
+        else:
+            print(f"Erro ao buscar {path} via API: {response.status_code}")
+    except requests.exceptions.RequestException as e:
+        print(f"Erro de rede ao buscar {path}: {str(e)}")
+    except json.JSONDecodeError as e:
+        print(f"Erro ao decodificar JSON de {path}: {str(e)}")
+    except Exception as e:
+        print(f"Erro inesperado ao buscar {path}: {str(e)}")
+
+    return None
+
+
+def get_vagas_from_github() -> List[dict]:
+    """Tenta buscar vagas via API (com token) e depois pela URL RAW"""
+    api_data = fetch_content_from_github("vagas.json")
+    normalized = normalize_vagas_data(api_data) if api_data else []
+    if normalized:
+        return normalized
+
     raw_url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/vagas.json"
-    
     try:
         response = requests.get(raw_url, timeout=10)
         if response.status_code == 200:
-            vagas_data = response.json()
-            
-            # Se o arquivo contém apenas nomes (strings), converte para formato de objeto
-            if vagas_data and isinstance(vagas_data[0], str):
-                return [{"nome": vaga} for vaga in vagas_data]
-            
-            # Se já estiver no formato de objetos, retorna como está
-            return vagas_data
-        
+            return normalize_vagas_data(response.json())
         print(f"Erro ao buscar vagas: {response.status_code}")
-        return []
-        
     except requests.exceptions.RequestException as e:
         print(f"Erro de rede ao buscar vagas: {str(e)}")
-        return []
     except json.JSONDecodeError as e:
         print(f"Erro ao decodificar JSON de vagas: {str(e)}")
-        return []
     except Exception as e:
         print(f"Erro inesperado ao buscar vagas: {str(e)}")
-        return []
+
+    return []
 
 def save_candidate(candidate: dict) -> dict:
     """Salva candidato no arquivo JSON do GitHub"""
@@ -246,8 +301,8 @@ async def get_vagas():
         if "vagas_data" in vagas_cache:
             return vagas_cache["vagas_data"]
         
-        # Busca vagas do GitHub via RAW URL
-        vagas_data = get_vagas_from_github_raw()
+        # Busca vagas do GitHub
+        vagas_data = get_vagas_from_github()
         
         # Se não encontrar vagas no GitHub, retorna lista padrão
         if not vagas_data:
