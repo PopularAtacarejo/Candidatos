@@ -25,24 +25,36 @@ headers = {
 
 if GITHUB_TOKEN:
     headers["Authorization"] = f"token {GITHUB_TOKEN}"
-
+    print(f"Token GitHub carregado (primeiros 5 caracteres): {GITHUB_TOKEN[:5]}...")
+else:
+    print("AVISO: Token GitHub não encontrado! Operações de escrita podem falhar.")
 
 def get_repo_default_branch() -> str:
     """Busca o branch padrão do repositório no GitHub."""
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}"
-
+    
     try:
         response = requests.get(url, headers=headers, timeout=10)
+        print(f"Status ao buscar repositório: {response.status_code}")
+        
         if response.status_code == 200:
             data = response.json()
-            return data.get("default_branch", "main")
-    except requests.exceptions.RequestException:
-        pass
-
+            default_branch = data.get("default_branch", "main")
+            print(f"Branch padrão encontrado: {default_branch}")
+            return default_branch
+        elif response.status_code == 404:
+            print(f"ERRO: Repositório {GITHUB_OWNER}/{GITHUB_REPO} não encontrado!")
+        else:
+            print(f"ERRO ao buscar repositório: {response.status_code} - {response.text}")
+    except requests.exceptions.RequestException as e:
+        print(f"Erro de rede ao buscar repositório: {str(e)}")
+    
     return "main"
 
 
 BRANCH = os.getenv("GITHUB_BRANCH") or get_repo_default_branch()
+print(f"Usando branch: {BRANCH}")
+
 # Cache para vagas (10 minutos)
 vagas_cache = TTLCache(maxsize=1, ttl=600)
 
@@ -78,18 +90,139 @@ def sanitize_filename(name: str) -> str:
     name = re.sub(r'\s+', '_', name)
     return name[:100]
 
+def check_repo_access() -> bool:
+    """Verifica se temos acesso ao repositório"""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}"
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        print(f"Verificação de acesso ao repositório: {response.status_code}")
+        
+        if response.status_code == 200:
+            print("Acesso ao repositório confirmado")
+            return True
+        elif response.status_code == 404:
+            print(f"ERRO CRÍTICO: Repositório {GITHUB_OWNER}/{GITHUB_REPO} não existe!")
+            return False
+        elif response.status_code == 403:
+            print(f"ERRO: Token GitHub não tem permissão para acessar o repositório")
+            return False
+        else:
+            print(f"ERRO de acesso ao repositório: {response.status_code} - {response.text}")
+            return False
+    except Exception as e:
+        print(f"Erro ao verificar acesso ao repositório: {str(e)}")
+        return False
+
+def create_github_file(file_path: str, content: str, message: str) -> bool:
+    """Cria um arquivo no GitHub via API"""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{file_path}"
+    
+    content_b64 = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+    
+    data = {
+        "message": message,
+        "content": content_b64,
+        "branch": BRANCH
+    }
+    
+    try:
+        response = requests.put(url, headers=headers, json=data, timeout=30)
+        print(f"Tentativa de criar {file_path}: Status {response.status_code}")
+        
+        if response.status_code in [200, 201]:
+            print(f"Arquivo {file_path} criado com sucesso")
+            return True
+        else:
+            print(f"Erro ao criar {file_path}: {response.status_code} - {response.text}")
+            return False
+    except Exception as e:
+        print(f"Exceção ao criar {file_path}: {str(e)}")
+        return False
+
+def initialize_repository() -> bool:
+    """Inicializa o repositório com arquivos necessários se não existirem"""
+    print("Inicializando repositório...")
+    
+    # Verificar se o repositório existe
+    if not check_repo_access():
+        print("Não é possível acessar o repositório. Verifique o token e as permissões.")
+        return False
+    
+    # Lista de arquivos a serem criados se não existirem
+    files_to_check = [
+        {
+            "path": "vagas.json",
+            "content": json.dumps([
+                {"nome": "Auxiliar de Limpeza"},
+                {"nome": "Vendedor"},
+                {"nome": "Caixa"},
+                {"nome": "Estoquista"},
+                {"nome": "Repositor"},
+                {"nome": "Atendente"},
+                {"nome": "Gerente"},
+                {"nome": "Supervisor"},
+                {"nome": "Operador de Caixa"}
+            ], indent=2, ensure_ascii=False),
+            "message": "Criar arquivo de vagas inicial"
+        },
+        {
+            "path": "candidatos.json",
+            "content": "[]",
+            "message": "Criar arquivo de candidatos inicial"
+        },
+        {
+            "path": "curriculos/README.md",
+            "content": "# Pasta de Currículos\n\nEsta pasta armazena os currículos enviados pelos candidatos.",
+            "message": "Criar pasta curriculos com arquivo README"
+        }
+    ]
+    
+    created_count = 0
+    
+    for file_info in files_to_check:
+        # Verificar se o arquivo já existe
+        url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{file_info['path']}"
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            if response.status_code == 200:
+                print(f"Arquivo {file_info['path']} já existe")
+                continue
+        except:
+            pass
+        
+        # Criar o arquivo
+        if create_github_file(file_info["path"], file_info["content"], file_info["message"]):
+            created_count += 1
+            # Aguardar um pouco para não sobrecarregar a API
+            import time
+            time.sleep(1)
+    
+    print(f"Inicialização concluída. {created_count} arquivos criados.")
+    return created_count > 0
+
+# Inicializar o repositório ao iniciar o servidor
+print("=== Inicializando servidor ===")
+initialize_repository()
+
 def get_existing_candidates() -> List[dict]:
     """Obtém candidatos existentes do arquivo JSON no GitHub"""
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/candidatos.json"
     
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=10)
         if response.status_code == 200:
             content = response.json()["content"]
             decoded = base64.b64decode(content).decode("utf-8")
             return json.loads(decoded)
+        elif response.status_code == 404:
+            # Tentar criar o arquivo se não existir
+            print("Arquivo candidatos.json não encontrado, tentando criar...")
+            if create_github_file("candidatos.json", "[]", "Criar arquivo de candidatos"):
+                return []
         return []
-    except:
+    except Exception as e:
+        print(f"Erro ao buscar candidatos: {str(e)}")
         return []
 
 def normalize_vagas_data(vagas_data) -> List[dict]:
@@ -137,12 +270,14 @@ def get_vagas_from_github() -> List[dict]:
     """Tenta buscar vagas via API (com token) e depois pela URL RAW"""
     print(f"Buscando vagas no GitHub... BRANCH={BRANCH}")
     
+    # Primeiro tenta via API com token
     api_data = fetch_content_from_github("vagas.json")
     normalized = normalize_vagas_data(api_data) if api_data else []
     if normalized:
         print(f"Vagas encontradas via API: {len(normalized)}")
         return normalized
 
+    # Se falhar, tenta via URL pública
     raw_url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/vagas.json"
     print(f"Tentando buscar vagas via URL RAW: {raw_url}")
     try:
@@ -155,14 +290,24 @@ def get_vagas_from_github() -> List[dict]:
             print(f"Vagas encontradas via RAW: {len(normalized)}")
             return normalized
         elif response.status_code == 404:
-            print(f"Arquivo vagas.json não encontrado na URL: {raw_url}")
-            # Tentar criar o arquivo vagas.json automaticamente
-            create_vagas_file()
-            # Tentar novamente
-            response = requests.get(raw_url, timeout=10)
-            if response.status_code == 200:
-                data = response.json()
-                return normalize_vagas_data(data)
+            print(f"Arquivo vagas.json não encontrado")
+            # Tentar criar o arquivo
+            if create_github_file("vagas.json", json.dumps([
+                {"nome": "Auxiliar de Limpeza"},
+                {"nome": "Vendedor"},
+                {"nome": "Caixa"},
+                {"nome": "Estoquista"},
+                {"nome": "Repositor"},
+                {"nome": "Atendente"},
+                {"nome": "Gerente"},
+                {"nome": "Supervisor"},
+                {"nome": "Operador de Caixa"}
+            ], indent=2, ensure_ascii=False), "Criar arquivo de vagas"):
+                # Tentar novamente após criar
+                response = requests.get(raw_url, timeout=10)
+                if response.status_code == 200:
+                    data = response.json()
+                    return normalize_vagas_data(data)
         else:
             print(f"Erro ao buscar vagas: {response.status_code}")
     except requests.exceptions.RequestException as e:
@@ -173,40 +318,6 @@ def get_vagas_from_github() -> List[dict]:
         print(f"Erro inesperado ao buscar vagas: {str(e)}")
 
     return []
-
-def create_vagas_file():
-    """Cria o arquivo vagas.json com conteúdo padrão se não existir"""
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/vagas.json"
-    
-    # Conteúdo padrão
-    default_vagas = [
-        {"nome": "Auxiliar de Limpeza"},
-        {"nome": "Vendedor"},
-        {"nome": "Caixa"},
-        {"nome": "Estoquista"},
-        {"nome": "Repositor"},
-        {"nome": "Atendente"},
-        {"nome": "Gerente"},
-        {"nome": "Supervisor"},
-        {"nome": "Operador de Caixa"}
-    ]
-    
-    content = json.dumps(default_vagas, indent=2, ensure_ascii=False)
-    content_b64 = base64.b64encode(content.encode("utf-8")).decode("utf-8")
-    
-    data = {
-        "message": "Criar arquivo vagas.json com vagas padrão",
-        "content": content_b64,
-        "branch": BRANCH
-    }
-    
-    try:
-        response = requests.put(url, headers=headers, json=data)
-        print(f"Tentativa de criar vagas.json: {response.status_code}")
-        return response.status_code in [200, 201]
-    except Exception as e:
-        print(f"Erro ao criar vagas.json: {str(e)}")
-        return False
 
 def save_candidate(candidate: dict) -> dict:
     """Salva candidato no arquivo JSON do GitHub"""
@@ -252,8 +363,10 @@ def save_candidate(candidate: dict) -> dict:
         current_response = requests.get(url, headers=headers)
         if current_response.status_code == 200:
             sha = current_response.json()["sha"]
-    except:
-        pass
+        elif current_response.status_code == 404:
+            print("Arquivo candidatos.json não existe, será criado")
+    except Exception as e:
+        print(f"Erro ao buscar SHA: {str(e)}")
     
     # Atualiza arquivo no GitHub
     data = {
@@ -265,43 +378,18 @@ def save_candidate(candidate: dict) -> dict:
     if sha:
         data["sha"] = sha
     
-    response = requests.put(url, headers=headers, json=data)
-    
-    if response.status_code in [200, 201]:
-        return {"success": True, "data": response.json()}
-    else:
-        return {"success": False, "reason": "github_error", "details": response.text}
-
-def create_curriculos_folder():
-    """Cria a pasta curriculos no repositório se não existir"""
-    # Criar um arquivo .gitkeep na pasta curriculos
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/curriculos/.gitkeep"
-    
-    # Verifica se a pasta já existe
-    check_url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/curriculos"
-    check_response = requests.get(check_url, headers=headers)
-    
-    if check_response.status_code == 200:
-        print("Pasta curriculos já existe.")
-        return True
-    
-    data = {
-        "message": "Criar pasta curriculos",
-        "content": base64.b64encode(b"").decode("utf-8"),  # Arquivo vazio
-        "branch": BRANCH
-    }
-    
     try:
-        response = requests.put(url, headers=headers, json=data)
+        response = requests.put(url, headers=headers, json=data, timeout=30)
+        print(f"Status ao salvar candidato: {response.status_code}")
+        
         if response.status_code in [200, 201]:
-            print("Pasta curriculos criada com sucesso.")
-            return True
+            return {"success": True, "data": response.json()}
         else:
-            print(f"Erro ao criar pasta curriculos: {response.status_code}")
-            return False
+            print(f"Erro ao salvar candidato: {response.status_code} - {response.text}")
+            return {"success": False, "reason": "github_error", "details": response.text}
     except Exception as e:
-        print(f"Erro ao criar pasta curriculos: {str(e)}")
-        return False
+        print(f"Exceção ao salvar candidato: {str(e)}")
+        return {"success": False, "reason": "exception", "details": str(e)}
 
 def save_curriculum_to_github(file: UploadFile, candidate_name: str, cpf: str, vaga: str) -> str:
     """Salva arquivo do currículo na pasta curriculos do GitHub"""
@@ -335,7 +423,8 @@ def save_curriculum_to_github(file: UploadFile, candidate_name: str, cpf: str, v
     content_b64 = base64.b64encode(file_content).decode("utf-8")
     
     # URL para upload na pasta curriculos
-    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/curriculos/{filename}"
+    file_path = f"curriculos/{filename}"
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{file_path}"
     
     data = {
         "message": f"Currículo: {candidate_name} - {vaga}",
@@ -344,25 +433,33 @@ def save_curriculum_to_github(file: UploadFile, candidate_name: str, cpf: str, v
     }
     
     try:
-        response = requests.put(url, headers=headers, json=data)
+        response = requests.put(url, headers=headers, json=data, timeout=30)
+        print(f"Status ao salvar currículo: {response.status_code}")
         
         if response.status_code in [200, 201]:
-            return f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/curriculos/{filename}"
+            raw_url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/{file_path}"
+            print(f"Currículo salvo com sucesso: {raw_url}")
+            return raw_url
         elif response.status_code == 404:
-            # Tentar criar a pasta primeiro
-            print("Pasta curriculos não existe, tentando criar...")
-            if create_curriculos_folder():
-                # Tentar novamente
-                response = requests.put(url, headers=headers, json=data)
+            # Pasta não existe, tentar criar
+            print("Pasta curriculos não existe, criando...")
+            if create_github_file("curriculos/README.md", 
+                                  "# Pasta de Currículos\n\nEsta pasta armazena os currículos enviados pelos candidatos.",
+                                  "Criar pasta curriculos"):
+                # Tentar novamente após criar a pasta
+                response = requests.put(url, headers=headers, json=data, timeout=30)
                 if response.status_code in [200, 201]:
-                    return f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/curriculos/{filename}"
+                    raw_url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/{file_path}"
+                    print(f"Currículo salvo após criar pasta: {raw_url}")
+                    return raw_url
                 else:
-                    raise Exception(f"Erro ao salvar arquivo após criar pasta: {response.status_code}")
+                    raise Exception(f"Erro ao salvar currículo após criar pasta: {response.status_code}")
             else:
-                raise Exception("Não foi possível criar a pasta curriculos.")
+                raise Exception("Não foi possível criar a pasta curriculos")
         else:
-            raise Exception(f"Erro ao salvar arquivo no GitHub: {response.status_code}")
+            raise Exception(f"Erro ao salvar currículo: {response.status_code} - {response.text}")
     except Exception as e:
+        print(f"Exceção ao salvar currículo: {str(e)}")
         raise Exception(f"Erro ao salvar currículo: {str(e)}")
 
 # ==================== MIDDLEWARE CORS ====================
@@ -381,7 +478,14 @@ async def root():
 
 @app.get("/health")
 async def health():
-    return {"ok": True, "timestamp": datetime.now().isoformat(), "service": "candidaturas-api"}
+    repo_accessible = check_repo_access()
+    return {
+        "ok": True, 
+        "timestamp": datetime.now().isoformat(), 
+        "service": "candidaturas-api",
+        "github_repo_accessible": repo_accessible,
+        "branch": BRANCH
+    }
 
 @app.get("/wakeup")
 async def wakeup():
@@ -389,7 +493,7 @@ async def wakeup():
 
 @app.get("/status")
 async def status():
-    return {"status": "online", "timestamp": datetime.now().isoformat()}
+    return {"status": "online", "timestamp": datetime.now().isoformat(), "branch": BRANCH}
 
 @app.get("/api/vagas")
 async def get_vagas():
@@ -453,6 +557,20 @@ async def enviar_curriculo(
     arquivo: UploadFile = File(...)
 ):
     """Recebe e salva candidatura no GitHub"""
+    
+    # Verificar token GitHub
+    if not GITHUB_TOKEN:
+        raise HTTPException(
+            status_code=500,
+            detail="❌ Token do GitHub não configurado. Configure a variável de ambiente GITHUB_TOKEN."
+        )
+    
+    # Verificar acesso ao repositório
+    if not check_repo_access():
+        raise HTTPException(
+            status_code=500,
+            detail="❌ Não é possível acessar o repositório do GitHub. Verifique as permissões do token."
+        )
     
     # Validações básicas
     if not nome or len(nome.strip()) < 3:
@@ -520,7 +638,7 @@ async def enviar_curriculo(
         raise HTTPException(status_code=400, detail=str(ve))
     except Exception as e:
         print(f"Erro interno: {str(e)}")
-        raise HTTPException(status_code=500, detail="❌ Erro interno do servidor. Tente novamente mais tarde.")
+        raise HTTPException(status_code=500, detail=f"❌ Erro interno do servidor: {str(e)}")
 
 if __name__ == "__main__":
     import uvicorn
