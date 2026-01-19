@@ -1,4 +1,3 @@
-
 from fastapi import FastAPI, UploadFile, Form, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import requests
@@ -136,17 +135,36 @@ def fetch_content_from_github(path: str):
 
 def get_vagas_from_github() -> List[dict]:
     """Tenta buscar vagas via API (com token) e depois pela URL RAW"""
+    print(f"Buscando vagas no GitHub... BRANCH={BRANCH}")
+    
     api_data = fetch_content_from_github("vagas.json")
     normalized = normalize_vagas_data(api_data) if api_data else []
     if normalized:
+        print(f"Vagas encontradas via API: {len(normalized)}")
         return normalized
 
     raw_url = f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/vagas.json"
+    print(f"Tentando buscar vagas via URL RAW: {raw_url}")
     try:
         response = requests.get(raw_url, timeout=10)
+        print(f"Status da resposta RAW: {response.status_code}")
+        
         if response.status_code == 200:
-            return normalize_vagas_data(response.json())
-        print(f"Erro ao buscar vagas: {response.status_code}")
+            data = response.json()
+            normalized = normalize_vagas_data(data)
+            print(f"Vagas encontradas via RAW: {len(normalized)}")
+            return normalized
+        elif response.status_code == 404:
+            print(f"Arquivo vagas.json não encontrado na URL: {raw_url}")
+            # Tentar criar o arquivo vagas.json automaticamente
+            create_vagas_file()
+            # Tentar novamente
+            response = requests.get(raw_url, timeout=10)
+            if response.status_code == 200:
+                data = response.json()
+                return normalize_vagas_data(data)
+        else:
+            print(f"Erro ao buscar vagas: {response.status_code}")
     except requests.exceptions.RequestException as e:
         print(f"Erro de rede ao buscar vagas: {str(e)}")
     except json.JSONDecodeError as e:
@@ -155,6 +173,40 @@ def get_vagas_from_github() -> List[dict]:
         print(f"Erro inesperado ao buscar vagas: {str(e)}")
 
     return []
+
+def create_vagas_file():
+    """Cria o arquivo vagas.json com conteúdo padrão se não existir"""
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/vagas.json"
+    
+    # Conteúdo padrão
+    default_vagas = [
+        {"nome": "Auxiliar de Limpeza"},
+        {"nome": "Vendedor"},
+        {"nome": "Caixa"},
+        {"nome": "Estoquista"},
+        {"nome": "Repositor"},
+        {"nome": "Atendente"},
+        {"nome": "Gerente"},
+        {"nome": "Supervisor"},
+        {"nome": "Operador de Caixa"}
+    ]
+    
+    content = json.dumps(default_vagas, indent=2, ensure_ascii=False)
+    content_b64 = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+    
+    data = {
+        "message": "Criar arquivo vagas.json com vagas padrão",
+        "content": content_b64,
+        "branch": BRANCH
+    }
+    
+    try:
+        response = requests.put(url, headers=headers, json=data)
+        print(f"Tentativa de criar vagas.json: {response.status_code}")
+        return response.status_code in [200, 201]
+    except Exception as e:
+        print(f"Erro ao criar vagas.json: {str(e)}")
+        return False
 
 def save_candidate(candidate: dict) -> dict:
     """Salva candidato no arquivo JSON do GitHub"""
@@ -220,6 +272,37 @@ def save_candidate(candidate: dict) -> dict:
     else:
         return {"success": False, "reason": "github_error", "details": response.text}
 
+def create_curriculos_folder():
+    """Cria a pasta curriculos no repositório se não existir"""
+    # Criar um arquivo .gitkeep na pasta curriculos
+    url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/curriculos/.gitkeep"
+    
+    # Verifica se a pasta já existe
+    check_url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/curriculos"
+    check_response = requests.get(check_url, headers=headers)
+    
+    if check_response.status_code == 200:
+        print("Pasta curriculos já existe.")
+        return True
+    
+    data = {
+        "message": "Criar pasta curriculos",
+        "content": base64.b64encode(b"").decode("utf-8"),  # Arquivo vazio
+        "branch": BRANCH
+    }
+    
+    try:
+        response = requests.put(url, headers=headers, json=data)
+        if response.status_code in [200, 201]:
+            print("Pasta curriculos criada com sucesso.")
+            return True
+        else:
+            print(f"Erro ao criar pasta curriculos: {response.status_code}")
+            return False
+    except Exception as e:
+        print(f"Erro ao criar pasta curriculos: {str(e)}")
+        return False
+
 def save_curriculum_to_github(file: UploadFile, candidate_name: str, cpf: str, vaga: str) -> str:
     """Salva arquivo do currículo na pasta curriculos do GitHub"""
     cpf_clean = re.sub(r'[^\d]', '', cpf)[:11]
@@ -260,12 +343,27 @@ def save_curriculum_to_github(file: UploadFile, candidate_name: str, cpf: str, v
         "branch": BRANCH
     }
     
-    response = requests.put(url, headers=headers, json=data)
-    
-    if response.status_code in [200, 201]:
-        return f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/curriculos/{filename}"
-    else:
-        raise Exception(f"Erro ao salvar arquivo no GitHub: {response.status_code}")
+    try:
+        response = requests.put(url, headers=headers, json=data)
+        
+        if response.status_code in [200, 201]:
+            return f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/curriculos/{filename}"
+        elif response.status_code == 404:
+            # Tentar criar a pasta primeiro
+            print("Pasta curriculos não existe, tentando criar...")
+            if create_curriculos_folder():
+                # Tentar novamente
+                response = requests.put(url, headers=headers, json=data)
+                if response.status_code in [200, 201]:
+                    return f"https://raw.githubusercontent.com/{GITHUB_OWNER}/{GITHUB_REPO}/{BRANCH}/curriculos/{filename}"
+                else:
+                    raise Exception(f"Erro ao salvar arquivo após criar pasta: {response.status_code}")
+            else:
+                raise Exception("Não foi possível criar a pasta curriculos.")
+        else:
+            raise Exception(f"Erro ao salvar arquivo no GitHub: {response.status_code}")
+    except Exception as e:
+        raise Exception(f"Erro ao salvar currículo: {str(e)}")
 
 # ==================== MIDDLEWARE CORS ====================
 app.add_middleware(
