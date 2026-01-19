@@ -2,46 +2,57 @@
   {
     "nome": "Jogador",
     "inserido_em": "2024-01-15",
-    "inserido_por": "Recursos Humanos"
+    "inserido_por": "Recursos Humanos",
+    "id": "jogador",
+    "status": "inativa",
+    "atualizado_em": "2026-01-19T17:27:01.208473"
   },
   {
     "nome": "Vendedor",
     "inserido_em": "2024-01-10",
-    "inserido_por": "Gerência"
+    "inserido_por": "Gerência",
+    "id": "vendedor"
   },
   {
     "nome": "Caixa",
     "inserido_em": "2024-01-12",
-    "inserido_por": "Financeiro"
+    "inserido_por": "Financeiro",
+    "id": "caixa"
   },
   {
     "nome": "Estoquista",
     "inserido_em": "2024-01-08",
-    "inserido_por": "Logística"
+    "inserido_por": "Logística",
+    "id": "estoquista"
   },
   {
     "nome": "Repositor",
     "inserido_em": "2024-01-05",
-    "inserido_por": "Vendas"
+    "inserido_por": "Vendas",
+    "id": "repositor"
   },
   {
     "nome": "Atendente",
     "inserido_em": "2024-01-03",
-    "inserido_por": "Atendimento"
+    "inserido_por": "Atendimento",
+    "id": "atendente"
   },
   {
     "nome": "Gerente",
     "inserido_em": "2024-01-20",
-    "inserido_por": "Diretoria"
+    "inserido_por": "Diretoria",
+    "id": "gerente"
   },
   {
     "nome": "Supervisor",
     "inserido_em": "2024-01-18",
-    "inserido_por": "Coordenação"
+    "inserido_por": "Coordenação",
+    "id": "supervisor"
   },
   {
     "nome": "Operador de Caixa",
     "inserido_em": "2024-01-22",
-    "inserido_por": "Financeiro"
+    "inserido_por": "Financeiro",
+    "id": "operador-de-caixa"
   }
 ]
