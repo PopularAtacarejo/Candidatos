@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Auxiliar de Limpeza",
+    "inserido_em": "2024-01-15",
+    "inserido_por": "Recursos Humanos"
+  },
+  {
+    "nome": "Vendedor",
+    "inserido_em": "2024-01-10",
+    "inserido_por": "Gerência"
+  },
+  {
+    "nome": "Caixa",
+    "inserido_em": "2024-01-12",
+    "inserido_por": "Financeiro"
+  },
+  {
+    "nome": "Estoquista",
+    "inserido_em": "2024-01-08",
+    "inserido_por": "Logística"
+  },
+  {
+    "nome": "Repositor",
+    "inserido_em": "2024-01-05",
+    "inserido_por": "Vendas"
+  },
+  {
+    "nome": "Atendente",
+    "inserido_em": "2024-01-03",
+    "inserido_por": "Atendimento"
+  },
+  {
+    "nome": "Gerente",
+    "inserido_em": "2024-01-20",
+    "inserido_por": "Diretoria"
+  },
+  {
+    "nome": "Supervisor",
+    "inserido_em": "2024-01-18",
+    "inserido_por": "Coordenação"
+  },
+  {
+    "nome": "Operador de Caixa",
+    "inserido_em": "2024-01-22",
+    "inserido_por": "Financeiro"
+  }
+]
