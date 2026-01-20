@@ -8,5 +8,11 @@
     "token": "",
     "branch": "main"
   },
-  "usuarios": []
+  "usuarios": [
+    {
+      "nome": "Jeferson Admin",
+      "email": "djaxelf22@gmail.com",
+      "funcao": "Desenvolvedor"
+    }
+  ]
 }
