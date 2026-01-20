@@ -1,0 +1,12 @@
+{
+  "data_sources": {
+    "candidatos_url": "",
+    "vagas_url": "",
+    "curriculos_path": ""
+  },
+  "github": {
+    "token": "",
+    "branch": "main"
+  },
+  "usuarios": []
+}
