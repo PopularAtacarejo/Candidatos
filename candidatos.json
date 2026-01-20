@@ -21,11 +21,15 @@
     "entrevistador": "",
     "data_entrevista": "",
     "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-01-20T16:23:46.480561",
+    "ultimo_visualizado_em": "2026-01-20T17:42:31.556918",
     "view_history": [
       {
         "viewer": "Jeferson",
         "timestamp": "2026-01-20T16:23:46.480561"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-01-20T17:42:31.556918"
       }
     ]
   }
