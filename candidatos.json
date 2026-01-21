@@ -20,8 +20,8 @@
     "observacoes": "TEste",
     "entrevistador": "",
     "data_entrevista": "",
-    "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-01-20T17:42:31.556918",
+    "ultimo_visualizador": "Jeferson Admin",
+    "ultimo_visualizado_em": "2026-01-21T16:29:33.180115",
     "view_history": [
       {
         "viewer": "Jeferson",
@@ -30,6 +30,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-01-20T17:42:31.556918"
+      },
+      {
+        "viewer": "Jeferson Admin",
+        "timestamp": "2026-01-21T16:29:33.180115"
       }
     ]
   }
