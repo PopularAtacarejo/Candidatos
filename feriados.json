@@ -85,7 +85,7 @@
     },
     {
       "date": "12-10",
-      "name": "Nossa Senhora Aparecida / Dia das Crianças",
+      "name": "Nossa Senhora Aparecida",
       "type": "feriado",
       "scope": "nacional"
     },
@@ -135,8 +135,6 @@
       "scope": "nacional"
     },
 
-    // DATAS COMEMORATIVAS
-
     {
       "date": "08-03",
       "name": "Dia Internacional da Mulher",
@@ -166,6 +164,26 @@
       "name": "Dia dos Pais",
       "type": "data_comemorativa",
       "scope": "nacional"
+    },
+    {
+      "date": "12-10",
+      "name": "Dia das Crianças",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "24-06",
+      "name": "Festas Juninas / Dia de São João",
+      "type": "data_comemorativa",
+      "scope": "estadual",
+      "location": "Alagoas"
+    },
+    {
+      "date": "29-06",
+      "name": "Festas Juninas / Dia de São Pedro",
+      "type": "data_comemorativa",
+      "scope": "estadual",
+      "location": "Alagoas"
     },
     {
       "date": "15-10",
