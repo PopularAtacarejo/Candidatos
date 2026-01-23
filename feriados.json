@@ -19,6 +19,12 @@
       "scope": "nacional"
     },
     {
+      "date": "06-01",
+      "name": "Dia de Reis",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
       "date": "02-02",
       "name": "Nossa Senhora do Bom Conselho",
       "type": "feriado",
@@ -26,10 +32,29 @@
       "location": "Arapiraca"
     },
     {
+      "date": "16-02",
+      "name": "Carnaval",
+      "type": "ponto_facultativo",
+      "scope": "nacional"
+    },
+    {
       "date": "17-02",
       "name": "Carnaval",
       "type": "ponto_facultativo",
       "scope": "nacional"
+    },
+    {
+      "date": "18-02",
+      "name": "Quarta-feira de Cinzas",
+      "type": "ponto_facultativo",
+      "scope": "nacional",
+      "observations": "Até 14h"
+    },
+    {
+      "date": "08-03",
+      "name": "Dia Internacional da Mulher",
+      "type": "data_comemorativa",
+      "scope": "internacional"
     },
     {
       "date": "03-04",
@@ -44,9 +69,21 @@
       "scope": "nacional"
     },
     {
+      "date": "22-04",
+      "name": "Descobrimento do Brasil",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
       "date": "01-05",
       "name": "Dia do Trabalhador",
       "type": "feriado",
+      "scope": "nacional"
+    },
+    {
+      "date": "10-05",
+      "name": "Dia das Mães",
+      "type": "data_comemorativa",
       "scope": "nacional"
     },
     {
@@ -57,9 +94,22 @@
       "location": "Arapiraca"
     },
     {
+      "date": "12-06",
+      "name": "Dia dos Namorados",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
       "date": "24-06",
       "name": "São João",
       "type": "feriado",
+      "scope": "estadual",
+      "location": "Alagoas"
+    },
+    {
+      "date": "24-06",
+      "name": "Festas Juninas / Dia de São João",
+      "type": "data_comemorativa",
       "scope": "estadual",
       "location": "Alagoas"
     },
@@ -69,6 +119,25 @@
       "type": "feriado",
       "scope": "estadual",
       "location": "Alagoas"
+    },
+    {
+      "date": "29-06",
+      "name": "Festas Juninas / Dia de São Pedro",
+      "type": "data_comemorativa",
+      "scope": "estadual",
+      "location": "Alagoas"
+    },
+    {
+      "date": "20-07",
+      "name": "Dia do Amigo",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "09-08",
+      "name": "Dia dos Pais",
+      "type": "data_comemorativa",
+      "scope": "nacional"
     },
     {
       "date": "07-09",
@@ -87,6 +156,18 @@
       "date": "12-10",
       "name": "Nossa Senhora Aparecida",
       "type": "feriado",
+      "scope": "nacional"
+    },
+    {
+      "date": "12-10",
+      "name": "Dia das Crianças",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "15-10",
+      "name": "Dia do Professor",
+      "type": "data_comemorativa",
       "scope": "nacional"
     },
     {
@@ -132,63 +213,6 @@
       "date": "25-12",
       "name": "Natal",
       "type": "feriado",
-      "scope": "nacional"
-    },
-
-    {
-      "date": "08-03",
-      "name": "Dia Internacional da Mulher",
-      "type": "data_comemorativa",
-      "scope": "internacional"
-    },
-    {
-      "date": "22-04",
-      "name": "Descobrimento do Brasil",
-      "type": "data_comemorativa",
-      "scope": "nacional"
-    },
-    {
-      "date": "10-05",
-      "name": "Dia das Mães",
-      "type": "data_comemorativa",
-      "scope": "nacional"
-    },
-    {
-      "date": "12-06",
-      "name": "Dia dos Namorados",
-      "type": "data_comemorativa",
-      "scope": "nacional"
-    },
-    {
-      "date": "09-08",
-      "name": "Dia dos Pais",
-      "type": "data_comemorativa",
-      "scope": "nacional"
-    },
-    {
-      "date": "12-10",
-      "name": "Dia das Crianças",
-      "type": "data_comemorativa",
-      "scope": "nacional"
-    },
-    {
-      "date": "24-06",
-      "name": "Festas Juninas / Dia de São João",
-      "type": "data_comemorativa",
-      "scope": "estadual",
-      "location": "Alagoas"
-    },
-    {
-      "date": "29-06",
-      "name": "Festas Juninas / Dia de São Pedro",
-      "type": "data_comemorativa",
-      "scope": "estadual",
-      "location": "Alagoas"
-    },
-    {
-      "date": "15-10",
-      "name": "Dia do Professor",
-      "type": "data_comemorativa",
       "scope": "nacional"
     }
   ]
