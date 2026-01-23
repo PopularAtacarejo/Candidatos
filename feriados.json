@@ -1,4 +1,5 @@
 {
+  "year": 2026,
   "location": {
     "country": "BR",
     "state": "AL",
@@ -25,18 +26,16 @@
       "location": "Arapiraca"
     },
     {
-      "date": null,
+      "date": "17-02",
       "name": "Carnaval",
       "type": "ponto_facultativo",
-      "scope": "nacional",
-      "observations": "Data móvel (fevereiro ou março)"
+      "scope": "nacional"
     },
     {
-      "date": null,
+      "date": "03-04",
       "name": "Sexta-Feira da Paixão",
       "type": "feriado",
-      "scope": "nacional",
-      "observations": "Data móvel"
+      "scope": "nacional"
     },
     {
       "date": "21-04",
@@ -51,12 +50,11 @@
       "scope": "nacional"
     },
     {
-      "date": null,
+      "date": "04-06",
       "name": "Corpus Christi",
       "type": "feriado",
       "scope": "municipal",
-      "location": "Arapiraca",
-      "observations": "Data móvel"
+      "location": "Arapiraca"
     },
     {
       "date": "24-06",
@@ -87,7 +85,7 @@
     },
     {
       "date": "12-10",
-      "name": "Nossa Senhora Aparecida",
+      "name": "Nossa Senhora Aparecida / Dia das Crianças",
       "type": "feriado",
       "scope": "nacional"
     },
@@ -134,6 +132,45 @@
       "date": "25-12",
       "name": "Natal",
       "type": "feriado",
+      "scope": "nacional"
+    },
+
+    // DATAS COMEMORATIVAS
+
+    {
+      "date": "08-03",
+      "name": "Dia Internacional da Mulher",
+      "type": "data_comemorativa",
+      "scope": "internacional"
+    },
+    {
+      "date": "22-04",
+      "name": "Descobrimento do Brasil",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "10-05",
+      "name": "Dia das Mães",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "12-06",
+      "name": "Dia dos Namorados",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "09-08",
+      "name": "Dia dos Pais",
+      "type": "data_comemorativa",
+      "scope": "nacional"
+    },
+    {
+      "date": "15-10",
+      "name": "Dia do Professor",
+      "type": "data_comemorativa",
       "scope": "nacional"
     }
   ]
