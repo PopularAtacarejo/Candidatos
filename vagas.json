@@ -72,5 +72,23 @@
     "criado_por": "Sistema",
     "atualizado_em": "2026-01-26T09:25:51.388297",
     "atualizado_por": "Sistema"
+  },
+  {
+    "nome": "AUX. DE PREVENÇÃO E PERDA",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "2",
+    "criado_em": "2026-01-26T09:36:11.258890",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-26T09:36:11.258890",
+    "atualizado_por": "Jeferson"
   }
 ]
