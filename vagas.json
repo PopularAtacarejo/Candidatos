@@ -54,5 +54,23 @@
     "inserido_em": "2024-01-22",
     "inserido_por": "Financeiro",
     "id": "operador-de-caixa"
+  },
+  {
+    "nome": "Teste Cargo",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": null,
+    "id": "1",
+    "criado_em": "2026-01-26T09:25:51.388297",
+    "criado_por": "Sistema",
+    "atualizado_em": "2026-01-26T09:25:51.388297",
+    "atualizado_por": "Sistema"
   }
 ]
