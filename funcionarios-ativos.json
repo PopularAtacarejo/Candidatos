@@ -16,7 +16,7 @@
     "cbo": "271094",
     "matricula": "214575",
     "data_admissao": "2022-10-22",
-    "salario": "305700",
+    "salario": "R$ 5.700,85",
     "lider_responsavel": "Jeferson da silva santos",
     "lider_gestor": true,
     "cep": "57312-110",
@@ -28,7 +28,25 @@
     "complemento": "",
     "filhos": [],
     "enviado_em": "2026-01-22T17:59:47.600668Z",
-    "foto_path": null
+    "foto_path": null,
+    "atualizado_em": "2026-01-26T19:58:20.047501Z",
+    "atualizado_por": "Jeferson",
+    "historico": [
+      {
+        "data": "2026-01-26T19:58:20.047501Z",
+        "autor": "Jeferson",
+        "descricao": "Campos atualizados: cbo, empresa, filhos, funcao, matricula, salario, setor",
+        "campos": [
+          "cbo",
+          "empresa",
+          "filhos",
+          "funcao",
+          "matricula",
+          "salario",
+          "setor"
+        ]
+      }
+    ]
   },
   {
     "id": "15a23ab070da495ebe65387ccd788c21",
