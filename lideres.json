@@ -11,5 +11,17 @@
     ],
     "criado_em": "2026-01-22T17:59:50.030620Z",
     "atualizado_em": "2026-01-23T11:47:15.626095Z"
+  },
+  {
+    "id": "42ac41cb17fd4768a387ee6b4b5bd22b",
+    "nome": "Jeferson da silva santos",
+    "email": "",
+    "telefone": "",
+    "observacoes": "Criado automaticamente via cadastro de colaboradores.",
+    "setores_responsaveis": [
+      "Teste"
+    ],
+    "criado_em": "2026-01-26T19:58:21.773511Z",
+    "atualizado_em": "2026-01-26T19:58:21.773511Z"
   }
 ]
