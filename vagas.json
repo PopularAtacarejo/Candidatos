@@ -16,5 +16,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-26T09:36:11.258890",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "AUX DE MANUTENÇÃO DE PATRIMONIO",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "3",
+    "criado_em": "2026-01-27T16:27:09.803147",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:27:09.803147",
+    "atualizado_por": "Jeferson"
   }
 ]
