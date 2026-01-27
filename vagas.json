@@ -12,12 +12,6 @@
     "id": "repositor"
   },
   {
-    "nome": "Atendente",
-    "inserido_em": "2024-01-03",
-    "inserido_por": "Atendimento",
-    "id": "atendente"
-  },
-  {
     "nome": "Gerente",
     "inserido_em": "2024-01-20",
     "inserido_por": "Diretoria",
