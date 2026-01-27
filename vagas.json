@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Vendedor",
-    "inserido_em": "2024-01-10",
-    "inserido_por": "Gerência",
-    "id": "vendedor"
-  },
-  {
     "nome": "Caixa",
     "inserido_em": "2024-01-12",
     "inserido_por": "Financeiro",
