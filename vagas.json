@@ -106,5 +106,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:27:43.309916",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "OPERADOR DE SUPERMERCADO",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "8",
+    "criado_em": "2026-01-27T16:27:51.442267",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:27:51.442267",
+    "atualizado_por": "Jeferson"
   }
 ]
