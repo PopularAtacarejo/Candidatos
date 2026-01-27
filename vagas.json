@@ -1,13 +1,5 @@
 [
   {
-    "nome": "TEste",
-    "inserido_em": "2024-01-15",
-    "inserido_por": "Recursos Humanos",
-    "id": "jogador",
-    "status": "ativa",
-    "atualizado_em": "2026-01-20T15:16:30.872590"
-  },
-  {
     "nome": "Vendedor",
     "inserido_em": "2024-01-10",
     "inserido_por": "Gerência",
