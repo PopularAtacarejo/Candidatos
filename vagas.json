@@ -142,5 +142,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:28:05.624977",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "AUXILIAR DE LIMPEZA",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "10",
+    "criado_em": "2026-01-27T16:28:11.638416",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:28:11.638416",
+    "atualizado_por": "Jeferson"
   }
 ]
