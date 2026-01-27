@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Supervisor",
-    "inserido_em": "2024-01-18",
-    "inserido_por": "Coordenação",
-    "id": "supervisor"
-  },
-  {
     "nome": "Operador de Caixa",
     "inserido_em": "2024-01-22",
     "inserido_por": "Financeiro",
