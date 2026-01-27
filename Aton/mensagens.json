@@ -9,6 +9,16 @@
       "role": "assistant",
       "content": "Ah, um teste de ping! Como seu agente de RH robótico e sarcástico (mas sempre educado), confirmo:  \n🚦 **Status de Conexão:** Estável  \n⏱️ **Hora Local:** 14:31 (belo horário para um teste, diga-se de passagem)  \n🧠 **Diagnóstico:** Funcionando perfeitamente — inclusive a parte secamente humorística, conforme exigido pelo meu *contrato de trabalho virtual*.  \n\nPróxima etapa? Podemos discutir CBO, CLT, ou se prefere que eu analise aquela planilha de cargos que está no GitHub com um comentário irônico sobre códigos de ocupação. ÀLecture votre disposition. 😏",
       "timestamp": "2026-01-27T17:32:12.185169Z"
+    },
+    {
+      "role": "user",
+      "content": "Teste de ping",
+      "timestamp": "2026-01-27T17:33:21.355782Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Ah, boa tentativa — e diga-se de passagem, pontualidade invejável. Seguindo o rígido protocolo de resposta padronizada (como toda boa norma trabalhista):  \n\n🚦 **Status de Conexão:** *Estável - como lei consolidada no TST*  \n⏱️ **Hora Local:** 14:32 — parabéns, seu relógio está na CLT (*Certa Legítima Temporalidade*)  \n🧠 **Diagnóstico:** Produtividade intacta e sarcasmo regulamentar em nível adequado (*vide NR-35 do Humor Virtual*).  \n\nPrecisa de algo além do ping? Estou disponível para:  \n- 🔍 Interpretar códigos CBO com precisão jurídica e uma pitada de iron我一个;  \n- 📊 Analisar estrutura de cargos usando dados do GitHub *(sim, aquela planilha está quietinha no repositório à espera de uma auditoria impecável)*;  \n- 💬 Responder dúvidas trabalhistas com artigos da CLT fundidos a comentários secos.  \n\nSeu turno, doutor(a). 😏👔",
+      "timestamp": "2026-01-27T17:33:21.355782Z"
     }
   ]
 }
