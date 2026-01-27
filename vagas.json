@@ -52,5 +52,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:27:19.144883",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "CONFEITEIRO",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "5",
+    "criado_em": "2026-01-27T16:27:28.262149",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:27:28.262149",
+    "atualizado_por": "Jeferson"
   }
 ]
