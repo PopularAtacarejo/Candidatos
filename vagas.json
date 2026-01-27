@@ -160,5 +160,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:28:11.638416",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "AUXILIAR DE T.I",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "11",
+    "criado_em": "2026-01-27T16:28:53.565158",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:28:53.565158",
+    "atualizado_por": "Jeferson"
   }
 ]
