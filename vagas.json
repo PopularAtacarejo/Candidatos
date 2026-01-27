@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Caixa",
-    "inserido_em": "2024-01-12",
-    "inserido_por": "Financeiro",
-    "id": "caixa"
-  },
-  {
     "nome": "Estoquista",
     "inserido_em": "2024-01-08",
     "inserido_por": "Logística",
