@@ -178,5 +178,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:28:53.565158",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "AUXILIAR DE PADEIRO",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "12",
+    "criado_em": "2026-01-27T16:29:02.648007",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:29:02.648007",
+    "atualizado_por": "Jeferson"
   }
 ]
