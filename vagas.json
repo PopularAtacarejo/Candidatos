@@ -1,11 +1,5 @@
 [
   {
-    "nome": "Gerente",
-    "inserido_em": "2024-01-20",
-    "inserido_por": "Diretoria",
-    "id": "gerente"
-  },
-  {
     "nome": "Supervisor",
     "inserido_em": "2024-01-18",
     "inserido_por": "Coordenação",
