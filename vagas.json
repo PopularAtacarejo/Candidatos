@@ -214,5 +214,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:29:09.237171",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "EMBALADOR (A)",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "14",
+    "criado_em": "2026-01-27T16:29:17.463468",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:29:17.463468",
+    "atualizado_por": "Jeferson"
   }
 ]
