@@ -70,5 +70,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:27:28.262149",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "REPOSITOR DE FRIOS",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "6",
+    "criado_em": "2026-01-27T16:27:36.486492",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:27:36.486492",
+    "atualizado_por": "Jeferson"
   }
 ]
