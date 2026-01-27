@@ -34,5 +34,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:27:09.803147",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "AUX. DE ESTOQUE",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "4",
+    "criado_em": "2026-01-27T16:27:19.144883",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:27:19.144883",
+    "atualizado_por": "Jeferson"
   }
 ]
