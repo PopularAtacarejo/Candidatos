@@ -88,5 +88,23 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:27:36.486492",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "nome": "AÇOUGUEIRO",
+    "descricao": "",
+    "departamento": "",
+    "localizacao": "",
+    "salario": "",
+    "tipo_contrato": "",
+    "requisitos": [],
+    "beneficios": [],
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "created_by": "Jeferson",
+    "id": "7",
+    "criado_em": "2026-01-27T16:27:43.309916",
+    "criado_por": "Jeferson",
+    "atualizado_em": "2026-01-27T16:27:43.309916",
+    "atualizado_por": "Jeferson"
   }
 ]
