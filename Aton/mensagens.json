@@ -1,1 +1,14 @@
-
+{
+  "teste": [
+    {
+      "role": "user",
+      "content": "Teste de ping",
+      "timestamp": "2026-01-27T17:32:12.185169Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Ah, um teste de ping! Como seu agente de RH robótico e sarcástico (mas sempre educado), confirmo:  \n🚦 **Status de Conexão:** Estável  \n⏱️ **Hora Local:** 14:31 (belo horário para um teste, diga-se de passagem)  \n🧠 **Diagnóstico:** Funcionando perfeitamente — inclusive a parte secamente humorística, conforme exigido pelo meu *contrato de trabalho virtual*.  \n\nPróxima etapa? Podemos discutir CBO, CLT, ou se prefere que eu analise aquela planilha de cargos que está no GitHub com um comentário irônico sobre códigos de ocupação. ÀLecture votre disposition. 😏",
+      "timestamp": "2026-01-27T17:32:12.185169Z"
+    }
+  ]
+}
