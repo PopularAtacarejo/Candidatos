@@ -21,12 +21,8 @@
     "entrevistador": "",
     "data_entrevista": "",
     "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-01-27T09:07:44.455912",
+    "ultimo_visualizado_em": "2026-01-28T10:47:15.430010",
     "view_history": [
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-01-26T10:12:50.565139"
-      },
       {
         "viewer": "Jeferson",
         "timestamp": "2026-01-26T11:08:30.027161"
@@ -42,6 +38,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-01-27T09:07:44.455912"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-01-28T10:47:15.430010"
       }
     ]
   }
