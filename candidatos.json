@@ -109,5 +109,24 @@
     "enviado_em": "2026-01-29T20:10:14.248135",
     "status": "Novo",
     "processado_em": "2026-01-29T20:10:14.248145"
+  },
+  {
+    "nome": "Diogo Jose da Silva",
+    "cpf": "162.639.174-23",
+    "telefone": "(55) 82981-2965",
+    "email": "diogojosesilva596@gmail.com",
+    "cep": "57315-750",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria de Lourdes de Oliveira",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16263917423_Diogo_Jose_da_Silva_AUX._DE_ESTOQUE_20260129_233909.pdf",
+    "arquivo_nome": "inbound7420208088387646018.pdf",
+    "tamanho_arquivo": 431717,
+    "id": "01c97d4c71fa",
+    "enviado_em": "2026-01-29T23:39:10.912072",
+    "status": "Novo",
+    "processado_em": "2026-01-29T23:39:10.912081"
   }
 ]
