@@ -1,5 +1,3 @@
-[file name]: backend.py
-[file content begin]
 from fastapi import FastAPI, UploadFile, Form, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import requests
@@ -869,4 +867,3 @@ if __name__ == "__main__":
     import uvicorn
     port = int(os.getenv("PORT", 8000))
     uvicorn.run(app, host="0.0.0.0", port=port)
-[file content end]
