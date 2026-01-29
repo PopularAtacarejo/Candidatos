@@ -44,5 +44,24 @@
         "timestamp": "2026-01-28T16:49:49.155969"
       }
     ]
+  },
+  {
+    "nome": "Jeferson Jefry",
+    "cpf": "228.571.764-49",
+    "telefone": "(82) 99915-8412",
+    "email": "djaxelf22@gmail.com",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "transporte": "Sim",
+    "vaga": "AÇOUGUEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/22857176449_Jeferson_Jefry_AÇOUGUEIRO_20260129_182027.pdf",
+    "arquivo_nome": "Cupons De Entrega.pdf",
+    "tamanho_arquivo": 472609,
+    "id": "d7046df6da47",
+    "enviado_em": "2026-01-29T18:20:29.595864",
+    "status": "Novo",
+    "processado_em": "2026-01-29T18:20:29.595872"
   }
 ]
