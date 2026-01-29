@@ -62,6 +62,14 @@
     "id": "d7046df6da47",
     "enviado_em": "2026-01-29T18:20:29.595864",
     "status": "Novo",
-    "processado_em": "2026-01-29T18:20:29.595872"
+    "processado_em": "2026-01-29T18:20:29.595872",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-01-29T15:21:20.385427",
+    "view_history": [
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-01-29T15:21:20.385427"
+      }
+    ]
   }
 ]
