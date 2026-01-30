@@ -62,7 +62,15 @@
     "id": "43d6c9cc7e62",
     "enviado_em": "2026-01-29T19:23:33.316914",
     "status": "Novo",
-    "processado_em": "2026-01-29T19:23:33.316923"
+    "processado_em": "2026-01-29T19:23:33.316923",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-01-30T15:55:54.028586",
+    "view_history": [
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-01-30T15:55:54.028586"
+      }
+    ]
   },
   {
     "nome": "Diogo Jose da Silva",
