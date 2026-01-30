@@ -2,7 +2,14 @@
   "data_sources": {
     "candidatos_url": "",
     "vagas_url": "",
-    "curriculos_path": ""
+    "curriculos_path": "",
+    "lideres_url": "",
+    "setores_url": "",
+    "funcoes_url": "",
+    "funcionarios_ativos_url": "",
+    "feriados_url": "",
+    "empresas_url": "",
+    "configuracoes_url": ""
   },
   "github": {
     "token": "",
@@ -14,5 +21,132 @@
       "email": "djaxelf22@gmail.com",
       "funcao": "Desenvolvedor"
     }
-  ]
+  ],
+  "pages": {
+    "dashboard": {
+      "titulo": "Dashboard",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "vagas": {
+      "titulo": "Vagas",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "candidatos": {
+      "titulo": "Candidaturas",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "nova-vaga": {
+      "titulo": "Nova Vaga",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "consulta-cpf": {
+      "titulo": "Consulta CPF",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "cadastro-funcionarios": {
+      "titulo": "Cadastro de Funcionários",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "cadastro-empresas": {
+      "titulo": "Cadastro de Empresas",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "cadastro-funcoes": {
+      "titulo": "Cadastro de Funções",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "cadastro-setores": {
+      "titulo": "Cadastro de Setores",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "lideres": {
+      "titulo": "Gestão de Líderes",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "funcionarios-ativos": {
+      "titulo": "Funcionários Ativos",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "configuracoes": {
+      "titulo": "Configurações",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "atestados": {
+      "titulo": "Atestados Médicos",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "atualizar-funcionario": {
+      "titulo": "Atualizar Funcionário",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    },
+    "calendario": {
+      "titulo": "Calendário",
+      "descricao": "",
+      "notice": "",
+      "cta_label": "",
+      "cta_url": "",
+      "links": []
+    }
+  },
+  "agent": {
+    "openrouter_key": "",
+    "model": "deepseek/deepseek-r1-0528:free",
+    "behavior": "Responda com inteligência sobre RH e legislação trabalhista brasileira. Seja educado, inteligente e carregue um tom levemente sarcástico com humor seco, mas nunca ofensivo. Priorize dados públicos do GitHub ou arquivos locais antes de criar novas respostas."
+  }
 }
