@@ -90,5 +90,24 @@
     "enviado_em": "2026-01-29T23:39:10.912072",
     "status": "Novo",
     "processado_em": "2026-01-29T23:39:10.912081"
+  },
+  {
+    "nome": "Lara Vitoria Lopes Souza Ribeiro",
+    "cpf": "106.097.265-44",
+    "telefone": "(73) 99157-9270",
+    "email": "laravr02@gmail.com",
+    "cep": "57301-260",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz",
+    "rua": "Rua Osman Loureiro",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10609726544_Lara_Vitoria_Lopes_Souza_Ribeiro_BALCONISTA_DE_PADARIA_20260131_002740.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades (1).pdf",
+    "tamanho_arquivo": 475889,
+    "id": "e75586621341",
+    "enviado_em": "2026-01-31T00:27:41.836899",
+    "status": "Novo",
+    "processado_em": "2026-01-31T00:27:41.836905"
   }
 ]
