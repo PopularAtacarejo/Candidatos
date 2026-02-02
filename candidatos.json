@@ -109,5 +109,24 @@
     "enviado_em": "2026-01-31T00:27:41.836899",
     "status": "Novo",
     "processado_em": "2026-01-31T00:27:41.836905"
+  },
+  {
+    "nome": "Diogo Jose da Silva",
+    "cpf": "162.639.174-23",
+    "telefone": "(82) 98129-6588",
+    "email": "diogojosesilva596@gmail.com",
+    "cep": "57315-750",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria de Lourdes de Oliveira",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16263917423_Diogo_Jose_da_Silva_BALCONISTA_DE_AÇOUGUE_20260202_234104.pdf",
+    "arquivo_nome": "inbound4658862072414322412.pdf",
+    "tamanho_arquivo": 431717,
+    "id": "01457dbb6cdd",
+    "enviado_em": "2026-02-02T23:41:06.013551",
+    "status": "Novo",
+    "processado_em": "2026-02-02T23:41:06.013559"
   }
 ]
