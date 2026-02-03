@@ -64,7 +64,7 @@
     "status": "Novo",
     "processado_em": "2026-01-29T19:23:33.316923",
     "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-02-03T13:18:55.173711",
+    "ultimo_visualizado_em": "2026-02-03T17:19:07.882093",
     "view_history": [
       {
         "viewer": "Jeferson",
@@ -73,6 +73,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-02-03T13:18:55.173711"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-02-03T17:19:07.882093"
       }
     ]
   },
