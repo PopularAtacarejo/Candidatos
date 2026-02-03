@@ -153,5 +153,26 @@
     "enviado_em": "2026-02-03T14:00:08.627138",
     "status": "Novo",
     "processado_em": "2026-02-03T14:00:08.627147"
+  },
+  {
+    "nome": "Jeferson Da Silva Santos",
+    "cpf": "107.738.464-50",
+    "telefone": "(82) 99915-8412",
+    "email": "djaxelf22@gmail.com",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10773846450_Jeferson_Da_Silva_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260203_191219.pdf",
+    "arquivo_nome": "4.pdf",
+    "tamanho_arquivo": 434365,
+    "tem_experiencia": "Sim",
+    "experiencias": [],
+    "id": "d68e9abe97af",
+    "enviado_em": "2026-02-03T19:12:21.101551",
+    "status": "Novo",
+    "processado_em": "2026-02-03T19:12:21.101558"
   }
 ]
