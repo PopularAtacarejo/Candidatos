@@ -768,7 +768,9 @@ async def enviar_curriculo(
     rua: str = Form(...),
     transporte: str = Form(...),
     vaga: str = Form(...),
-    arquivo: UploadFile = File(...)
+    arquivo: UploadFile = File(...),
+    tem_experiencia: str = Form(...),
+    experiencias: str = Form("[]")
 ):
     """Recebe e salva candidatura no GitHub"""
     
@@ -805,6 +807,30 @@ async def enviar_curriculo(
     if ext not in ['pdf', 'doc', 'docx']:
         raise HTTPException(status_code=400, detail="Formato inválido. Use PDF, DOC ou DOCX.")
     
+    # Processar experiências
+    try:
+        experiencias_list = json.loads(experiencias)
+    except:
+        experiencias_list = []
+
+    # Validar limite de experiências
+    if len(experiencias_list) > 10:
+        raise HTTPException(status_code=400, detail="Máximo de 10 experiências permitidas")
+
+    # Validar cada experiência
+    for exp in experiencias_list:
+        # Verificar campos obrigatórios
+        if not all(key in exp for key in ['empresa', 'funcao', 'data_admissao']):
+            raise HTTPException(status_code=400, detail="Dados de experiência incompletos")
+        
+        # Validar datas
+        try:
+            datetime.strptime(exp['data_admissao'], "%Y-%m-%d")
+            if exp.get('data_demissao'):
+                datetime.strptime(exp['data_demissao'], "%Y-%m-%d")
+        except:
+            raise HTTPException(status_code=400, detail="Formato de data inválido nas experiências")
+    
     try:
         # Verifica duplicidade ANTES de fazer qualquer operação
         if check_duplicate_candidate(cpf, vaga):
@@ -830,7 +856,9 @@ async def enviar_curriculo(
             "vaga": vaga,
             "arquivo_url": arquivo_url,
             "arquivo_nome": arquivo.filename,
-            "tamanho_arquivo": arquivo.size
+            "tamanho_arquivo": arquivo.size,
+            "tem_experiencia": tem_experiencia,
+            "experiencias": experiencias_list
         }
         
         # Salva dados no GitHub
