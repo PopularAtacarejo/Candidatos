@@ -215,6 +215,14 @@
     "id": "941ebf9ea94f",
     "enviado_em": "2026-02-03T18:14:49.205797",
     "status": "Novo",
-    "processado_em": "2026-02-03T18:14:49.205809"
+    "processado_em": "2026-02-03T18:14:49.205809",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-02-03T19:05:21.654554",
+    "view_history": [
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-02-03T19:05:21.654554"
+      }
+    ]
   }
 ]
