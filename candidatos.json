@@ -128,5 +128,24 @@
     "enviado_em": "2026-02-02T23:41:06.013551",
     "status": "Novo",
     "processado_em": "2026-02-02T23:41:06.013559"
+  },
+  {
+    "nome": "José Fernando Ferreira Barbosa",
+    "cpf": "135.627.944-95",
+    "telefone": "(82) 98221-8117",
+    "email": "josseefeernando@gmail.com",
+    "cep": "57310-520",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Rosendo Maia",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13562794495_José_Fernando_Ferreira_Barbosa_REPOSITOR_A_20260203_061440.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 44831,
+    "id": "9e8ea5de89a4",
+    "enviado_em": "2026-02-03T06:14:41.542112",
+    "status": "Novo",
+    "processado_em": "2026-02-03T06:14:41.542119"
   }
 ]
