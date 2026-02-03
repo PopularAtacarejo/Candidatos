@@ -198,6 +198,14 @@
     "id": "c1fafb6fe009",
     "enviado_em": "2026-02-03T19:34:32.710706",
     "status": "Novo",
-    "processado_em": "2026-02-03T19:34:32.710715"
+    "processado_em": "2026-02-03T19:34:32.710715",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-02-03T19:36:21.598443",
+    "view_history": [
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-02-03T19:36:21.598443"
+      }
+    ]
   }
 ]
