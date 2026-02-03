@@ -770,7 +770,10 @@ async def enviar_curriculo(
     vaga: str = Form(...),
     arquivo: UploadFile = File(...),
     tem_experiencia: str = Form(...),
-    experiencias: str = Form("[]")
+    experiencia_empresa: Optional[List[str]] = Form(None),
+    experiencia_cargo: Optional[List[str]] = Form(None),
+    experiencia_admissao: Optional[List[str]] = Form(None),
+    experiencia_demissao: Optional[List[str]] = Form(None)
 ):
     """Recebe e salva candidatura no GitHub"""
     
@@ -791,7 +794,7 @@ async def enviar_curriculo(
     # Validações básicas
     if not nome or len(nome.strip()) < 3:
         raise HTTPException(status_code=400, detail="Nome inválido (mínimo 3 caracteres)")
-    
+
     if not validate_cpf(cpf):
         raise HTTPException(status_code=400, detail="CPF inválido")
     
@@ -806,30 +809,43 @@ async def enviar_curriculo(
     ext = arquivo.filename.lower().split('.')[-1] if '.' in arquivo.filename else ''
     if ext not in ['pdf', 'doc', 'docx']:
         raise HTTPException(status_code=400, detail="Formato inválido. Use PDF, DOC ou DOCX.")
-    
-    # Processar experiências
-    try:
-        experiencias_list = json.loads(experiencias)
-    except:
-        experiencias_list = []
 
-    # Validar limite de experiências
-    if len(experiencias_list) > 10:
-        raise HTTPException(status_code=400, detail="Máximo de 10 experiências permitidas")
+    tem_experiencia = tem_experiencia.strip().title()
+    if tem_experiencia not in ("Sim", "Não"):
+        raise HTTPException(status_code=400, detail="Informe se possui experiência profissional (Sim ou Não).")
 
-    # Validar cada experiência
-    for exp in experiencias_list:
-        # Verificar campos obrigatórios
-        if not all(key in exp for key in ['empresa', 'funcao', 'data_admissao']):
-            raise HTTPException(status_code=400, detail="Dados de experiência incompletos")
-        
-        # Validar datas
-        try:
-            datetime.strptime(exp['data_admissao'], "%Y-%m-%d")
-            if exp.get('data_demissao'):
-                datetime.strptime(exp['data_demissao'], "%Y-%m-%d")
-        except:
-            raise HTTPException(status_code=400, detail="Formato de data inválido nas experiências")
+    experiencia_records = []
+    if tem_experiencia == "Sim":
+        experiencia_empresa = experiencia_empresa or []
+        experiencia_cargo = experiencia_cargo or []
+        experiencia_admissao = experiencia_admissao or []
+        experiencia_demissao = experiencia_demissao or []
+
+        counts = [len(experiencia_empresa), len(experiencia_cargo), len(experiencia_admissao), len(experiencia_demissao)]
+        if len(set(counts)) != 1:
+            raise HTTPException(status_code=400, detail="Os campos de experiência devem ter a mesma quantidade de registros.")
+
+        total_experiencias = counts[0]
+        if total_experiencias == 0:
+            raise HTTPException(status_code=400, detail="Informe ao menos uma experiência profissional.")
+        if total_experiencias > 10:
+            raise HTTPException(status_code=400, detail="É permitido informar até 10 experiências profissionais.")
+
+        for idx in range(total_experiencias):
+            empresa = experiencia_empresa[idx].strip()
+            cargo_experiencia = experiencia_cargo[idx].strip()
+            admissao = experiencia_admissao[idx].strip()
+            demissao = experiencia_demissao[idx].strip()
+
+            if not (empresa and cargo_experiencia and admissao and demissao):
+                raise HTTPException(status_code=400, detail="Todos os campos de experiência devem ser preenchidos.")
+
+            experiencia_records.append({
+                "empresa": empresa,
+                "cargo": cargo_experiencia,
+                "admissao": admissao,
+                "demissao": demissao
+            })
     
     try:
         # Verifica duplicidade ANTES de fazer qualquer operação
@@ -857,9 +873,11 @@ async def enviar_curriculo(
             "arquivo_url": arquivo_url,
             "arquivo_nome": arquivo.filename,
             "tamanho_arquivo": arquivo.size,
-            "tem_experiencia": tem_experiencia,
-            "experiencias": experiencias_list
+            "tem_experiencia": tem_experiencia
         }
+
+        if experiencia_records:
+            candidato["experiencias"] = experiencia_records
         
         # Salva dados no GitHub
         result = save_candidate(candidato)
