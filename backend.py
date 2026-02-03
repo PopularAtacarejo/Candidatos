@@ -770,10 +770,11 @@ async def enviar_curriculo(
     vaga: str = Form(...),
     arquivo: UploadFile = File(...),
     tem_experiencia: str = Form(...),
-    experiencia_empresa: Optional[List[str]] = Form(None),
-    experiencia_cargo: Optional[List[str]] = Form(None),
-    experiencia_admissao: Optional[List[str]] = Form(None),
-    experiencia_demissao: Optional[List[str]] = Form(None)
+    experiencia_empresa: Optional[str] = Form(None),
+    experiencia_cargo: Optional[str] = Form(None),
+    experiencia_admissao: Optional[str] = Form(None),
+    experiencia_demissao: Optional[str] = Form(None),
+    experiencias_json: Optional[str] = Form(None)
 ):
     """Recebe e salva candidatura no GitHub"""
     
@@ -816,36 +817,51 @@ async def enviar_curriculo(
 
     experiencia_records = []
     if tem_experiencia == "Sim":
-        experiencia_empresa = experiencia_empresa or []
-        experiencia_cargo = experiencia_cargo or []
-        experiencia_admissao = experiencia_admissao or []
-        experiencia_demissao = experiencia_demissao or []
-
-        counts = [len(experiencia_empresa), len(experiencia_cargo), len(experiencia_admissao), len(experiencia_demissao)]
-        if len(set(counts)) != 1:
-            raise HTTPException(status_code=400, detail="Os campos de experiência devem ter a mesma quantidade de registros.")
-
-        total_experiencias = counts[0]
-        if total_experiencias == 0:
+        # Tentar primeiro a abordagem com JSON (mais robusta)
+        if experiencias_json:
+            try:
+                experiencias_data = json.loads(experiencias_json)
+                if isinstance(experiencias_data, list) and len(experiencias_data) > 0:
+                    for exp in experiencias_data:
+                        experiencia_records.append({
+                            "empresa": exp.get("empresa", "").strip(),
+                            "cargo": exp.get("cargo", "").strip(),
+                            "admissao": exp.get("admissao", "").strip(),
+                            "demissao": exp.get("demissao", "").strip()
+                        })
+            except:
+                pass
+        
+        # Se não houver JSON, tentar listas separadas por vírgula
+        if not experiencia_records and experiencia_empresa:
+            # Converter strings separadas por vírgula em listas
+            empresa_list = experiencia_empresa.split(",") if experiencia_empresa else []
+            cargo_list = experiencia_cargo.split(",") if experiencia_cargo else []
+            admissao_list = experiencia_admissao.split(",") if experiencia_admissao else []
+            demissao_list = experiencia_demissao.split(",") if experiencia_demissao else []
+            
+            # Verificar se todas as listas têm o mesmo tamanho
+            counts = [len(empresa_list), len(cargo_list), len(admissao_list), len(demissao_list)]
+            if len(set(counts)) == 1 and counts[0] > 0:
+                for idx in range(counts[0]):
+                    experiencia_records.append({
+                        "empresa": empresa_list[idx].strip(),
+                        "cargo": cargo_list[idx].strip(),
+                        "admissao": admissao_list[idx].strip(),
+                        "demissao": demissao_list[idx].strip()
+                    })
+        
+        # Validar se tem experiências quando disse que tem
+        if not experiencia_records:
             raise HTTPException(status_code=400, detail="Informe ao menos uma experiência profissional.")
-        if total_experiencias > 10:
+        
+        if len(experiencia_records) > 10:
             raise HTTPException(status_code=400, detail="É permitido informar até 10 experiências profissionais.")
-
-        for idx in range(total_experiencias):
-            empresa = experiencia_empresa[idx].strip()
-            cargo_experiencia = experiencia_cargo[idx].strip()
-            admissao = experiencia_admissao[idx].strip()
-            demissao = experiencia_demissao[idx].strip()
-
-            if not (empresa and cargo_experiencia and admissao and demissao):
+        
+        # Validar se todos os campos estão preenchidos
+        for exp in experiencia_records:
+            if not all(exp.values()):
                 raise HTTPException(status_code=400, detail="Todos os campos de experiência devem ser preenchidos.")
-
-            experiencia_records.append({
-                "empresa": empresa,
-                "cargo": cargo_experiencia,
-                "admissao": admissao,
-                "demissao": demissao
-            })
     
     try:
         # Verifica duplicidade ANTES de fazer qualquer operação
