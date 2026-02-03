@@ -195,34 +195,5 @@
     "enviado_em": "2026-02-03T14:00:08.627138",
     "status": "Novo",
     "processado_em": "2026-02-03T14:00:08.627147"
-  },
-  {
-    "nome": "Jeferson Jefry",
-    "cpf": "107.738.464-50",
-    "telefone": "(82) 99915-8412",
-    "email": "djaxelf22@gmail.com",
-    "cep": "57312-110",
-    "cidade": "Arapiraca",
-    "bairro": "Santa Esmeralda",
-    "rua": "Rua José Augusto Pereira",
-    "transporte": "Sim",
-    "vaga": "AUX. DE ESTOQUE",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10773846450_Jeferson_Jefry_AUX._DE_ESTOQUE_20260203_181447.pdf",
-    "arquivo_nome": "OFERTAS DO HORTI - 03.02.pdf",
-    "tamanho_arquivo": 102550,
-    "tem_experiencia": "Sim",
-    "experiencias": [],
-    "id": "941ebf9ea94f",
-    "enviado_em": "2026-02-03T18:14:49.205797",
-    "status": "Novo",
-    "processado_em": "2026-02-03T18:14:49.205809",
-    "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-02-03T19:05:21.654554",
-    "view_history": [
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-02-03T19:05:21.654554"
-      }
-    ]
   }
 ]
