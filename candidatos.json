@@ -266,8 +266,8 @@
     "enviado_em": "2026-02-04T11:53:56.133872",
     "status": "Novo",
     "processado_em": "2026-02-04T11:53:56.133883",
-    "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-02-04T12:31:00.555671",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-02-04T12:50:14.581073",
     "view_history": [
       {
         "viewer": "Jeferson",
@@ -324,6 +324,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-02-04T12:31:00.555671"
+      },
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-02-04T12:50:14.581073"
       }
     ]
   }
