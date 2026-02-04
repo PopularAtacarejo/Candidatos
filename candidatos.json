@@ -219,7 +219,15 @@
     "id": "9f2e2d890c8e",
     "enviado_em": "2026-02-04T00:25:29.131602",
     "status": "Novo",
-    "processado_em": "2026-02-04T00:25:29.131609"
+    "processado_em": "2026-02-04T00:25:29.131609",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-02-04T11:50:11.396171",
+    "view_history": [
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-02-04T11:50:11.396171"
+      }
+    ]
   },
   {
     "nome": "Jeferson Jefry",
