@@ -19,12 +19,5 @@
     "responsavel": "Claudia Ribeiro",
     "descricao": "Coordena áreas de estoque, logística e limpeza.",
     "salvo_em": "2025-01-02T09:30:00Z"
-  },
-  {
-    "id": "setor-2",
-    "nome": "Comercial",
-    "responsavel": "Ricardo Moraes",
-    "descricao": "Responsável pelo atendimento e negociações com clientes.",
-    "salvo_em": "2025-01-02T10:45:00Z"
   }
 ]
