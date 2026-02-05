@@ -33,5 +33,12 @@
     "entity_id": "f66f2b23aad94c1aaef261ee266188e8",
     "type": "delete",
     "timestamp": "2026-02-05T18:19:36.046006Z"
+  },
+  {
+    "id": "09a7e454855b438db55be75091abc321",
+    "entity": "setores",
+    "entity_id": "setor-2",
+    "type": "delete",
+    "timestamp": "2026-02-05T18:48:57.102974Z"
   }
 ]
