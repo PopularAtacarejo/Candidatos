@@ -19,12 +19,5 @@
     "codigo_cbo": "252105",
     "descricao": "Coordena recrutamento, seleção e desenvolvimento de pessoas.",
     "salvo_em": "2025-01-01T10:00:00Z"
-  },
-  {
-    "id": "funcao-2",
-    "nome": "Assistente Financeiro",
-    "codigo_cbo": "410205",
-    "descricao": "Apoia rotinas financeiras, conciliações e fechamento contábil.",
-    "salvo_em": "2025-01-01T11:00:00Z"
   }
 ]
