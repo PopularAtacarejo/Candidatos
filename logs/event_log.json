@@ -47,5 +47,12 @@
     "entity_id": "setor-1",
     "type": "delete",
     "timestamp": "2026-02-05T18:49:02.817974Z"
+  },
+  {
+    "id": "ad1dac65d0f74d6693c6765a22a99f5d",
+    "entity": "candidatos",
+    "entity_id": "3d370a63d59f",
+    "type": "delete",
+    "timestamp": "2026-02-05T19:00:16.149089Z"
   }
 ]
