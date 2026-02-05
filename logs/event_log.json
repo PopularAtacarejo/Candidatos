@@ -26,5 +26,12 @@
     "entity_id": "dc0a64dd9b3c4c3dba5a58f52bb12388",
     "type": "delete",
     "timestamp": "2026-02-05T18:19:29.713154Z"
+  },
+  {
+    "id": "c175b5f65c4a41e49f0bc2527865007f",
+    "entity": "funcionarios_ativos",
+    "entity_id": "f66f2b23aad94c1aaef261ee266188e8",
+    "type": "delete",
+    "timestamp": "2026-02-05T18:19:36.046006Z"
   }
 ]
