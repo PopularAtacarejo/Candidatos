@@ -54,5 +54,12 @@
     "entity_id": "3d370a63d59f",
     "type": "delete",
     "timestamp": "2026-02-05T19:00:16.149089Z"
+  },
+  {
+    "id": "1e514515b26e4ca5a3fd0e94f8d139c0",
+    "entity": "candidatos",
+    "entity_id": "8a344f626c66",
+    "type": "delete",
+    "timestamp": "2026-02-05T19:00:22.493967Z"
   }
 ]
