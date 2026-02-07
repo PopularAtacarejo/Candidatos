@@ -264,5 +264,33 @@
     "enviado_em": "2026-02-06T15:53:23.302949",
     "status": "Novo",
     "processado_em": "2026-02-06T15:53:23.302959"
+  },
+  {
+    "nome": "Diogo Jose da Silva",
+    "cpf": "162.639.174-23",
+    "telefone": "(82) 98129-6588",
+    "email": "diogojosesilva596@gmail.com",
+    "cep": "57315-750",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria de Lourdes de Oliveira",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16263917423_Diogo_Jose_da_Silva_AUX._DE_PREVENÇÃO_E_PERDAS_20260207_113621.pdf",
+    "arquivo_nome": "inbound3244178618793343622.pdf",
+    "tamanho_arquivo": 431717,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Boizao de ouro",
+        "funcao": "Açougueiro",
+        "data_admissao": "2023-11-11",
+        "data_demissao": "2026-01-18"
+      }
+    ],
+    "id": "d69c3c5a1f65",
+    "enviado_em": "2026-02-07T11:36:22.766143",
+    "status": "Novo",
+    "processado_em": "2026-02-07T11:36:22.766153"
   }
 ]
