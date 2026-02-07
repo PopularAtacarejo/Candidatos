@@ -313,5 +313,26 @@
     "enviado_em": "2026-02-07T14:44:37.182453",
     "status": "Novo",
     "processado_em": "2026-02-07T14:44:37.182463"
+  },
+  {
+    "nome": "Rayssa Vitória Santos Oliveira",
+    "cpf": "134.354.534-00",
+    "telefone": "(82) 99658-9537",
+    "email": "rayssavitoriasantosoliveira@gmail.com",
+    "cep": "57315-754",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Guilherme Ulisses Ferreira de Oliveira",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13435453400_Rayssa_Vitória_Santos_Oliveira_REPOSITOR_A_20260207_182353.pdf",
+    "arquivo_nome": "Currículo Profissional Rayssa Vitória.pdf",
+    "tamanho_arquivo": 195786,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "2eca2cd1c717",
+    "enviado_em": "2026-02-07T18:23:54.878686",
+    "status": "Novo",
+    "processado_em": "2026-02-07T18:23:54.878696"
   }
 ]
