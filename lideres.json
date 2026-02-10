@@ -6,9 +6,10 @@
     "telefone": "",
     "observacoes": "Criado automaticamente via cadastro de colaboradores.",
     "setores_responsaveis": [
-      "Padaria"
+      "Padaria",
+      "Teste"
     ],
     "criado_em": "2026-02-03T18:39:29.059645Z",
-    "atualizado_em": "2026-02-03T18:39:29.059645Z"
+    "atualizado_em": "2026-02-10T11:49:23.680722Z"
   }
 ]
