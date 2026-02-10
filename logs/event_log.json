@@ -89,5 +89,90 @@
     "entity_id": "cb6f084e5a21",
     "type": "delete",
     "timestamp": "2026-02-05T19:00:50.610017Z"
+  },
+  {
+    "id": "98a55e839dea40e483c2e80da051782a",
+    "entity": "funcionarios_ativos",
+    "entity_id": "acd45d9aaf7143259bd58b99b72df448",
+    "type": "upsert",
+    "timestamp": "2026-02-10T11:49:21.132465Z",
+    "payload": {
+      "id": "acd45d9aaf7143259bd58b99b72df448",
+      "nome_completo": "Jeferson da silva santos",
+      "cpf": "10773846450",
+      "data_nascimento": "1994-10-27",
+      "naturalidade": "Arapiraca",
+      "sexo": "masculino",
+      "rg": "1212124545",
+      "pis": "62323232",
+      "tamanho_fardamento": "m",
+      "tamanho_calcado": "42",
+      "empresa": "COMERCIAL POPULAR LTDA",
+      "setor": "Teste",
+      "funcao": "Analista de Marketing",
+      "cbo": "271094",
+      "matricula": "214575",
+      "data_admissao": "2022-10-22",
+      "salario": "R$ 35.700,11",
+      "lider_responsavel": "Jeferson da silva santos",
+      "lider_gestor": true,
+      "cep": "57312-110",
+      "rua": "Rua José Augusto Pereira",
+      "numero": "640",
+      "bairro": "Santa Esmeralda",
+      "cidade": "Arapiraca",
+      "estado": "AL",
+      "complemento": "",
+      "filhos": [],
+      "enviado_em": "2026-01-22T17:59:47.600668Z",
+      "foto_path": null,
+      "atualizado_em": "2026-02-10T11:49:20.055574Z",
+      "atualizado_por": "Teste",
+      "historico": [
+        {
+          "data": "2026-01-26T19:58:20.047501Z",
+          "autor": "Jeferson",
+          "descricao": "Campos atualizados: cbo, empresa, filhos, funcao, matricula, salario, setor",
+          "campos": [
+            "cbo",
+            "empresa",
+            "filhos",
+            "funcao",
+            "matricula",
+            "salario",
+            "setor"
+          ]
+        },
+        {
+          "data": "2026-01-26T19:59:20.979761Z",
+          "autor": "Jeferson",
+          "descricao": "Campos atualizados: cbo, empresa, filhos, funcao, matricula, salario, setor",
+          "campos": [
+            "cbo",
+            "empresa",
+            "filhos",
+            "funcao",
+            "matricula",
+            "salario",
+            "setor"
+          ]
+        },
+        {
+          "data": "2026-02-10T11:49:20.055574Z",
+          "autor": "Teste",
+          "descricao": "Campos atualizados: ferias_dias, ferias_fim, ferias_inicio, ferias_vendidas",
+          "campos": [
+            "ferias_dias",
+            "ferias_fim",
+            "ferias_inicio",
+            "ferias_vendidas"
+          ]
+        }
+      ],
+      "ferias_inicio": "2026-02-01",
+      "ferias_fim": "2026-02-10",
+      "ferias_dias": 10,
+      "ferias_vendidas": 0
+    }
   }
 ]
