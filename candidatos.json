@@ -513,5 +513,26 @@
     "enviado_em": "2026-02-11T19:09:07.193299",
     "status": "Novo",
     "processado_em": "2026-02-11T19:09:07.193307"
+  },
+  {
+    "nome": "Vitória Silva do Nascimento",
+    "cpf": "150.543.524-22",
+    "telefone": "(82) 99630-0541",
+    "email": "viihnascimento2807@gmail.com",
+    "cep": "57307-295",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Expedicionários Brasileiros",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15054352422_Vitória_Silva_do_Nascimento_OPERADOR_A_DE_CAIXA_20260211_232638.pdf",
+    "arquivo_nome": "Meu currículo .pdf",
+    "tamanho_arquivo": 794403,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "69c018fd13ab",
+    "enviado_em": "2026-02-11T23:26:40.182134",
+    "status": "Novo",
+    "processado_em": "2026-02-11T23:26:40.182142"
   }
 ]
