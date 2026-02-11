@@ -433,5 +433,45 @@
     "enviado_em": "2026-02-11T17:30:19.324826",
     "status": "Novo",
     "processado_em": "2026-02-11T17:30:19.324835"
+  },
+  {
+    "nome": "MARQUISUEL RODRIGUES DA SILVA",
+    "cpf": "111.684.094-46",
+    "telefone": "(82) 99600-0747",
+    "email": "marquisuelrodriguesdasilva@gmail.com",
+    "cep": "57315-748",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua José Otávio de Oliveira",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11168409446_MARQUISUEL_RODRIGUES_DA_SILVA_OPERADOR_A_DE_CAIXA_20260211_173157.pdf",
+    "arquivo_nome": "Marquisuel Rodrigues_curriculo_250527_232914.PDF",
+    "tamanho_arquivo": 203930,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Carajás Material de Construção Ltda",
+        "funcao": "Embalador",
+        "data_admissao": "2012-12-03",
+        "data_demissao": "2025-02-24"
+      },
+      {
+        "empresa": "Carajás Material de Construção Ltda",
+        "funcao": "Operador de Caixa",
+        "data_admissao": "2014-06-02",
+        "data_demissao": "2025-02-24"
+      },
+      {
+        "empresa": "Carajás Material de Construção Ltda",
+        "funcao": "Assistente de Atendimento",
+        "data_admissao": "2017-04-17",
+        "data_demissao": "2025-02-24"
+      }
+    ],
+    "id": "8916452cab98",
+    "enviado_em": "2026-02-11T17:31:59.111695",
+    "status": "Novo",
+    "processado_em": "2026-02-11T17:31:59.111706"
   }
 ]
