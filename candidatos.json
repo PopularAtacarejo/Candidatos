@@ -583,5 +583,33 @@
     "enviado_em": "2026-02-14T11:41:12.427860",
     "status": "Novo",
     "processado_em": "2026-02-14T11:41:12.427870"
+  },
+  {
+    "nome": "Anny Vitória de Oliveira Carvalho",
+    "cpf": "139.448.744-47",
+    "telefone": "(82) 99931-6659",
+    "email": "anny17x@gmail.com",
+    "cep": "57304-000",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Paulo Afonso",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13944874447_Anny_Vitória_de_Oliveira_Carvalho_REPOSITOR_A_20260214_170738.pdf",
+    "arquivo_nome": "inbound5815131486072789997.pdf",
+    "tamanho_arquivo": 270354,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Uni Compra",
+        "funcao": "Repositor(a)",
+        "data_admissao": "2024-07-15",
+        "data_demissao": "2025-11-14"
+      }
+    ],
+    "id": "55f1dc25c58d",
+    "enviado_em": "2026-02-14T17:07:39.657825",
+    "status": "Novo",
+    "processado_em": "2026-02-14T17:07:39.657832"
   }
 ]
