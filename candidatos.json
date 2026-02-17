@@ -694,5 +694,33 @@
     "enviado_em": "2026-02-16T20:09:53.114739",
     "status": "Novo",
     "processado_em": "2026-02-16T20:09:53.114746"
+  },
+  {
+    "nome": "José Fernando Ferreira Barbosa",
+    "cpf": "135.627.944-95",
+    "telefone": "(82) 99147-1347",
+    "email": "josseefeernando@gmail.com",
+    "cep": "57310-520",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Rosendo Maia",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13562794495_José_Fernando_Ferreira_Barbosa_EMBALADOR_A_20260217_163836.pdf",
+    "arquivo_nome": "Currículo - José - Fernando.pdf",
+    "tamanho_arquivo": 181092,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Boca Cheia",
+        "funcao": "Estagiário",
+        "data_admissao": "2020-01-17",
+        "data_demissao": "2022-12-20"
+      }
+    ],
+    "id": "34fea8148547",
+    "enviado_em": "2026-02-17T16:38:37.174248",
+    "status": "Novo",
+    "processado_em": "2026-02-17T16:38:37.174255"
   }
 ]
