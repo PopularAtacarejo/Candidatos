@@ -722,5 +722,33 @@
     "enviado_em": "2026-02-17T16:38:37.174248",
     "status": "Novo",
     "processado_em": "2026-02-17T16:38:37.174255"
+  },
+  {
+    "nome": "María aparecida da Silva",
+    "cpf": "713.191.974-85",
+    "telefone": "(82) 99637-7222",
+    "email": "santtoscyda11@gmail.com",
+    "cep": "57302-200",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Antônio Feliciano",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71319197485_María_aparecida_da_Silva_AUXILIAR_DE_LIMPEZA_20260217_234349.pdf",
+    "arquivo_nome": "inbound8502088222364803497.pdf",
+    "tamanho_arquivo": 70860,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aroeira",
+        "funcao": "Auxiliar de cozinha",
+        "data_admissao": "2025-02-16",
+        "data_demissao": "2025-09-08"
+      }
+    ],
+    "id": "0248ee75cba1",
+    "enviado_em": "2026-02-17T23:43:50.672013",
+    "status": "Novo",
+    "processado_em": "2026-02-17T23:43:50.672023"
   }
 ]
