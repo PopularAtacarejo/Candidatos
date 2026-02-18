@@ -784,5 +784,33 @@
     "enviado_em": "2026-02-18T13:18:32.912431",
     "status": "Novo",
     "processado_em": "2026-02-18T13:18:32.912439"
+  },
+  {
+    "nome": "Diogo Jose da Silva",
+    "cpf": "162.639.174-23",
+    "telefone": "(82) 98129-6588",
+    "email": "diogojosesilva596@gmail.com",
+    "cep": "57315-750",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria de Lourdes de Oliveira",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16263917423_Diogo_Jose_da_Silva_AUXILIAR_DE_LIMPEZA_20260218_134640.pdf",
+    "arquivo_nome": "inbound8723576293977697791.pdf",
+    "tamanho_arquivo": 431717,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Boizao de ouro",
+        "funcao": "Açougueiro",
+        "data_admissao": "2023-11-11",
+        "data_demissao": "2026-01-18"
+      }
+    ],
+    "id": "a52009796235",
+    "enviado_em": "2026-02-18T13:46:42.415648",
+    "status": "Novo",
+    "processado_em": "2026-02-18T13:46:42.415658"
   }
 ]
