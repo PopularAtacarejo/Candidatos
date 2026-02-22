@@ -879,5 +879,26 @@
     "enviado_em": "2026-02-21T13:36:52.340588",
     "status": "Novo",
     "processado_em": "2026-02-21T13:36:52.340597"
+  },
+  {
+    "nome": "Maria Clara Ramalho da Silva",
+    "cpf": "152.791.084-99",
+    "telefone": "(82) 99957-1248",
+    "email": "claramaria2023n@icloud.com",
+    "cep": "57315-756",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Terezinha de Jesus Vital Gomes",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15279108499_Maria_Clara_Ramalho_da_Silva_BALCONISTA_DE_PADARIA_20260222_231358.pdf",
+    "arquivo_nome": "Curriculo_Maria_Clara_Ramalho_da_Silva.pdf",
+    "tamanho_arquivo": 2468,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "806897485d11",
+    "enviado_em": "2026-02-22T23:13:59.070491",
+    "status": "Novo",
+    "processado_em": "2026-02-22T23:13:59.070497"
   }
 ]
