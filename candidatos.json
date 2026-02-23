@@ -900,5 +900,33 @@
     "enviado_em": "2026-02-22T23:13:59.070491",
     "status": "Novo",
     "processado_em": "2026-02-22T23:13:59.070497"
+  },
+  {
+    "nome": "Alberto Ferreira da graça",
+    "cpf": "051.340.114-86",
+    "telefone": "(82) 99930-2881",
+    "email": "albertooh.ferreir@gmail.com",
+    "cep": "57315-766",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Matilde Barbosa Paulino",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05134011486_Alberto_Ferreira_da_graça_AUX._DE_ESTOQUE_20260223_234810.pdf",
+    "arquivo_nome": "inbound5545820488665043861.pdf",
+    "tamanho_arquivo": 117346,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Grupo tio Vieira",
+        "funcao": "Conferente",
+        "data_admissao": "2007-06-01",
+        "data_demissao": "2025-11-19"
+      }
+    ],
+    "id": "aab47da368b3",
+    "enviado_em": "2026-02-23T23:48:12.034190",
+    "status": "Novo",
+    "processado_em": "2026-02-23T23:48:12.034197"
   }
 ]
