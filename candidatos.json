@@ -1206,5 +1206,33 @@
     "enviado_em": "2026-02-03T18:14:49.205797",
     "status": "Novo",
     "processado_em": "2026-02-03T18:14:49.205809"
+  },
+  {
+    "nome": "Bruno Pereira lucio",
+    "cpf": "058.442.174-54",
+    "telefone": "(82) 99154-4130",
+    "email": "brunopereiralucio7@gmail.com",
+    "cep": "57313-130",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Brasília",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05844217454_Bruno_Pereira_lucio_OPERADOR_A_DE_CAIXA_20260225_190544.pdf",
+    "arquivo_nome": "inbound7153438836301932070.pdf",
+    "tamanho_arquivo": 87033,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendimento ao público",
+        "data_admissao": "2024-01-05",
+        "data_demissao": "2024-09-09"
+      }
+    ],
+    "id": "f46939650554",
+    "enviado_em": "2026-02-25T19:05:46.380531",
+    "status": "Novo",
+    "processado_em": "2026-02-25T19:05:46.380541"
   }
 ]
