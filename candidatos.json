@@ -1234,5 +1234,26 @@
     "enviado_em": "2026-02-25T19:05:46.380531",
     "status": "Novo",
     "processado_em": "2026-02-25T19:05:46.380541"
+  },
+  {
+    "nome": "Eduarda Vitória Gomes Santos",
+    "cpf": "160.347.124-32",
+    "telefone": "(82) 99664-1559",
+    "email": "simonegomessantos136@gmail.com",
+    "cep": "57308-380",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Branquinha",
+    "transporte": "Não",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16034712432_Eduarda_Vitória_Gomes_Santos_OPERADOR_DE_SUPERMERCADO_20260225_201726.pdf",
+    "arquivo_nome": "currículo Eduarda Vitória Gomes Santos .pdf",
+    "tamanho_arquivo": 153370,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "d47457fe72ee",
+    "enviado_em": "2026-02-25T20:17:28.016946",
+    "status": "Novo",
+    "processado_em": "2026-02-25T20:17:28.016954"
   }
 ]
