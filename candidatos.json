@@ -1255,5 +1255,33 @@
     "enviado_em": "2026-02-25T20:17:28.016946",
     "status": "Novo",
     "processado_em": "2026-02-25T20:17:28.016954"
+  },
+  {
+    "nome": "José Jefferson Santos da Silva",
+    "cpf": "098.547.394-06",
+    "telefone": "(82) 99693-0552",
+    "email": "josejeffersons@hotmail.com",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09854739406_José_Jefferson_Santos_da_Silva_EMBALADOR_A_20260226_141711.pdf",
+    "arquivo_nome": "inbound5428742917554521558.pdf",
+    "tamanho_arquivo": 280564,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "SESAU - UPA Noel Macedo",
+        "funcao": "Assistente de Administração",
+        "data_admissao": "2022-04-01",
+        "data_demissao": "2023-04-30"
+      }
+    ],
+    "id": "71d8c04db154",
+    "enviado_em": "2026-02-26T14:17:12.717879",
+    "status": "Novo",
+    "processado_em": "2026-02-26T14:17:12.717886"
   }
 ]
