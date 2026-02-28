@@ -1332,5 +1332,33 @@
     "enviado_em": "2026-02-27T22:07:33.921109",
     "status": "Novo",
     "processado_em": "2026-02-27T22:07:33.921116"
+  },
+  {
+    "nome": "Amilly Rayne Dantas da Silva",
+    "cpf": "151.347.034-50",
+    "telefone": "(82) 99671-0810",
+    "email": "amillyrayne67@gmail.com",
+    "cep": "57309-040",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua José Duarte Alves",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15134703450_Amilly_Rayne_Dantas_da_Silva_REPOSITOR_A_20260228_001513.pdf",
+    "arquivo_nome": "Amilly_Rayne_Curriculo.pdf_20260227_210923_0000.pdf",
+    "tamanho_arquivo": 66895,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente de Telemarketing",
+        "data_admissao": "2025-04-01",
+        "data_demissao": "2025-12-12"
+      }
+    ],
+    "id": "b0a9b3c5be2c",
+    "enviado_em": "2026-02-28T00:15:15.211871",
+    "status": "Novo",
+    "processado_em": "2026-02-28T00:15:15.211879"
   }
 ]
