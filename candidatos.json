@@ -1409,5 +1409,26 @@
     "enviado_em": "2026-03-01T14:40:21.571183",
     "status": "Novo",
     "processado_em": "2026-03-01T14:40:21.571190"
+  },
+  {
+    "nome": "Jean Silva valeiro",
+    "cpf": "115.523.254-23",
+    "telefone": "(55) 82996-2824",
+    "email": "jejehsilva69@gmail.com",
+    "cep": "57309-498",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Quaresmeira",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11552325423_Jean_Silva_valeiro_REPOSITOR_A_20260302_034720.pdf",
+    "arquivo_nome": "Curriculo_Jean_Silva_Valerio_Modelo_Ajustado_CORRIGIDO.pdf",
+    "tamanho_arquivo": 48611,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "712d97f4f299",
+    "enviado_em": "2026-03-02T03:47:21.762494",
+    "status": "Novo",
+    "processado_em": "2026-03-02T03:47:21.762500"
   }
 ]
