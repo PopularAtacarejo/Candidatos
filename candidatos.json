@@ -1430,5 +1430,26 @@
     "enviado_em": "2026-03-02T03:47:21.762494",
     "status": "Novo",
     "processado_em": "2026-03-02T03:47:21.762500"
+  },
+  {
+    "nome": "Victor Gabriel da Silva Santos 8",
+    "cpf": "140.434.934-01",
+    "telefone": "(82) 9945-5788",
+    "email": "victorgabrielll556@gmail.com",
+    "cep": "57315-738",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Pedro Barbosa Bela",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14043493401_Victor_Gabriel_da_Silva_Santos_8_REPOSITOR_A_20260302_164928.pdf",
+    "arquivo_nome": "inbound2963151999009126848.pdf",
+    "tamanho_arquivo": 166587,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "7aee8274f01e",
+    "enviado_em": "2026-03-02T16:49:29.501425",
+    "status": "Novo",
+    "processado_em": "2026-03-02T16:49:29.501436"
   }
 ]
