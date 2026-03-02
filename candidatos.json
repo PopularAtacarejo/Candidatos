@@ -1451,5 +1451,26 @@
     "enviado_em": "2026-03-02T16:49:29.501425",
     "status": "Novo",
     "processado_em": "2026-03-02T16:49:29.501436"
+  },
+  {
+    "nome": "Ana Beatriz dos Santos",
+    "cpf": "140.434.514-07",
+    "telefone": "(82) 99600-6806",
+    "email": "aninhasnaots@gmail.com",
+    "cep": "57315-738",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Pedro Barbosa Bela",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14043451407_Ana_Beatriz_dos_Santos_EMBALADOR_A_20260302_170304.pdf",
+    "arquivo_nome": "Currículo de Marketing e Vendas Estilo Simples em Cinza e Preto.pdf.pdf",
+    "tamanho_arquivo": 73064,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9211aff1f8d9",
+    "enviado_em": "2026-03-02T17:03:05.537423",
+    "status": "Novo",
+    "processado_em": "2026-03-02T17:03:05.537431"
   }
 ]
