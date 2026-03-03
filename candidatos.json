@@ -1568,5 +1568,39 @@
     "enviado_em": "2026-03-03T16:31:47.345670",
     "status": "Novo",
     "processado_em": "2026-03-03T16:31:47.345680"
+  },
+  {
+    "nome": "Maria Eduarda bispo da Silva",
+    "cpf": "119.024.564-75",
+    "telefone": "(82) 99973-0181",
+    "email": "m.eduardaf4201@gmail.com",
+    "cep": "57301-340",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz",
+    "rua": "Rua Menino Alexandre",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11902456475_Maria_Eduarda_bispo_da_Silva_REPOSITOR_A_20260303_174301.pdf",
+    "arquivo_nome": "MinimalistaNeutro 2.pdf",
+    "tamanho_arquivo": 89700,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "aec",
+        "funcao": "atendente de telemarketing",
+        "data_admissao": "2026-03-03",
+        "data_demissao": "2024-06-03"
+      },
+      {
+        "empresa": "Mercado Uniao",
+        "funcao": "Repositora",
+        "data_admissao": "2022-01-03",
+        "data_demissao": "2023-02-03"
+      }
+    ],
+    "id": "2470a0a74eb4",
+    "enviado_em": "2026-03-03T17:43:02.919994",
+    "status": "Novo",
+    "processado_em": "2026-03-03T17:43:02.920001"
   }
 ]
