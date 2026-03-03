@@ -1528,5 +1528,45 @@
     "enviado_em": "2026-03-03T14:22:16.363515",
     "status": "Novo",
     "processado_em": "2026-03-03T14:22:16.363525"
+  },
+  {
+    "nome": "Laryssa dos Santos Ferreira",
+    "cpf": "113.966.824-22",
+    "telefone": "(82) 99694-9850",
+    "email": "transgrecoes@hotmail.com",
+    "cep": "57315-758",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria Luiza Nóbrega Lima",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11396682422_Laryssa_dos_Santos_Ferreira_OPERADOR_A_DE_CAIXA_20260303_163145.pdf",
+    "arquivo_nome": "Laryssa ferreira .pdf",
+    "tamanho_arquivo": 155594,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Abys calçados",
+        "funcao": "Vendedor",
+        "data_admissao": "2012-08-03",
+        "data_demissao": "2013-09-03"
+      },
+      {
+        "empresa": "Mil graus pizzaria",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2016-11-03",
+        "data_demissao": "2018-11-03"
+      },
+      {
+        "empresa": "Formaq",
+        "funcao": "Auxiliar Adm",
+        "data_admissao": "2019-03-03",
+        "data_demissao": "2020-09-03"
+      }
+    ],
+    "id": "45a8cf842134",
+    "enviado_em": "2026-03-03T16:31:47.345670",
+    "status": "Novo",
+    "processado_em": "2026-03-03T16:31:47.345680"
   }
 ]
