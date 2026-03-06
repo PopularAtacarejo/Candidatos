@@ -1651,5 +1651,26 @@
     "enviado_em": "2026-03-05T00:24:02.141008",
     "status": "Novo",
     "processado_em": "2026-03-05T00:24:02.141018"
+  },
+  {
+    "nome": "Lucas Henrique Vieira Gonçalves",
+    "cpf": "126.298.964-71",
+    "telefone": "(82) 99366-4414",
+    "email": "lucashenriquevieiragoncalves@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12629896471_Lucas_Henrique_Vieira_Gonçalves_REPOSITOR_A_20260306_184551.pdf",
+    "arquivo_nome": "inbound1804130739906150047.pdf",
+    "tamanho_arquivo": 128148,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "54f79aa3ce54",
+    "enviado_em": "2026-03-06T18:45:52.625472",
+    "status": "Novo",
+    "processado_em": "2026-03-06T18:45:52.625479"
   }
 ]
