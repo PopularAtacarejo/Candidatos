@@ -1910,5 +1910,33 @@
     "enviado_em": "2026-03-09T15:40:10.112495",
     "status": "Novo",
     "processado_em": "2026-03-09T15:40:10.112505"
+  },
+  {
+    "nome": "Elenildo Carvalho dos Santos",
+    "cpf": "069.939.634-42",
+    "telefone": "(82) 99837-1087",
+    "email": "elenildomotodivulgacoes@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06993963442_Elenildo_Carvalho_dos_Santos_EMBALADOR_A_20260309_154650.pdf",
+    "arquivo_nome": "inbound7622423401596356078.pdf",
+    "tamanho_arquivo": 209258,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ermor",
+        "funcao": "Serviços Gerais",
+        "data_admissao": "2006-07-18",
+        "data_demissao": "2006-08-22"
+      }
+    ],
+    "id": "a385df5b189d",
+    "enviado_em": "2026-03-09T15:46:52.202061",
+    "status": "Novo",
+    "processado_em": "2026-03-09T15:46:52.202071"
   }
 ]
