@@ -1959,5 +1959,33 @@
     "enviado_em": "2026-03-09T15:47:36.395939",
     "status": "Novo",
     "processado_em": "2026-03-09T15:47:36.395946"
+  },
+  {
+    "nome": "camyle Beatriz da Silva Tavares",
+    "cpf": "117.088.114-94",
+    "telefone": "(82) 99805-8840",
+    "email": "camyletavares741@gmail.com",
+    "cep": "57315-720",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Claudeci Gregório da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11708811494_camyle_Beatriz_da_Silva_Tavares_REPOSITOR_A_20260309_155010.pdf",
+    "arquivo_nome": "inbound8267927397649351071.pdf",
+    "tamanho_arquivo": 113780,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Farmácia permanente",
+        "funcao": "Operador de caixa, repositor",
+        "data_admissao": "2024-01-29",
+        "data_demissao": "2025-05-12"
+      }
+    ],
+    "id": "9ff686a4c321",
+    "enviado_em": "2026-03-09T15:50:11.783974",
+    "status": "Novo",
+    "processado_em": "2026-03-09T15:50:11.783982"
   }
 ]
