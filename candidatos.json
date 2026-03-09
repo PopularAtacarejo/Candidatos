@@ -2398,5 +2398,26 @@
     "enviado_em": "2026-03-09T19:41:04.630792",
     "status": "Novo",
     "processado_em": "2026-03-09T19:41:04.630800"
+  },
+  {
+    "nome": "Geovanna Lopes de Sousa",
+    "cpf": "177.896.884-80",
+    "telefone": "(82) 99636-9513",
+    "email": "geovannalopes071@gmail.com",
+    "cep": "57308-450",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Vereador Alípio de Oliveira Caldas",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17789688480_Geovanna_Lopes_de_Sousa_REPOSITOR_A_20260309_195842.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 133271,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c71be2b5802c",
+    "enviado_em": "2026-03-09T19:58:44.270068",
+    "status": "Novo",
+    "processado_em": "2026-03-09T19:58:44.270079"
   }
 ]
