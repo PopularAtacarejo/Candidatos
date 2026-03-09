@@ -2286,5 +2286,33 @@
     "enviado_em": "2026-03-09T18:09:32.374769",
     "status": "Novo",
     "processado_em": "2026-03-09T18:09:32.374776"
+  },
+  {
+    "nome": "Jorge Felisiano porto junior",
+    "cpf": "106.878.954-99",
+    "telefone": "(82) 98893-3028",
+    "email": "junior.porto646999@gmail.com",
+    "cep": "57302-045",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Avenida João Crisóstomo Ramalho",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10687895499_Jorge_Felisiano_porto_junior_REPOSITOR_A_20260309_182304.pdf",
+    "arquivo_nome": "inbound3084320012027702530.pdf",
+    "tamanho_arquivo": 123206,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Sonda supermercados supermercados",
+        "funcao": "Repositor",
+        "data_admissao": "2012-03-19",
+        "data_demissao": "2012-03-09"
+      }
+    ],
+    "id": "4f6f8699c7f9",
+    "enviado_em": "2026-03-09T18:23:05.758436",
+    "status": "Novo",
+    "processado_em": "2026-03-09T18:23:05.758450"
   }
 ]
