@@ -2160,5 +2160,26 @@
     "enviado_em": "2026-03-09T17:27:33.152834",
     "status": "Novo",
     "processado_em": "2026-03-09T17:27:33.152843"
+  },
+  {
+    "nome": "Ingrid Emanuelly Braga da Silva",
+    "cpf": "135.980.164-25",
+    "telefone": "(82) 99943-4834",
+    "email": "ingridbraga444@gmail.com",
+    "cep": "57310-237",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Sebastião José Martins",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13598016425_Ingrid_Emanuelly_Braga_da_Silva_REPOSITOR_A_20260309_172950.pdf",
+    "arquivo_nome": "INGRID EMANUELLY BRAGA DA SILVA-1.pdf",
+    "tamanho_arquivo": 127243,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "08c6ec144cd9",
+    "enviado_em": "2026-03-09T17:29:53.390529",
+    "status": "Novo",
+    "processado_em": "2026-03-09T17:29:53.390536"
   }
 ]
