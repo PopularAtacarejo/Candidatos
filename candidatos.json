@@ -2419,5 +2419,33 @@
     "enviado_em": "2026-03-09T19:58:44.270068",
     "status": "Novo",
     "processado_em": "2026-03-09T19:58:44.270079"
+  },
+  {
+    "nome": "Suzanna Vieira da Rocha Lyra",
+    "cpf": "055.242.014-09",
+    "telefone": "(82) 99990-3174",
+    "email": "suzannavieira82@gmail.com",
+    "cep": "57313-190",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Rubens Pedro da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05524201409_Suzanna_Vieira_da_Rocha_Lyra_REPOSITOR_A_20260309_195940.docx",
+    "arquivo_nome": "inbound6772481449134800235.docx",
+    "tamanho_arquivo": 34953,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Escola Jardim das Palmeiras",
+        "funcao": "Professora",
+        "data_admissao": "2024-01-06",
+        "data_demissao": "2026-02-16"
+      }
+    ],
+    "id": "b83804e56de9",
+    "enviado_em": "2026-03-09T19:59:42.154391",
+    "status": "Novo",
+    "processado_em": "2026-03-09T19:59:42.154399"
   }
 ]
