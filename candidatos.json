@@ -1987,5 +1987,26 @@
     "enviado_em": "2026-03-09T15:50:11.783974",
     "status": "Novo",
     "processado_em": "2026-03-09T15:50:11.783982"
+  },
+  {
+    "nome": "Vanessa bruna da silva",
+    "cpf": "104.202.354-93",
+    "telefone": "(82) 99949-0898",
+    "email": "vanessa.brunasilva02@gmail.com",
+    "cep": "57305-720",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Doralice Fernandes dos Santos",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10420235493_Vanessa_bruna_da_silva_OPERADOR_A_DE_CAIXA_20260309_160022.pdf",
+    "arquivo_nome": "inbound5101733872090791187.pdf",
+    "tamanho_arquivo": 56277,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b601519a1100",
+    "enviado_em": "2026-03-09T16:00:24.192552",
+    "status": "Novo",
+    "processado_em": "2026-03-09T16:00:24.192559"
   }
 ]
