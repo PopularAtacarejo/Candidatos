@@ -2690,5 +2690,26 @@
     "enviado_em": "2026-03-09T23:07:57.709846",
     "status": "Novo",
     "processado_em": "2026-03-09T23:07:57.709856"
+  },
+  {
+    "nome": "Naiane Karla Silvério da Silva",
+    "cpf": "170.321.174-06",
+    "telefone": "(82) 99638-3267",
+    "email": "naianekarlasilv4@gmail.com",
+    "cep": "57307-333",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua Severina de Albuquerque Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17032117406_Naiane_Karla_Silvério_da_Silva_REPOSITOR_A_20260309_233916.pdf",
+    "arquivo_nome": "inbound51125690704297785.pdf",
+    "tamanho_arquivo": 34996,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "520f2b92de7b",
+    "enviado_em": "2026-03-09T23:39:17.609885",
+    "status": "Novo",
+    "processado_em": "2026-03-09T23:39:17.609892"
   }
 ]
