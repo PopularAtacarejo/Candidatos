@@ -1938,5 +1938,26 @@
     "enviado_em": "2026-03-09T15:46:52.202061",
     "status": "Novo",
     "processado_em": "2026-03-09T15:46:52.202071"
+  },
+  {
+    "nome": "KESIA honorato de azevedo",
+    "cpf": "071.627.125-76",
+    "telefone": "(82) 99902-1747",
+    "email": "kesia.azevedo.al@hotmail.com",
+    "cep": "57309-756",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Comendador José de Sá",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07162712576_KESIA_honorato_de_azevedo_OPERADOR_A_DE_CAIXA_20260309_154734.pdf",
+    "arquivo_nome": "Currículo de KESIA .pdf",
+    "tamanho_arquivo": 109091,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "798f1dd0b9b6",
+    "enviado_em": "2026-03-09T15:47:36.395939",
+    "status": "Novo",
+    "processado_em": "2026-03-09T15:47:36.395946"
   }
 ]
