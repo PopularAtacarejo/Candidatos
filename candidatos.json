@@ -1840,5 +1840,26 @@
     "enviado_em": "2026-03-09T14:48:42.695528",
     "status": "Novo",
     "processado_em": "2026-03-09T14:48:42.695536"
+  },
+  {
+    "nome": "Letícia maria da Silva Oliveira",
+    "cpf": "151.754.844-60",
+    "telefone": "(82) 98101-0336",
+    "email": "leticiamarialn9053885@gmail.com",
+    "cep": "57309-135",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Estudante Renato H. dos Santos Silva",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15175484460_Letícia_maria_da_Silva_Oliveira_EMBALADOR_A_20260309_145758.pdf",
+    "arquivo_nome": "Currículo .pdf.pdf",
+    "tamanho_arquivo": 77033,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "4282cc01efdc",
+    "enviado_em": "2026-03-09T14:57:59.679768",
+    "status": "Novo",
+    "processado_em": "2026-03-09T14:57:59.679775"
   }
 ]
