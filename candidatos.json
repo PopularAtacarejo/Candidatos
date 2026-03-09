@@ -2447,5 +2447,26 @@
     "enviado_em": "2026-03-09T19:59:42.154391",
     "status": "Novo",
     "processado_em": "2026-03-09T19:59:42.154399"
+  },
+  {
+    "nome": "Isadora Regina da Silva Santos",
+    "cpf": "175.123.674-90",
+    "telefone": "(82) 98183-0232",
+    "email": "reginaaxs3@gmail.com",
+    "cep": "57317-581",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas",
+    "rua": "Rua Princesa Izabel",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17512367490_Isadora_Regina_da_Silva_Santos_EMBALADOR_A_20260309_214544.pdf",
+    "arquivo_nome": "Currículo Mulher Profissional Simples Branco e Rosa.pdf",
+    "tamanho_arquivo": 42928,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "139aeca3e5a1",
+    "enviado_em": "2026-03-09T21:45:45.393481",
+    "status": "Novo",
+    "processado_em": "2026-03-09T21:45:45.393491"
   }
 ]
