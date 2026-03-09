@@ -2517,5 +2517,45 @@
     "enviado_em": "2026-03-09T22:18:35.985912",
     "status": "Novo",
     "processado_em": "2026-03-09T22:18:35.985919"
+  },
+  {
+    "nome": "Tatielle Maria de Melo Silva",
+    "cpf": "103.996.104-56",
+    "telefone": "(82) 99108-9317",
+    "email": "tatiellemelo879@gmail.com",
+    "cep": "57304-090",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Francisco Cavalcante",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10399610456_Tatielle_Maria_de_Melo_Silva_EMBALADOR_A_20260309_222423.pdf",
+    "arquivo_nome": "inbound2710352737097041380.pdf",
+    "tamanho_arquivo": 445961,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Firts class",
+        "funcao": "Administrativo",
+        "data_admissao": "2025-10-02",
+        "data_demissao": "2026-01-02"
+      },
+      {
+        "empresa": "Star Balanças",
+        "funcao": "Financeiro",
+        "data_admissao": "2024-12-02",
+        "data_demissao": "2025-07-02"
+      },
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente",
+        "data_admissao": "2022-06-01",
+        "data_demissao": "2024-06-05"
+      }
+    ],
+    "id": "13957542c49f",
+    "enviado_em": "2026-03-09T22:24:24.767490",
+    "status": "Novo",
+    "processado_em": "2026-03-09T22:24:24.767498"
   }
 ]
