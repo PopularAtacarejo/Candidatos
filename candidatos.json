@@ -2314,5 +2314,26 @@
     "enviado_em": "2026-03-09T18:23:05.758436",
     "status": "Novo",
     "processado_em": "2026-03-09T18:23:05.758450"
+  },
+  {
+    "nome": "Juan da Silva Oliveira",
+    "cpf": "182.225.984-30",
+    "telefone": "(82) 99661-5160",
+    "email": "juanzovsk@gmail.com",
+    "cep": "57315-756",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Terezinha de Jesus Vital Gomes",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18222598430_Juan_da_Silva_Oliveira_REPOSITOR_A_20260309_182402.pdf",
+    "arquivo_nome": "inbound4411321360036471180.pdf",
+    "tamanho_arquivo": 24085,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "7ebe9d34fc5a",
+    "enviado_em": "2026-03-09T18:24:03.943564",
+    "status": "Novo",
+    "processado_em": "2026-03-09T18:24:03.943571"
   }
 ]
