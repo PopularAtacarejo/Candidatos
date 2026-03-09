@@ -2104,5 +2104,33 @@
     "enviado_em": "2026-03-09T16:23:27.816430",
     "status": "Novo",
     "processado_em": "2026-03-09T16:23:27.816440"
+  },
+  {
+    "nome": "Tayane evelin da silva",
+    "cpf": "119.066.494-13",
+    "telefone": "(82) 99662-8047",
+    "email": "tayanesilvva0@gmail.com",
+    "cep": "57313-760",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Nossa Senhora do Rosário",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11906649413_Tayane_evelin_da_silva_EMBALADOR_A_20260309_170816.pdf",
+    "arquivo_nome": "inbound1830910162456481197.pdf",
+    "tamanho_arquivo": 420523,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec Arapiraca",
+        "funcao": "Atendente",
+        "data_admissao": "2020-01-02",
+        "data_demissao": "2021-02-14"
+      }
+    ],
+    "id": "a0fd21aa812a",
+    "enviado_em": "2026-03-09T17:08:18.522362",
+    "status": "Novo",
+    "processado_em": "2026-03-09T17:08:18.522369"
   }
 ]
