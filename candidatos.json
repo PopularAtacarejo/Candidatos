@@ -2064,5 +2064,45 @@
     "enviado_em": "2026-03-09T16:06:03.672978",
     "status": "Novo",
     "processado_em": "2026-03-09T16:06:03.672986"
+  },
+  {
+    "nome": "Catiana Rocha Gomes",
+    "cpf": "074.663.194-40",
+    "telefone": "(82) 98204-8853",
+    "email": "catiana154@gmail.com",
+    "cep": "57312-230",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua da Liberdade",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07466319440_Catiana_Rocha_Gomes_OPERADOR_A_DE_CAIXA_20260309_162326.docx",
+    "arquivo_nome": "inbound1035994613541708968.docx",
+    "tamanho_arquivo": 41135,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado jormat",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2024-03-10",
+        "data_demissao": "2024-09-17"
+      },
+      {
+        "empresa": "Supermercado Gmax",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2025-10-04",
+        "data_demissao": "2026-03-04"
+      },
+      {
+        "empresa": "Indústria de Cimento zumbi",
+        "funcao": "Acessora comercial",
+        "data_admissao": "2021-11-10",
+        "data_demissao": "2022-03-09"
+      }
+    ],
+    "id": "4497dd526527",
+    "enviado_em": "2026-03-09T16:23:27.816430",
+    "status": "Novo",
+    "processado_em": "2026-03-09T16:23:27.816440"
   }
 ]
