@@ -2335,5 +2335,26 @@
     "enviado_em": "2026-03-09T18:24:03.943564",
     "status": "Novo",
     "processado_em": "2026-03-09T18:24:03.943571"
+  },
+  {
+    "nome": "Kelvin Geraldo Magalhães elisiario",
+    "cpf": "152.455.804-46",
+    "telefone": "(82) 99902-9892",
+    "email": "kelvingeraldo86@gmail.com",
+    "cep": "57309-504",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Arapiraca",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15245580446_Kelvin_Geraldo_Magalhães_elisiario_AUX._DE_ESTOQUE_20260309_185154.pdf",
+    "arquivo_nome": "Curriculo_Kelvin_Geraldo_Magalhaes_Elisiario.pdf",
+    "tamanho_arquivo": 564679,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "8020a732bfeb",
+    "enviado_em": "2026-03-09T18:51:56.765141",
+    "status": "Novo",
+    "processado_em": "2026-03-09T18:51:56.765148"
   }
 ]
