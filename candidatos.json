@@ -2036,5 +2036,33 @@
     "enviado_em": "2026-03-09T16:02:46.286055",
     "status": "Novo",
     "processado_em": "2026-03-09T16:02:46.286066"
+  },
+  {
+    "nome": "Luís Felipe Silva Brito",
+    "cpf": "139.172.094-62",
+    "telefone": "(82) 99928-4358",
+    "email": "felipebrito1939@hotmail.com",
+    "cep": "57313-310",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Nossa Senhora do Ó",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13917209462_Luís_Felipe_Silva_Brito_EMBALADOR_A_20260309_160602.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 98182,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "S.Pessoa Distribuidor",
+        "funcao": "Embalador",
+        "data_admissao": "2016-08-24",
+        "data_demissao": "2018-01-27"
+      }
+    ],
+    "id": "35e55a1abb5d",
+    "enviado_em": "2026-03-09T16:06:03.672978",
+    "status": "Novo",
+    "processado_em": "2026-03-09T16:06:03.672986"
   }
 ]
