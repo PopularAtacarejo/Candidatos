@@ -2468,5 +2468,33 @@
     "enviado_em": "2026-03-09T21:45:45.393481",
     "status": "Novo",
     "processado_em": "2026-03-09T21:45:45.393491"
+  },
+  {
+    "nome": "Tatiana Lopes da Silva",
+    "cpf": "112.534.124-64",
+    "telefone": "(55) 82999-7575",
+    "email": "lopesdasilvatatiana420@gmail.com",
+    "cep": "57310-250",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Edwiges",
+    "rua": "Rua Celestina Maria do Nascimento",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11253412464_Tatiana_Lopes_da_Silva_EMBALADOR_A_20260309_220012.pdf",
+    "arquivo_nome": "inbound8767654757837305072.pdf",
+    "tamanho_arquivo": 120512,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Café show",
+        "funcao": "Auxiliar de conzinha",
+        "data_admissao": "2019-03-11",
+        "data_demissao": "2021-10-31"
+      }
+    ],
+    "id": "11bdbe5244ac",
+    "enviado_em": "2026-03-09T22:00:13.850054",
+    "status": "Novo",
+    "processado_em": "2026-03-09T22:00:13.850062"
   }
 ]
