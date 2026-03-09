@@ -2662,5 +2662,33 @@
     "enviado_em": "2026-03-09T22:58:53.115484",
     "status": "Novo",
     "processado_em": "2026-03-09T22:58:53.115492"
+  },
+  {
+    "nome": "Mysmiane aparecida dos anjos",
+    "cpf": "097.847.754-50",
+    "telefone": "(82) 99402-3854",
+    "email": "mysmiane22anjos@gmail.com",
+    "cep": "57315-760",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua José Arestides da Silva",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09784775450_Mysmiane_aparecida_dos_anjos_OPERADOR_A_DE_CAIXA_20260309_230756.pdf",
+    "arquivo_nome": "inbound2908501342020674121.pdf",
+    "tamanho_arquivo": 197647,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Pj mania",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2011-01-02",
+        "data_demissao": "2017-09-21"
+      }
+    ],
+    "id": "1b8b755485f0",
+    "enviado_em": "2026-03-09T23:07:57.709846",
+    "status": "Novo",
+    "processado_em": "2026-03-09T23:07:57.709856"
   }
 ]
