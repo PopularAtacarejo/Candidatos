@@ -2258,5 +2258,33 @@
     "enviado_em": "2026-03-09T17:57:28.960490",
     "status": "Novo",
     "processado_em": "2026-03-09T17:57:28.960499"
+  },
+  {
+    "nome": "Ediklisvalvertt Da Silva Dias",
+    "cpf": "075.520.555-37",
+    "telefone": "(79) 99646-3937",
+    "email": "valverttd@gmail.com",
+    "cep": "57313-060",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Dois de Fevereiro",
+    "transporte": "Sim",
+    "vaga": "AÇOUGUEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07552055537_Ediklisvalvertt_Da_Silva_Dias_AÇOUGUEIRO_20260309_180930.pdf",
+    "arquivo_nome": "Valvertt arapiraca.pdf",
+    "tamanho_arquivo": 144737,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Grupo Mix Mateus",
+        "funcao": "Gestor de açougue",
+        "data_admissao": "2020-12-02",
+        "data_demissao": "2023-08-16"
+      }
+    ],
+    "id": "6eb8346d1d66",
+    "enviado_em": "2026-03-09T18:09:32.374769",
+    "status": "Novo",
+    "processado_em": "2026-03-09T18:09:32.374776"
   }
 ]
