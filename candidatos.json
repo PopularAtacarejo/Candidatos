@@ -2356,5 +2356,26 @@
     "enviado_em": "2026-03-09T18:51:56.765141",
     "status": "Novo",
     "processado_em": "2026-03-09T18:51:56.765148"
+  },
+  {
+    "nome": "Edilene Queiroz da Silva",
+    "cpf": "031.014.914-28",
+    "telefone": "(82) 99986-5025",
+    "email": "queirozedelene@gmail.com",
+    "cep": "57301-738",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz II",
+    "rua": "Rua Luís Pereira Pessoa",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/03101491428_Edilene_Queiroz_da_Silva_AUXILIAR_DE_LIMPEZA_20260309_190432.docx",
+    "arquivo_nome": "inbound7221564204533391664.docx",
+    "tamanho_arquivo": 214476,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "84ed8f43c5ed",
+    "enviado_em": "2026-03-09T19:04:33.474474",
+    "status": "Novo",
+    "processado_em": "2026-03-09T19:04:33.474484"
   }
 ]
