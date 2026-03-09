@@ -2634,5 +2634,33 @@
     "enviado_em": "2026-03-09T22:50:28.060378",
     "status": "Novo",
     "processado_em": "2026-03-09T22:50:28.060389"
+  },
+  {
+    "nome": "Gerson Nunes da Silva Neto",
+    "cpf": "141.985.754-10",
+    "telefone": "(82) 99953-9488",
+    "email": "gersonn550@gmail.com",
+    "cep": "57302-609",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Adalberto Pereira Rocha",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14198575410_Gerson_Nunes_da_Silva_Neto_REPOSITOR_A_20260309_225851.pdf",
+    "arquivo_nome": "Currículo Gerson_20260227_125213_0000.pdf",
+    "tamanho_arquivo": 93355,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Tio Fernando",
+        "funcao": "Auxiliar de produção",
+        "data_admissao": "2018-04-04",
+        "data_demissao": "2025-08-11"
+      }
+    ],
+    "id": "dd8d12b16b83",
+    "enviado_em": "2026-03-09T22:58:53.115484",
+    "status": "Novo",
+    "processado_em": "2026-03-09T22:58:53.115492"
   }
 ]
