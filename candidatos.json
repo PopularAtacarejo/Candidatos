@@ -2606,5 +2606,33 @@
     "enviado_em": "2026-03-09T22:40:42.996212",
     "status": "Novo",
     "processado_em": "2026-03-09T22:40:42.996220"
+  },
+  {
+    "nome": "Adriana pereira da silva",
+    "cpf": "086.986.734-22",
+    "telefone": "(82) 99641-4450",
+    "email": "pereiratanba@gmail.com",
+    "cep": "57308-080",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Virgílio Rodrigues da Silva",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08698673422_Adriana_pereira_da_silva_AUXILIAR_DE_PADEIRO_20260309_225026.pdf",
+    "arquivo_nome": "curriculo de Adriana (2) (1).pdf",
+    "tamanho_arquivo": 116708,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "hospital chama",
+        "funcao": "serviços gerais",
+        "data_admissao": "2022-08-28",
+        "data_demissao": "2025-07-08"
+      }
+    ],
+    "id": "5fb73a96327a",
+    "enviado_em": "2026-03-09T22:50:28.060378",
+    "status": "Novo",
+    "processado_em": "2026-03-09T22:50:28.060389"
   }
 ]
