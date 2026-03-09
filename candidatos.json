@@ -1763,5 +1763,26 @@
     "enviado_em": "2026-03-09T13:59:50.558309",
     "status": "Novo",
     "processado_em": "2026-03-09T13:59:50.558318"
+  },
+  {
+    "nome": "Kauãne Vitória Da Silva Almeida",
+    "cpf": "150.192.784-16",
+    "telefone": "(82) 99637-6851",
+    "email": "kauanevitoriadsilva0607@gmail.com",
+    "cep": "57310-285",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Edwiges",
+    "rua": "Rua Marinês Nunes dos Santos",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15019278416_Kauãne_Vitória_Da_Silva_Almeida_EMBALADOR_A_20260309_143522.pdf",
+    "arquivo_nome": "inbound6017527046444891011.pdf",
+    "tamanho_arquivo": 83966,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c091fca30383",
+    "enviado_em": "2026-03-09T14:35:24.405363",
+    "status": "Novo",
+    "processado_em": "2026-03-09T14:35:24.405373"
   }
 ]
