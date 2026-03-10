@@ -3005,5 +3005,33 @@
     "enviado_em": "2026-03-10T11:34:38.946617",
     "status": "Novo",
     "processado_em": "2026-03-10T11:34:38.946630"
+  },
+  {
+    "nome": "Luany Marcela dos Santos Silva",
+    "cpf": "136.256.574-14",
+    "telefone": "(82) 99636-9349",
+    "email": "luanymarcela2012@gmail.com",
+    "cep": "57300-030",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Boa Vista",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13625657414_Luany_Marcela_dos_Santos_Silva_OPERADOR_A_DE_CAIXA_20260310_113530.pdf",
+    "arquivo_nome": "Luany Marcela.pdf.pdf",
+    "tamanho_arquivo": 133698,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Doce varejo",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2022-01-02",
+        "data_demissao": "2024-01-10"
+      }
+    ],
+    "id": "c297a968c08e",
+    "enviado_em": "2026-03-10T11:35:32.075850",
+    "status": "Novo",
+    "processado_em": "2026-03-10T11:35:32.075859"
   }
 ]
