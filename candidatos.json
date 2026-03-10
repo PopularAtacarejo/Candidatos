@@ -2928,5 +2928,26 @@
     "enviado_em": "2026-03-10T02:21:10.935963",
     "status": "Novo",
     "processado_em": "2026-03-10T02:21:10.935973"
+  },
+  {
+    "nome": "Gilcelia da Silva Santos",
+    "cpf": "147.677.884-12",
+    "telefone": "(82) 99650-7253",
+    "email": "gilceliamaria4567@gmail.com",
+    "cep": "57316-305",
+    "cidade": "Arapiraca",
+    "bairro": "Nova Esperança",
+    "rua": "Rua Djalma Matheus Santana",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14767788412_Gilcelia_da_Silva_Santos_EMBALADOR_A_20260310_074718.pdf",
+    "arquivo_nome": "inbound4063414434178122441.pdf",
+    "tamanho_arquivo": 847638,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "131851452ab0",
+    "enviado_em": "2026-03-10T07:47:19.936677",
+    "status": "Novo",
+    "processado_em": "2026-03-10T07:47:19.936682"
   }
 ]
