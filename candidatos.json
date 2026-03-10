@@ -3215,5 +3215,26 @@
     "enviado_em": "2026-03-10T20:18:47.885828",
     "status": "Novo",
     "processado_em": "2026-03-10T20:18:47.885838"
+  },
+  {
+    "nome": "José Ricardo Araújo de Souza",
+    "cpf": "176.721.484-78",
+    "telefone": "(82) 99950-0598",
+    "email": "carlaaraujodesouza5011@gmail.com",
+    "cep": "57316-466",
+    "cidade": "Arapiraca",
+    "bairro": "Nova Esperança",
+    "rua": "Rua Ceará",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17672148478_José_Ricardo_Araújo_de_Souza_EMBALADOR_A_20260310_212332.docx",
+    "arquivo_nome": "curriculo jose ricardo.docx",
+    "tamanho_arquivo": 46149,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "71f5a987f1ea",
+    "enviado_em": "2026-03-10T21:23:33.292551",
+    "status": "Novo",
+    "processado_em": "2026-03-10T21:23:33.292559"
   }
 ]
