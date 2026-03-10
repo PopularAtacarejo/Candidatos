@@ -3054,5 +3054,33 @@
     "enviado_em": "2026-03-10T11:45:11.544637",
     "status": "Novo",
     "processado_em": "2026-03-10T11:45:11.544646"
+  },
+  {
+    "nome": "Andressa Ferreira Silva",
+    "cpf": "116.061.364-88",
+    "telefone": "(82) 99624-0500",
+    "email": "silva102andressa@gmail.com",
+    "cep": "57304-830",
+    "cidade": "Arapiraca",
+    "bairro": "Padre Antônio Lima Neto",
+    "rua": "Rua Marcionilio Izidoro dos Santos",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11606136488_Andressa_Ferreira_Silva_OPERADOR_A_DE_CAIXA_20260310_114736.pdf",
+    "arquivo_nome": "inbound4056274822229558389.pdf",
+    "tamanho_arquivo": 359232,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec contatos",
+        "funcao": "Atendente de telemarketing",
+        "data_admissao": "2024-08-30",
+        "data_demissao": "2025-09-12"
+      }
+    ],
+    "id": "a39061d0c081",
+    "enviado_em": "2026-03-10T11:47:37.425548",
+    "status": "Novo",
+    "processado_em": "2026-03-10T11:47:37.425556"
   }
 ]
