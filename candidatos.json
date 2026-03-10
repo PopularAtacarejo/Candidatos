@@ -2872,5 +2872,33 @@
     "enviado_em": "2026-03-10T01:42:37.068618",
     "status": "Novo",
     "processado_em": "2026-03-10T01:42:37.068625"
+  },
+  {
+    "nome": "Maria Valdirene dos Santos Silva",
+    "cpf": "008.329.304-31",
+    "telefone": "(82) 98142-8107",
+    "email": "walsantos809@gmail.com",
+    "cep": "57310-270",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Edwiges",
+    "rua": "Rua João Ferreira de Albuquerque",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/00832930431_Maria_Valdirene_dos_Santos_Silva_EMBALADOR_A_20260310_020250.pdf",
+    "arquivo_nome": "inbound7963559552939813957.pdf",
+    "tamanho_arquivo": 3462,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jomart",
+        "funcao": "Auxiliar limpeza",
+        "data_admissao": "2024-06-01",
+        "data_demissao": "2025-07-05"
+      }
+    ],
+    "id": "6115f41fa8c3",
+    "enviado_em": "2026-03-10T02:02:51.499624",
+    "status": "Novo",
+    "processado_em": "2026-03-10T02:02:51.499633"
   }
 ]
