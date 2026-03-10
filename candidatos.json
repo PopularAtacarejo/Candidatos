@@ -2949,5 +2949,33 @@
     "enviado_em": "2026-03-10T07:47:19.936677",
     "status": "Novo",
     "processado_em": "2026-03-10T07:47:19.936682"
+  },
+  {
+    "nome": "Raissa Santos da Silva",
+    "cpf": "028.844.284-96",
+    "telefone": "(82) 99801-5983",
+    "email": "raissssantosdasilva@gmail.com",
+    "cep": "57310-485",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Zeferino Pedro da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/02884428496_Raissa_Santos_da_Silva_REPOSITOR_A_20260310_113010.pdf",
+    "arquivo_nome": "RAISSA SANTOS DA SILVA.pdf",
+    "tamanho_arquivo": 441085,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Oba hortifruti SP",
+        "funcao": "Repositora de mercearia e op de caixa",
+        "data_admissao": "2022-03-10",
+        "data_demissao": "2023-05-12"
+      }
+    ],
+    "id": "94be9ff120d7",
+    "enviado_em": "2026-03-10T11:30:11.667312",
+    "status": "Novo",
+    "processado_em": "2026-03-10T11:30:11.667321"
   }
 ]
