@@ -3264,5 +3264,33 @@
     "enviado_em": "2026-03-10T22:50:29.134854",
     "status": "Novo",
     "processado_em": "2026-03-10T22:50:29.134861"
+  },
+  {
+    "nome": "Maurício Gustavo Ferreira da Silva",
+    "cpf": "118.518.034-67",
+    "telefone": "(82) 99802-3669",
+    "email": "mauricio000gustavo@gmail.com",
+    "cep": "57304-470",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Izaú Lúcio da Silva",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11851803467_Maurício_Gustavo_Ferreira_da_Silva_OPERADOR_A_DE_CAIXA_20260310_225043.pdf",
+    "arquivo_nome": "inbound7447445583400996756.pdf",
+    "tamanho_arquivo": 99724,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Azul atacarejo",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2023-02-17",
+        "data_demissao": "2024-02-14"
+      }
+    ],
+    "id": "fea5a89ffdc7",
+    "enviado_em": "2026-03-10T22:50:45.190601",
+    "status": "Novo",
+    "processado_em": "2026-03-10T22:50:45.190611"
   }
 ]
