@@ -2830,5 +2830,26 @@
     "enviado_em": "2026-03-10T01:05:40.786341",
     "status": "Novo",
     "processado_em": "2026-03-10T01:05:40.786350"
+  },
+  {
+    "nome": "Gustavo Miguel de Oliveira Silva",
+    "cpf": "136.028.754-07",
+    "telefone": "(82) 98236-1604",
+    "email": "contatogustavomiguel@gmail.com",
+    "cep": "57312-016",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Alexandrina Pereira de Oliveira",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13602875407_Gustavo_Miguel_de_Oliveira_Silva_REPOSITOR_DE_FRIOS_20260310_011426.pdf",
+    "arquivo_nome": "inbound309447572667932618.pdf",
+    "tamanho_arquivo": 53349,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "2de75d55d762",
+    "enviado_em": "2026-03-10T01:14:28.472289",
+    "status": "Novo",
+    "processado_em": "2026-03-10T01:14:28.472299"
   }
 ]
