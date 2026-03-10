@@ -3166,5 +3166,26 @@
     "enviado_em": "2026-03-10T13:57:48.508875",
     "status": "Novo",
     "processado_em": "2026-03-10T13:57:48.508882"
+  },
+  {
+    "nome": "Maria Lucilene da Conceição",
+    "cpf": "085.844.044-06",
+    "telefone": "(82) 99618-0266",
+    "email": "santoscilene2019@gmail.com",
+    "cep": "57313-760",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Nossa Senhora do Rosário",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08584404406_Maria_Lucilene_da_Conceição_AUXILIAR_DE_LIMPEZA_20260310_182323.pdf",
+    "arquivo_nome": "Curriculo Cilene.pdf",
+    "tamanho_arquivo": 98148,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a693ba28f788",
+    "enviado_em": "2026-03-10T18:23:24.812190",
+    "status": "Novo",
+    "processado_em": "2026-03-10T18:23:24.812199"
   }
 ]
