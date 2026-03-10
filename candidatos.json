@@ -3082,5 +3082,33 @@
     "enviado_em": "2026-03-10T11:47:37.425548",
     "status": "Novo",
     "processado_em": "2026-03-10T11:47:37.425556"
+  },
+  {
+    "nome": "Cicera polliany ferreira da Silva",
+    "cpf": "074.215.384-37",
+    "telefone": "(82) 99607-0240",
+    "email": "pollyanyrau@gmail.com",
+    "cep": "57315-710",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Joaquim Pereira Gomes",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07421538437_Cicera_polliany_ferreira_da_Silva_REPOSITOR_DE_FRIOS_20260310_120159.pdf",
+    "arquivo_nome": "inbound7239890940183742476.pdf",
+    "tamanho_arquivo": 6017,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Super mercado Albuquerques",
+        "funcao": "Fritos",
+        "data_admissao": "2024-04-25",
+        "data_demissao": "2026-11-29"
+      }
+    ],
+    "id": "8038aa1ad217",
+    "enviado_em": "2026-03-10T12:02:00.976498",
+    "status": "Novo",
+    "processado_em": "2026-03-10T12:02:00.976508"
   }
 ]
