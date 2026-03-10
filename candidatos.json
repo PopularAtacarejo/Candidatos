@@ -3110,5 +3110,33 @@
     "enviado_em": "2026-03-10T12:02:00.976498",
     "status": "Novo",
     "processado_em": "2026-03-10T12:02:00.976508"
+  },
+  {
+    "nome": "Maria Liliane Dos Santos Alcântara",
+    "cpf": "118.939.444-84",
+    "telefone": "(82) 99123-8466",
+    "email": "lyhalcantara1712@gmail.com",
+    "cep": "57303-811",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua José Raimundo Sobrinho",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11893944484_Maria_Liliane_Dos_Santos_Alcântara_OPERADOR_A_DE_CAIXA_20260310_134143.pdf",
+    "arquivo_nome": "inbound8868283966423338842.pdf",
+    "tamanho_arquivo": 484985,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Pizzaria Americana",
+        "funcao": "Operadora De Caixa",
+        "data_admissao": "2019-06-05",
+        "data_demissao": "2022-10-07"
+      }
+    ],
+    "id": "d5354731ee10",
+    "enviado_em": "2026-03-10T13:41:45.334496",
+    "status": "Novo",
+    "processado_em": "2026-03-10T13:41:45.334503"
   }
 ]
