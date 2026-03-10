@@ -2809,5 +2809,26 @@
     "enviado_em": "2026-03-10T00:54:06.550734",
     "status": "Novo",
     "processado_em": "2026-03-10T00:54:06.550744"
+  },
+  {
+    "nome": "Valdecy dos santos",
+    "cpf": "137.979.064-63",
+    "telefone": "(82) 99915-9841",
+    "email": "wallsantos@8765gmail.com",
+    "cep": "57311-280",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Francisco Pereira de Albuquerque",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13797906463_Valdecy_dos_santos_EMBALADOR_A_20260310_010539.pdf",
+    "arquivo_nome": "curriculo valdecy 3.pdf",
+    "tamanho_arquivo": 97275,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "dff46de5a6a8",
+    "enviado_em": "2026-03-10T01:05:40.786341",
+    "status": "Novo",
+    "processado_em": "2026-03-10T01:05:40.786350"
   }
 ]
