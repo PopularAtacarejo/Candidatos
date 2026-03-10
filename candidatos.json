@@ -2977,5 +2977,33 @@
     "enviado_em": "2026-03-10T11:30:11.667312",
     "status": "Novo",
     "processado_em": "2026-03-10T11:30:11.667321"
+  },
+  {
+    "nome": "Gilvonete dos Santos Rocha Silva",
+    "cpf": "043.974.144-08",
+    "telefone": "(82) 99105-3581",
+    "email": "silvacynthia2022@gmail.com",
+    "cep": "57310-495",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Vinte e Um de Maio",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/04397414408_Gilvonete_dos_Santos_Rocha_Silva_AUXILIAR_DE_LIMPEZA_20260310_113437.pdf",
+    "arquivo_nome": "inbound3605346101090387335.pdf",
+    "tamanho_arquivo": 107686,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Âmbito Residencial",
+        "funcao": "Cozinheira",
+        "data_admissao": "2003-01-01",
+        "data_demissao": "2003-12-05"
+      }
+    ],
+    "id": "770506085d00",
+    "enviado_em": "2026-03-10T11:34:38.946617",
+    "status": "Novo",
+    "processado_em": "2026-03-10T11:34:38.946630"
   }
 ]
