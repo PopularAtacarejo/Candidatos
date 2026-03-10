@@ -3187,5 +3187,33 @@
     "enviado_em": "2026-03-10T18:23:24.812190",
     "status": "Novo",
     "processado_em": "2026-03-10T18:23:24.812199"
+  },
+  {
+    "nome": "José Fernando Ferreira Barbosa",
+    "cpf": "341.446.930-82",
+    "telefone": "(82) 99147-1347",
+    "email": "josseefeernando@gmail.com",
+    "cep": "57310-520",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Rosendo Maia",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/34144693082_José_Fernando_Ferreira_Barbosa_REPOSITOR_A_20260310_201846.pdf",
+    "arquivo_nome": "Currículo-José:Fernando.pdf",
+    "tamanho_arquivo": 46231,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Restaurante Boca Cheia",
+        "funcao": "Estagiário",
+        "data_admissao": "2021-01-01",
+        "data_demissao": "2023-12-31"
+      }
+    ],
+    "id": "7e7910c896d3",
+    "enviado_em": "2026-03-10T20:18:47.885828",
+    "status": "Novo",
+    "processado_em": "2026-03-10T20:18:47.885838"
   }
 ]
