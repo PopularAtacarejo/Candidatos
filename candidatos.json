@@ -3410,5 +3410,33 @@
     "enviado_em": "2026-03-11T20:36:51.119943",
     "status": "Novo",
     "processado_em": "2026-03-11T20:36:51.119952"
+  },
+  {
+    "nome": "Rayanne Kethllyn Constantino de Araújo",
+    "cpf": "129.178.314-80",
+    "telefone": "(82) 99637-0497",
+    "email": "kethllynrayanne285@gmail.com",
+    "cep": "57312-130",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Lauro F. de Macêdo",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12917831480_Rayanne_Kethllyn_Constantino_de_Araújo_AUX._DE_ESTOQUE_20260311_212402.pdf",
+    "arquivo_nome": "RAYANNE KETHLLYN CONSTANTINO DE ARAÚJO.pdf",
+    "tamanho_arquivo": 37759,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Hotel villa nova",
+        "funcao": "Auxiliar de conzinha e limpeza",
+        "data_admissao": "2025-10-30",
+        "data_demissao": "2026-03-11"
+      }
+    ],
+    "id": "3e4972554c54",
+    "enviado_em": "2026-03-11T21:24:03.456253",
+    "status": "Novo",
+    "processado_em": "2026-03-11T21:24:03.456262"
   }
 ]
