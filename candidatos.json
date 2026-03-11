@@ -3354,5 +3354,33 @@
     "enviado_em": "2026-03-11T12:39:52.582533",
     "status": "Novo",
     "processado_em": "2026-03-11T12:39:52.582563"
+  },
+  {
+    "nome": "Nayara Rayanne Souza Silva",
+    "cpf": "098.020.404-60",
+    "telefone": "(82) 99384-3811",
+    "email": "cidinha98761@gmail.com",
+    "cep": "57313-740",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua São Judas Tadeu",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09802040460_Nayara_Rayanne_Souza_Silva_OPERADOR_A_DE_CAIXA_20260311_133400.pdf",
+    "arquivo_nome": "Currículo atualizado 2026.pdf",
+    "tamanho_arquivo": 452430,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mega Buda",
+        "funcao": "Operadora de caixa",
+        "data_admissao": "2024-01-30",
+        "data_demissao": "2025-09-19"
+      }
+    ],
+    "id": "6cedf8660bd9",
+    "enviado_em": "2026-03-11T13:34:01.957300",
+    "status": "Novo",
+    "processado_em": "2026-03-11T13:34:01.957308"
   }
 ]
