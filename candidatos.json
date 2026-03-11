@@ -3292,5 +3292,39 @@
     "enviado_em": "2026-03-10T22:50:45.190601",
     "status": "Novo",
     "processado_em": "2026-03-10T22:50:45.190611"
+  },
+  {
+    "nome": "Leticia da silva santos",
+    "cpf": "118.541.904-74",
+    "telefone": "(82) 99430-1107",
+    "email": "leticia.santoss.ka@gmail.com",
+    "cep": "57314-150",
+    "cidade": "Arapiraca",
+    "bairro": "Itapoã",
+    "rua": "Rua Claudete Maria de Melo",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11854190474_Leticia_da_silva_santos_REPOSITOR_A_20260311_115354.pdf",
+    "arquivo_nome": "inbound5673515399198852572.pdf",
+    "tamanho_arquivo": 928409,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão",
+        "funcao": "Jovem Aprendiz",
+        "data_admissao": "2024-01-02",
+        "data_demissao": "2025-05-20"
+      },
+      {
+        "empresa": "Aec",
+        "funcao": "Analista do ifood- Jovem aprendiz",
+        "data_admissao": "2025-08-19",
+        "data_demissao": "2026-02-18"
+      }
+    ],
+    "id": "07261e526822",
+    "enviado_em": "2026-03-11T11:53:55.913141",
+    "status": "Novo",
+    "processado_em": "2026-03-11T11:53:55.913150"
   }
 ]
