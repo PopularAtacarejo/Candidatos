@@ -3599,5 +3599,26 @@
     "enviado_em": "2026-03-12T19:31:19.653912",
     "status": "Novo",
     "processado_em": "2026-03-12T19:31:19.653919"
+  },
+  {
+    "nome": "Erik Lucio Da Silva",
+    "cpf": "100.197.364-01",
+    "telefone": "(82) 98166-7603",
+    "email": "2007eriksilva10@gmail.com",
+    "cep": "57300-590",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Expedicionários Brasileiros",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10019736401_Erik_Lucio_Da_Silva_BALCONISTA_DE_PADARIA_20260312_222332.pdf",
+    "arquivo_nome": "inbound9130917495115235242.pdf",
+    "tamanho_arquivo": 105642,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "cc1aa71bfca2",
+    "enviado_em": "2026-03-12T22:23:33.328878",
+    "status": "Novo",
+    "processado_em": "2026-03-12T22:23:33.328886"
   }
 ]
