@@ -3515,5 +3515,26 @@
     "enviado_em": "2026-03-12T14:52:43.728108",
     "status": "Novo",
     "processado_em": "2026-03-12T14:52:43.728118"
+  },
+  {
+    "nome": "Ingrid Emanuelly Braga da Silva",
+    "cpf": "135.980.164-25",
+    "telefone": "(82) 99943-4834",
+    "email": "ingridbraga444@gmail.com",
+    "cep": "57310-237",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Sebastião José Martins",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13598016425_Ingrid_Emanuelly_Braga_da_Silva_AUX._DE_ESTOQUE_20260312_184647.pdf",
+    "arquivo_nome": "INGRID EMANUELLY BRAGA DA SILVA.pdf",
+    "tamanho_arquivo": 127243,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "65e37bcf26c7",
+    "enviado_em": "2026-03-12T18:46:48.562811",
+    "status": "Novo",
+    "processado_em": "2026-03-12T18:46:48.562820"
   }
 ]
