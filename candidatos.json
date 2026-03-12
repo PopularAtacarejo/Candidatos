@@ -3438,5 +3438,33 @@
     "enviado_em": "2026-03-11T21:24:03.456253",
     "status": "Novo",
     "processado_em": "2026-03-11T21:24:03.456262"
+  },
+  {
+    "nome": "Larissa Morgana Barbosa Silva",
+    "cpf": "107.255.154-30",
+    "telefone": "(82) 99334-1715",
+    "email": "larissamorgana413@gmail.com",
+    "cep": "57302-660",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Antônio Muniz",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10725515430_Larissa_Morgana_Barbosa_Silva_OPERADOR_A_DE_CAIXA_20260312_100920.pdf",
+    "arquivo_nome": "Currículo nv.pdf",
+    "tamanho_arquivo": 174664,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jomart",
+        "funcao": "Op de caixa",
+        "data_admissao": "2025-12-12",
+        "data_demissao": "2026-03-03"
+      }
+    ],
+    "id": "01a7f2dceee7",
+    "enviado_em": "2026-03-12T10:09:21.771003",
+    "status": "Novo",
+    "processado_em": "2026-03-12T10:09:21.771011"
   }
 ]
