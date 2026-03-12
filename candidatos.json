@@ -3641,5 +3641,26 @@
     "enviado_em": "2026-03-12T22:25:02.029955",
     "status": "Novo",
     "processado_em": "2026-03-12T22:25:02.029963"
+  },
+  {
+    "nome": "Erik Lucio Da Silva",
+    "cpf": "100.197.364-01",
+    "telefone": "(82) 98166-7603",
+    "email": "2007eriksilva10@gmail.com",
+    "cep": "57300-590",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Expedicionários Brasileiros",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10019736401_Erik_Lucio_Da_Silva_AUX._DE_PREVENÇÃO_E_PERDAS_20260312_222554.pdf",
+    "arquivo_nome": "inbound3664645206654451441.pdf",
+    "tamanho_arquivo": 105642,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "848d2bdd8940",
+    "enviado_em": "2026-03-12T22:25:55.692280",
+    "status": "Novo",
+    "processado_em": "2026-03-12T22:25:55.692288"
   }
 ]
