@@ -3683,5 +3683,33 @@
     "enviado_em": "2026-03-12T22:26:55.238718",
     "status": "Novo",
     "processado_em": "2026-03-12T22:26:55.238726"
+  },
+  {
+    "nome": "Fernando Ferreira da Silva",
+    "cpf": "048.252.294-17",
+    "telefone": "(55) 82996-4206",
+    "email": "fernandofs1982@gmail.com",
+    "cep": "57312-255",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Pedro Bernardino da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/04825229417_Fernando_Ferreira_da_Silva_REPOSITOR_A_20260312_224321.pdf",
+    "arquivo_nome": "inbound4159409199948973095.pdf",
+    "tamanho_arquivo": 39634,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Unicompra",
+        "funcao": "Repositor",
+        "data_admissao": "2014-03-12",
+        "data_demissao": "2016-03-22"
+      }
+    ],
+    "id": "e31cca259268",
+    "enviado_em": "2026-03-12T22:43:22.403225",
+    "status": "Novo",
+    "processado_em": "2026-03-12T22:43:22.403232"
   }
 ]
