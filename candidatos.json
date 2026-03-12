@@ -3494,5 +3494,26 @@
     "enviado_em": "2026-03-12T13:37:56.349542",
     "status": "Novo",
     "processado_em": "2026-03-12T13:37:56.349552"
+  },
+  {
+    "nome": "Maria Clara Ramalho da Silva",
+    "cpf": "152.791.084-99",
+    "telefone": "(82) 99903-8391",
+    "email": "claramaria2023n@icloud.com",
+    "cep": "57315-756",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Terezinha de Jesus Vital Gomes",
+    "transporte": "Sim",
+    "vaga": "CONFEITEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15279108499_Maria_Clara_Ramalho_da_Silva_CONFEITEIRO_20260312_145242.pdf",
+    "arquivo_nome": "Curriculo_Maria_Clara_Ramalho_da_Silva.pdf",
+    "tamanho_arquivo": 2468,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "3e946de5860f",
+    "enviado_em": "2026-03-12T14:52:43.728108",
+    "status": "Novo",
+    "processado_em": "2026-03-12T14:52:43.728118"
   }
 ]
