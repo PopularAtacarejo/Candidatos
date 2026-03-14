@@ -3773,5 +3773,39 @@
     "enviado_em": "2026-03-13T15:54:20.183386",
     "status": "Novo",
     "processado_em": "2026-03-13T15:54:20.183396"
+  },
+  {
+    "nome": "João Victor Martins dos Santos",
+    "cpf": "146.876.384-90",
+    "telefone": "(82) 99696-1858",
+    "email": "vm1454152@gmail.com",
+    "cep": "57313-100",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Dácia Bezerra Cavalcante",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14687638490_João_Victor_Martins_dos_Santos_OPERADOR_A_DE_CAIXA_20260314_142011.pdf",
+    "arquivo_nome": "inbound6820740808091006697.pdf",
+    "tamanho_arquivo": 2366,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Operador de telemarketing",
+        "data_admissao": "2022-05-01",
+        "data_demissao": "2025-04-04"
+      },
+      {
+        "empresa": "Zap Consultoria",
+        "funcao": "Operador de telemarketing",
+        "data_admissao": "2025-09-15",
+        "data_demissao": "2025-12-02"
+      }
+    ],
+    "id": "aff60f0947ae",
+    "enviado_em": "2026-03-14T14:20:12.680667",
+    "status": "Novo",
+    "processado_em": "2026-03-14T14:20:12.680673"
   }
 ]
