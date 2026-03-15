@@ -3807,5 +3807,33 @@
     "enviado_em": "2026-03-14T14:20:12.680667",
     "status": "Novo",
     "processado_em": "2026-03-14T14:20:12.680673"
+  },
+  {
+    "nome": "Mariana Silva dos Prazeres",
+    "cpf": "463.021.068-77",
+    "telefone": "(82) 99619-2863",
+    "email": "marianasp273@gmail.com",
+    "cep": "57315-112",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Professora Maria Vilma Barbosa Lúcio",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/46302106877_Mariana_Silva_dos_Prazeres_REPOSITOR_A_20260315_084657.pdf",
+    "arquivo_nome": "inbound6258971239883351371.pdf",
+    "tamanho_arquivo": 562233,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Cartório Cyra Ribeiro",
+        "funcao": "auxiliar administrativo",
+        "data_admissao": "2024-10-07",
+        "data_demissao": "2026-02-10"
+      }
+    ],
+    "id": "da3de2de0c65",
+    "enviado_em": "2026-03-15T08:46:59.306485",
+    "status": "Novo",
+    "processado_em": "2026-03-15T08:46:59.306491"
   }
 ]
