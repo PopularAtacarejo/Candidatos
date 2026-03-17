@@ -3975,5 +3975,45 @@
     "enviado_em": "2026-03-17T04:54:37.036425",
     "status": "Novo",
     "processado_em": "2026-03-17T04:54:37.036433"
+  },
+  {
+    "nome": "Rhuan Ricardo Matias da Silva",
+    "cpf": "124.794.144-26",
+    "telefone": "(82) 99967-6398",
+    "email": "rhuuart@gmail.com",
+    "cep": "57303-786",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Coronel Vicente Ramos",
+    "transporte": "Sim",
+    "vaga": "CONFEITEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12479414426_Rhuan_Ricardo_Matias_da_Silva_CONFEITEIRO_20260317_121032.pdf",
+    "arquivo_nome": "Currículo2 - Rhuan Ricardo Matias da Silva.pdf",
+    "tamanho_arquivo": 15589,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Edu confeitaria",
+        "funcao": "Aux de cozinha",
+        "data_admissao": "2021-09-17",
+        "data_demissao": "2022-08-17"
+      },
+      {
+        "empresa": "Fada dos doces",
+        "funcao": "Confeiteiro",
+        "data_admissao": "2022-10-17",
+        "data_demissao": "2024-02-17"
+      },
+      {
+        "empresa": "Caramelo Confeitaria",
+        "funcao": "Confeiteiro",
+        "data_admissao": "2024-03-17",
+        "data_demissao": "2026-03-17"
+      }
+    ],
+    "id": "2edceacb0024",
+    "enviado_em": "2026-03-17T12:10:33.324532",
+    "status": "Novo",
+    "processado_em": "2026-03-17T12:10:33.324542"
   }
 ]
