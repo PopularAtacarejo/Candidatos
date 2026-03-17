@@ -3905,5 +3905,26 @@
     "enviado_em": "2026-03-16T17:58:39.504381",
     "status": "Novo",
     "processado_em": "2026-03-16T17:58:39.504390"
+  },
+  {
+    "nome": "Cláudia Horrana Gomes da Silva",
+    "cpf": "160.273.394-54",
+    "telefone": "(82) 99844-1134",
+    "email": "claudiahorrana983@gmail.com",
+    "cep": "57303-836",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua José Cazuzinhas",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16027339454_Cláudia_Horrana_Gomes_da_Silva_OPERADOR_A_DE_CAIXA_20260317_001833.pdf",
+    "arquivo_nome": "inbound7191906499702190542.pdf",
+    "tamanho_arquivo": 141898,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "8dcdfb2d5a27",
+    "enviado_em": "2026-03-17T00:18:35.157946",
+    "status": "Novo",
+    "processado_em": "2026-03-17T00:18:35.157956"
   }
 ]
