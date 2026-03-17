@@ -3926,5 +3926,26 @@
     "enviado_em": "2026-03-17T00:18:35.157946",
     "status": "Novo",
     "processado_em": "2026-03-17T00:18:35.157956"
+  },
+  {
+    "nome": "Emily Myrely do Nascimento Silva",
+    "cpf": "160.215.974-27",
+    "telefone": "(82) 99606-1750",
+    "email": "emilymyrely@gmail.com",
+    "cep": "57303-835",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Manoel Cazuzinhas",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16021597427_Emily_Myrely_do_Nascimento_Silva_OPERADOR_A_DE_CAIXA_20260317_020255.pdf",
+    "arquivo_nome": "inbound3640429202680770608.pdf",
+    "tamanho_arquivo": 93549,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "232911537f19",
+    "enviado_em": "2026-03-17T02:02:57.045448",
+    "status": "Novo",
+    "processado_em": "2026-03-17T02:02:57.045455"
   }
 ]
