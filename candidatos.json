@@ -4134,5 +4134,26 @@
     "enviado_em": "2026-03-18T17:21:34.074902",
     "status": "Novo",
     "processado_em": "2026-03-18T17:21:34.074912"
+  },
+  {
+    "nome": "Adrielly silva de Almeida",
+    "cpf": "158.519.784-06",
+    "telefone": "(82) 99417-6955",
+    "email": "adriellysilva47480@gmail.com",
+    "cep": "57302-050",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Santa Emília",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15851978406_Adrielly_silva_de_Almeida_REPOSITOR_A_20260318_192245.pdf",
+    "arquivo_nome": "inbound2616241735461379291.pdf",
+    "tamanho_arquivo": 123371,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "49d0e07c20c2",
+    "enviado_em": "2026-03-18T19:22:47.366466",
+    "status": "Novo",
+    "processado_em": "2026-03-18T19:22:47.366475"
   }
 ]
