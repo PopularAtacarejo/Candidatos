@@ -4064,5 +4064,33 @@
     "enviado_em": "2026-03-18T11:48:05.171942",
     "status": "Novo",
     "processado_em": "2026-03-18T11:48:05.171950"
+  },
+  {
+    "nome": "Rafael da Rocha Soares",
+    "cpf": "160.850.854-43",
+    "telefone": "(82) 99672-5738",
+    "email": "rafaelrocha3500@gmail.com",
+    "cep": "57307-245",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Teodolino Rodrigues da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16085085443_Rafael_da_Rocha_Soares_REPOSITOR_A_20260318_133832.docx",
+    "arquivo_nome": "inbound6054256195875845224.docx",
+    "tamanho_arquivo": 68680,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "JD Supermercado",
+        "funcao": "Serviços gerais, Repositor, conferência, caixa.",
+        "data_admissao": "2024-01-24",
+        "data_demissao": "2024-12-28"
+      }
+    ],
+    "id": "210bfe2a1f5c",
+    "enviado_em": "2026-03-18T13:38:33.315380",
+    "status": "Novo",
+    "processado_em": "2026-03-18T13:38:33.315388"
   }
 ]
