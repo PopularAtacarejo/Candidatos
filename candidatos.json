@@ -4260,5 +4260,33 @@
     "enviado_em": "2026-03-20T13:30:50.784222",
     "status": "Novo",
     "processado_em": "2026-03-20T13:30:50.784232"
+  },
+  {
+    "nome": "Gustavo Miguel",
+    "cpf": "136.028.754-07",
+    "telefone": "(82) 98236-1604",
+    "email": "contatogustavomiguel@gmail.com",
+    "cep": "57312-016",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Alexandrina Pereira de Oliveira",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13602875407_Gustavo_Miguel_AUX._DE_PREVENÇÃO_E_PERDAS_20260320_133231.pdf",
+    "arquivo_nome": "GUSTAVOMIGUELCURRÍCULO.pdf",
+    "tamanho_arquivo": 88304,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "PARTAGE SHOPPING",
+        "funcao": "Estagiário de Auditoria",
+        "data_admissao": "2022-10-03",
+        "data_demissao": "2023-06-05"
+      }
+    ],
+    "id": "e7aa358eca12",
+    "enviado_em": "2026-03-20T13:32:32.936105",
+    "status": "Novo",
+    "processado_em": "2026-03-20T13:32:32.936114"
   }
 ]
