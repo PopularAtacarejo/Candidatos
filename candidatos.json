@@ -4358,5 +4358,26 @@
     "enviado_em": "2026-03-23T17:46:33.700827",
     "status": "Novo",
     "processado_em": "2026-03-23T17:46:33.700836"
+  },
+  {
+    "nome": "Maria Sophia Ramalho Dantas",
+    "cpf": "115.167.694-22",
+    "telefone": "(82) 99633-5790",
+    "email": "sophiadantas9060@gmail.com",
+    "cep": "57315-756",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Terezinha de Jesus Vital Gomes",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11516769422_Maria_Sophia_Ramalho_Dantas_REPOSITOR_A_20260323_231525.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 22203,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "55c2adf0fab6",
+    "enviado_em": "2026-03-23T23:15:26.222899",
+    "status": "Novo",
+    "processado_em": "2026-03-23T23:15:26.222907"
   }
 ]
