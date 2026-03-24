@@ -4379,5 +4379,33 @@
     "enviado_em": "2026-03-23T23:15:26.222899",
     "status": "Novo",
     "processado_em": "2026-03-23T23:15:26.222907"
+  },
+  {
+    "nome": "Isabella Soares dos Santos",
+    "cpf": "113.846.444-90",
+    "telefone": "(82) 99684-1355",
+    "email": "isabellasoaressantos00@gmail.com",
+    "cep": "57316-165",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua São Roque",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11384644490_Isabella_Soares_dos_Santos_BALCONISTA_DE_PADARIA_20260324_054804.pdf",
+    "arquivo_nome": "Currículo Isabella.pdf",
+    "tamanho_arquivo": 49139,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Telemarketing",
+        "data_admissao": "2023-06-22",
+        "data_demissao": "2024-05-07"
+      }
+    ],
+    "id": "e0fcd6986071",
+    "enviado_em": "2026-03-24T05:48:05.567454",
+    "status": "Novo",
+    "processado_em": "2026-03-24T05:48:05.567461"
   }
 ]
