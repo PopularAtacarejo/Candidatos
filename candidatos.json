@@ -4407,5 +4407,33 @@
     "enviado_em": "2026-03-24T05:48:05.567454",
     "status": "Novo",
     "processado_em": "2026-03-24T05:48:05.567461"
+  },
+  {
+    "nome": "Jeferson de Araujo Silva",
+    "cpf": "101.898.964-18",
+    "telefone": "(82) 99675-1971",
+    "email": "jeferson.ararujo.silva@gmail.com",
+    "cep": "57305-660",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Manoel Leal",
+    "transporte": "Sim",
+    "vaga": "AÇOUGUEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10189896418_Jeferson_de_Araujo_Silva_AÇOUGUEIRO_20260324_151258.pdf",
+    "arquivo_nome": "inbound6277485896779462656.pdf",
+    "tamanho_arquivo": 89750,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luiz supermercado",
+        "funcao": "Açougue",
+        "data_admissao": "2025-12-03",
+        "data_demissao": "2026-03-03"
+      }
+    ],
+    "id": "f8cf3f0289ca",
+    "enviado_em": "2026-03-24T15:13:00.529467",
+    "status": "Novo",
+    "processado_em": "2026-03-24T15:13:00.529477"
   }
 ]
