@@ -4589,5 +4589,33 @@
     "enviado_em": "2026-03-26T10:27:28.964569",
     "status": "Novo",
     "processado_em": "2026-03-26T10:27:28.964579"
+  },
+  {
+    "nome": "Nicolas ferreira dos santos",
+    "cpf": "143.706.294-62",
+    "telefone": "(82) 98121-2914",
+    "email": "nicolasferr557@gmail.com",
+    "cep": "57305-827",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Niraldo Ventura de Lima",
+    "transporte": "Sim",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14370629462_Nicolas_ferreira_dos_santos_OPERADOR_DE_SUPERMERCADO_20260326_102907.pdf",
+    "arquivo_nome": "curriculo_2026.pdf",
+    "tamanho_arquivo": 35323,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "aec",
+        "funcao": "atendente",
+        "data_admissao": "2024-03-26",
+        "data_demissao": "2025-12-25"
+      }
+    ],
+    "id": "95565b092443",
+    "enviado_em": "2026-03-26T10:29:09.132947",
+    "status": "Novo",
+    "processado_em": "2026-03-26T10:29:09.132956"
   }
 ]
