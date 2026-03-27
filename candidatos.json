@@ -4899,5 +4899,26 @@
     "enviado_em": "2026-03-27T21:19:37.396691",
     "status": "Novo",
     "processado_em": "2026-03-27T21:19:37.396699"
+  },
+  {
+    "nome": "Maria Talita dos santos",
+    "cpf": "147.044.764-99",
+    "telefone": "(82) 99945-3236",
+    "email": "mariatalitadossantos24@gmail.com",
+    "cep": "57308-090",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Né Firmino",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14704476499_Maria_Talita_dos_santos_REPOSITOR_A_20260327_222442.pdf",
+    "arquivo_nome": "Maria Talita dos Santos.pdf",
+    "tamanho_arquivo": 100208,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "338669a21508",
+    "enviado_em": "2026-03-27T22:24:43.955534",
+    "status": "Novo",
+    "processado_em": "2026-03-27T22:24:43.955544"
   }
 ]
