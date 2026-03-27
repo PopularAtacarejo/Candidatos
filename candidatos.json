@@ -4617,5 +4617,33 @@
     "enviado_em": "2026-03-26T10:29:09.132947",
     "status": "Novo",
     "processado_em": "2026-03-26T10:29:09.132956"
+  },
+  {
+    "nome": "Ednaldo José dos Santos Júnior",
+    "cpf": "111.559.214-96",
+    "telefone": "(82) 99647-4461",
+    "email": "jednaldo331@gmail.com",
+    "cep": "57309-674",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Renato Marques de Brito",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11155921496_Ednaldo_José_dos_Santos_Júnior_REPOSITOR_A_20260327_050801.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 138076,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Dom Luiz",
+        "funcao": "Cumim",
+        "data_admissao": "2025-04-15",
+        "data_demissao": "2025-11-01"
+      }
+    ],
+    "id": "4bd84e924587",
+    "enviado_em": "2026-03-27T05:08:03.206110",
+    "status": "Novo",
+    "processado_em": "2026-03-27T05:08:03.206139"
   }
 ]
