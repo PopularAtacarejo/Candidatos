@@ -2,31 +2,40 @@
   "data_sources": {
     "candidatos_url": "",
     "vagas_url": "",
-    "curriculos_path": "",
     "lideres_url": "",
     "setores_url": "",
     "funcoes_url": "",
     "funcionarios_ativos_url": "",
     "feriados_url": "",
     "empresas_url": "",
-    "configuracoes_url": ""
+    "configuracoes_url": "",
+    "curriculos_path": ""
   },
   "github": {
-    "token": "",
+    "owner": "PopularAtacarejo",
+    "repo": "Candidatos",
     "branch": "main"
   },
-  "usuarios": [
-    {
-      "nome": "Jeferson",
-      "email": "djaxelf22@gmail.com",
-      "funcao": "Desenvolvedor"
-    },
-    {
-      "nome": "Cecilia",
-      "email": "rh2@popularhomecenter.com.br",
-      "funcao": "Assistente de RH"
-    }
-  ],
+  "agent": {
+    "openrouter_key": "http://localhost:7860/v1/chat/completions",
+    "behavior": "Responda com inteligência sobre RH e legislação trabalhista brasileira. Seja educado, inteligente e carregue um tom levemente sarcástico com humor seco, mas nunca ofensivo. Priorize dados públicos do GitHub ou arquivos locais antes de criar novas respostas.",
+    "name": "",
+    "persona": "",
+    "tone": "",
+    "language": "",
+    "response_style": "",
+    "system_prompt_override": "",
+    "temperature": "",
+    "top_p": "",
+    "max_tokens": "",
+    "presence_penalty": "",
+    "frequency_penalty": "",
+    "greeting_enabled": false,
+    "include_time": false,
+    "use_data_links": false,
+    "cbo_enabled": false,
+    "data_links": []
+  },
   "pages": {
     "dashboard": {
       "titulo": "Dashboard",
@@ -148,10 +157,5 @@
       "cta_url": "",
       "links": []
     }
-  },
-  "agent": {
-    "openrouter_key": "",
-    "model": "deepseek/deepseek-r1-0528:free",
-    "behavior": "Responda com inteligência sobre RH e legislação trabalhista brasileira. Seja educado, inteligente e carregue um tom levemente sarcástico com humor seco, mas nunca ofensivo. Priorize dados públicos do GitHub ou arquivos locais antes de criar novas respostas."
   }
 }
