@@ -4644,7 +4644,15 @@
     "id": "4bd84e924587",
     "enviado_em": "2026-03-27T05:08:03.206110",
     "status": "Novo",
-    "processado_em": "2026-03-27T05:08:03.206139"
+    "processado_em": "2026-03-27T05:08:03.206139",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-03-27T14:28:15.252760",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-03-27T14:28:15.252760"
+      }
+    ]
   },
   {
     "nome": "Thaisepaz3@gmail.com",
