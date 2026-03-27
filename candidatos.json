@@ -4738,5 +4738,33 @@
     "enviado_em": "2026-03-27T16:54:42.686925",
     "status": "Novo",
     "processado_em": "2026-03-27T16:54:42.686933"
+  },
+  {
+    "nome": "Isabelly Cristina",
+    "cpf": "135.979.924-98",
+    "telefone": "(82) 99951-8401",
+    "email": "silvaisabelly8157@gmail.com",
+    "cep": "57310-237",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Sebastião José Martins",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13597992498_Isabelly_Cristina_EMBALADOR_A_20260327_173244.pdf",
+    "arquivo_nome": "Curriculum_IsabellyCristinaBragaDaSilvaCristina_20260317014638.pdf",
+    "tamanho_arquivo": 24889,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mc Donald",
+        "funcao": "Atendente",
+        "data_admissao": "2025-12-05",
+        "data_demissao": "2025-01-27"
+      }
+    ],
+    "id": "7dcdbf89adef",
+    "enviado_em": "2026-03-27T17:32:45.488032",
+    "status": "Novo",
+    "processado_em": "2026-03-27T17:32:45.488040"
   }
 ]
