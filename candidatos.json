@@ -4665,6 +4665,14 @@
     "id": "9cd3a81e1f86",
     "enviado_em": "2026-03-27T09:37:16.597150",
     "status": "Novo",
-    "processado_em": "2026-03-27T09:37:16.597158"
+    "processado_em": "2026-03-27T09:37:16.597158",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-03-27T14:27:40.146579",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-03-27T14:27:40.146579"
+      }
+    ]
   }
 ]
