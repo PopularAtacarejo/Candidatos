@@ -4822,5 +4822,33 @@
     "enviado_em": "2026-03-27T19:20:06.484695",
     "status": "Novo",
     "processado_em": "2026-03-27T19:20:06.484703"
+  },
+  {
+    "nome": "Maria caroline Rocha de Lima",
+    "cpf": "118.663.264-06",
+    "telefone": "(82) 99643-4833",
+    "email": "cr406817@gmail.com",
+    "cep": "57312-255",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Pedro Bernardino da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11866326406_Maria_caroline_Rocha_de_Lima_REPOSITOR_A_20260327_201235.pdf",
+    "arquivo_nome": "inbound4851644667283163618.pdf",
+    "tamanho_arquivo": 798951,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Riachoelo",
+        "funcao": "Repositor",
+        "data_admissao": "2026-08-12",
+        "data_demissao": "2026-11-26"
+      }
+    ],
+    "id": "56c7efc943a1",
+    "enviado_em": "2026-03-27T20:12:36.996840",
+    "status": "Novo",
+    "processado_em": "2026-03-27T20:12:36.996848"
   }
 ]
