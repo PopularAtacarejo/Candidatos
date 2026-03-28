@@ -4969,5 +4969,26 @@
     "enviado_em": "2026-03-28T01:55:57.486405",
     "status": "Novo",
     "processado_em": "2026-03-28T01:55:57.486415"
+  },
+  {
+    "nome": "Priscilla damasceno da silva",
+    "cpf": "078.951.624-11",
+    "telefone": "(82) 99812-1577",
+    "email": "priscillatof@hotmail.com",
+    "cep": "57308-070",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Olegário Leite",
+    "transporte": "Não",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07895162411_Priscilla_damasceno_da_silva_REPOSITOR_DE_FRIOS_20260328_122055.pdf",
+    "arquivo_nome": "inbound8171975468240899234.pdf",
+    "tamanho_arquivo": 64993,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "f31d84c01be8",
+    "enviado_em": "2026-03-28T12:20:56.516777",
+    "status": "Novo",
+    "processado_em": "2026-03-28T12:20:56.516787"
   }
 ]
