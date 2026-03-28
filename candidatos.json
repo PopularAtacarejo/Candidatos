@@ -5018,5 +5018,33 @@
     "enviado_em": "2026-03-28T13:28:20.698126",
     "status": "Novo",
     "processado_em": "2026-03-28T13:28:20.698136"
+  },
+  {
+    "nome": "Elenildo carvalho dos Santos",
+    "cpf": "069.939.634-42",
+    "telefone": "(82) 99837-1087",
+    "email": "elenildomotodivulgacoes@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06993963442_Elenildo_carvalho_dos_Santos_REPOSITOR_A_20260328_181657.pdf",
+    "arquivo_nome": "inbound1776268710445177799.pdf",
+    "tamanho_arquivo": 221322,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ermor",
+        "funcao": "Serviços Gerais",
+        "data_admissao": "2006-07-20",
+        "data_demissao": "2006-08-21"
+      }
+    ],
+    "id": "a11765ee0d39",
+    "enviado_em": "2026-03-28T18:16:58.383424",
+    "status": "Novo",
+    "processado_em": "2026-03-28T18:16:58.383430"
   }
 ]
