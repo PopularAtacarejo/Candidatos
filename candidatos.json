@@ -5095,5 +5095,26 @@
     "enviado_em": "2026-03-29T05:03:25.213538",
     "status": "Novo",
     "processado_em": "2026-03-29T05:03:25.213547"
+  },
+  {
+    "nome": "Sadriele Vitoria da Silva Gomes",
+    "cpf": "153.031.224-84",
+    "telefone": "(82) 99941-7249",
+    "email": "sadrielevitoriaa4@gmail.com",
+    "cep": "57309-420",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Vicente Vieira dos Santos",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15303122484_Sadriele_Vitoria_da_Silva_Gomes_REPOSITOR_A_20260329_202433.pdf",
+    "arquivo_nome": "inbound1022969603614635407.pdf",
+    "tamanho_arquivo": 29722,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "316ff89d63a2",
+    "enviado_em": "2026-03-29T20:24:34.271075",
+    "status": "Novo",
+    "processado_em": "2026-03-29T20:24:34.271082"
   }
 ]
