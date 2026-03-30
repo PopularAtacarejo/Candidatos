@@ -5179,5 +5179,26 @@
     "enviado_em": "2026-03-30T17:30:09.272908",
     "status": "Novo",
     "processado_em": "2026-03-30T17:30:09.272920"
+  },
+  {
+    "nome": "Catiana Rocha Gomes",
+    "cpf": "074.663.194-40",
+    "telefone": "(82) 98204-8853",
+    "email": "catianarocha@live.com",
+    "cep": "57312-230",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua da Liberdade",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07466319440_Catiana_Rocha_Gomes_REPOSITOR_A_20260330_175225.docx",
+    "arquivo_nome": "inbound5341628282390679302.docx",
+    "tamanho_arquivo": 41135,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "68a383ab00f4",
+    "enviado_em": "2026-03-30T17:52:26.508822",
+    "status": "Novo",
+    "processado_em": "2026-03-30T17:52:26.508829"
   }
 ]
