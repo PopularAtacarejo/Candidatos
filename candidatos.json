@@ -5200,5 +5200,33 @@
     "enviado_em": "2026-03-30T17:52:26.508822",
     "status": "Novo",
     "processado_em": "2026-03-30T17:52:26.508829"
+  },
+  {
+    "nome": "Jadson Santos Silva",
+    "cpf": "147.810.434-10",
+    "telefone": "(82) 98114-7303",
+    "email": "jadis15102002@gmail.com",
+    "cep": "57302-635",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Travessa José Amaro de Barros",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14781043410_Jadson_Santos_Silva_REPOSITOR_A_20260330_183157.pdf",
+    "arquivo_nome": "Currículo- Jadson Santos.pdf",
+    "tamanho_arquivo": 196156,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Global",
+        "funcao": "Repositor",
+        "data_admissao": "2025-10-06",
+        "data_demissao": "2026-02-14"
+      }
+    ],
+    "id": "4bbfdc626941",
+    "enviado_em": "2026-03-30T18:31:58.495155",
+    "status": "Novo",
+    "processado_em": "2026-03-30T18:31:58.495164"
   }
 ]
