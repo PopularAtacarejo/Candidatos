@@ -5158,5 +5158,26 @@
     "enviado_em": "2026-03-30T14:44:18.493692",
     "status": "Novo",
     "processado_em": "2026-03-30T14:44:18.493703"
+  },
+  {
+    "nome": "Priscilla damasceno",
+    "cpf": "078.951.624-11",
+    "telefone": "(82) 99812-1577",
+    "email": "priscillatof@hotmail.com",
+    "cep": "57308-070",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Olegário Leite",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07895162411_Priscilla_damasceno_REPOSITOR_A_20260330_173007.pdf",
+    "arquivo_nome": "inbound8214237273476231587.pdf",
+    "tamanho_arquivo": 64993,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "1e3ecbe2991d",
+    "enviado_em": "2026-03-30T17:30:09.272908",
+    "status": "Novo",
+    "processado_em": "2026-03-30T17:30:09.272920"
   }
 ]
