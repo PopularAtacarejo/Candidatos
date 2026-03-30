@@ -5277,5 +5277,26 @@
     "enviado_em": "2026-03-30T20:44:50.449948",
     "status": "Novo",
     "processado_em": "2026-03-30T20:44:50.449958"
+  },
+  {
+    "nome": "Maria Clara Ramalho da silva",
+    "cpf": "152.791.084-99",
+    "telefone": "(82) 99957-1248",
+    "email": "claramaria2023n@icloud.com",
+    "cep": "57315-756",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Terezinha de Jesus Vital Gomes",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15279108499_Maria_Clara_Ramalho_da_silva_REPOSITOR_A_20260330_235126.pdf",
+    "arquivo_nome": "curriculo_maria_clara_sem_foto.pdf",
+    "tamanho_arquivo": 2863,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "497a825a36de",
+    "enviado_em": "2026-03-30T23:51:27.725541",
+    "status": "Novo",
+    "processado_em": "2026-03-30T23:51:27.725549"
   }
 ]
