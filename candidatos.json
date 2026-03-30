@@ -5116,5 +5116,26 @@
     "enviado_em": "2026-03-29T20:24:34.271075",
     "status": "Novo",
     "processado_em": "2026-03-29T20:24:34.271082"
+  },
+  {
+    "nome": "Cristina domingos de Sousa",
+    "cpf": "703.167.984-28",
+    "telefone": "(82) 99610-5807",
+    "email": "domingoscristina707@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/70316798428_Cristina_domingos_de_Sousa_AUXILIAR_DE_LIMPEZA_20260330_131501.pdf",
+    "arquivo_nome": "inbound5462659140378546108.pdf",
+    "tamanho_arquivo": 157838,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "1272bbb56944",
+    "enviado_em": "2026-03-30T13:15:03.089995",
+    "status": "Novo",
+    "processado_em": "2026-03-30T13:15:03.090003"
   }
 ]
