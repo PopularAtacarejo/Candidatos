@@ -5360,5 +5360,26 @@
     "enviado_em": "2026-03-31T09:48:24.884387",
     "status": "Novo",
     "processado_em": "2026-03-31T09:48:24.884395"
+  },
+  {
+    "nome": "Mikaell Arthur Ferreira da Silva",
+    "cpf": "098.843.715-55",
+    "telefone": "(82) 99967-7532",
+    "email": "mikaelarthur760@gmail.com",
+    "cep": "57308-630",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Penedo",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09884371555_Mikaell_Arthur_Ferreira_da_Silva_BALCONISTA_DE_AÇOUGUE_20260331_173041.pdf",
+    "arquivo_nome": "Adobe Scan 22 de mar. de 2026.pdf",
+    "tamanho_arquivo": 124172,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "ea9538b740a1",
+    "enviado_em": "2026-03-31T17:30:43.070001",
+    "status": "Novo",
+    "processado_em": "2026-03-31T17:30:43.070010"
   }
 ]
