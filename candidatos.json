@@ -5381,5 +5381,39 @@
     "enviado_em": "2026-03-31T17:30:43.070001",
     "status": "Novo",
     "processado_em": "2026-03-31T17:30:43.070010"
+  },
+  {
+    "nome": "Claudia Maria dos Santos",
+    "cpf": "123.125.168-96",
+    "telefone": "(82) 99619-3427",
+    "email": "claudia-maria27@hotmail.com",
+    "cep": "57315-776",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Iraci Nunes de Brito",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12312516896_Claudia_Maria_dos_Santos_REPOSITOR_A_20260401_220904.pdf",
+    "arquivo_nome": "inbound2560506977603047609.pdf",
+    "tamanho_arquivo": 53468,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luiz",
+        "funcao": "Auxiliar de cozinha",
+        "data_admissao": "2024-04-01",
+        "data_demissao": "2025-04-05"
+      },
+      {
+        "empresa": "Massagueirinha",
+        "funcao": "Auxiliar de cozinha",
+        "data_admissao": "2025-10-30",
+        "data_demissao": "2026-04-10"
+      }
+    ],
+    "id": "07774f76c305",
+    "enviado_em": "2026-04-01T22:09:05.960036",
+    "status": "Novo",
+    "processado_em": "2026-04-01T22:09:05.960044"
   }
 ]
