@@ -5436,5 +5436,33 @@
     "enviado_em": "2026-04-02T02:57:47.666715",
     "status": "Novo",
     "processado_em": "2026-04-02T02:57:47.666723"
+  },
+  {
+    "nome": "Gabriel Gomes de Oliveira",
+    "cpf": "132.353.094-03",
+    "telefone": "(82) 99603-4834",
+    "email": "drigogomeso23@gmail.com",
+    "cep": "57306-120",
+    "cidade": "Arapiraca",
+    "bairro": "Eldorado",
+    "rua": "Rua Padre Daniel",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13235309403_Gabriel_Gomes_de_Oliveira_REPOSITOR_A_20260403_025859.pdf",
+    "arquivo_nome": "inbound7654142967514933951.pdf",
+    "tamanho_arquivo": 462380,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Açaícart",
+        "funcao": "Atendimento ao público",
+        "data_admissao": "2022-04-02",
+        "data_demissao": "2025-11-28"
+      }
+    ],
+    "id": "abb7e4d77ec1",
+    "enviado_em": "2026-04-03T02:59:00.901141",
+    "status": "Novo",
+    "processado_em": "2026-04-03T02:59:00.901149"
   }
 ]
