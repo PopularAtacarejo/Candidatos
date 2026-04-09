@@ -5709,5 +5709,33 @@
     "enviado_em": "2026-04-08T15:44:14.353442",
     "status": "Novo",
     "processado_em": "2026-04-08T15:44:14.353452"
+  },
+  {
+    "nome": "Weverton Raun dos Santos",
+    "cpf": "181.009.144-60",
+    "telefone": "(82) 99929-2472",
+    "email": "wevertonruan017@gamil.com",
+    "cep": "57315-780",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Gilberto Félix de Menezes",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18100914460_Weverton_Raun_dos_Santos_EMBALADOR_A_20260409_014113.pdf",
+    "arquivo_nome": "inbound2293026173126504310.pdf",
+    "tamanho_arquivo": 39719,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luís",
+        "funcao": "Embalador é repositor",
+        "data_admissao": "2024-10-10",
+        "data_demissao": "2024-10-10"
+      }
+    ],
+    "id": "00113938900f",
+    "enviado_em": "2026-04-09T01:41:14.095357",
+    "status": "Novo",
+    "processado_em": "2026-04-09T01:41:14.095365"
   }
 ]
