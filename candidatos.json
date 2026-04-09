@@ -5737,5 +5737,26 @@
     "enviado_em": "2026-04-09T01:41:14.095357",
     "status": "Novo",
     "processado_em": "2026-04-09T01:41:14.095365"
+  },
+  {
+    "nome": "Beatriz Mendonça de Araújo",
+    "cpf": "143.552.064-59",
+    "telefone": "(82) 98124-4317",
+    "email": "beamendo229@gmail.com",
+    "cep": "57312-540",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua José Cavalcante Bezerra de Barros",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14355206459_Beatriz_Mendonça_de_Araújo_AUX._DE_ESTOQUE_20260409_191231.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades.pdf",
+    "tamanho_arquivo": 184036,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9b105126c4d5",
+    "enviado_em": "2026-04-09T19:12:33.242568",
+    "status": "Novo",
+    "processado_em": "2026-04-09T19:12:33.242578"
   }
 ]
