@@ -5903,5 +5903,26 @@
     "enviado_em": "2026-04-10T21:45:28.079732",
     "status": "Novo",
     "processado_em": "2026-04-10T21:45:28.079744"
+  },
+  {
+    "nome": "Larissa Maria dos Santos",
+    "cpf": "174.937.234-78",
+    "telefone": "(82) 9816-8408",
+    "email": "lmlarissa1509@gmail.com",
+    "cep": "57307-240",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Dionísio Pedro dos Santos",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17493723478_Larissa_Maria_dos_Santos_REPOSITOR_A_20260410_215947.pdf",
+    "arquivo_nome": "inbound3721109064701585439.pdf",
+    "tamanho_arquivo": 166625,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "309985d44816",
+    "enviado_em": "2026-04-10T21:59:48.687831",
+    "status": "Novo",
+    "processado_em": "2026-04-10T21:59:48.687841"
   }
 ]
