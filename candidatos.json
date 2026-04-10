@@ -5786,5 +5786,39 @@
     "enviado_em": "2026-04-09T21:00:35.138950",
     "status": "Novo",
     "processado_em": "2026-04-09T21:00:35.138960"
+  },
+  {
+    "nome": "Darlane Barbosa da Silva",
+    "cpf": "111.939.664-69",
+    "telefone": "(82) 99686-4634",
+    "email": "barbosadarlane01@gmail.com",
+    "cep": "57304-170",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Pio X",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11193966469_Darlane_Barbosa_da_Silva_REPOSITOR_A_20260410_124512.docx",
+    "arquivo_nome": "CURRÍCULO-DARLANE BARBOSA DA SILVA (2).docx",
+    "tamanho_arquivo": 2830658,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bella compra",
+        "funcao": "Operador de Supermercado",
+        "data_admissao": "2013-08-10",
+        "data_demissao": "2015-04-10"
+      },
+      {
+        "empresa": "JC",
+        "funcao": "Atendente",
+        "data_admissao": "2025-10-10",
+        "data_demissao": "2026-03-10"
+      }
+    ],
+    "id": "215f49d5641f",
+    "enviado_em": "2026-04-10T12:45:15.458885",
+    "status": "Novo",
+    "processado_em": "2026-04-10T12:45:15.458894"
   }
 ]
