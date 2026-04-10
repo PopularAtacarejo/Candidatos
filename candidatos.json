@@ -5882,5 +5882,26 @@
     "enviado_em": "2026-04-10T18:22:47.207126",
     "status": "Novo",
     "processado_em": "2026-04-10T18:22:47.207135"
+  },
+  {
+    "nome": "Joana fernandes da Silva",
+    "cpf": "116.304.124-65",
+    "telefone": "(82) 98145-7879",
+    "email": "fernandesjoana950@gmail.com",
+    "cep": "57300-330",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Deputado Marques da Silva",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11630412465_Joana_fernandes_da_Silva_OPERADOR_A_DE_CAIXA_20260410_214526.pdf",
+    "arquivo_nome": "inbound3878900825280887893.pdf",
+    "tamanho_arquivo": 87999,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "91cd6d7f3390",
+    "enviado_em": "2026-04-10T21:45:28.079732",
+    "status": "Novo",
+    "processado_em": "2026-04-10T21:45:28.079744"
   }
 ]
