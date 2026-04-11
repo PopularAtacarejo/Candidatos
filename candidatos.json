@@ -6001,5 +6001,33 @@
     "enviado_em": "2026-04-11T07:13:00.690426",
     "status": "Novo",
     "processado_em": "2026-04-11T07:13:00.690437"
+  },
+  {
+    "nome": "Gustavo Miguel de Oliveira Silva",
+    "cpf": "136.028.754-07",
+    "telefone": "(82) 98236-1604",
+    "email": "contatogustavomiguel@gmail.com",
+    "cep": "57312-016",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Alexandrina Pereira de Oliveira",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13602875407_Gustavo_Miguel_de_Oliveira_Silva_BALCONISTA_DE_PADARIA_20260411_071759.pdf",
+    "arquivo_nome": "inbound5157249626303605945.pdf",
+    "tamanho_arquivo": 88304,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Partage Arapiraca Shopping",
+        "funcao": "Estagiário de Auditoria",
+        "data_admissao": "2022-10-03",
+        "data_demissao": "2023-06-05"
+      }
+    ],
+    "id": "b8040c3653f8",
+    "enviado_em": "2026-04-11T07:18:00.905620",
+    "status": "Novo",
+    "processado_em": "2026-04-11T07:18:00.905627"
   }
 ]
