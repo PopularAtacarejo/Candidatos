@@ -6434,5 +6434,33 @@
     "enviado_em": "2026-04-11T21:30:54.379041",
     "status": "Novo",
     "processado_em": "2026-04-11T21:30:54.379049"
+  },
+  {
+    "nome": "Cícera Laiane de Souza Silva",
+    "cpf": "100.286.124-18",
+    "telefone": "(55) 82999-4323",
+    "email": "ciceralaianelayane@gmail.com",
+    "cep": "57316-405",
+    "cidade": "Arapiraca",
+    "bairro": "Nova Esperança",
+    "rua": "Rua José Augusto Vital",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10028612418_Cícera_Laiane_de_Souza_Silva_BALCONISTA_DE_PADARIA_20260411_214346.pdf",
+    "arquivo_nome": "inbound9113006489338907147.pdf",
+    "tamanho_arquivo": 108241,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Restaurante Dom Luiz",
+        "funcao": "Auxiliar de cozinha",
+        "data_admissao": "2026-04-11",
+        "data_demissao": "2026-04-11"
+      }
+    ],
+    "id": "c7c1ebd181f9",
+    "enviado_em": "2026-04-11T21:43:47.621636",
+    "status": "Novo",
+    "processado_em": "2026-04-11T21:43:47.621644"
   }
 ]
