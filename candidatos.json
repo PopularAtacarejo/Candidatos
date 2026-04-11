@@ -6259,5 +6259,33 @@
     "enviado_em": "2026-04-11T16:18:33.722132",
     "status": "Novo",
     "processado_em": "2026-04-11T16:18:33.722138"
+  },
+  {
+    "nome": "Márcio Vitor Barbosa dos Santos",
+    "cpf": "492.450.678-82",
+    "telefone": "(82) 99157-0295",
+    "email": "marciovitor33221@gmail.com",
+    "cep": "57305-190",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Antônio Cavalcante Gama",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/49245067882_Márcio_Vitor_Barbosa_dos_Santos_BALCONISTA_DE_AÇOUGUE_20260411_171308.pdf",
+    "arquivo_nome": "curriculo.pdf",
+    "tamanho_arquivo": 261823,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luiz",
+        "funcao": "Açougueiro",
+        "data_admissao": "2024-12-03",
+        "data_demissao": "2025-07-29"
+      }
+    ],
+    "id": "17c65f2e5680",
+    "enviado_em": "2026-04-11T17:13:09.905630",
+    "status": "Novo",
+    "processado_em": "2026-04-11T17:13:09.905637"
   }
 ]
