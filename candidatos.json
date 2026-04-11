@@ -6385,5 +6385,33 @@
     "enviado_em": "2026-04-11T19:47:39.553553",
     "status": "Novo",
     "processado_em": "2026-04-11T19:47:39.553560"
+  },
+  {
+    "nome": "Kauanderson Victor Santana Oliveira Abreu",
+    "cpf": "133.177.194-35",
+    "telefone": "(82) 99604-3748",
+    "email": "victors11307@gmail.com",
+    "cep": "57308-285",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Júlio Ferreira da Silva",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13317719435_Kauanderson_Victor_Santana_Oliveira_Abreu_BALCONISTA_DE_PADARIA_20260411_203235.docx",
+    "arquivo_nome": "inbound8602035900393724313.docx",
+    "tamanho_arquivo": 13861,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Azul atacarejo",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2023-11-10",
+        "data_demissao": "2024-03-20"
+      }
+    ],
+    "id": "8893f2b80004",
+    "enviado_em": "2026-04-11T20:32:36.502289",
+    "status": "Novo",
+    "processado_em": "2026-04-11T20:32:36.502297"
   }
 ]
