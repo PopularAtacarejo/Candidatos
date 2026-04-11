@@ -6336,5 +6336,33 @@
     "enviado_em": "2026-04-11T19:01:25.328042",
     "status": "Novo",
     "processado_em": "2026-04-11T19:01:25.328050"
+  },
+  {
+    "nome": "Marlos weslley Nascimento",
+    "cpf": "147.662.184-50",
+    "telefone": "(82) 99609-7957",
+    "email": "marlosweslleynascimento@gmail.com",
+    "cep": "57308-640",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Rejane Maria Camelo Alves",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14766218450_Marlos_weslley_Nascimento_REPOSITOR_A_20260411_190851.pdf",
+    "arquivo_nome": "inbound7311657685441208345.pdf",
+    "tamanho_arquivo": 54370,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Shop das variedades",
+        "funcao": "Vendedor, repositor,",
+        "data_admissao": "2024-08-01",
+        "data_demissao": "2026-04-11"
+      }
+    ],
+    "id": "cbef53626f70",
+    "enviado_em": "2026-04-11T19:08:52.766439",
+    "status": "Novo",
+    "processado_em": "2026-04-11T19:08:52.766446"
   }
 ]
