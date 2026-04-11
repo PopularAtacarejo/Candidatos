@@ -6085,5 +6085,26 @@
     "enviado_em": "2026-04-11T09:31:34.389701",
     "status": "Novo",
     "processado_em": "2026-04-11T09:31:34.389709"
+  },
+  {
+    "nome": "Maria Isabella da Silva Santos",
+    "cpf": "161.128.744-82",
+    "telefone": "(82) 99629-8212",
+    "email": "mariaisabela010101@gmail.com",
+    "cep": "57311-260",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua José Antônio de Albuquerque",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16112874482_Maria_Isabella_da_Silva_Santos_AUXILIAR_DE_LIMPEZA_20260411_135548.pdf",
+    "arquivo_nome": "Curriculo_Maria_Isabella.pdf",
+    "tamanho_arquivo": 279644,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "cf498a55c49a",
+    "enviado_em": "2026-04-11T13:55:50.281328",
+    "status": "Novo",
+    "processado_em": "2026-04-11T13:55:50.281336"
   }
 ]
