@@ -6106,5 +6106,26 @@
     "enviado_em": "2026-04-11T13:55:50.281328",
     "status": "Novo",
     "processado_em": "2026-04-11T13:55:50.281336"
+  },
+  {
+    "nome": "Júlia Vitória Custódio Porto",
+    "cpf": "118.153.974-97",
+    "telefone": "(82) 98209-8105",
+    "email": "juliaporto161@gmail.com",
+    "cep": "57310-520",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Rosendo Maia",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11815397497_Júlia_Vitória_Custódio_Porto_REPOSITOR_A_20260411_155238.pdf",
+    "arquivo_nome": "Júlia Vitória Custódio PortoCurriculo. .pdf",
+    "tamanho_arquivo": 127082,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "08172b68f4a5",
+    "enviado_em": "2026-04-11T15:52:40.266218",
+    "status": "Novo",
+    "processado_em": "2026-04-11T15:52:40.266224"
   }
 ]
