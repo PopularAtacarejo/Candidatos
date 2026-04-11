@@ -5952,5 +5952,26 @@
     "enviado_em": "2026-04-10T23:38:29.580696",
     "status": "Novo",
     "processado_em": "2026-04-10T23:38:29.580706"
+  },
+  {
+    "nome": "João Guilherme Ferreira cavalcante",
+    "cpf": "099.347.194-36",
+    "telefone": "(82) 99627-2809",
+    "email": "sueliferreirajoaolucas@gmail.com",
+    "cep": "57315-762",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Cícero Ferreira da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09934719436_João_Guilherme_Ferreira_cavalcante_BALCONISTA_DE_PADARIA_20260411_002121.pdf",
+    "arquivo_nome": "Currículo  - João Guilherme Ferreira Cavalcante.pdf",
+    "tamanho_arquivo": 162496,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e8a69e09f32f",
+    "enviado_em": "2026-04-11T00:21:23.326151",
+    "status": "Novo",
+    "processado_em": "2026-04-11T00:21:23.326159"
   }
 ]
