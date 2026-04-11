@@ -6413,5 +6413,26 @@
     "enviado_em": "2026-04-11T20:32:36.502289",
     "status": "Novo",
     "processado_em": "2026-04-11T20:32:36.502297"
+  },
+  {
+    "nome": "José Ângelo Oliveira Menezes",
+    "cpf": "159.989.904-39",
+    "telefone": "(82) 98774-5148",
+    "email": "joseangelooliveiramenezes23@gmail.com",
+    "cep": "57312-265",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua São João",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15998990439_José_Ângelo_Oliveira_Menezes_EMBALADOR_A_20260411_213053.pdf",
+    "arquivo_nome": "inbound412095572679151077.pdf",
+    "tamanho_arquivo": 20877,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b7690153ea7b",
+    "enviado_em": "2026-04-11T21:30:54.379041",
+    "status": "Novo",
+    "processado_em": "2026-04-11T21:30:54.379049"
   }
 ]
