@@ -6462,5 +6462,33 @@
     "enviado_em": "2026-04-11T21:43:47.621636",
     "status": "Novo",
     "processado_em": "2026-04-11T21:43:47.621644"
+  },
+  {
+    "nome": "Roseane Silva",
+    "cpf": "060.657.274-07",
+    "telefone": "(82) 9965-077",
+    "email": "annysilva1731@gmail.com",
+    "cep": "57308-715",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Nossa Senhora Aparecida",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06065727407_Roseane_Silva_BALCONISTA_DE_PADARIA_20260411_220147.pdf",
+    "arquivo_nome": "inbound1123682478269721856.pdf",
+    "tamanho_arquivo": 644733,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Surpe Flango",
+        "funcao": "Atende de balcão",
+        "data_admissao": "2021-01-09",
+        "data_demissao": "2022-01-10"
+      }
+    ],
+    "id": "d954ca689e66",
+    "enviado_em": "2026-04-11T22:01:49.004491",
+    "status": "Novo",
+    "processado_em": "2026-04-11T22:01:49.004500"
   }
 ]
