@@ -6518,5 +6518,33 @@
     "enviado_em": "2026-04-12T00:06:01.063268",
     "status": "Novo",
     "processado_em": "2026-04-12T00:06:01.063279"
+  },
+  {
+    "nome": "ANA PAULA DE OLIVEIRA",
+    "cpf": "018.350.634-03",
+    "telefone": "(82) 98132-5010",
+    "email": "paulacoite565@gmail.com",
+    "cep": "57308-000",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rodovia AL-220",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/01835063403_ANA_PAULA_DE_OLIVEIRA_OPERADOR_A_DE_CAIXA_20260412_010605.pdf",
+    "arquivo_nome": "CURRÍCULO ANA PAULA DE OLIVEIRA.pdf",
+    "tamanho_arquivo": 72124,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercadão Festa Arapiraca",
+        "funcao": "OPERADORA DE CAIXA",
+        "data_admissao": "2019-10-15",
+        "data_demissao": "2025-09-02"
+      }
+    ],
+    "id": "4e4b7d196297",
+    "enviado_em": "2026-04-12T01:06:06.579007",
+    "status": "Novo",
+    "processado_em": "2026-04-12T01:06:06.579016"
   }
 ]
