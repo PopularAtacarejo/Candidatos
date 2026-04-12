@@ -6567,5 +6567,26 @@
     "enviado_em": "2026-04-12T13:20:38.293662",
     "status": "Novo",
     "processado_em": "2026-04-12T13:20:38.293672"
+  },
+  {
+    "nome": "Priscilla damasceno da silva",
+    "cpf": "078.951.624-11",
+    "telefone": "(82) 99812-1577",
+    "email": "priscillatof@hotmail.com",
+    "cep": "57308-070",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Olegário Leite",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07895162411_Priscilla_damasceno_da_silva_BALCONISTA_DE_PADARIA_20260412_144547.pdf",
+    "arquivo_nome": "inbound7503046203142681444.pdf",
+    "tamanho_arquivo": 64993,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "5f45259e4cf0",
+    "enviado_em": "2026-04-12T14:45:48.811622",
+    "status": "Novo",
+    "processado_em": "2026-04-12T14:45:48.811653"
   }
 ]
