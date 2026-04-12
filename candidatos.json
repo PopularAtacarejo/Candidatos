@@ -6630,5 +6630,51 @@
     "enviado_em": "2026-04-12T15:45:36.596297",
     "status": "Novo",
     "processado_em": "2026-04-12T15:45:36.596306"
+  },
+  {
+    "nome": "Karen Juliana Kristina Teixeira ramos",
+    "cpf": "329.235.008-57",
+    "telefone": "(11) 93925-3229",
+    "email": "laurabeatris201507@gmail.com",
+    "cep": "57308-310",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Jany Camelo Lima",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/32923500857_Karen_Juliana_Kristina_Teixeira_ramos_BALCONISTA_DE_PADARIA_20260412_161030.pdf",
+    "arquivo_nome": "inbound7472226454355380363.pdf",
+    "tamanho_arquivo": 21049,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Docelar",
+        "funcao": "Auxiliar de confeitaria",
+        "data_admissao": "2025-09-23",
+        "data_demissao": "2026-02-23"
+      },
+      {
+        "empresa": "Padaria do mineiro",
+        "funcao": "Balconista de padaria",
+        "data_admissao": "2022-11-23",
+        "data_demissao": "2024-11-02"
+      },
+      {
+        "empresa": "Pizzaria volúpia",
+        "funcao": "Recepcionista atendente",
+        "data_admissao": "2018-07-02",
+        "data_demissao": "2022-05-02"
+      },
+      {
+        "empresa": "Escolta serviço e segurança",
+        "funcao": "Recepcionista atendente",
+        "data_admissao": "2015-08-02",
+        "data_demissao": "2016-10-02"
+      }
+    ],
+    "id": "3935216025cb",
+    "enviado_em": "2026-04-12T16:10:31.245541",
+    "status": "Novo",
+    "processado_em": "2026-04-12T16:10:31.245551"
   }
 ]
