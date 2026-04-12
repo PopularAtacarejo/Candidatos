@@ -6588,5 +6588,26 @@
     "enviado_em": "2026-04-12T14:45:48.811622",
     "status": "Novo",
     "processado_em": "2026-04-12T14:45:48.811653"
+  },
+  {
+    "nome": "José Bruno Conceição Modesto",
+    "cpf": "136.884.864-80",
+    "telefone": "(82) 98848-9867",
+    "email": "bmodesto107@gmail.com",
+    "cep": "57313-100",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Dácia Bezerra Cavalcante",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13688486480_José_Bruno_Conceição_Modesto_REPOSITOR_A_20260412_153509.pdf",
+    "arquivo_nome": "inbound6065158496312340985.pdf",
+    "tamanho_arquivo": 87160,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "d3d6e9d955cf",
+    "enviado_em": "2026-04-12T15:35:10.577663",
+    "status": "Novo",
+    "processado_em": "2026-04-12T15:35:10.577671"
   }
 ]
