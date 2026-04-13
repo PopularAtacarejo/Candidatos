@@ -6767,5 +6767,39 @@
     "enviado_em": "2026-04-13T13:38:03.568733",
     "status": "Novo",
     "processado_em": "2026-04-13T13:38:03.568743"
+  },
+  {
+    "nome": "Marcos Davi Soares Silva",
+    "cpf": "152.679.714-30",
+    "telefone": "(82) 98167-3603",
+    "email": "marcosdavisoaressilva2005@gmail.com",
+    "cep": "57309-799",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Terezinha Luiz dos Santos",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15267971430_Marcos_Davi_Soares_Silva_REPOSITOR_A_20260413_142250.pdf",
+    "arquivo_nome": "CURRÍCULO_MARCOS_DAVI_SOARES_SILVA_.pdf",
+    "tamanho_arquivo": 9267,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC Centro de Contatos S/A",
+        "funcao": "Aprendiz de Telesserviços",
+        "data_admissao": "2024-04-10",
+        "data_demissao": "2025-02-19"
+      },
+      {
+        "empresa": "AeC Centro de Contatos S/A",
+        "funcao": "Atendente",
+        "data_admissao": "2025-07-14",
+        "data_demissao": "2025-10-11"
+      }
+    ],
+    "id": "07811b298f5c",
+    "enviado_em": "2026-04-13T14:22:52.475729",
+    "status": "Novo",
+    "processado_em": "2026-04-13T14:22:52.475737"
   }
 ]
