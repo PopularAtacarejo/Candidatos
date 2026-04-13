@@ -6801,5 +6801,33 @@
     "enviado_em": "2026-04-13T14:22:52.475729",
     "status": "Novo",
     "processado_em": "2026-04-13T14:22:52.475737"
+  },
+  {
+    "nome": "Vinicius Douglas Ferreira da Silva",
+    "cpf": "117.059.914-16",
+    "telefone": "(82) 99663-3310",
+    "email": "viniciusarapiraca961@gmail.com",
+    "cep": "57308-120",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Miguel Pedro Lima",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11705991416_Vinicius_Douglas_Ferreira_da_Silva_BALCONISTA_DE_PADARIA_20260413_143016.pdf",
+    "arquivo_nome": "inbound1851726912485252075.pdf",
+    "tamanho_arquivo": 497578,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São luiz",
+        "funcao": "Balconista de padaria/caixa",
+        "data_admissao": "2024-11-21",
+        "data_demissao": "2026-01-01"
+      }
+    ],
+    "id": "6f1bcf95bad1",
+    "enviado_em": "2026-04-13T14:30:18.320031",
+    "status": "Novo",
+    "processado_em": "2026-04-13T14:30:18.320039"
   }
 ]
