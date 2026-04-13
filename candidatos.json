@@ -6948,5 +6948,26 @@
     "enviado_em": "2026-04-13T23:38:56.270590",
     "status": "Novo",
     "processado_em": "2026-04-13T23:38:56.270598"
+  },
+  {
+    "nome": "Erlan Micael Dos Santos Nascimento",
+    "cpf": "140.940.724-11",
+    "telefone": "(82) 99191-0693",
+    "email": "micaelnascimento1828@gmail.com",
+    "cep": "57308-630",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Penedo",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14094072411_Erlan_Micael_Dos_Santos_Nascimento_REPOSITOR_DE_FRIOS_20260413_233956.pdf",
+    "arquivo_nome": "curriculoEM.pdf",
+    "tamanho_arquivo": 109540,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "d920f158ad72",
+    "enviado_em": "2026-04-13T23:39:57.632240",
+    "status": "Novo",
+    "processado_em": "2026-04-13T23:39:57.632252"
   }
 ]
