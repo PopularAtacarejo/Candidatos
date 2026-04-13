@@ -6829,5 +6829,26 @@
     "enviado_em": "2026-04-13T14:30:18.320031",
     "status": "Novo",
     "processado_em": "2026-04-13T14:30:18.320039"
+  },
+  {
+    "nome": "Maria de Lourdes Correia Nascimento",
+    "cpf": "137.205.614-96",
+    "telefone": "(82) 99959-1804",
+    "email": "lourdesmaria1999@icloud.com",
+    "cep": "57301-414",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz",
+    "rua": "Rua Théo Brandão Vilela",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13720561496_Maria_de_Lourdes_Correia_Nascimento_EMBALADOR_A_20260413_163457.pdf",
+    "arquivo_nome": "MARIA DE LOURDES CORREIA NASCIMENTO.pdf",
+    "tamanho_arquivo": 134447,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e819a8d91f0c",
+    "enviado_em": "2026-04-13T16:34:58.519932",
+    "status": "Novo",
+    "processado_em": "2026-04-13T16:34:58.519942"
   }
 ]
