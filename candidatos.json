@@ -6676,5 +6676,33 @@
     "enviado_em": "2026-04-12T16:10:31.245541",
     "status": "Novo",
     "processado_em": "2026-04-12T16:10:31.245551"
+  },
+  {
+    "nome": "Jéssica Barbosa da Silva",
+    "cpf": "122.857.664-59",
+    "telefone": "(82) 99667-6132",
+    "email": "barbosajessica5279@gmail.com",
+    "cep": "57310-515",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Miguel Oliveira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12285766459_Jéssica_Barbosa_da_Silva_OPERADOR_A_DE_CAIXA_20260413_114441.pdf",
+    "arquivo_nome": "inbound4030861489986605968.pdf",
+    "tamanho_arquivo": 53943,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Alagoas motos",
+        "funcao": "Vendedora de consórcio",
+        "data_admissao": "2025-03-05",
+        "data_demissao": "2026-01-29"
+      }
+    ],
+    "id": "4ef9c99312f5",
+    "enviado_em": "2026-04-13T11:44:42.993551",
+    "status": "Novo",
+    "processado_em": "2026-04-13T11:44:42.993562"
   }
 ]
