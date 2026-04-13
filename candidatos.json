@@ -6850,5 +6850,33 @@
     "enviado_em": "2026-04-13T16:34:58.519932",
     "status": "Novo",
     "processado_em": "2026-04-13T16:34:58.519942"
+  },
+  {
+    "nome": "Vitória Nirethyn Dos Santos Silva",
+    "cpf": "143.083.414-50",
+    "telefone": "(82) 99976-2275",
+    "email": "nirethyn@gmail.com",
+    "cep": "57307-030",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Gaspar Ribeiro Wercelone",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14308341450_Vitória_Nirethyn_Dos_Santos_Silva_REPOSITOR_A_20260413_171551.pdf",
+    "arquivo_nome": "inbound2866980159972604560.pdf",
+    "tamanho_arquivo": 653792,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão",
+        "funcao": "Operadora de caixa",
+        "data_admissao": "2024-02-08",
+        "data_demissao": "2024-05-16"
+      }
+    ],
+    "id": "fbce6038a998",
+    "enviado_em": "2026-04-13T17:15:52.851649",
+    "status": "Novo",
+    "processado_em": "2026-04-13T17:15:52.851659"
   }
 ]
