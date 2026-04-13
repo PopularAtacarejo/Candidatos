@@ -6725,5 +6725,26 @@
     "enviado_em": "2026-04-13T11:46:23.319044",
     "status": "Novo",
     "processado_em": "2026-04-13T11:46:23.319051"
+  },
+  {
+    "nome": "Mickaelly severo da Silva",
+    "cpf": "154.081.054-23",
+    "telefone": "(82) 9967-6086",
+    "email": "mickaellysevero145@gmail.com",
+    "cep": "57315-105",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Carlos José Oliveira Magalhães",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15408105423_Mickaelly_severo_da_Silva_AUXILIAR_DE_LIMPEZA_20260413_133757.pdf",
+    "arquivo_nome": "Currículo Fácil e Rápido.pdf",
+    "tamanho_arquivo": 36598,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "293591c45377",
+    "enviado_em": "2026-04-13T13:37:59.124551",
+    "status": "Novo",
+    "processado_em": "2026-04-13T13:37:59.124561"
   }
 ]
