@@ -6878,5 +6878,33 @@
     "enviado_em": "2026-04-13T17:15:52.851649",
     "status": "Novo",
     "processado_em": "2026-04-13T17:15:52.851659"
+  },
+  {
+    "nome": "Cledson Barbosa da Silva",
+    "cpf": "102.596.304-03",
+    "telefone": "(82) 99609-6737",
+    "email": "boyzinho728@gmail.com",
+    "cep": "57302-519",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Professora Maria Ana dos Santos Galindo",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10259630403_Cledson_Barbosa_da_Silva_REPOSITOR_A_20260413_173745.pdf",
+    "arquivo_nome": "inbound2920767253579899478.pdf",
+    "tamanho_arquivo": 208515,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Riachuelo",
+        "funcao": "Estoquista",
+        "data_admissao": "2019-06-04",
+        "data_demissao": "2024-06-10"
+      }
+    ],
+    "id": "a2ca966db505",
+    "enviado_em": "2026-04-13T17:37:47.467867",
+    "status": "Novo",
+    "processado_em": "2026-04-13T17:37:47.467873"
   }
 ]
