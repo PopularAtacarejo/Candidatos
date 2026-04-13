@@ -6906,5 +6906,26 @@
     "enviado_em": "2026-04-13T17:37:47.467867",
     "status": "Novo",
     "processado_em": "2026-04-13T17:37:47.467873"
+  },
+  {
+    "nome": "Kézia Mayara dos Santos",
+    "cpf": "061.994.644-00",
+    "telefone": "(82) 99988-7025",
+    "email": "keziaarapiraca@gmail.com",
+    "cep": "57315-762",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Cícero Ferreira da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06199464400_Kézia_Mayara_dos_Santos_REPOSITOR_A_20260413_185956.pdf",
+    "arquivo_nome": "inbound7711922070642754453.pdf",
+    "tamanho_arquivo": 388355,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "2ae9793827f9",
+    "enviado_em": "2026-04-13T18:59:58.310597",
+    "status": "Novo",
+    "processado_em": "2026-04-13T18:59:58.310605"
   }
 ]
