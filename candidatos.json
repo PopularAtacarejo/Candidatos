@@ -6969,5 +6969,26 @@
     "enviado_em": "2026-04-13T23:39:57.632240",
     "status": "Novo",
     "processado_em": "2026-04-13T23:39:57.632252"
+  },
+  {
+    "nome": "Iasmim Lorrane Dos Santos",
+    "cpf": "170.349.464-42",
+    "telefone": "(82) 9391-2520",
+    "email": "iasmimlorrane080@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17034946442_Iasmim_Lorrane_Dos_Santos_BALCONISTA_DE_PADARIA_20260414_010131.pdf",
+    "arquivo_nome": "inbound4833543260140684301.pdf",
+    "tamanho_arquivo": 48995,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b47cae08bf9f",
+    "enviado_em": "2026-04-14T01:01:32.750371",
+    "status": "Novo",
+    "processado_em": "2026-04-14T01:01:32.750379"
   }
 ]
