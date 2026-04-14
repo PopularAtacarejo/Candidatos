@@ -7018,5 +7018,39 @@
     "enviado_em": "2026-04-14T10:13:17.560586",
     "status": "Novo",
     "processado_em": "2026-04-14T10:13:17.560594"
+  },
+  {
+    "nome": "Suely Mota de Farias",
+    "cpf": "029.487.844-09",
+    "telefone": "(82) 99940-6083",
+    "email": "suelymotadefarias@gmail.com",
+    "cep": "57309-778",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Maria Leão de Melo",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/02948784409_Suely_Mota_de_Farias_BALCONISTA_DE_PADARIA_20260414_155506.pdf",
+    "arquivo_nome": "CURRICULO.pdf",
+    "tamanho_arquivo": 37728,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Pizzaria americana",
+        "funcao": "Atendente",
+        "data_admissao": "2021-01-14",
+        "data_demissao": "2022-12-14"
+      },
+      {
+        "empresa": "JWE",
+        "funcao": "Repositora e atendente do setor de frios e frutas",
+        "data_admissao": "2022-12-16",
+        "data_demissao": "2024-10-14"
+      }
+    ],
+    "id": "fc3734f33957",
+    "enviado_em": "2026-04-14T15:55:08.256268",
+    "status": "Novo",
+    "processado_em": "2026-04-14T15:55:08.256276"
   }
 ]
