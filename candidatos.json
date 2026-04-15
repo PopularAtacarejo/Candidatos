@@ -7192,5 +7192,26 @@
     "enviado_em": "2026-04-15T21:18:17.939961",
     "status": "Novo",
     "processado_em": "2026-04-15T21:18:17.939971"
+  },
+  {
+    "nome": "Marina Vitória Santos Rocha",
+    "cpf": "170.047.944-07",
+    "telefone": "(82) 99632-7018",
+    "email": "marianaa.vitoria@icloud.com",
+    "cep": "57304-190",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Estudante José Acácio",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17004794407_Marina_Vitória_Santos_Rocha_REPOSITOR_A_20260415_230319.pdf",
+    "arquivo_nome": "MARIANA VITORIA SANTOS ROCHA.pdf",
+    "tamanho_arquivo": 141616,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "670f2821b49a",
+    "enviado_em": "2026-04-15T23:03:20.295097",
+    "status": "Novo",
+    "processado_em": "2026-04-15T23:03:20.295106"
   }
 ]
