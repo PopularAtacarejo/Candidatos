@@ -7094,5 +7094,33 @@
     "enviado_em": "2026-04-15T11:31:40.849522",
     "status": "Novo",
     "processado_em": "2026-04-15T11:31:40.849530"
+  },
+  {
+    "nome": "Maria Viviane Valentim Soares",
+    "cpf": "147.771.954-73",
+    "telefone": "(35) 99956-9855",
+    "email": "vivianevalentim0017@gmail.com",
+    "cep": "57308-630",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Penedo",
+    "transporte": "Sim",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14777195473_Maria_Viviane_Valentim_Soares_OPERADOR_DE_SUPERMERCADO_20260415_133551.pdf",
+    "arquivo_nome": "inbound153603505883966330.pdf",
+    "tamanho_arquivo": 2963448,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado uniforte",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2022-01-13",
+        "data_demissao": "2025-05-20"
+      }
+    ],
+    "id": "956c690ec96e",
+    "enviado_em": "2026-04-15T13:35:54.037519",
+    "status": "Novo",
+    "processado_em": "2026-04-15T13:35:54.037527"
   }
 ]
