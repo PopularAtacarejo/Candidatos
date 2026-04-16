@@ -7234,5 +7234,33 @@
     "enviado_em": "2026-04-16T00:30:04.791454",
     "status": "Novo",
     "processado_em": "2026-04-16T00:30:04.791464"
+  },
+  {
+    "nome": "Edkelner Flávio Ferreira Veríssimo",
+    "cpf": "111.440.904-90",
+    "telefone": "(82) 99124-8948",
+    "email": "edkelnerflavio@gmail.com",
+    "cep": "57302-760",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Vital Curi",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11144090490_Edkelner_Flávio_Ferreira_Veríssimo_EMBALADOR_A_20260416_142801.pdf",
+    "arquivo_nome": "inbound442544330659924276.pdf",
+    "tamanho_arquivo": 239265,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Casa H L",
+        "funcao": "Entregador",
+        "data_admissao": "2025-09-25",
+        "data_demissao": "2026-03-25"
+      }
+    ],
+    "id": "d3cc530fe090",
+    "enviado_em": "2026-04-16T14:28:03.054469",
+    "status": "Novo",
+    "processado_em": "2026-04-16T14:28:03.054479"
   }
 ]
