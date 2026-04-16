@@ -7213,5 +7213,26 @@
     "enviado_em": "2026-04-15T23:03:20.295097",
     "status": "Novo",
     "processado_em": "2026-04-15T23:03:20.295106"
+  },
+  {
+    "nome": "Iasmim Lorrane Dos Santos",
+    "cpf": "170.349.464-42",
+    "telefone": "(82) 99391-2520",
+    "email": "iasmimlorrane690@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17034946442_Iasmim_Lorrane_Dos_Santos_AUXILIAR_DE_LIMPEZA_20260416_003003.pdf",
+    "arquivo_nome": "inbound8393145419008408384.pdf",
+    "tamanho_arquivo": 48995,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "88135a34456e",
+    "enviado_em": "2026-04-16T00:30:04.791454",
+    "status": "Novo",
+    "processado_em": "2026-04-16T00:30:04.791464"
   }
 ]
