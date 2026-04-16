@@ -7283,5 +7283,26 @@
     "enviado_em": "2026-04-16T15:04:00.129332",
     "status": "Novo",
     "processado_em": "2026-04-16T15:04:00.129342"
+  },
+  {
+    "nome": "Endereço pessoal de LUANA GUEDES SOUZA",
+    "cpf": "081.976.204-07",
+    "telefone": "(82) 99431-1566",
+    "email": "ermesonyago88@gmail.com",
+    "cep": "57314-150",
+    "cidade": "Arapiraca",
+    "bairro": "Itapoã",
+    "rua": "Rua Claudete Maria de Melo",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08197620407_Endereço_pessoal_de_LUANA_GUEDES_SOUZA_OPERADOR_A_DE_CAIXA_20260416_190401.pdf",
+    "arquivo_nome": "Luana guedes Souza  (2).pdf",
+    "tamanho_arquivo": 413513,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "1c42fff79421",
+    "enviado_em": "2026-04-16T19:04:02.697610",
+    "status": "Novo",
+    "processado_em": "2026-04-16T19:04:02.697621"
   }
 ]
