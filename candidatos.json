@@ -7262,5 +7262,26 @@
     "enviado_em": "2026-04-16T14:28:03.054469",
     "status": "Novo",
     "processado_em": "2026-04-16T14:28:03.054479"
+  },
+  {
+    "nome": "Guilhermy Vyctor Bezerra Da Silva",
+    "cpf": "175.402.284-74",
+    "telefone": "(82) 99968-0464",
+    "email": "guilhermy00714@gmail.com",
+    "cep": "57315-738",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Pedro Barbosa Bela",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17540228474_Guilhermy_Vyctor_Bezerra_Da_Silva_REPOSITOR_A_20260416_150358.pdf",
+    "arquivo_nome": "Currículo A4 simples preto.pdf",
+    "tamanho_arquivo": 397733,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9b087f6a7191",
+    "enviado_em": "2026-04-16T15:04:00.129332",
+    "status": "Novo",
+    "processado_em": "2026-04-16T15:04:00.129342"
   }
 ]
