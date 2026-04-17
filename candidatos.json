@@ -7332,5 +7332,33 @@
     "enviado_em": "2026-04-17T01:13:44.445600",
     "status": "Novo",
     "processado_em": "2026-04-17T01:13:44.445610"
+  },
+  {
+    "nome": "Fátima de Almeida Brito",
+    "cpf": "138.322.534-67",
+    "telefone": "(82) 99961-5819",
+    "email": "fatimadealmeidaa666@gmail.com",
+    "cep": "57303-869",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua José Henrique Filho",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13832253467_Fátima_de_Almeida_Brito_OPERADOR_A_DE_CAIXA_20260417_034218.docx",
+    "arquivo_nome": "Currículo .docx",
+    "tamanho_arquivo": 9397,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendimento bancário / cartão de crédito",
+        "data_admissao": "2022-10-07",
+        "data_demissao": "2025-12-05"
+      }
+    ],
+    "id": "2d868eed6379",
+    "enviado_em": "2026-04-17T03:42:19.552191",
+    "status": "Novo",
+    "processado_em": "2026-04-17T03:42:19.552199"
   }
 ]
