@@ -7304,5 +7304,33 @@
     "enviado_em": "2026-04-16T19:04:02.697610",
     "status": "Novo",
     "processado_em": "2026-04-16T19:04:02.697621"
+  },
+  {
+    "nome": "Mykael Avelino de Oliveira",
+    "cpf": "122.554.174-30",
+    "telefone": "(82) 99918-6611",
+    "email": "mykaelavelino196@gmail.com",
+    "cep": "57304-410",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Sargento Benevides Montes",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12255417430_Mykael_Avelino_de_Oliveira_REPOSITOR_A_20260417_011343.pdf",
+    "arquivo_nome": "inbound6019635847834028644.pdf",
+    "tamanho_arquivo": 24566,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente",
+        "data_admissao": "2025-03-02",
+        "data_demissao": "2025-06-17"
+      }
+    ],
+    "id": "d43c543f46d5",
+    "enviado_em": "2026-04-17T01:13:44.445600",
+    "status": "Novo",
+    "processado_em": "2026-04-17T01:13:44.445610"
   }
 ]
