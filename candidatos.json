@@ -7419,5 +7419,26 @@
     "enviado_em": "2026-04-21T17:37:25.154050",
     "status": "Novo",
     "processado_em": "2026-04-21T17:37:25.154058"
+  },
+  {
+    "nome": "Carlos Daniel Pereira da Silva",
+    "cpf": "142.658.644-22",
+    "telefone": "(82) 99964-7215",
+    "email": "carlosdaniel.eqc@gmail.com",
+    "cep": "57312-265",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua São João",
+    "transporte": "Não",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14265864422_Carlos_Daniel_Pereira_da_Silva_OPERADOR_DE_SUPERMERCADO_20260421_201426.pdf",
+    "arquivo_nome": "Currículo2026-Carlos.Daniel.pdf",
+    "tamanho_arquivo": 196464,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "4e9b09b08e1a",
+    "enviado_em": "2026-04-21T20:14:28.349722",
+    "status": "Novo",
+    "processado_em": "2026-04-21T20:14:28.349730"
   }
 ]
