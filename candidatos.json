@@ -7461,5 +7461,39 @@
     "enviado_em": "2026-04-22T19:31:16.447845",
     "status": "Novo",
     "processado_em": "2026-04-22T19:31:16.447854"
+  },
+  {
+    "nome": "Sabrinna geovanna pereira da Silva",
+    "cpf": "120.300.494-09",
+    "telefone": "(82) 99616-9396",
+    "email": "sabrinnageovanna1@gmail.com",
+    "cep": "57309-505",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Arueira",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12030049409_Sabrinna_geovanna_pereira_da_Silva_BALCONISTA_DE_PADARIA_20260422_220106.pdf",
+    "arquivo_nome": "inbound5455334118159521369.pdf",
+    "tamanho_arquivo": 282304,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Panificadora vale verde",
+        "funcao": "Balconista de padaria",
+        "data_admissao": "2023-01-11",
+        "data_demissao": "2025-05-20"
+      },
+      {
+        "empresa": "Nosso atacado é varejo",
+        "funcao": "Operadora de caixa",
+        "data_admissao": "2021-11-10",
+        "data_demissao": "2022-11-23"
+      }
+    ],
+    "id": "0404034453f9",
+    "enviado_em": "2026-04-22T22:01:08.202776",
+    "status": "Novo",
+    "processado_em": "2026-04-22T22:01:08.202784"
   }
 ]
