@@ -7973,5 +7973,33 @@
     "enviado_em": "2026-04-25T14:22:05.200641",
     "status": "Novo",
     "processado_em": "2026-04-25T14:22:05.200649"
+  },
+  {
+    "nome": "Jordania Rose da Silva",
+    "cpf": "152.660.274-10",
+    "telefone": "(82) 98716-9500",
+    "email": "dany65334@gmail.com",
+    "cep": "57310-500",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua João Medeiros de Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15266027410_Jordania_Rose_da_Silva_REPOSITOR_A_20260425_142829.pdf",
+    "arquivo_nome": "inbound2980943775574852205.pdf",
+    "tamanho_arquivo": 52363,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "McDonald's",
+        "funcao": "Atendente de restaurante",
+        "data_admissao": "2025-06-11",
+        "data_demissao": "2026-04-25"
+      }
+    ],
+    "id": "d5f6160d6c60",
+    "enviado_em": "2026-04-25T14:28:31.164070",
+    "status": "Novo",
+    "processado_em": "2026-04-25T14:28:31.164080"
   }
 ]
