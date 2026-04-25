@@ -7877,5 +7877,33 @@
     "enviado_em": "2026-04-25T13:37:43.775477",
     "status": "Novo",
     "processado_em": "2026-04-25T13:37:43.775483"
+  },
+  {
+    "nome": "Adiel moura",
+    "cpf": "122.580.474-47",
+    "telefone": "(82) 99926-9786",
+    "email": "adielmoura1000@gmail.com",
+    "cep": "57313-060",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Dois de Fevereiro",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12258047447_Adiel_moura_REPOSITOR_DE_FRIOS_20260425_134101.pdf",
+    "arquivo_nome": "inbound1293986202311634090.pdf",
+    "tamanho_arquivo": 351712,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado , luna",
+        "funcao": "Auxiliar de produção, entregador",
+        "data_admissao": "2023-04-11",
+        "data_demissao": "2024-11-19"
+      }
+    ],
+    "id": "7db44bbb0410",
+    "enviado_em": "2026-04-25T13:41:03.327237",
+    "status": "Novo",
+    "processado_em": "2026-04-25T13:41:03.327243"
   }
 ]
