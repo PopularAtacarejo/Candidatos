@@ -7905,5 +7905,33 @@
     "enviado_em": "2026-04-25T13:41:03.327237",
     "status": "Novo",
     "processado_em": "2026-04-25T13:41:03.327243"
+  },
+  {
+    "nome": "Mateus José Da Silva",
+    "cpf": "152.660.684-42",
+    "telefone": "(82) 98204-6121",
+    "email": "mateusjosed047@gmail.com",
+    "cep": "57310-500",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua João Medeiros de Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15266068442_Mateus_José_Da_Silva_REPOSITOR_A_20260425_141636.pdf",
+    "arquivo_nome": "inbound1850059465919396791.pdf",
+    "tamanho_arquivo": 51718,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente receptivo",
+        "data_admissao": "2023-05-05",
+        "data_demissao": "2024-06-30"
+      }
+    ],
+    "id": "8d7865b99760",
+    "enviado_em": "2026-04-25T14:16:37.676536",
+    "status": "Novo",
+    "processado_em": "2026-04-25T14:16:37.676543"
   }
 ]
