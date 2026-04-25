@@ -7655,5 +7655,39 @@
     "enviado_em": "2026-04-24T21:06:51.968734",
     "status": "Novo",
     "processado_em": "2026-04-24T21:06:51.968742"
+  },
+  {
+    "nome": "WALAN FERREIRA",
+    "cpf": "105.835.584-88",
+    "telefone": "(82) 99675-6909",
+    "email": "walanferreira1533@gmail.com",
+    "cep": "57312-530",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua José Cloves Resende de Barros",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10583558488_WALAN_FERREIRA_AUX._DE_PREVENÇÃO_E_PERDAS_20260425_012103.pdf",
+    "arquivo_nome": "inbound397120178266602921.pdf",
+    "tamanho_arquivo": 233561,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ar serviços ltda",
+        "funcao": "Porteiro",
+        "data_admissao": "2019-12-10",
+        "data_demissao": "2022-04-03"
+      },
+      {
+        "empresa": "Carajás",
+        "funcao": "Prevenção de perdas",
+        "data_admissao": "2023-04-07",
+        "data_demissao": "2024-04-24"
+      }
+    ],
+    "id": "601dd4126213",
+    "enviado_em": "2026-04-25T01:21:04.816341",
+    "status": "Novo",
+    "processado_em": "2026-04-25T01:21:04.816348"
   }
 ]
