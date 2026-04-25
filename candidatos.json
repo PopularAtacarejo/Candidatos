@@ -7828,5 +7828,26 @@
     "enviado_em": "2026-04-25T11:56:41.333148",
     "status": "Novo",
     "processado_em": "2026-04-25T11:56:41.333156"
+  },
+  {
+    "nome": "danielle amaral da silva",
+    "cpf": "537.788.308-05",
+    "telefone": "(82) 99694-8972",
+    "email": "dannyhamaral777@icloud.com",
+    "cep": "57315-710",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Joaquim Pereira Gomes",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/53778830805_danielle_amaral_da_silva_EMBALADOR_A_20260425_131456.pdf",
+    "arquivo_nome": "Currículo_Danielle_Amaral.pdf",
+    "tamanho_arquivo": 70659,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "27174bdc58d2",
+    "enviado_em": "2026-04-25T13:14:58.145614",
+    "status": "Novo",
+    "processado_em": "2026-04-25T13:14:58.145623"
   }
 ]
