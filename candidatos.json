@@ -7689,5 +7689,39 @@
     "enviado_em": "2026-04-25T01:21:04.816341",
     "status": "Novo",
     "processado_em": "2026-04-25T01:21:04.816348"
+  },
+  {
+    "nome": "Renan Renald",
+    "cpf": "152.047.754-63",
+    "telefone": "(82) 99909-5328",
+    "email": "renanrenald1000@gmail.com",
+    "cep": "57304-570",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Antônio Feliz Silva",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15204775463_Renan_Renald_AUX._DE_ESTOQUE_20260425_020241.pdf",
+    "arquivo_nome": "inbound2992104866411470520.pdf",
+    "tamanho_arquivo": 1711702,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Livraria globo",
+        "funcao": "Repositor",
+        "data_admissao": "2025-10-25",
+        "data_demissao": "2026-03-31"
+      },
+      {
+        "empresa": "TeL empréstimo",
+        "funcao": "Auxiliar administrativo",
+        "data_admissao": "2024-09-30",
+        "data_demissao": "2025-04-10"
+      }
+    ],
+    "id": "92a6ab8ab2c4",
+    "enviado_em": "2026-04-25T02:02:43.350886",
+    "status": "Novo",
+    "processado_em": "2026-04-25T02:02:43.350894"
   }
 ]
