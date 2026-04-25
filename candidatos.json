@@ -7723,5 +7723,33 @@
     "enviado_em": "2026-04-25T02:02:43.350886",
     "status": "Novo",
     "processado_em": "2026-04-25T02:02:43.350894"
+  },
+  {
+    "nome": "Lucas Rafael de Oliveira Silva",
+    "cpf": "117.265.604-57",
+    "telefone": "(82) 99901-7393",
+    "email": "lucasoliverfael58@gmail.com",
+    "cep": "57312-560",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua Clóvis de Barros Correia",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11726560457_Lucas_Rafael_de_Oliveira_Silva_BALCONISTA_DE_PADARIA_20260425_024603.pdf",
+    "arquivo_nome": "Currículo Lucas.pdf",
+    "tamanho_arquivo": 433352,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Pastel do Alencar",
+        "funcao": "Serviços gerais",
+        "data_admissao": "2023-04-24",
+        "data_demissao": "2023-10-24"
+      }
+    ],
+    "id": "073f5b02f6b0",
+    "enviado_em": "2026-04-25T02:46:04.669523",
+    "status": "Novo",
+    "processado_em": "2026-04-25T02:46:04.669533"
   }
 ]
