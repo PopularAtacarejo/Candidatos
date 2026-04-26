@@ -8105,5 +8105,26 @@
     "enviado_em": "2026-04-26T15:40:14.179821",
     "status": "Novo",
     "processado_em": "2026-04-26T15:40:14.179831"
+  },
+  {
+    "nome": "Ana Cristina Soares Santos",
+    "cpf": "155.239.254-62",
+    "telefone": "(82) 98209-5865",
+    "email": "cristinasoaress845@gmail.com",
+    "cep": "57303-856",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Manoel Ângelo Sobrinho",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15523925462_Ana_Cristina_Soares_Santos_EMBALADOR_A_20260426_172107.pdf",
+    "arquivo_nome": "inbound5014264236731425405.pdf",
+    "tamanho_arquivo": 1499972,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "5a528e083c0b",
+    "enviado_em": "2026-04-26T17:21:10.178675",
+    "status": "Novo",
+    "processado_em": "2026-04-26T17:21:10.178684"
   }
 ]
