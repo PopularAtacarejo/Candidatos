@@ -8250,5 +8250,33 @@
     "enviado_em": "2026-04-27T21:03:39.909215",
     "status": "Novo",
     "processado_em": "2026-04-27T21:03:39.909223"
+  },
+  {
+    "nome": "Gercina da Conceição Lima",
+    "cpf": "063.094.774-04",
+    "telefone": "(82) 99610-5737",
+    "email": "vinicialima93@icloud.com",
+    "cep": "57304-670",
+    "cidade": "Arapiraca",
+    "bairro": "Padre Antônio Lima Neto",
+    "rua": "Rua Estudante Cledson Damasceno",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06309477404_Gercina_da_Conceição_Lima_EMBALADOR_A_20260427_213415.pdf",
+    "arquivo_nome": "Currículo de Gercina da Conceição Lima_.pdf",
+    "tamanho_arquivo": 132234,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Popular alimentos",
+        "funcao": "Embaladora",
+        "data_admissao": "2025-05-16",
+        "data_demissao": "2026-04-22"
+      }
+    ],
+    "id": "8cbd003617ba",
+    "enviado_em": "2026-04-27T21:34:16.748473",
+    "status": "Novo",
+    "processado_em": "2026-04-27T21:34:16.748483"
   }
 ]
