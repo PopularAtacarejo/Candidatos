@@ -8160,5 +8160,39 @@
     "enviado_em": "2026-04-27T14:57:22.626135",
     "status": "Novo",
     "processado_em": "2026-04-27T14:57:22.626145"
+  },
+  {
+    "nome": "Júlio Cesar dos santos gama",
+    "cpf": "016.709.454-80",
+    "telefone": "(82) 99348-8637",
+    "email": "julioalcesar0792@gmail.com",
+    "cep": "57309-166",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Marinete Barbosa dos Santos",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/01670945480_Júlio_Cesar_dos_santos_gama_BALCONISTA_DE_AÇOUGUE_20260427_171636.pdf",
+    "arquivo_nome": "inbound7496373748887046107.pdf",
+    "tamanho_arquivo": 1257116,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Master supermercado",
+        "funcao": "Operador de Caixa",
+        "data_admissao": "2018-03-01",
+        "data_demissao": "2021-09-01"
+      },
+      {
+        "empresa": "Supermercado São Luiz",
+        "funcao": "Balconista de frios",
+        "data_admissao": "2023-10-01",
+        "data_demissao": "2025-04-01"
+      }
+    ],
+    "id": "3a09521c2328",
+    "enviado_em": "2026-04-27T17:16:38.350583",
+    "status": "Novo",
+    "processado_em": "2026-04-27T17:16:38.350590"
   }
 ]
