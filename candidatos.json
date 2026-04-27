@@ -8194,5 +8194,33 @@
     "enviado_em": "2026-04-27T17:16:38.350583",
     "status": "Novo",
     "processado_em": "2026-04-27T17:16:38.350590"
+  },
+  {
+    "nome": "Kassia Ferreira Dos Santos",
+    "cpf": "116.507.604-77",
+    "telefone": "(82) 99654-9533",
+    "email": "kassiaferreira525@gmail.com",
+    "cep": "57312-022",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Valentim dos Santos",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11650760477_Kassia_Ferreira_Dos_Santos_EMBALADOR_A_20260427_203326.pdf",
+    "arquivo_nome": "inbound7913361126304300861.pdf",
+    "tamanho_arquivo": 147915,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lanusia",
+        "funcao": "Serviços  gerais",
+        "data_admissao": "2020-04-20",
+        "data_demissao": "2023-04-28"
+      }
+    ],
+    "id": "8da9a7c46b2d",
+    "enviado_em": "2026-04-27T20:33:27.757520",
+    "status": "Novo",
+    "processado_em": "2026-04-27T20:33:27.757529"
   }
 ]
