@@ -8222,5 +8222,33 @@
     "enviado_em": "2026-04-27T20:33:27.757520",
     "status": "Novo",
     "processado_em": "2026-04-27T20:33:27.757529"
+  },
+  {
+    "nome": "Júlio Cesar dos Santos Gama",
+    "cpf": "016.709.454-80",
+    "telefone": "(82) 99348-8637",
+    "email": "julioalcesar0792@gmail.com",
+    "cep": "57309-166",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Marinete Barbosa dos Santos",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/01670945480_Júlio_Cesar_dos_Santos_Gama_REPOSITOR_A_20260427_210337.pdf",
+    "arquivo_nome": "inbound6614731520013006517.pdf",
+    "tamanho_arquivo": 1257116,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Favo de mel",
+        "funcao": "Repositor",
+        "data_admissao": "2022-04-27",
+        "data_demissao": "2023-03-01"
+      }
+    ],
+    "id": "08b5ee8881d0",
+    "enviado_em": "2026-04-27T21:03:39.909215",
+    "status": "Novo",
+    "processado_em": "2026-04-27T21:03:39.909223"
   }
 ]
