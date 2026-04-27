@@ -8348,5 +8348,26 @@
     "enviado_em": "2026-04-27T22:38:44.106491",
     "status": "Novo",
     "processado_em": "2026-04-27T22:38:44.106499"
+  },
+  {
+    "nome": "Izaele Bispo Da Silva",
+    "cpf": "098.152.814-70",
+    "telefone": "(82) 99348-5970",
+    "email": "izabispo4@icloud.com",
+    "cep": "57300-370",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Monsenhor Macêdo",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09815281470_Izaele_Bispo_Da_Silva_OPERADOR_A_DE_CAIXA_20260427_223846.pdf",
+    "arquivo_nome": "Currículo Izaele Bispo da Silva .pdf",
+    "tamanho_arquivo": 437312,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "d9a39003a686",
+    "enviado_em": "2026-04-27T22:38:49.191154",
+    "status": "Novo",
+    "processado_em": "2026-04-27T22:38:49.191165"
   }
 ]
