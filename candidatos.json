@@ -8439,5 +8439,33 @@
     "enviado_em": "2026-04-27T23:37:00.420868",
     "status": "Novo",
     "processado_em": "2026-04-27T23:37:00.420877"
+  },
+  {
+    "nome": "Girlene Martins de Freitas",
+    "cpf": "091.088.454-41",
+    "telefone": "(16) 98133-6243",
+    "email": "chaymartins060@gmail.com",
+    "cep": "57302-685",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Antônio Magalhães Silva",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09108845441_Girlene_Martins_de_Freitas_EMBALADOR_A_20260427_235045.pdf",
+    "arquivo_nome": "inbound3159278313978361848.pdf",
+    "tamanho_arquivo": 105520,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Elz",
+        "funcao": "Lógico, estoquista,",
+        "data_admissao": "2026-02-09",
+        "data_demissao": "2026-03-25"
+      }
+    ],
+    "id": "019ab4d33f08",
+    "enviado_em": "2026-04-27T23:50:46.556348",
+    "status": "Novo",
+    "processado_em": "2026-04-27T23:50:46.556359"
   }
 ]
