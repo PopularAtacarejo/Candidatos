@@ -8278,5 +8278,26 @@
     "enviado_em": "2026-04-27T21:34:16.748473",
     "status": "Novo",
     "processado_em": "2026-04-27T21:34:16.748483"
+  },
+  {
+    "nome": "Emersson da silva santos",
+    "cpf": "180.896.894-85",
+    "telefone": "(82) 99413-2161",
+    "email": "emersonsilva8922@gmail.com",
+    "cep": "57302-170",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua José Saturnino",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18089689485_Emersson_da_silva_santos_EMBALADOR_A_20260427_220437.pdf",
+    "arquivo_nome": "Foto.pdf",
+    "tamanho_arquivo": 172635,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "902a0ec496ab",
+    "enviado_em": "2026-04-27T22:04:39.497461",
+    "status": "Novo",
+    "processado_em": "2026-04-27T22:04:39.497469"
   }
 ]
