@@ -8126,5 +8126,39 @@
     "enviado_em": "2026-04-26T17:21:10.178675",
     "status": "Novo",
     "processado_em": "2026-04-26T17:21:10.178684"
+  },
+  {
+    "nome": "Silmara Barbosa Vieira",
+    "cpf": "159.445.164-88",
+    "telefone": "(82) 99653-0386",
+    "email": "silmaravieira2barbosa@gmail.com",
+    "cep": "57312-013",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Professora Terezinha Amorim de Oliveira",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15944516488_Silmara_Barbosa_Vieira_BALCONISTA_DE_PADARIA_20260427_145720.pdf",
+    "arquivo_nome": "inbound8270679561285241391.pdf",
+    "tamanho_arquivo": 423067,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente",
+        "data_admissao": "2025-04-10",
+        "data_demissao": "2026-01-06"
+      },
+      {
+        "empresa": "Caixa Econômica Federal",
+        "funcao": "Jovem aprendiz",
+        "data_admissao": "2022-08-22",
+        "data_demissao": "2024-05-03"
+      }
+    ],
+    "id": "365125c20dd6",
+    "enviado_em": "2026-04-27T14:57:22.626135",
+    "status": "Novo",
+    "processado_em": "2026-04-27T14:57:22.626145"
   }
 ]
