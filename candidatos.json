@@ -8857,5 +8857,33 @@
     "enviado_em": "2026-04-28T22:09:59.699418",
     "status": "Novo",
     "processado_em": "2026-04-28T22:09:59.699426"
+  },
+  {
+    "nome": "Jessica Vitória da Silva",
+    "cpf": "116.353.784-51",
+    "telefone": "(82) 99970-5471",
+    "email": "jsvitoria1105@gmail.com",
+    "cep": "57309-460",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Ângelo Sobrinho",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11635378451_Jessica_Vitória_da_Silva_OPERADOR_A_DE_CAIXA_20260428_221205.pdf",
+    "arquivo_nome": "Curriculum_JéssicaSilva_20260226092352.pdf",
+    "tamanho_arquivo": 24834,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente",
+        "data_admissao": "2022-05-23",
+        "data_demissao": "2025-12-11"
+      }
+    ],
+    "id": "2ff894787cd7",
+    "enviado_em": "2026-04-28T22:12:06.676786",
+    "status": "Novo",
+    "processado_em": "2026-04-28T22:12:06.676795"
   }
 ]
