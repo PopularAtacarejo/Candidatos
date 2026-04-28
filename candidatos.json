@@ -8955,5 +8955,33 @@
     "enviado_em": "2026-04-28T22:44:42.658907",
     "status": "Novo",
     "processado_em": "2026-04-28T22:44:42.658915"
+  },
+  {
+    "nome": "Rayane Kelly Soares da Silva",
+    "cpf": "139.166.674-75",
+    "telefone": "(82) 99916-0223",
+    "email": "soaresraay9954@gmail.com",
+    "cep": "57306-650",
+    "cidade": "Arapiraca",
+    "bairro": "Cavaco",
+    "rua": "Rua Joel Lindolfo de Oliveira",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13916667475_Rayane_Kelly_Soares_da_Silva_BALCONISTA_DE_PADARIA_20260428_232509.pdf",
+    "arquivo_nome": "Currículo Rayane .pdf",
+    "tamanho_arquivo": 91601,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Cacau show",
+        "funcao": "Vendedora e caixa",
+        "data_admissao": "2025-08-09",
+        "data_demissao": "2025-12-15"
+      }
+    ],
+    "id": "fa49151050b3",
+    "enviado_em": "2026-04-28T23:25:10.706315",
+    "status": "Novo",
+    "processado_em": "2026-04-28T23:25:10.706325"
   }
 ]
