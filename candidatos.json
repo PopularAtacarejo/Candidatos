@@ -8613,5 +8613,26 @@
     "enviado_em": "2026-04-28T15:48:19.660114",
     "status": "Novo",
     "processado_em": "2026-04-28T15:48:19.660123"
+  },
+  {
+    "nome": "Beatriz Mendonça de Araújo",
+    "cpf": "143.552.064-59",
+    "telefone": "(82) 98124-4317",
+    "email": "beamendo229@gmail.com",
+    "cep": "57312-540",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua José Cavalcante Bezerra de Barros",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14355206459_Beatriz_Mendonça_de_Araújo_AUXILIAR_DE_PADEIRO_20260428_171057.pdf",
+    "arquivo_nome": "Currículo Beatriz Mendonça .pdf",
+    "tamanho_arquivo": 184832,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "4e03da7587e0",
+    "enviado_em": "2026-04-28T17:10:59.617838",
+    "status": "Novo",
+    "processado_em": "2026-04-28T17:10:59.617847"
   }
 ]
