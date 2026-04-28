@@ -8906,5 +8906,26 @@
     "enviado_em": "2026-04-28T22:17:23.384808",
     "status": "Novo",
     "processado_em": "2026-04-28T22:17:23.384817"
+  },
+  {
+    "nome": "carla rayane borges",
+    "cpf": "144.991.624-40",
+    "telefone": "(82) 99977-0697",
+    "email": "cb998277@icloud.com",
+    "cep": "57301-100",
+    "cidade": "Arapiraca",
+    "bairro": "Ouro Preto",
+    "rua": "Rua Domingos Correia",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14499162440_carla_rayane_borges_OPERADOR_A_DE_CAIXA_20260428_223641.pdf",
+    "arquivo_nome": "Curriculum_CarlaRayaneBorgesSoares_20260423174100.pdf",
+    "tamanho_arquivo": 25782,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b182e9118885",
+    "enviado_em": "2026-04-28T22:36:42.898612",
+    "status": "Novo",
+    "processado_em": "2026-04-28T22:36:42.898620"
   }
 ]
