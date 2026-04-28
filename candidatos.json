@@ -8662,5 +8662,33 @@
     "enviado_em": "2026-04-28T17:24:43.055983",
     "status": "Novo",
     "processado_em": "2026-04-28T17:24:43.055992"
+  },
+  {
+    "nome": "Carlos Luiz da Silva Santos",
+    "cpf": "123.273.164-13",
+    "telefone": "(82) 99341-0543",
+    "email": "carlossilvaluizsantos@gmail.com",
+    "cep": "57265-066",
+    "cidade": "Teotônio Vilela",
+    "bairro": "Centro",
+    "rua": "Rua Coronel José Pacheco",
+    "transporte": "Não",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12327316413_Carlos_Luiz_da_Silva_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260428_172811.pdf",
+    "arquivo_nome": "inbound2680831567988190582.pdf",
+    "tamanho_arquivo": 133961,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado Pereira",
+        "funcao": "Operador de loja",
+        "data_admissao": "2024-10-25",
+        "data_demissao": "2026-04-28"
+      }
+    ],
+    "id": "bc1b384c9276",
+    "enviado_em": "2026-04-28T17:28:13.811474",
+    "status": "Novo",
+    "processado_em": "2026-04-28T17:28:13.811482"
   }
 ]
