@@ -8746,5 +8746,33 @@
     "enviado_em": "2026-04-28T20:59:10.866876",
     "status": "Novo",
     "processado_em": "2026-04-28T20:59:10.866887"
+  },
+  {
+    "nome": "victoria stefanny cruz da silva",
+    "cpf": "139.228.024-94",
+    "telefone": "(82) 99961-0573",
+    "email": "victoria.ste_10@icloud.com",
+    "cep": "57300-470",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Professor Domingos Rodrigues",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13922802494_victoria_stefanny_cruz_da_silva_AUX._DE_PREVENÇÃO_E_PERDAS_20260428_212631.pdf",
+    "arquivo_nome": "IMG_3920.pdf",
+    "tamanho_arquivo": 242790,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente",
+        "data_admissao": "2025-03-28",
+        "data_demissao": "2026-03-12"
+      }
+    ],
+    "id": "29617d3fc36c",
+    "enviado_em": "2026-04-28T21:26:33.363776",
+    "status": "Novo",
+    "processado_em": "2026-04-28T21:26:33.363783"
   }
 ]
