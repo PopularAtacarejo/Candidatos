@@ -8774,5 +8774,39 @@
     "enviado_em": "2026-04-28T21:26:33.363776",
     "status": "Novo",
     "processado_em": "2026-04-28T21:26:33.363783"
+  },
+  {
+    "nome": "Ramon Victor Alves da Silva",
+    "cpf": "137.387.274-85",
+    "telefone": "(82) 99958-2845",
+    "email": "ramonvictor153@gmail.com",
+    "cep": "57301-702",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz II",
+    "rua": "Rua Marinete Lopes de Oliveira",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13738727485_Ramon_Victor_Alves_da_Silva_AUX._DE_ESTOQUE_20260428_214342.pdf",
+    "arquivo_nome": "inbound6010865533813554457.pdf",
+    "tamanho_arquivo": 38326,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Vk distribuidor",
+        "funcao": "Separador estoquista, auxiliar de motorista, porteiro",
+        "data_admissao": "2023-02-13",
+        "data_demissao": "2025-07-05"
+      },
+      {
+        "empresa": "Casa vieira",
+        "funcao": "Repositor",
+        "data_admissao": "2026-01-15",
+        "data_demissao": "2026-03-15"
+      }
+    ],
+    "id": "a105c1032fef",
+    "enviado_em": "2026-04-28T21:43:43.900841",
+    "status": "Novo",
+    "processado_em": "2026-04-28T21:43:43.900848"
   }
 ]
