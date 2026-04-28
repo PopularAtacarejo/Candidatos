@@ -8808,5 +8808,26 @@
     "enviado_em": "2026-04-28T21:43:43.900841",
     "status": "Novo",
     "processado_em": "2026-04-28T21:43:43.900848"
+  },
+  {
+    "nome": "Mayara Ferreira da Silva",
+    "cpf": "478.862.198-30",
+    "telefone": "(11) 98580-2524",
+    "email": "mayaadry123@gmail.com",
+    "cep": "57311-305",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Petrolina",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/47886219830_Mayara_Ferreira_da_Silva_OPERADOR_A_DE_CAIXA_20260428_215325.pdf",
+    "arquivo_nome": "Currículo para o primeiro emprego simples.pdf",
+    "tamanho_arquivo": 99243,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a71ba8e26765",
+    "enviado_em": "2026-04-28T21:53:26.871110",
+    "status": "Novo",
+    "processado_em": "2026-04-28T21:53:26.871118"
   }
 ]
