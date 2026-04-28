@@ -8690,5 +8690,33 @@
     "enviado_em": "2026-04-28T17:28:13.811474",
     "status": "Novo",
     "processado_em": "2026-04-28T17:28:13.811482"
+  },
+  {
+    "nome": "Wesley Lucas Lima da Silva",
+    "cpf": "136.867.154-30",
+    "telefone": "(82) 99653-3112",
+    "email": "elosanto608@gmail.com",
+    "cep": "57311-450",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Francisco Carlos Barbosa Rocha",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13686715430_Wesley_Lucas_Lima_da_Silva_AUX._DE_ESTOQUE_20260428_192514.pdf",
+    "arquivo_nome": "inbound2470766947458725021.pdf",
+    "tamanho_arquivo": 240560,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado são Luis",
+        "funcao": "Auxiliar de carga e descarga",
+        "data_admissao": "2025-08-05",
+        "data_demissao": "2026-03-23"
+      }
+    ],
+    "id": "e3bd9a95c9cd",
+    "enviado_em": "2026-04-28T19:25:16.631812",
+    "status": "Novo",
+    "processado_em": "2026-04-28T19:25:16.631821"
   }
 ]
