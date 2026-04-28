@@ -8927,5 +8927,33 @@
     "enviado_em": "2026-04-28T22:36:42.898612",
     "status": "Novo",
     "processado_em": "2026-04-28T22:36:42.898620"
+  },
+  {
+    "nome": "Lucas Severo Albuquerque",
+    "cpf": "114.220.444-83",
+    "telefone": "(82) 99643-5765",
+    "email": "severolucas98@gmail.com",
+    "cep": "57305-050",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Domingos Evangelista",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11422044483_Lucas_Severo_Albuquerque_EMBALADOR_A_20260428_224440.pdf",
+    "arquivo_nome": "Lucas Severo albuquerque (2).pdf",
+    "tamanho_arquivo": 186361,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Horti Frutti-MG",
+        "funcao": "Balconista",
+        "data_admissao": "2022-09-09",
+        "data_demissao": "2023-07-29"
+      }
+    ],
+    "id": "c80cd128ebdb",
+    "enviado_em": "2026-04-28T22:44:42.658907",
+    "status": "Novo",
+    "processado_em": "2026-04-28T22:44:42.658915"
   }
 ]
