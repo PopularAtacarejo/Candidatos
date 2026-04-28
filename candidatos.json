@@ -8634,5 +8634,33 @@
     "enviado_em": "2026-04-28T17:10:59.617838",
     "status": "Novo",
     "processado_em": "2026-04-28T17:10:59.617847"
+  },
+  {
+    "nome": "Janina Lima da Silva",
+    "cpf": "180.708.744-14",
+    "telefone": "(82) 99947-8739",
+    "email": "janainahot123@gmail.com",
+    "cep": "57312-240",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Cícero de Queiroz",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18070874414_Janina_Lima_da_Silva_BALCONISTA_DE_PADARIA_20260428_172440.pdf",
+    "arquivo_nome": "CURRÍCULO-JANAINA LIMA DA SILVA.pdf",
+    "tamanho_arquivo": 171656,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Claro",
+        "funcao": "Vendedora",
+        "data_admissao": "2025-02-05",
+        "data_demissao": "2026-04-03"
+      }
+    ],
+    "id": "1739d36a06c1",
+    "enviado_em": "2026-04-28T17:24:43.055983",
+    "status": "Novo",
+    "processado_em": "2026-04-28T17:24:43.055992"
   }
 ]
