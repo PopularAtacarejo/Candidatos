@@ -9095,5 +9095,33 @@
     "enviado_em": "2026-04-29T12:25:19.946621",
     "status": "Novo",
     "processado_em": "2026-04-29T12:25:19.946630"
+  },
+  {
+    "nome": "Thiago Silva Santos",
+    "cpf": "112.929.714-44",
+    "telefone": "(82) 99688-8728",
+    "email": "thiagosilvasantos097@gmail.com",
+    "cep": "57303-794",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Estudante Cledson Damasceno",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11292971444_Thiago_Silva_Santos_REPOSITOR_A_20260429_142509.pdf",
+    "arquivo_nome": "Thiago Silva Santos - Curriculo.pdf",
+    "tamanho_arquivo": 184487,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente",
+        "data_admissao": "2022-06-01",
+        "data_demissao": "2025-09-04"
+      }
+    ],
+    "id": "b56625c6b799",
+    "enviado_em": "2026-04-29T14:25:11.842646",
+    "status": "Novo",
+    "processado_em": "2026-04-29T14:25:11.842655"
   }
 ]
