@@ -9123,5 +9123,33 @@
     "enviado_em": "2026-04-29T14:25:11.842646",
     "status": "Novo",
     "processado_em": "2026-04-29T14:25:11.842655"
+  },
+  {
+    "nome": "Marcos Vinicius pereira",
+    "cpf": "143.541.864-62",
+    "telefone": "(82) 99664-8116",
+    "email": "marcosclark03052003@gmail.com",
+    "cep": "57303-817",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Marlene Barbosa da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14354186462_Marcos_Vinicius_pereira_BALCONISTA_DE_PADARIA_20260429_161852.pdf",
+    "arquivo_nome": "CV_Marcos.pdf",
+    "tamanho_arquivo": 92769,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atendente",
+        "funcao": "Atendente",
+        "data_admissao": "2025-05-01",
+        "data_demissao": "2025-12-26"
+      }
+    ],
+    "id": "7ad8c7e512e0",
+    "enviado_em": "2026-04-29T16:18:54.368701",
+    "status": "Novo",
+    "processado_em": "2026-04-29T16:18:54.368710"
   }
 ]
