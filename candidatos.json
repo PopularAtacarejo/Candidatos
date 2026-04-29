@@ -9179,5 +9179,39 @@
     "enviado_em": "2026-04-29T16:30:18.144615",
     "status": "Novo",
     "processado_em": "2026-04-29T16:30:18.144624"
+  },
+  {
+    "nome": "Matheus de Souza Albuquerque",
+    "cpf": "494.869.248-48",
+    "telefone": "(82) 99424-1431",
+    "email": "matheus2001.ms67@gmail.com",
+    "cep": "57303-314",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Ranufo Menezes da Silva",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/49486924848_Matheus_de_Souza_Albuquerque_OPERADOR_A_DE_CAIXA_20260429_165951.pdf",
+    "arquivo_nome": "inbound517194919239097013.pdf",
+    "tamanho_arquivo": 2287,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jota pinto",
+        "funcao": "Frentista",
+        "data_admissao": "2024-09-07",
+        "data_demissao": "2025-08-20"
+      },
+      {
+        "empresa": "Farmácia permanente",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2021-04-15",
+        "data_demissao": "2023-07-10"
+      }
+    ],
+    "id": "14ad17b003a1",
+    "enviado_em": "2026-04-29T16:59:53.054115",
+    "status": "Novo",
+    "processado_em": "2026-04-29T16:59:53.054123"
   }
 ]
