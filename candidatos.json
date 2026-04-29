@@ -9151,5 +9151,33 @@
     "enviado_em": "2026-04-29T16:18:54.368701",
     "status": "Novo",
     "processado_em": "2026-04-29T16:18:54.368710"
+  },
+  {
+    "nome": "Joao Emerson da Silva",
+    "cpf": "146.179.814-03",
+    "telefone": "(82) 99302-8449",
+    "email": "joaoemerson1551@gmail.com",
+    "cep": "57309-502",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Cajarana",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14617981403_Joao_Emerson_da_Silva_OPERADOR_A_DE_CAIXA_20260429_163015.pdf",
+    "arquivo_nome": "João Emerson Da Silva.pdf",
+    "tamanho_arquivo": 671612,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Doce Cafe",
+        "funcao": "Operador de Caixa",
+        "data_admissao": "2023-11-08",
+        "data_demissao": "2026-03-10"
+      }
+    ],
+    "id": "71c9e39f0697",
+    "enviado_em": "2026-04-29T16:30:18.144615",
+    "status": "Novo",
+    "processado_em": "2026-04-29T16:30:18.144624"
   }
 ]
