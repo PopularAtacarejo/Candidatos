@@ -9004,5 +9004,26 @@
     "enviado_em": "2026-04-29T01:02:23.330934",
     "status": "Novo",
     "processado_em": "2026-04-29T01:02:23.330941"
+  },
+  {
+    "nome": "Bruno Leite Quirino da Silva",
+    "cpf": "152.464.604-01",
+    "telefone": "(82) 99900-3068",
+    "email": "brunodk560@gmail.com",
+    "cep": "57312-580",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua José Alves Porto",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15246460401_Bruno_Leite_Quirino_da_Silva_BALCONISTA_DE_PADARIA_20260429_022905.pdf",
+    "arquivo_nome": "inbound6524420995752094492.pdf",
+    "tamanho_arquivo": 2640,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "514e572b0a98",
+    "enviado_em": "2026-04-29T02:29:06.972696",
+    "status": "Novo",
+    "processado_em": "2026-04-29T02:29:06.972707"
   }
 ]
