@@ -1,24 +1,5 @@
 [
   {
-    "nome": "Diogo Jose da Silva",
-    "cpf": "162.639.174-23",
-    "telefone": "(55) 82981-2965",
-    "email": "diogojosesilva596@gmail.com",
-    "cep": "57315-750",
-    "cidade": "Arapiraca",
-    "bairro": "Senador Arnon de Melo",
-    "rua": "Rua Maria de Lourdes de Oliveira",
-    "transporte": "Sim",
-    "vaga": "AUX. DE ESTOQUE",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16263917423_Diogo_Jose_da_Silva_AUX._DE_ESTOQUE_20260129_233909.pdf",
-    "arquivo_nome": "inbound7420208088387646018.pdf",
-    "tamanho_arquivo": 431717,
-    "id": "01c97d4c71fa",
-    "enviado_em": "2026-01-29T23:39:10.912072",
-    "status": "Novo",
-    "processado_em": "2026-01-29T23:39:10.912081"
-  },
-  {
     "nome": "Lara Vitoria Lopes Souza Ribeiro",
     "cpf": "106.097.265-44",
     "telefone": "(73) 99157-9270",
@@ -956,49 +937,6 @@
     "enviado_em": "2026-02-24T09:53:26.169000",
     "status": "Novo",
     "processado_em": "2026-02-24T09:53:26.169012"
-  },
-  {
-    "nome": "Lazaro Gustavo Sombra Silva",
-    "cpf": "102.080.864-04",
-    "telefone": "(82) 99920-0947",
-    "email": "gugarox01@gmail.com",
-    "cep": "57307-470",
-    "cidade": "Arapiraca",
-    "bairro": "Jardim Esperança",
-    "rua": "Praça Ivone de Oliveira",
-    "transporte": "Sim",
-    "vaga": "CONFEITEIRO",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10208086404_Lazaro_Gustavo_Sombra_Silva_CONFEITEIRO_20260129_192331.pdf",
-    "arquivo_nome": "NF DE VENDA POPULAR CONSTRUCAO.pdf",
-    "tamanho_arquivo": 219256,
-    "id": "43d6c9cc7e62",
-    "enviado_em": "2026-01-29T19:23:33.316914",
-    "status": "Novo",
-    "processado_em": "2026-01-29T19:23:33.316923",
-    "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-02-03T19:16:20.881401",
-    "view_history": [
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-01-30T15:55:54.028586"
-      },
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-02-03T13:18:55.173711"
-      },
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-02-03T17:19:07.882093"
-      },
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-02-03T19:09:26.622261"
-      },
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-02-03T19:16:20.881401"
-      }
-    ]
   },
   {
     "nome": "Jeferson Jefry",
