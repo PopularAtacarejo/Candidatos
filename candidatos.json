@@ -9242,5 +9242,26 @@
     "enviado_em": "2026-04-30T14:49:28.396856",
     "status": "Novo",
     "processado_em": "2026-04-30T14:49:28.396864"
+  },
+  {
+    "nome": "Vanessa silva alcântara",
+    "cpf": "148.718.944-36",
+    "telefone": "(82) 99610-6519",
+    "email": "vaz09n@gmail.com",
+    "cep": "57303-214",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Tereza Barbosa da Silva",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14871894436_Vanessa_silva_alcântara_OPERADOR_A_DE_CAIXA_20260430_160556.pdf",
+    "arquivo_nome": "Currículo Vanessa Alcântara .pdf",
+    "tamanho_arquivo": 0,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "eb9217e012d8",
+    "enviado_em": "2026-04-30T16:05:58.507926",
+    "status": "Novo",
+    "processado_em": "2026-04-30T16:05:58.507934"
   }
 ]
