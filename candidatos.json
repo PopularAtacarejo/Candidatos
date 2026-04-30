@@ -9172,5 +9172,33 @@
     "enviado_em": "2026-04-30T00:10:09.189573",
     "status": "Novo",
     "processado_em": "2026-04-30T00:10:09.189582"
+  },
+  {
+    "nome": "Eleny Lima Nunes",
+    "cpf": "033.877.382-77",
+    "telefone": "(82) 98713-4296",
+    "email": "elenylima885@gmail.com",
+    "cep": "57302-210",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Lúcio Vital",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/03387738277_Eleny_Lima_Nunes_AUX._DE_PREVENÇÃO_E_PERDAS_20260430_013115.pdf",
+    "arquivo_nome": "Curriculo_Eleny_Lima_Ajustado (2).pdf",
+    "tamanho_arquivo": 66910,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mix Mateus",
+        "funcao": "Prevenção de perdas",
+        "data_admissao": "2025-02-28",
+        "data_demissao": "2025-10-29"
+      }
+    ],
+    "id": "7549c940d3e6",
+    "enviado_em": "2026-04-30T01:31:16.617011",
+    "status": "Novo",
+    "processado_em": "2026-04-30T01:31:16.617021"
   }
 ]
