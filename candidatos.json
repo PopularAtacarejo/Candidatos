@@ -9300,5 +9300,33 @@
     "enviado_em": "2026-05-01T11:13:56.479747",
     "status": "Novo",
     "processado_em": "2026-05-01T11:13:56.479755"
+  },
+  {
+    "nome": "Miriam Mercedes dos Santos Vieira",
+    "cpf": "150.402.464-80",
+    "telefone": "(82) 99366-4217",
+    "email": "mirianmercedes403@gmail.com",
+    "cep": "57600-640",
+    "cidade": "Palmeira dos Índios",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Vereador Emídio Tenório",
+    "transporte": "Sim",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15040246480_Miriam_Mercedes_dos_Santos_Vieira_OPERADOR_DE_SUPERMERCADO_20260501_134014.pdf",
+    "arquivo_nome": "inbound7835885713964302250.pdf",
+    "tamanho_arquivo": 260169,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Divino Sabor",
+        "funcao": "auxiliar de pizzaiolo",
+        "data_admissao": "2025-12-18",
+        "data_demissao": "2026-02-27"
+      }
+    ],
+    "id": "08b5d684b535",
+    "enviado_em": "2026-05-01T13:40:16.334111",
+    "status": "Novo",
+    "processado_em": "2026-05-01T13:40:16.334118"
   }
 ]
