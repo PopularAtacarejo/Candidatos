@@ -9272,5 +9272,33 @@
     "enviado_em": "2026-05-01T09:38:01.959352",
     "status": "Novo",
     "processado_em": "2026-05-01T09:38:01.959363"
+  },
+  {
+    "nome": "Alberto Ferreira da graça",
+    "cpf": "051.340.114-86",
+    "telefone": "(82) 99930-2881",
+    "email": "albertooh.ferreir@gmail.com",
+    "cep": "57315-766",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Matilde Barbosa Paulino",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05134011486_Alberto_Ferreira_da_graça_REPOSITOR_A_20260501_111354.pdf",
+    "arquivo_nome": "inbound4132020378229697534.pdf",
+    "tamanho_arquivo": 117346,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Grupo vieira",
+        "funcao": "Conferente",
+        "data_admissao": "2007-06-01",
+        "data_demissao": "2025-11-19"
+      }
+    ],
+    "id": "aa65fc5a79f1",
+    "enviado_em": "2026-05-01T11:13:56.479747",
+    "status": "Novo",
+    "processado_em": "2026-05-01T11:13:56.479755"
   }
 ]
