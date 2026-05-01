@@ -9244,5 +9244,33 @@
     "enviado_em": "2026-04-30T16:05:58.507926",
     "status": "Novo",
     "processado_em": "2026-04-30T16:05:58.507934"
+  },
+  {
+    "nome": "Wellington de Farias Santos",
+    "cpf": "091.144.014-36",
+    "telefone": "(82) 98173-1706",
+    "email": "islainenatalia90@gmail.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09114401436_Wellington_de_Farias_Santos_REPOSITOR_A_20260501_093800.pdf",
+    "arquivo_nome": "inbound5097867227430656815.pdf",
+    "tamanho_arquivo": 144950,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Educativa",
+        "funcao": "Serviços gerais",
+        "data_admissao": "2022-02-03",
+        "data_demissao": "2025-12-12"
+      }
+    ],
+    "id": "78820f824a2f",
+    "enviado_em": "2026-05-01T09:38:01.959352",
+    "status": "Novo",
+    "processado_em": "2026-05-01T09:38:01.959363"
   }
 ]
