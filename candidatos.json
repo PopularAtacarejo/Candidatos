@@ -9328,5 +9328,33 @@
     "enviado_em": "2026-05-01T13:40:16.334111",
     "status": "Novo",
     "processado_em": "2026-05-01T13:40:16.334118"
+  },
+  {
+    "nome": "Andreza Karla Pereira",
+    "cpf": "122.783.054-84",
+    "telefone": "(82) 99675-9703",
+    "email": "andrezakarla20151996@gmail.com",
+    "cep": "57303-858",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Antônio Vital Sobrinho",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12278305484_Andreza_Karla_Pereira_OPERADOR_A_DE_CAIXA_20260501_164450.pdf",
+    "arquivo_nome": "Andreza Karla Pereira.pdf",
+    "tamanho_arquivo": 148651,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lava jato",
+        "funcao": "Limpeza e atendimento.",
+        "data_admissao": "2022-05-01",
+        "data_demissao": "2023-05-01"
+      }
+    ],
+    "id": "6770a02c2540",
+    "enviado_em": "2026-05-01T16:44:52.093173",
+    "status": "Novo",
+    "processado_em": "2026-05-01T16:44:52.093184"
   }
 ]
