@@ -9371,5 +9371,33 @@
     "enviado_em": "2026-05-04T18:46:22.209000",
     "status": "Novo",
     "processado_em": "2026-05-04T18:46:22.209010"
+  },
+  {
+    "nome": "Layla Vitória Borges de Abreu",
+    "cpf": "117.952.794-19",
+    "telefone": "(82) 99665-7326",
+    "email": "laylavitoria981@gmail.com",
+    "cep": "57304-170",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Pio X",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11795279419_Layla_Vitória_Borges_de_Abreu_AUXILIAR_DE_T.I_20260504_235344.pdf",
+    "arquivo_nome": "Currículo administração .pdf",
+    "tamanho_arquivo": 60352,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mafrios distribuidor",
+        "funcao": "aprendiz administrativo",
+        "data_admissao": "2025-07-04",
+        "data_demissao": "2025-11-04"
+      }
+    ],
+    "id": "7d64c93e19c8",
+    "enviado_em": "2026-05-04T23:53:45.965859",
+    "status": "Novo",
+    "processado_em": "2026-05-04T23:53:45.965868"
   }
 ]
