@@ -9393,5 +9393,26 @@
     "enviado_em": "2026-05-02T16:01:05.748349",
     "status": "Novo",
     "processado_em": "2026-05-02T16:01:05.748359"
+  },
+  {
+    "nome": "Fabrício de Lima Martins",
+    "cpf": "143.363.544-56",
+    "telefone": "(82) 99900-4730",
+    "email": "fl9880101@gmail.com",
+    "cep": "57311-245",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua José Francelino de Albuquerque",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14336354456_Fabrício_de_Lima_Martins_EMBALADOR_A_20260504_023808.pdf",
+    "arquivo_nome": "Curriculum_FabrícioDeLimaMartins_20260215130523.pdf",
+    "tamanho_arquivo": 455163,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9a08ca592ef5",
+    "enviado_em": "2026-05-04T02:38:10.154061",
+    "status": "Novo",
+    "processado_em": "2026-05-04T02:38:10.154069"
   }
 ]
