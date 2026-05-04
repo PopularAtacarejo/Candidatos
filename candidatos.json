@@ -9229,5 +9229,26 @@
     "enviado_em": "2026-05-04T13:43:36.582076",
     "status": "Novo",
     "processado_em": "2026-05-04T13:43:36.582084"
+  },
+  {
+    "nome": "Jeferson",
+    "cpf": "107.738.464-50",
+    "telefone": "(82) 99915-8412",
+    "email": "popularatacarejomkt@gmail.com",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10773846450_Jeferson_AUXILIAR_DE_T.I_20260504_135244.pdf",
+    "arquivo_nome": "SOLICITAÇÃO DE PLACAS - BRIGADA DE VALIDADE IOGURTE 30.04.pdf",
+    "tamanho_arquivo": 31281,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "4e76092f12f8",
+    "enviado_em": "2026-05-04T13:52:46.463618",
+    "status": "Novo",
+    "processado_em": "2026-05-04T13:52:46.463627"
   }
 ]
