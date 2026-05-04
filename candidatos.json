@@ -9343,5 +9343,33 @@
     "enviado_em": "2026-05-04T18:44:18.393886",
     "status": "Novo",
     "processado_em": "2026-05-04T18:44:18.393894"
+  },
+  {
+    "nome": "Erick Santos",
+    "cpf": "117.329.184-90",
+    "telefone": "(82) 99935-1401",
+    "email": "erickqwer55@gmail.com",
+    "cep": "57308-301",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Manoel Nunes Filho",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11732918490_Erick_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260504_184619.pdf",
+    "arquivo_nome": "CURRÍCULO ERICK SANTOS_20251115_115703_0000.pdf",
+    "tamanho_arquivo": 284374,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendimento",
+        "data_admissao": "2022-01-03",
+        "data_demissao": "2024-04-01"
+      }
+    ],
+    "id": "e9b0650595fa",
+    "enviado_em": "2026-05-04T18:46:22.209000",
+    "status": "Novo",
+    "processado_em": "2026-05-04T18:46:22.209010"
   }
 ]
