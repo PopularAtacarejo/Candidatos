@@ -9229,5 +9229,51 @@
     "enviado_em": "2026-05-04T13:52:46.463618",
     "status": "Novo",
     "processado_em": "2026-05-04T13:52:46.463627"
+  },
+  {
+    "nome": "Laura Gabrielly Porto Dias",
+    "cpf": "064.937.924-10",
+    "telefone": "(82) 99639-6769",
+    "email": "lauragabriellyp@gmail.com",
+    "cep": "57301-170",
+    "cidade": "Arapiraca",
+    "bairro": "Ouro Preto",
+    "rua": "Rua Juvino Cavalcante",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06493792410_Laura_Gabrielly_Porto_Dias_AUX._DE_PREVENÇÃO_E_PERDAS_20260504_152830.pdf",
+    "arquivo_nome": "Currículo - Laura Porto (1).pdf",
+    "tamanho_arquivo": 85414,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ánalise Assessoria Contábil, Arapiraca/AL",
+        "funcao": "Consultora Organizacional",
+        "data_admissao": "2019-01-01",
+        "data_demissao": "2022-06-01"
+      },
+      {
+        "empresa": "Recruitment Consultoria Empresarial , Maceió/AL",
+        "funcao": "Psicóloga Organizacional",
+        "data_admissao": "2022-10-01",
+        "data_demissao": "2024-11-11"
+      },
+      {
+        "empresa": "Clínica Celina Albuquerque",
+        "funcao": "Psicóloga Clínica",
+        "data_admissao": "2022-11-01",
+        "data_demissao": "2023-11-11"
+      },
+      {
+        "empresa": "Redes de Supermercados São Luiz",
+        "funcao": "Psicóloga Organizacional",
+        "data_admissao": "2024-11-11",
+        "data_demissao": "2026-01-05"
+      }
+    ],
+    "id": "4c850ddc5744",
+    "enviado_em": "2026-05-04T15:28:32.245658",
+    "status": "Novo",
+    "processado_em": "2026-05-04T15:28:32.245668"
   }
 ]
