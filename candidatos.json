@@ -9484,5 +9484,26 @@
     "enviado_em": "2026-05-05T15:58:54.126283",
     "status": "Novo",
     "processado_em": "2026-05-05T15:58:54.126304"
+  },
+  {
+    "nome": "Monike evilly dos Santos Melo",
+    "cpf": "150.703.644-21",
+    "telefone": "(82) 98765-1785",
+    "email": "monikevilly16@icloud.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua projetada",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15070364421_Monike_evilly_dos_Santos_Melo_AUXILIAR_DE_PADEIRO_20260505_160846.pdf",
+    "arquivo_nome": "B46B22DF-56C1-4985-A5A6-21DF604A282B.pdf",
+    "tamanho_arquivo": 78230,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9036ed492f1b",
+    "enviado_em": "2026-05-05T16:08:48.057291",
+    "status": "Novo",
+    "processado_em": "2026-05-05T16:08:48.057301"
   }
 ]
