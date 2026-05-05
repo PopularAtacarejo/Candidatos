@@ -1,39 +1,5 @@
 [
   {
-    "nome": "Arleane Pereira Santos",
-    "cpf": "102.890.944-61",
-    "telefone": "(82) 98236-9765",
-    "email": "arleanepereirasantos@gmail.com",
-    "cep": "57302-764",
-    "cidade": "Arapiraca",
-    "bairro": "Canafístula",
-    "rua": "Rua Ivanildo Vieira de Góis",
-    "transporte": "Sim",
-    "vaga": "AUX. DE ESTOQUE",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10289094461_Arleane_Pereira_Santos_AUX._DE_ESTOQUE_20260204_170234.pdf",
-    "arquivo_nome": "Curriculo Arleane.pdf",
-    "tamanho_arquivo": 140608,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "O Boticario",
-        "funcao": "Operador de caixa",
-        "data_admissao": "2019-06-03",
-        "data_demissao": "2022-03-04"
-      },
-      {
-        "empresa": "Patropi",
-        "funcao": "Operador de caixa",
-        "data_admissao": "2022-07-18",
-        "data_demissao": "2025-11-01"
-      }
-    ],
-    "id": "f5ea23375f42",
-    "enviado_em": "2026-02-04T17:02:36.265298",
-    "status": "Novo",
-    "processado_em": "2026-02-04T17:02:36.265305"
-  },
-  {
     "nome": "Ketlin Rayssa de Oliveira Souza",
     "cpf": "153.180.824-75",
     "telefone": "(82) 99916-8658",
