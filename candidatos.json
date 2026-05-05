@@ -9492,5 +9492,33 @@
     "enviado_em": "2026-05-05T16:51:52.537153",
     "status": "Novo",
     "processado_em": "2026-05-05T16:51:52.537161"
+  },
+  {
+    "nome": "WESLLEY David",
+    "cpf": "175.077.884-07",
+    "telefone": "(82) 99672-8100",
+    "email": "weslleydavidbezerradasilva3@gmail.com",
+    "cep": "57315-829",
+    "cidade": "Arapiraca ",
+    "bairro": "Varginha",
+    "rua": "Antonio feliciano ",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17507788407_WESLLEY_David_EMBALADOR_A_20260505_175435.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades.pdf",
+    "tamanho_arquivo": 90735,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Biscoito",
+        "funcao": "Embalador",
+        "data_admissao": "2023-06-05",
+        "data_demissao": "2023-08-01"
+      }
+    ],
+    "id": "d5813771e9bd",
+    "enviado_em": "2026-05-05T17:54:37.292635",
+    "status": "Novo",
+    "processado_em": "2026-05-05T17:54:37.292644"
   }
 ]
