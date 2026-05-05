@@ -9603,5 +9603,45 @@
     "enviado_em": "2026-05-05T20:27:29.915747",
     "status": "Novo",
     "processado_em": "2026-05-05T20:27:29.915755"
+  },
+  {
+    "nome": "Antonio Augusto Santos do Carmo",
+    "cpf": "146.516.984-92",
+    "telefone": "(82) 98876-2862",
+    "email": "antonioaugustosantos80@gmail.com",
+    "cep": "57304-670",
+    "cidade": "Arapiraca",
+    "bairro": "Padre Antônio Lima Neto",
+    "rua": "Rua Estudante Cledson Damasceno",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14651698492_Antonio_Augusto_Santos_do_Carmo_AUXILIAR_DE_PADEIRO_20260505_204426.pdf",
+    "arquivo_nome": "CURRICULO ANTONIO AUGUSTO .pdf",
+    "tamanho_arquivo": 202750,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Loja de construção",
+        "funcao": "Ajudante",
+        "data_admissao": "2025-02-20",
+        "data_demissao": "2025-03-31"
+      },
+      {
+        "empresa": "Padaria bella massa",
+        "funcao": "Auxiliar de produção e forneiro",
+        "data_admissao": "2025-04-28",
+        "data_demissao": "2025-10-31"
+      },
+      {
+        "empresa": "Fábrica bom café",
+        "funcao": "Forneiro e ajudante de produção",
+        "data_admissao": "2025-11-03",
+        "data_demissao": "2026-04-20"
+      }
+    ],
+    "id": "c8550bbed8e2",
+    "enviado_em": "2026-05-05T20:44:28.509269",
+    "status": "Novo",
+    "processado_em": "2026-05-05T20:44:28.509277"
   }
 ]
