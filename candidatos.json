@@ -9505,5 +9505,26 @@
     "enviado_em": "2026-05-05T16:08:48.057291",
     "status": "Novo",
     "processado_em": "2026-05-05T16:08:48.057301"
+  },
+  {
+    "nome": "Ana Clara Silva dos Santos",
+    "cpf": "152.391.804-74",
+    "telefone": "(82) 99165-2226",
+    "email": "anaclara99151@gmail.com",
+    "cep": "57300-001",
+    "cidade": "Tanque d' Arca ",
+    "bairro": "Sítio coelha ",
+    "rua": "Sítio coelha ",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15239180474_Ana_Clara_Silva_dos_Santos_EMBALADOR_A_20260505_165150.pdf",
+    "arquivo_nome": "inbound9209301263509415043.pdf",
+    "tamanho_arquivo": 112628,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "bdde68ea338f",
+    "enviado_em": "2026-05-05T16:51:52.537153",
+    "status": "Novo",
+    "processado_em": "2026-05-05T16:51:52.537161"
   }
 ]
