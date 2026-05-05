@@ -9407,5 +9407,33 @@
     "enviado_em": "2026-05-05T14:43:19.831790",
     "status": "Novo",
     "processado_em": "2026-05-05T14:43:19.831800"
+  },
+  {
+    "nome": "WESLLEY David bezerra da silva",
+    "cpf": "175.077.884-07",
+    "telefone": "(82) 99672-8100",
+    "email": "weslleydavidbezerradasilva3@gmail.com",
+    "cep": "57315-829",
+    "cidade": "Arapiraca ",
+    "bairro": "Varginha",
+    "rua": "Antonio feliciano ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17507788407_WESLLEY_David_bezerra_da_silva_REPOSITOR_A_20260505_144829.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades.pdf",
+    "tamanho_arquivo": 90735,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Verdes campos",
+        "funcao": "Gerente",
+        "data_admissao": "2024-08-05",
+        "data_demissao": "2025-12-02"
+      }
+    ],
+    "id": "f08748ce1fcf",
+    "enviado_em": "2026-05-05T14:48:31.602180",
+    "status": "Novo",
+    "processado_em": "2026-05-05T14:48:31.602192"
   }
 ]
