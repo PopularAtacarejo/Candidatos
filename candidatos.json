@@ -9941,5 +9941,26 @@
     "enviado_em": "2026-05-06T13:42:26.219437",
     "status": "Novo",
     "processado_em": "2026-05-06T13:42:26.219445"
+  },
+  {
+    "nome": "Márcyara Mayris da Silva",
+    "cpf": "185.314.834-25",
+    "telefone": "(82) 99609-4926",
+    "email": "marcysilva193@gmail.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18531483425_Márcyara_Mayris_da_Silva_EMBALADOR_A_20260506_142257.pdf",
+    "arquivo_nome": "inbound4375722571379901954.pdf",
+    "tamanho_arquivo": 42571,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a48d49477ae2",
+    "enviado_em": "2026-05-06T14:22:58.808030",
+    "status": "Novo",
+    "processado_em": "2026-05-06T14:22:58.808039"
   }
 ]
