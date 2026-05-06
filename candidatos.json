@@ -9843,5 +9843,33 @@
     "enviado_em": "2026-05-06T12:41:39.169062",
     "status": "Novo",
     "processado_em": "2026-05-06T12:41:39.169071"
+  },
+  {
+    "nome": "Isteffany Santos de São Pedro",
+    "cpf": "157.285.754-47",
+    "telefone": "(82) 99832-5461",
+    "email": "isteffanysantos45@gmail.com",
+    "cep": "57315-738",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Pedro Barbosa Bela",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15728575447_Isteffany_Santos_de_São_Pedro_OPERADOR_A_DE_CAIXA_20260506_124821.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 223215,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente",
+        "data_admissao": "2023-06-28",
+        "data_demissao": "2025-10-08"
+      }
+    ],
+    "id": "c4955dcb148d",
+    "enviado_em": "2026-05-06T12:48:22.944914",
+    "status": "Novo",
+    "processado_em": "2026-05-06T12:48:22.944923"
   }
 ]
