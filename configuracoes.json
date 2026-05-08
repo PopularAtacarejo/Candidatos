@@ -157,5 +157,12 @@
       "cta_url": "",
       "links": []
     }
-  }
+  },
+  "usuarios": [
+    {
+      "nome": "Cecilia",
+      "email": "rh2@popularhomecenter.com.br",
+      "funcao": "Assistente de RH"
+    }
+  ]
 }
