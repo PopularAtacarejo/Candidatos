@@ -9872,5 +9872,33 @@
     "enviado_em": "2026-05-07T21:55:30.928843",
     "status": "Novo",
     "processado_em": "2026-05-07T21:55:30.928852"
+  },
+  {
+    "nome": "Ricardo Silva do Nascimento",
+    "cpf": "095.478.764-14",
+    "telefone": "(82) 99348-8332",
+    "email": "ricardosilvarichardricardosilv@gmail.com",
+    "cep": "57303-055",
+    "cidade": "Arapiraca",
+    "bairro": "Verdes Campos",
+    "rua": "Rua Ercília Brandão Silva",
+    "transporte": "Não",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09547876414_Ricardo_Silva_do_Nascimento_AUX._DE_PREVENÇÃO_E_PERDAS_20260509_120709.pdf",
+    "arquivo_nome": "inbound8530099441977623025.pdf",
+    "tamanho_arquivo": 183236,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Gardem shopping Arapiraca",
+        "funcao": "Segurança",
+        "data_admissao": "2022-03-01",
+        "data_demissao": "2024-03-05"
+      }
+    ],
+    "id": "3a1da425aad8",
+    "enviado_em": "2026-05-09T12:07:10.737517",
+    "status": "Novo",
+    "processado_em": "2026-05-09T12:07:10.737526"
   }
 ]
