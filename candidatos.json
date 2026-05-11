@@ -9900,5 +9900,39 @@
     "enviado_em": "2026-05-09T19:19:12.053268",
     "status": "Novo",
     "processado_em": "2026-05-09T19:19:12.053276"
+  },
+  {
+    "nome": "Cauã Vinicius Melo dos Santos",
+    "cpf": "142.489.504-99",
+    "telefone": "(82) 98771-0246",
+    "email": "cauaviniciusmelodos146@gmail.com",
+    "cep": "57314-175",
+    "cidade": "Arapiraca",
+    "bairro": "Itapoã",
+    "rua": "Rua Nossa Senhora da Salete",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14248950499_Cauã_Vinicius_Melo_dos_Santos_OPERADOR_A_DE_CAIXA_20260511_144458.pdf",
+    "arquivo_nome": "Currículo - Cauã Operador de caixa .pdf",
+    "tamanho_arquivo": 52250,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Farmácia Permanente",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2023-08-09",
+        "data_demissao": "2025-07-11"
+      },
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente de telemarketing Aprendiz",
+        "data_admissao": "2025-09-11",
+        "data_demissao": "2026-02-11"
+      }
+    ],
+    "id": "d045675982c9",
+    "enviado_em": "2026-05-11T14:45:00.063343",
+    "status": "Novo",
+    "processado_em": "2026-05-11T14:45:00.063351"
   }
 ]
