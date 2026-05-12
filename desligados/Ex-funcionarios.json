@@ -1,6 +1,45 @@
-{
-  "schema": "funcionarios.encrypted.v1",
-  "nonce": "ulMWa+x+SMSAh/yi",
-  "payload": "dgPqlarEQU7XlJgHyKJGVophnZlnlptYiPXppUvSi3rdeXDPddKlnXHU7+ebKyuQkOZ7IGW12V2qcCvZ3OsnUErm4eV99LDD21NaGPnysDHDLS8vdm1UdOnhW7X46UHdON2CXCBzJTkKUkaraRJKZo/Nk61XapGzO8NqAFp7a4sqIbxj+htJvgkN0QfD/Inov1OskIK8uPcMzv96myKHCNAsa5x9KZSb34vGn8XPVHbuSRujIuFXPugNLH4Ff6rm9bR+F6gQNQ0AoAy5cPNLTzqN6siph+GPbO5A46AubU02KPE0HnPIw2ouOMR+YFqpL1l3GaJuzQZQ4b7WhPl4kRDWSK8CayFjIENbe0aFiiDuJBwZmn6M9xQ//e+CsH5cxnBvfYJrk5C1vHN2G3gdzOEYMlqM3O5O+dKDOc+/W98KEw197NdmlnzwrVt/L7MQw2CX/sTOu2OMzHQdeSomYgxRPVObXfDbN9QvfqaAqzRlCPbrWrTCNIALslpJanA2minUCsRtq07Nm9hKt0XXPOPpJuDNUfl5N55CnbtTMiBDcSsbQT/pGXfUQt8CJrvtlVn4QxiVqYpFGFFJ2uh8tFOJWwzvz6BD9uSGXW+EG+YILUPRgekNsGMzWiWaWB/tHwoRbYhMOqAPbmz8YpUJNL157hplRbhggpoKO7MD9YGYq7aPhCaS0ybHDrRYS+owL60q8STDktbIsDYCjVRyQdKaJaAZ9Za4MCutW0i8V3eJcOHiyCXp97Mgfuvaaw+lgRfcaesIwjodNz6MUgX1DdPQqTpLqh03D4nq1+ifjEbg4g7HcgmcCSWygrIPI5kZRMpwSrplhvambRaoOHsCfuRibxwLOIVfshukrSgU77HhKQsZWSk/HIzIaNisns3XtATxvxqUX7GDWAomDa8YqAsmSd4ACe3/uS0/K4fXRoYxEQJzgxVJl/o/mXF5xAVOUuzJxaF0xOQqBRCy4x1TXxq57vq2RhtPJIz5slAs6bkl0QdPgLg2gSdoZzqHmrPUdt8XQ7aSWC+MylcQAOskhj8UmOvs7midO4lGskRv101T2p3cRI8fFpusvFf6DL7Ub7SF37ULci0tcM/3GTXxU1nmwBciVTAqsEJZBizaTtol/sv5Xo3JfFP5DFXfhOp/UnOQmUj8P+bCmqhLV0kFCzA8Y9r9HnzTWDARsP1Xkf53BkPCu10e8vB5QNpT2Vhw6GEqz/Y1GY4sJdpDf8xm6oeB0kX0HeXMYzSxNqnKWdbrhBNpqoTpTOFQ3c0dt6pZb/2W4pbFXJw8XFkK7jO6orOiFnXdNSZAUl+QLzzzGZ2Z",
-  "created_at": "2026-05-12T13:37:03.911260Z"
-}
+[
+  {
+    "schema": "funcionarios.encrypted.v1",
+    "nonce": "ulMWa+x+SMSAh/yi",
+    "payload": "dgPqlarEQU7XlJgHyKJGVophnZlnlptYiPXppUvSi3rdeXDPddKlnXHU7+ebKyuQkOZ7IGW12V2qcCvZ3OsnUErm4eV99LDD21NaGPnysDHDLS8vdm1UdOnhW7X46UHdON2CXCBzJTkKUkaraRJKZo/Nk61XapGzO8NqAFp7a4sqIbxj+htJvgkN0QfD/Inov1OskIK8uPcMzv96myKHCNAsa5x9KZSb34vGn8XPVHbuSRujIuFXPugNLH4Ff6rm9bR+F6gQNQ0AoAy5cPNLTzqN6siph+GPbO5A46AubU02KPE0HnPIw2ouOMR+YFqpL1l3GaJuzQZQ4b7WhPl4kRDWSK8CayFjIENbe0aFiiDuJBwZmn6M9xQ//e+CsH5cxnBvfYJrk5C1vHN2G3gdzOEYMlqM3O5O+dKDOc+/W98KEw197NdmlnzwrVt/L7MQw2CX/sTOu2OMzHQdeSomYgxRPVObXfDbN9QvfqaAqzRlCPbrWrTCNIALslpJanA2minUCsRtq07Nm9hKt0XXPOPpJuDNUfl5N55CnbtTMiBDcSsbQT/pGXfUQt8CJrvtlVn4QxiVqYpFGFFJ2uh8tFOJWwzvz6BD9uSGXW+EG+YILUPRgekNsGMzWiWaWB/tHwoRbYhMOqAPbmz8YpUJNL157hplRbhggpoKO7MD9YGYq7aPhCaS0ybHDrRYS+owL60q8STDktbIsDYCjVRyQdKaJaAZ9Za4MCutW0i8V3eJcOHiyCXp97Mgfuvaaw+lgRfcaesIwjodNz6MUgX1DdPQqTpLqh03D4nq1+ifjEbg4g7HcgmcCSWygrIPI5kZRMpwSrplhvambRaoOHsCfuRibxwLOIVfshukrSgU77HhKQsZWSk/HIzIaNisns3XtATxvxqUX7GDWAomDa8YqAsmSd4ACe3/uS0/K4fXRoYxEQJzgxVJl/o/mXF5xAVOUuzJxaF0xOQqBRCy4x1TXxq57vq2RhtPJIz5slAs6bkl0QdPgLg2gSdoZzqHmrPUdt8XQ7aSWC+MylcQAOskhj8UmOvs7midO4lGskRv101T2p3cRI8fFpusvFf6DL7Ub7SF37ULci0tcM/3GTXxU1nmwBciVTAqsEJZBizaTtol/sv5Xo3JfFP5DFXfhOp/UnOQmUj8P+bCmqhLV0kFCzA8Y9r9HnzTWDARsP1Xkf53BkPCu10e8vB5QNpT2Vhw6GEqz/Y1GY4sJdpDf8xm6oeB0kX0HeXMYzSxNqnKWdbrhBNpqoTpTOFQ3c0dt6pZb/2W4pbFXJw8XFkK7jO6orOiFnXdNSZAUl+QLzzzGZ2Z",
+    "created_at": "2026-05-12T13:37:03.911260Z"
+  },
+  {
+    "id": "f8893a33a77a4f599b7a4f23c5e12543",
+    "nome_completo": "Jeferson Da Silva Santos",
+    "cpf": "10773846450",
+    "data_nascimento": "1994-05-27",
+    "naturalidade": "Arapiraca",
+    "sexo": "masculino",
+    "rg": "787897",
+    "pis": "445454546451212",
+    "tamanho_fardamento": "m",
+    "tamanho_calcado": "42",
+    "empresa": "COMERCIAL POPULAR LTDA",
+    "setor": "Marketing",
+    "funcao": "Analista de Marketing",
+    "cbo": "8485-05",
+    "matricula": "4545412",
+    "data_admissao": "2021-08-22",
+    "salario": "5000.00",
+    "lider_responsavel": "Jeferson Da Silva Santos",
+    "lider_gestor": true,
+    "em_experiencia": false,
+    "cep": "57312-110",
+    "rua": "Rua José Augusto Pereira",
+    "numero": "640",
+    "bairro": "Santa Esmeralda",
+    "cidade": "Arapiraca",
+    "estado": "AL",
+    "complemento": "",
+    "filhos": [],
+    "experiencias": [],
+    "enviado_em": "2026-05-12T12:20:38.810096Z",
+    "foto_path": null,
+    "motivo_desligamento": "Desligamento",
+    "data_saida": "2026-05-12",
+    "observacoes_desligamento": "",
+    "desligado_em": "2026-05-12T13:37:02.070475Z"
+  }
+]
