@@ -9885,5 +9885,39 @@
     "enviado_em": "2026-05-11T14:45:00.063343",
     "status": "Novo",
     "processado_em": "2026-05-11T14:45:00.063351"
+  },
+  {
+    "nome": "JOSE APARECIDO OLIVEIRA BEZERRA",
+    "cpf": "099.323.384-86",
+    "telefone": "(82) 99367-4350",
+    "email": "josegameso041@gmail.com",
+    "cep": "57312-023",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Doutor José Amaurí Canuto",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09932338486_JOSE_APARECIDO_OLIVEIRA_BEZERRA_AUXILIAR_DE_PADEIRO_20260512_025420.docx",
+    "arquivo_nome": "curriculo_jose_aparecido_moderno.02.docx",
+    "tamanho_arquivo": 17380,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Operador de Telemarketing",
+        "data_admissao": "2024-05-13",
+        "data_demissao": "2025-03-21"
+      },
+      {
+        "empresa": "Don Diego Stylus",
+        "funcao": "Auxiliar Administrativo",
+        "data_admissao": "2025-05-28",
+        "data_demissao": "2027-05-11"
+      }
+    ],
+    "id": "3814a8a035dc",
+    "enviado_em": "2026-05-12T02:54:21.847539",
+    "status": "Novo",
+    "processado_em": "2026-05-12T02:54:21.847546"
   }
 ]
