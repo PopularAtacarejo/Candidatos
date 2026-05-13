@@ -10003,5 +10003,87 @@
     "enviado_em": "2026-05-13T16:59:57.494405",
     "status": "Novo",
     "processado_em": "2026-05-13T16:59:57.494416"
+  },
+  {
+    "nome": "André Maciel Santos",
+    "cpf": "767.444.855-04",
+    "telefone": "(71) 98280-6429",
+    "email": "andremaciel74.tj@gmail.com",
+    "cep": "57315-766",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Matilde Barbosa Paulino",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/76744485504_André_Maciel_Santos_AUX._DE_ESTOQUE_20260513_170908.pdf",
+    "arquivo_nome": "Curriculo André Maciel - Atualizado - 052026.pdf",
+    "tamanho_arquivo": 167947,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Metro Engenharia",
+        "funcao": "Auxiliar de Almoxarifado",
+        "data_admissao": "2025-05-22",
+        "data_demissao": "2025-10-02"
+      },
+      {
+        "empresa": "Metro Engenharia",
+        "funcao": "Ajudante Comum",
+        "data_admissao": "2024-02-05",
+        "data_demissao": "2025-01-01"
+      },
+      {
+        "empresa": "Metro Engenharia",
+        "funcao": "Auxiliar de Escritório",
+        "data_admissao": "2021-10-04",
+        "data_demissao": "2022-07-01"
+      },
+      {
+        "empresa": "Lojas Bricio",
+        "funcao": "Vendedor",
+        "data_admissao": "2020-12-19",
+        "data_demissao": "2021-04-07"
+      },
+      {
+        "empresa": "Sergipe Industrial",
+        "funcao": "Auxiliar Administrativo em Departamento Pessoal / RH",
+        "data_admissao": "2018-06-01",
+        "data_demissao": "2020-10-19"
+      },
+      {
+        "empresa": "Realizar Construções",
+        "funcao": "Atendente Comercial",
+        "data_admissao": "2014-12-01",
+        "data_demissao": "2017-08-01"
+      },
+      {
+        "empresa": "Destak Negocios Imobiliarios",
+        "funcao": "Consultor de Vendas",
+        "data_admissao": "2013-08-01",
+        "data_demissao": "2014-06-30"
+      },
+      {
+        "empresa": "Avant Veiculos de Sergipe",
+        "funcao": "Vendedor",
+        "data_admissao": "2011-12-15",
+        "data_demissao": "2012-09-28"
+      },
+      {
+        "empresa": "RG Madeireira",
+        "funcao": "Operador de Computador",
+        "data_admissao": "2002-05-02",
+        "data_demissao": "2007-05-02"
+      },
+      {
+        "empresa": "Vera Cruz Serviços ltda",
+        "funcao": "Recepcionista Nivel II",
+        "data_admissao": "1995-12-04",
+        "data_demissao": "1996-06-08"
+      }
+    ],
+    "id": "f2a2e0f5191e",
+    "enviado_em": "2026-05-13T17:09:10.701435",
+    "status": "Novo",
+    "processado_em": "2026-05-13T17:09:10.701445"
   }
 ]
