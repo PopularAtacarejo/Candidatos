@@ -1,33 +1,5 @@
 [
   {
-    "nome": "felipe cavalcante torres",
-    "cpf": "116.575.274-33",
-    "telefone": "(79) 99157-2718",
-    "email": "felipectorres2005@gmail.com",
-    "cep": "57308-630",
-    "cidade": "Arapiraca",
-    "bairro": "Planalto",
-    "rua": "Rua Penedo",
-    "transporte": "Não",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11657527433_felipe_cavalcante_torres_REPOSITOR_A_20260212_184516.pdf",
-    "arquivo_nome": "inbound2041129416202681081.pdf",
-    "tamanho_arquivo": 120954,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "STOP DIESEL",
-        "funcao": "serviços gerais",
-        "data_admissao": "2025-01-16",
-        "data_demissao": "2025-04-10"
-      }
-    ],
-    "id": "eeb12b4fcf15",
-    "enviado_em": "2026-02-12T18:45:18.437524",
-    "status": "Novo",
-    "processado_em": "2026-02-12T18:45:18.437531"
-  },
-  {
     "nome": "Alisson Moisés da Silva Santos",
     "cpf": "139.091.684-77",
     "telefone": "(82) 8231-0803",
