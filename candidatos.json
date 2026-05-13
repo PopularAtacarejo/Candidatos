@@ -9818,5 +9818,26 @@
     "enviado_em": "2026-05-12T11:40:35.156678",
     "status": "Novo",
     "processado_em": "2026-05-12T11:40:35.156688"
+  },
+  {
+    "nome": "Erik Lucio Da Silva",
+    "cpf": "100.197.364-01",
+    "telefone": "(82) 98166-7603",
+    "email": "2007eriksilva10@gmail.com",
+    "cep": "57263-899",
+    "cidade": "Limoeiro de Anadia",
+    "bairro": "Área Rural de Limoeiro de Anadia",
+    "rua": "Área Rural",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10019736401_Erik_Lucio_Da_Silva_REPOSITOR_A_20260513_123336.pdf",
+    "arquivo_nome": "inbound2466171516736019829.pdf",
+    "tamanho_arquivo": 105642,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "74ea1217e3ff",
+    "enviado_em": "2026-05-13T12:33:38.413492",
+    "status": "Novo",
+    "processado_em": "2026-05-13T12:33:38.413500"
   }
 ]
