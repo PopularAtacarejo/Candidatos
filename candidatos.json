@@ -10173,5 +10173,33 @@
     "enviado_em": "2026-05-14T15:50:29.936126",
     "status": "Novo",
     "processado_em": "2026-05-14T15:50:29.936137"
+  },
+  {
+    "nome": "Enzo Gabriel de Melo Brito",
+    "cpf": "153.409.424-57",
+    "telefone": "(82) 99630-3234",
+    "email": "enzogabriel.melobrito2025@gmail.com",
+    "cep": "72312-230",
+    "cidade": "Arapiraca ",
+    "bairro": "Santa Esmeralda ",
+    "rua": "Rua da liberdade ",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15340942457_Enzo_Gabriel_de_Melo_Brito_AUX._DE_PREVENÇÃO_E_PERDAS_20260514_203958.docx",
+    "arquivo_nome": "inbound4583726850249790976.docx",
+    "tamanho_arquivo": 18581,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado são luiz",
+        "funcao": "Repesitor (jovem aprendiz)",
+        "data_admissao": "2025-06-21",
+        "data_demissao": "2027-08-11"
+      }
+    ],
+    "id": "d07f7d1c1620",
+    "enviado_em": "2026-05-14T20:39:59.376836",
+    "status": "Novo",
+    "processado_em": "2026-05-14T20:39:59.376843"
   }
 ]
