@@ -10208,5 +10208,26 @@
     "enviado_em": "2026-05-15T01:30:30.820748",
     "status": "Novo",
     "processado_em": "2026-05-15T01:30:30.820758"
+  },
+  {
+    "nome": "Rosenildo da Silva Santos",
+    "cpf": "118.787.174-56",
+    "telefone": "(82) 99430-0192",
+    "email": "ns7566690@gmail.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca ",
+    "bairro": "Massaranduba ",
+    "rua": "R. Projetada flor do ipe ",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11878717456_Rosenildo_da_Silva_Santos_EMBALADOR_A_20260515_125748.pdf",
+    "arquivo_nome": "ROSENILDO DA SILVA SANTOS 2.pdf",
+    "tamanho_arquivo": 143521,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "18e00cdd2ab0",
+    "enviado_em": "2026-05-15T12:57:50.556561",
+    "status": "Novo",
+    "processado_em": "2026-05-15T12:57:50.556569"
   }
 ]
