@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Anny Vitória de Oliveira Carvalho",
-    "cpf": "139.448.744-47",
-    "telefone": "(82) 99931-6659",
-    "email": "anny17x@gmail.com",
-    "cep": "57304-000",
-    "cidade": "Arapiraca",
-    "bairro": "Primavera",
-    "rua": "Rua Paulo Afonso",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13944874447_Anny_Vitória_de_Oliveira_Carvalho_REPOSITOR_A_20260214_170738.pdf",
-    "arquivo_nome": "inbound5815131486072789997.pdf",
-    "tamanho_arquivo": 270354,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Uni Compra",
-        "funcao": "Repositor(a)",
-        "data_admissao": "2024-07-15",
-        "data_demissao": "2025-11-14"
-      }
-    ],
-    "id": "55f1dc25c58d",
-    "enviado_em": "2026-02-14T17:07:39.657825",
-    "status": "Novo",
-    "processado_em": "2026-02-14T17:07:39.657832"
-  },
-  {
     "nome": "Ana Paula Nunes dos Santos",
     "cpf": "122.352.154-08",
     "telefone": "(82) 98209-1361",
@@ -10229,54 +10201,5 @@
     "enviado_em": "2026-05-15T12:57:50.556561",
     "status": "Novo",
     "processado_em": "2026-05-15T12:57:50.556569"
-  },
-  {
-    "nome": "Alisson Moisés da Silva Santos",
-    "cpf": "139.091.684-77",
-    "telefone": "(82) 8231-0803",
-    "email": "alissmoises2007@gmail.com",
-    "cep": "89380-001",
-    "cidade": "Massaranduba",
-    "bairro": "Centro",
-    "rua": "Rua Alfredo Borchardt",
-    "transporte": "Sim",
-    "vaga": "EMBALADOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13909168477_Alisson_Moisés_da_Silva_Santos_EMBALADOR_A_20260214_114111.pdf",
-    "arquivo_nome": "inbound6064954103994518446.pdf",
-    "tamanho_arquivo": 164413,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "9a579b336ee8",
-    "enviado_em": "2026-02-14T11:41:12.427860",
-    "status": "Novo",
-    "processado_em": "2026-02-14T11:41:12.427870"
-  },
-  {
-    "nome": "felipe cavalcante torres",
-    "cpf": "116.575.274-33",
-    "telefone": "(79) 99157-2718",
-    "email": "felipectorres2005@gmail.com",
-    "cep": "57308-630",
-    "cidade": "Arapiraca",
-    "bairro": "Planalto",
-    "rua": "Rua Penedo",
-    "transporte": "Não",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11657527433_felipe_cavalcante_torres_REPOSITOR_A_20260212_184516.pdf",
-    "arquivo_nome": "inbound2041129416202681081.pdf",
-    "tamanho_arquivo": 120954,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "STOP DIESEL",
-        "funcao": "serviços gerais",
-        "data_admissao": "2025-01-16",
-        "data_demissao": "2025-04-10"
-      }
-    ],
-    "id": "eeb12b4fcf15",
-    "enviado_em": "2026-02-12T18:45:18.437524",
-    "status": "Novo",
-    "processado_em": "2026-02-12T18:45:18.437531"
   }
 ]
