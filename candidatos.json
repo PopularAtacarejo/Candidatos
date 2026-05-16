@@ -10208,5 +10208,26 @@
     "enviado_em": "2026-05-15T18:39:35.423005",
     "status": "Novo",
     "processado_em": "2026-05-15T18:39:35.423015"
+  },
+  {
+    "nome": "Michayane leite",
+    "cpf": "706.810.324-30",
+    "telefone": "(82) 99655-4051",
+    "email": "michayane@gmail.com",
+    "cep": "57308-110",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Cícero Barbosa e Silva",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/70681032430_Michayane_leite_AUX._DE_PREVENÇÃO_E_PERDAS_20260516_170730.pdf",
+    "arquivo_nome": "inbound6823236090413731134.pdf",
+    "tamanho_arquivo": 579942,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c0e8112b524f",
+    "enviado_em": "2026-05-16T17:07:32.302808",
+    "status": "Novo",
+    "processado_em": "2026-05-16T17:07:32.302819"
   }
 ]
