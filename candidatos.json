@@ -10229,5 +10229,33 @@
     "enviado_em": "2026-05-16T17:07:32.302808",
     "status": "Novo",
     "processado_em": "2026-05-16T17:07:32.302819"
+  },
+  {
+    "nome": "Larisse Rosa dos Santos Nascimento",
+    "cpf": "165.837.374-00",
+    "telefone": "(82) 98212-5225",
+    "email": "larissenascimento059@gmail.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16583737400_Larisse_Rosa_dos_Santos_Nascimento_REPOSITOR_A_20260516_174030.pdf",
+    "arquivo_nome": "inbound2852636069884817645.pdf",
+    "tamanho_arquivo": 246345,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Dona Inês Aviamentos",
+        "funcao": "Estoquista (Registro em carteira: vendedora)",
+        "data_admissao": "2024-03-02",
+        "data_demissao": "2025-07-23"
+      }
+    ],
+    "id": "b2ba4f60b19d",
+    "enviado_em": "2026-05-16T17:40:31.766723",
+    "status": "Novo",
+    "processado_em": "2026-05-16T17:40:31.766734"
   }
 ]
