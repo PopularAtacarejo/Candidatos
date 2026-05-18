@@ -10240,5 +10240,33 @@
         "timestamp": "2026-05-18T18:10:19.711702"
       }
     ]
+  },
+  {
+    "nome": "Kelly Moniky",
+    "cpf": "100.822.214-30",
+    "telefone": "(82) 99934-4976",
+    "email": "kellymonyy@gmail.com",
+    "cep": "57312-022",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Valentim dos Santos",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10082221430_Kelly_Moniky_AUX._DE_PREVENÇÃO_E_PERDAS_20260518_185744.pdf",
+    "arquivo_nome": "inbound321626032245559079.pdf",
+    "tamanho_arquivo": 163590,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "supermercado felix",
+        "funcao": "aAtendente de loja",
+        "data_admissao": "2025-01-22",
+        "data_demissao": "2026-06-17"
+      }
+    ],
+    "id": "a067b43781e6",
+    "enviado_em": "2026-05-18T18:57:46.453616",
+    "status": "Novo",
+    "processado_em": "2026-05-18T18:57:46.453624"
   }
 ]
