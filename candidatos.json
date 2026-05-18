@@ -3729,7 +3729,7 @@
     "status": "Novo",
     "processado_em": "2026-03-27T09:37:16.597158",
     "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-05-18T11:29:23.454734",
+    "ultimo_visualizado_em": "2026-05-18T11:48:57.817765",
     "view_history": [
       {
         "viewer": "Cecilia",
@@ -3742,6 +3742,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-05-18T11:29:23.454734"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-05-18T11:48:57.817765"
       }
     ]
   },
