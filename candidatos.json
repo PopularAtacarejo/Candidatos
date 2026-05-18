@@ -10235,5 +10235,26 @@
     "enviado_em": "2026-05-17T21:54:33.418972",
     "status": "Novo",
     "processado_em": "2026-05-17T21:54:33.418980"
+  },
+  {
+    "nome": "Andreia Carolina",
+    "cpf": "114.191.664-92",
+    "telefone": "(82) 99874-9594",
+    "email": "carolineandreia734@gmail.com",
+    "cep": "57270-000",
+    "cidade": "Arapiraca",
+    "bairro": "Zona rural",
+    "rua": "Camadanta",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11419166492_Andreia_Carolina_EMBALADOR_A_20260518_143506.pdf",
+    "arquivo_nome": "inbound1082394427680314390.pdf",
+    "tamanho_arquivo": 2610,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "2e9a9b1a3666",
+    "enviado_em": "2026-05-18T14:35:08.447196",
+    "status": "Novo",
+    "processado_em": "2026-05-18T14:35:08.447204"
   }
 ]
