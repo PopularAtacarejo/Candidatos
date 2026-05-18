@@ -3699,12 +3699,16 @@
     "enviado_em": "2026-03-27T05:08:03.206110",
     "status": "Novo",
     "processado_em": "2026-03-27T05:08:03.206139",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-03-27T14:28:15.252760",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-05-18T17:23:49.945110",
     "view_history": [
       {
         "viewer": "Cecilia",
         "timestamp": "2026-03-27T14:28:15.252760"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-05-18T17:23:49.945110"
       }
     ]
   },
