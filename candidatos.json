@@ -10259,7 +10259,15 @@
     "id": "2e9a9b1a3666",
     "enviado_em": "2026-05-18T14:35:08.447196",
     "status": "Novo",
-    "processado_em": "2026-05-18T14:35:08.447204"
+    "processado_em": "2026-05-18T14:35:08.447204",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-18T18:10:19.711702",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-18T18:10:19.711702"
+      }
+    ]
   },
   {
     "nome": "Anny Vitória de Oliveira Carvalho",
