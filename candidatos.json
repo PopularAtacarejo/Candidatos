@@ -10268,5 +10268,33 @@
     "enviado_em": "2026-05-18T18:57:46.453616",
     "status": "Novo",
     "processado_em": "2026-05-18T18:57:46.453624"
+  },
+  {
+    "nome": "Eduardo felipe alves soares",
+    "cpf": "105.995.434-69",
+    "telefone": "(82) 99931-6270",
+    "email": "eduardogggggg16@gmail.com",
+    "cep": "57307-760",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua Antônia Angelina da Silva",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10599543469_Eduardo_felipe_alves_soares_AUX._DE_PREVENÇÃO_E_PERDAS_20260518_200509.pdf",
+    "arquivo_nome": "inbound6443290573674852045.pdf",
+    "tamanho_arquivo": 15072,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão",
+        "funcao": "Fiscal de prevenção e perdas",
+        "data_admissao": "2022-10-20",
+        "data_demissao": "2023-05-03"
+      }
+    ],
+    "id": "449b11ad2628",
+    "enviado_em": "2026-05-18T20:05:11.173389",
+    "status": "Novo",
+    "processado_em": "2026-05-18T20:05:11.173396"
   }
 ]
