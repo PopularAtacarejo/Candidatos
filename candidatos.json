@@ -10520,5 +10520,26 @@
     "enviado_em": "2026-05-19T21:30:25.066632",
     "status": "Novo",
     "processado_em": "2026-05-19T21:30:25.066640"
+  },
+  {
+    "nome": "Edjane Maria da silva",
+    "cpf": "706.838.684-97",
+    "telefone": "(82) 98859-6521",
+    "email": "janynhas194@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Taquarana ",
+    "bairro": "Barro preto",
+    "rua": "Povoado",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/70683868497_Edjane_Maria_da_silva_EMBALADOR_A_20260519_233400.pdf",
+    "arquivo_nome": "inbound3136256044329130347.pdf",
+    "tamanho_arquivo": 43353,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "4a2697d8d713",
+    "enviado_em": "2026-05-19T23:34:02.029626",
+    "status": "Novo",
+    "processado_em": "2026-05-19T23:34:02.029635"
   }
 ]
