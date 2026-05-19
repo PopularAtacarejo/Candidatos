@@ -268,5 +268,16 @@
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:29:29.763308",
     "atualizado_por": "Jeferson"
+  },
+  {
+    "id": "auxiliar-de-limpeza",
+    "nome": "Auxiliar de Limpeza",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Natallia Katiane",
+    "created_at": "2026-05-18T15:14:20.343997",
+    "inserido_em": "2026-05-18T15:14:20.343997"
   }
 ]
