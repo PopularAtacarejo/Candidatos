@@ -10302,5 +10302,33 @@
     "enviado_em": "2026-05-18T23:02:04.405872",
     "status": "Novo",
     "processado_em": "2026-05-18T23:02:04.405878"
+  },
+  {
+    "nome": "Deyziane Ferreira Pinheiro",
+    "cpf": "143.005.004-79",
+    "telefone": "(82) 99670-6963",
+    "email": "deyzianepinheiro8@gmail.com",
+    "cep": "57316-400",
+    "cidade": "Arapiraca",
+    "bairro": "Nova Esperança",
+    "rua": "Rua Carlos Alberto Vital",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14300500479_Deyziane_Ferreira_Pinheiro_OPERADOR_A_DE_CAIXA_20260519_120403.pdf",
+    "arquivo_nome": "Currículo A4 simples preto.pdf",
+    "tamanho_arquivo": 377590,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mais Atacarejo",
+        "funcao": "Vendedora Balcão",
+        "data_admissao": "2026-01-20",
+        "data_demissao": "2026-05-19"
+      }
+    ],
+    "id": "d8949acfdc37",
+    "enviado_em": "2026-05-19T12:04:05.348917",
+    "status": "Novo",
+    "processado_em": "2026-05-19T12:04:05.348926"
   }
 ]
