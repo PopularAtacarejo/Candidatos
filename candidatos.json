@@ -10422,5 +10422,33 @@
     "enviado_em": "2026-05-19T16:53:58.273789",
     "status": "Novo",
     "processado_em": "2026-05-19T16:53:58.273797"
+  },
+  {
+    "nome": "Ana Kelly dos Santos",
+    "cpf": "114.165.974-33",
+    "telefone": "(82) 98857-0041",
+    "email": "kellyevans0908@ganil.com",
+    "cep": "57303-234",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rodovia AL-485",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11416597433_Ana_Kelly_dos_Santos_OPERADOR_A_DE_CAIXA_20260519_175821.pdf",
+    "arquivo_nome": "Ana Kelly Dos Santos 03.pdf",
+    "tamanho_arquivo": 1074925,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luiz",
+        "funcao": "Balconista de padaria",
+        "data_admissao": "2024-05-06",
+        "data_demissao": "2025-05-04"
+      }
+    ],
+    "id": "b44f9b098ba7",
+    "enviado_em": "2026-05-19T17:58:24.281955",
+    "status": "Novo",
+    "processado_em": "2026-05-19T17:58:24.281966"
   }
 ]
