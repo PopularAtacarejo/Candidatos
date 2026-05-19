@@ -10330,5 +10330,33 @@
     "enviado_em": "2026-05-19T12:04:05.348917",
     "status": "Novo",
     "processado_em": "2026-05-19T12:04:05.348926"
+  },
+  {
+    "nome": "Jéssica Vitória da Silva",
+    "cpf": "116.353.784-51",
+    "telefone": "(55) 82999-7054",
+    "email": "jsvitoria1105@gmail.com",
+    "cep": "57309-460",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Ângelo Sobrinho",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11635378451_Jéssica_Vitória_da_Silva_EMBALADOR_A_20260519_122507.pdf",
+    "arquivo_nome": "Curriculum_JéssicaSilva_20260507110410.pdf",
+    "tamanho_arquivo": 26671,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente",
+        "data_admissao": "2022-05-19",
+        "data_demissao": "2025-12-19"
+      }
+    ],
+    "id": "53e9cafb797c",
+    "enviado_em": "2026-05-19T12:25:09.040933",
+    "status": "Novo",
+    "processado_em": "2026-05-19T12:25:09.040941"
   }
 ]
