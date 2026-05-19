@@ -10450,5 +10450,33 @@
     "enviado_em": "2026-05-19T17:58:24.281955",
     "status": "Novo",
     "processado_em": "2026-05-19T17:58:24.281966"
+  },
+  {
+    "nome": "Geocastia dos Santos Mota",
+    "cpf": "112.803.684-38",
+    "telefone": "(82) 99933-9674",
+    "email": "geocastiamotta@gmail.com",
+    "cep": "57303-215",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Luciana Rodrigues de Araújo",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11280368438_Geocastia_dos_Santos_Mota_OPERADOR_A_DE_CAIXA_20260519_181449.pdf",
+    "arquivo_nome": "inbound5102024057416453536.pdf",
+    "tamanho_arquivo": 1624734,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Unicompra",
+        "funcao": "Operadora de PDV/ balconista de padaria",
+        "data_admissao": "2024-05-23",
+        "data_demissao": "2026-05-19"
+      }
+    ],
+    "id": "dc795e9bdb3c",
+    "enviado_em": "2026-05-19T18:14:52.362524",
+    "status": "Novo",
+    "processado_em": "2026-05-19T18:14:52.362532"
   }
 ]
