@@ -10394,5 +10394,33 @@
     "enviado_em": "2026-05-19T15:01:58.252422",
     "status": "Novo",
     "processado_em": "2026-05-19T15:01:58.252433"
+  },
+  {
+    "nome": "Roseane Silva Santos",
+    "cpf": "060.657.274-07",
+    "telefone": "(82) 99650-7756",
+    "email": "annysilva1731@gmail.com",
+    "cep": "57308-715",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Nossa Senhora Aparecida",
+    "transporte": "Não",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06065727407_Roseane_Silva_Santos_Auxiliar_de_Limpeza_20260519_165356.pdf",
+    "arquivo_nome": "inbound4401785120097561041.pdf",
+    "tamanho_arquivo": 644733,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Auxiliar de serviços gerais",
+        "data_admissao": "2024-05-15",
+        "data_demissao": "2025-07-02"
+      }
+    ],
+    "id": "8177e0090ae2",
+    "enviado_em": "2026-05-19T16:53:58.273789",
+    "status": "Novo",
+    "processado_em": "2026-05-19T16:53:58.273797"
   }
 ]
