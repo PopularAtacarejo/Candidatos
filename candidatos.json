@@ -10499,5 +10499,26 @@
     "enviado_em": "2026-05-19T20:06:46.368118",
     "status": "Novo",
     "processado_em": "2026-05-19T20:06:46.368126"
+  },
+  {
+    "nome": "Daniel dos Santos Silva",
+    "cpf": "244.319.208-38",
+    "telefone": "(82) 98759-1328",
+    "email": "danielatualizacao25@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Cangandu",
+    "rua": "Rua principal ",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/24431920838_Daniel_dos_Santos_Silva_AUXILIAR_DE_LIMPEZA_20260519_213023.pdf",
+    "arquivo_nome": "Popular Atacarejo.pdf",
+    "tamanho_arquivo": 142104,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "06a86b3caefb",
+    "enviado_em": "2026-05-19T21:30:25.066632",
+    "status": "Novo",
+    "processado_em": "2026-05-19T21:30:25.066640"
   }
 ]
