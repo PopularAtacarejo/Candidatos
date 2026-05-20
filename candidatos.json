@@ -10604,5 +10604,33 @@
     "enviado_em": "2026-05-20T01:34:51.722819",
     "status": "Novo",
     "processado_em": "2026-05-20T01:34:51.722829"
+  },
+  {
+    "nome": "Clarisse Rafaela Cavalcante de Lima",
+    "cpf": "101.907.714-02",
+    "telefone": "(82) 99613-2657",
+    "email": "clarisserafaela83@gmail.com",
+    "cep": "57313-340",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Coracy Mata Fonseca",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10190771402_Clarisse_Rafaela_Cavalcante_de_Lima_EMBALADOR_A_20260520_054037.pdf",
+    "arquivo_nome": "Modern Professional CV Resume.pdf 3.pdf",
+    "tamanho_arquivo": 862308,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Akane sushi",
+        "funcao": "Atendente",
+        "data_admissao": "2025-04-03",
+        "data_demissao": "2025-10-20"
+      }
+    ],
+    "id": "90fc479e5075",
+    "enviado_em": "2026-05-20T05:40:40.177732",
+    "status": "Novo",
+    "processado_em": "2026-05-20T05:40:40.177743"
   }
 ]
