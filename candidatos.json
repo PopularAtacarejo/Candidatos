@@ -10473,7 +10473,15 @@
     "id": "06a86b3caefb",
     "enviado_em": "2026-05-19T21:30:25.066632",
     "status": "Novo",
-    "processado_em": "2026-05-19T21:30:25.066640"
+    "processado_em": "2026-05-19T21:30:25.066640",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T11:00:17.645232",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T11:00:17.645232"
+      }
+    ]
   },
   {
     "nome": "Edjane Maria da silva",
