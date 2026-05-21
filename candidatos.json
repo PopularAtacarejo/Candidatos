@@ -10711,7 +10711,15 @@
     "id": "fa8b1197b705",
     "enviado_em": "2026-05-20T15:28:31.898177",
     "status": "Novo",
-    "processado_em": "2026-05-20T15:28:31.898184"
+    "processado_em": "2026-05-20T15:28:31.898184",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:33:11.351773",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:33:11.351773"
+      }
+    ]
   },
   {
     "nome": "CARLOS EDUARDO DA SILVA LOPES",
