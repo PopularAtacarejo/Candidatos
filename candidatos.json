@@ -10167,7 +10167,15 @@
     "id": "449b11ad2628",
     "enviado_em": "2026-05-18T20:05:11.173389",
     "status": "Novo",
-    "processado_em": "2026-05-18T20:05:11.173396"
+    "processado_em": "2026-05-18T20:05:11.173396",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:35:24.964991",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:35:24.964991"
+      }
+    ]
   },
   {
     "nome": "Glória Teresa De Freitas Belo",
@@ -10531,15 +10539,7 @@
     "id": "b74d7970812d",
     "enviado_em": "2026-05-20T00:18:36.899275",
     "status": "Novo",
-    "processado_em": "2026-05-20T00:18:36.899283",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-21T19:34:53.146468",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-21T19:34:53.146468"
-      }
-    ]
+    "processado_em": "2026-05-20T00:18:36.899283"
   },
   {
     "nome": "Ismenia Pinheiro",
