@@ -9702,7 +9702,15 @@
     "id": "5c41bdd6f3b1",
     "enviado_em": "2026-05-13T16:59:57.494405",
     "status": "Novo",
-    "processado_em": "2026-05-13T16:59:57.494416"
+    "processado_em": "2026-05-13T16:59:57.494416",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:36:43.125712",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:36:43.125712"
+      }
+    ]
   },
   {
     "nome": "André Maciel Santos",
@@ -9928,15 +9936,7 @@
     "id": "d07f7d1c1620",
     "enviado_em": "2026-05-14T20:39:59.376836",
     "status": "Novo",
-    "processado_em": "2026-05-14T20:39:59.376843",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-21T19:35:45.862053",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-21T19:35:45.862053"
-      }
-    ]
+    "processado_em": "2026-05-14T20:39:59.376843"
   },
   {
     "nome": "Mizael Lopes Vanderlei",
