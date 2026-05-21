@@ -1,51 +1,5 @@
 [
   {
-    "nome": "Karyla dos Santos Costa",
-    "cpf": "077.217.594-20",
-    "telefone": "(82) 99188-3777",
-    "email": "karyla1988@hotmail.com",
-    "cep": "57313-170",
-    "cidade": "Arapiraca",
-    "bairro": "Brasília",
-    "rua": "Rua Cícero Torres",
-    "transporte": "Sim",
-    "vaga": "OPERADOR (A) DE CAIXA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07721759420_Karyla_dos_Santos_Costa_OPERADOR_A_DE_CAIXA_20260219_223658.pdf",
-    "arquivo_nome": "inbound3910658695140855936.pdf",
-    "tamanho_arquivo": 144123,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Armarinho Costa",
-        "funcao": "Auxiliar Administrativo",
-        "data_admissao": "2013-06-03",
-        "data_demissao": "2016-11-30"
-      },
-      {
-        "empresa": "Riachuelo",
-        "funcao": "Operadora de Caixa",
-        "data_admissao": "2017-02-06",
-        "data_demissao": "2018-08-30"
-      },
-      {
-        "empresa": "Atacadão",
-        "funcao": "Operadora de Caixa",
-        "data_admissao": "2019-05-20",
-        "data_demissao": "2020-06-12"
-      },
-      {
-        "empresa": "Casa Vieira",
-        "funcao": "Operadora de Caixa",
-        "data_admissao": "2023-11-06",
-        "data_demissao": "2024-09-30"
-      }
-    ],
-    "id": "cf85050d2522",
-    "enviado_em": "2026-02-19T22:36:59.978600",
-    "status": "Novo",
-    "processado_em": "2026-02-19T22:36:59.978610"
-  },
-  {
     "nome": "Micaele Maria de Brito",
     "cpf": "152.384.474-42",
     "telefone": "(82) 99608-8133",
