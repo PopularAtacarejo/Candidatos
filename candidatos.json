@@ -9928,7 +9928,15 @@
     "id": "d07f7d1c1620",
     "enviado_em": "2026-05-14T20:39:59.376836",
     "status": "Novo",
-    "processado_em": "2026-05-14T20:39:59.376843"
+    "processado_em": "2026-05-14T20:39:59.376843",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:35:45.862053",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:35:45.862053"
+      }
+    ]
   },
   {
     "nome": "Mizael Lopes Vanderlei",
@@ -10167,15 +10175,7 @@
     "id": "449b11ad2628",
     "enviado_em": "2026-05-18T20:05:11.173389",
     "status": "Novo",
-    "processado_em": "2026-05-18T20:05:11.173396",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-21T19:35:24.964991",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-21T19:35:24.964991"
-      }
-    ]
+    "processado_em": "2026-05-18T20:05:11.173396"
   },
   {
     "nome": "Glória Teresa De Freitas Belo",
