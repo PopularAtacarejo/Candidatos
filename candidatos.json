@@ -10738,5 +10738,26 @@
     "enviado_em": "2026-05-20T18:38:33.967220",
     "status": "Novo",
     "processado_em": "2026-05-20T18:38:33.967230"
+  },
+  {
+    "nome": "Kauanne Silva Santos",
+    "cpf": "151.331.994-90",
+    "telefone": "(82) 98782-3171",
+    "email": "kauanesilvaa2002@icloud.com",
+    "cep": "57309-824",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua José Amaro Filho",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15133199490_Kauanne_Silva_Santos_EMBALADOR_A_20260521_003726.pdf",
+    "arquivo_nome": "curriculo Kauanne Silva .pdf",
+    "tamanho_arquivo": 103511,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "fd216d021c29",
+    "enviado_em": "2026-05-21T00:37:28.052478",
+    "status": "Novo",
+    "processado_em": "2026-05-21T00:37:28.052489"
   }
 ]
