@@ -10468,7 +10468,15 @@
     "id": "5cf9acac6004",
     "enviado_em": "2026-05-19T20:06:46.368118",
     "status": "Novo",
-    "processado_em": "2026-05-19T20:06:46.368126"
+    "processado_em": "2026-05-19T20:06:46.368126",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:43:11.005655",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:43:11.005655"
+      }
+    ]
   },
   {
     "nome": "Daniel dos Santos Silva",
