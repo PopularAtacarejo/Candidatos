@@ -10791,5 +10791,33 @@
     "enviado_em": "2026-05-21T00:37:28.052478",
     "status": "Novo",
     "processado_em": "2026-05-21T00:37:28.052489"
+  },
+  {
+    "nome": "Erick Santos de Araújo",
+    "cpf": "117.329.184-90",
+    "telefone": "(82) 99935-1401",
+    "email": "erickqwer55@gmail.com",
+    "cep": "57308-301",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Manoel Nunes Filho",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11732918490_Erick_Santos_de_Araújo_REPOSITOR_DE_FRIOS_20260521_211113.pdf",
+    "arquivo_nome": "inbound5180524915023839767.pdf",
+    "tamanho_arquivo": 66526,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendimento",
+        "data_admissao": "2022-01-01",
+        "data_demissao": "2025-04-01"
+      }
+    ],
+    "id": "f6b36a7b8fc8",
+    "enviado_em": "2026-05-21T21:11:14.962516",
+    "status": "Novo",
+    "processado_em": "2026-05-21T21:11:14.962524"
   }
 ]
