@@ -10460,7 +10460,15 @@
     "id": "5cf9acac6004",
     "enviado_em": "2026-05-19T20:06:46.368118",
     "status": "Novo",
-    "processado_em": "2026-05-19T20:06:46.368126"
+    "processado_em": "2026-05-19T20:06:46.368126",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:34:09.517766",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:34:09.517766"
+      }
+    ]
   },
   {
     "nome": "Daniel dos Santos Silva",
@@ -10711,15 +10719,7 @@
     "id": "fa8b1197b705",
     "enviado_em": "2026-05-20T15:28:31.898177",
     "status": "Novo",
-    "processado_em": "2026-05-20T15:28:31.898184",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-21T19:33:15.053208",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-21T19:33:15.053208"
-      }
-    ]
+    "processado_em": "2026-05-20T15:28:31.898184"
   },
   {
     "nome": "CARLOS EDUARDO DA SILVA LOPES",
