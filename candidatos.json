@@ -10819,5 +10819,26 @@
     "enviado_em": "2026-05-21T21:11:14.962516",
     "status": "Novo",
     "processado_em": "2026-05-21T21:11:14.962524"
+  },
+  {
+    "nome": "Júlia Vitória Custódio Porto",
+    "cpf": "118.153.974-97",
+    "telefone": "(82) 98209-8105",
+    "email": "juliaporto161@gmail.com",
+    "cep": "57310-500",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua João Medeiros de Lima",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11815397497_Júlia_Vitória_Custódio_Porto_EMBALADOR_A_20260521_220829.pdf",
+    "arquivo_nome": "Júlia Vitória Custódio PortoCurriculo. .pdf",
+    "tamanho_arquivo": 127082,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "021b3054fd8b",
+    "enviado_em": "2026-05-21T22:08:31.078390",
+    "status": "Novo",
+    "processado_em": "2026-05-21T22:08:31.078399"
   }
 ]
