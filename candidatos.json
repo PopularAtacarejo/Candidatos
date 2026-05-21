@@ -10460,15 +10460,7 @@
     "id": "5cf9acac6004",
     "enviado_em": "2026-05-19T20:06:46.368118",
     "status": "Novo",
-    "processado_em": "2026-05-19T20:06:46.368126",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-21T19:34:13.430020",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-21T19:34:13.430020"
-      }
-    ]
+    "processado_em": "2026-05-19T20:06:46.368126"
   },
   {
     "nome": "Daniel dos Santos Silva",
@@ -10539,7 +10531,15 @@
     "id": "b74d7970812d",
     "enviado_em": "2026-05-20T00:18:36.899275",
     "status": "Novo",
-    "processado_em": "2026-05-20T00:18:36.899283"
+    "processado_em": "2026-05-20T00:18:36.899283",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-21T19:34:53.146468",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-21T19:34:53.146468"
+      }
+    ]
   },
   {
     "nome": "Ismenia Pinheiro",
