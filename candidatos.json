@@ -10847,5 +10847,26 @@
     "enviado_em": "2026-05-22T13:12:23.651806",
     "status": "Novo",
     "processado_em": "2026-05-22T13:12:23.651814"
+  },
+  {
+    "nome": "Márcyara Mayris da Silva",
+    "cpf": "185.314.834-25",
+    "telefone": "(82) 99609-4926",
+    "email": "marcysilva193@gmail.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18531483425_Márcyara_Mayris_da_Silva_REPOSITOR_A_20260522_144041.pdf",
+    "arquivo_nome": "inbound2350741062097383534.pdf",
+    "tamanho_arquivo": 38903,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a7a33ee8f0b2",
+    "enviado_em": "2026-05-22T14:40:42.930666",
+    "status": "Novo",
+    "processado_em": "2026-05-22T14:40:42.930674"
   }
 ]
