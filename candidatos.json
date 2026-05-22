@@ -10840,5 +10840,33 @@
     "enviado_em": "2026-05-21T22:08:31.078390",
     "status": "Novo",
     "processado_em": "2026-05-21T22:08:31.078399"
+  },
+  {
+    "nome": "Ana Kelly dos Santos",
+    "cpf": "114.165.974-33",
+    "telefone": "(72) 98857-0041",
+    "email": "kellyevans0908@gmail.com",
+    "cep": "57303-234",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rodovia AL-485",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11416597433_Ana_Kelly_dos_Santos_BALCONISTA_DE_PADARIA_20260522_131221.pdf",
+    "arquivo_nome": "Ana Kelly Dos Santos 03.pdf",
+    "tamanho_arquivo": 1074925,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luís",
+        "funcao": "Balconista de padaria",
+        "data_admissao": "2024-05-06",
+        "data_demissao": "2025-05-04"
+      }
+    ],
+    "id": "de3035356ec9",
+    "enviado_em": "2026-05-22T13:12:23.651806",
+    "status": "Novo",
+    "processado_em": "2026-05-22T13:12:23.651814"
   }
 ]
