@@ -10868,5 +10868,39 @@
     "enviado_em": "2026-05-22T14:40:42.930666",
     "status": "Novo",
     "processado_em": "2026-05-22T14:40:42.930674"
+  },
+  {
+    "nome": "Bruna mayara",
+    "cpf": "152.585.524-70",
+    "telefone": "(82) 99987-7824",
+    "email": "brunamayara1502@gmail.com",
+    "cep": "57308-810",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Alvina de Almeida Lopes",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15258552470_Bruna_mayara_OPERADOR_A_DE_CAIXA_20260522_151437.pdf",
+    "arquivo_nome": "inbound3427414898142128578.pdf",
+    "tamanho_arquivo": 135829,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "L87 auto",
+        "funcao": "Consultor  de vendas",
+        "data_admissao": "2026-04-16",
+        "data_demissao": "2026-05-20"
+      },
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente",
+        "data_admissao": "2025-06-06",
+        "data_demissao": "2027-04-05"
+      }
+    ],
+    "id": "ed36e6fcb99c",
+    "enviado_em": "2026-05-22T15:14:39.332041",
+    "status": "Novo",
+    "processado_em": "2026-05-22T15:14:39.332064"
   }
 ]
