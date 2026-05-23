@@ -10950,7 +10950,15 @@
     "id": "77b3f15f6c06",
     "enviado_em": "2026-05-23T10:10:39.573564",
     "status": "Novo",
-    "processado_em": "2026-05-23T10:10:39.573572"
+    "processado_em": "2026-05-23T10:10:39.573572",
+    "ultimo_visualizador": "Gabriel Levi",
+    "ultimo_visualizado_em": "2026-05-23T14:25:57.407311",
+    "view_history": [
+      {
+        "viewer": "Gabriel Levi",
+        "timestamp": "2026-05-23T14:25:57.407311"
+      }
+    ]
   },
   {
     "nome": "Micaele Maria de Brito",
