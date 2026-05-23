@@ -10959,5 +10959,26 @@
         "timestamp": "2026-05-23T14:25:57.407311"
       }
     ]
+  },
+  {
+    "nome": "Emilly Carla da Silva",
+    "cpf": "134.642.014-90",
+    "telefone": "(82) 9949-9315",
+    "email": "emillycarla867@gmail.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca Alagoas ",
+    "bairro": "Nossa senhora Aparecida ",
+    "rua": "Rua frísio Acácio ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13464201490_Emilly_Carla_da_Silva_BALCONISTA_DE_PADARIA_20260523_205230.pdf",
+    "arquivo_nome": "inbound3105851036336717460.pdf",
+    "tamanho_arquivo": 45186,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "55fbda58171c",
+    "enviado_em": "2026-05-23T20:52:32.032614",
+    "status": "Novo",
+    "processado_em": "2026-05-23T20:52:32.032622"
   }
 ]
