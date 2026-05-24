@@ -10959,5 +10959,63 @@
     "enviado_em": "2026-05-23T20:52:32.032614",
     "status": "Novo",
     "processado_em": "2026-05-23T20:52:32.032622"
+  },
+  {
+    "nome": "José Luiz Galdino da Silva Leite",
+    "cpf": "709.727.904-46",
+    "telefone": "(87) 98828-9044",
+    "email": "joseluizgus2024@gmail.com",
+    "cep": "57301-408",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz",
+    "rua": "Rua Manoel do Nascimento Abreu Filho",
+    "transporte": "Não",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/70972790446_José_Luiz_Galdino_da_Silva_Leite_AUX._DE_PREVENÇÃO_E_PERDAS_20260524_032825.pdf",
+    "arquivo_nome": "inbound3551789990461307183.pdf",
+    "tamanho_arquivo": 159836,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "MOISES DOS SANTOS CINTRA E VCIA LTDA",
+        "funcao": "AJUDANTE CARGAS E DESCARGAS DF MERCADORIAS E DEPÓSITO",
+        "data_admissao": "2026-03-03",
+        "data_demissao": "2026-05-16"
+      },
+      {
+        "empresa": "O RELOJOEIRO",
+        "funcao": "GARÇOM E BARMAN",
+        "data_admissao": "2026-01-29",
+        "data_demissao": "2026-03-01"
+      },
+      {
+        "empresa": "WL DISTRIBUIDORA",
+        "funcao": "AJUDANTE DE SEPARAÇÃO ENTREGAS DE MERCADORIAS.",
+        "data_admissao": "2019-01-15",
+        "data_demissao": "2020-03-18"
+      },
+      {
+        "empresa": "CORREIOS GARANHUNS-PE",
+        "funcao": "AJUDANTE DE ELETRICISTA",
+        "data_admissao": "2020-02-10",
+        "data_demissao": "2020-03-19"
+      },
+      {
+        "empresa": "PREFEITURA MUNICIPAL DE GARANHUNS-PE",
+        "funcao": "SERVIDOR PÚBLICO/ASSISTENTE DE FISCALIZAÇÃO.",
+        "data_admissao": "2023-01-10",
+        "data_demissao": "2025-11-30"
+      },
+      {
+        "empresa": "SECRETARIA DE CULTURA/PREFEITURA MUNICIPAL DE GARANHUNS-PE.",
+        "funcao": "SEGURANÇA DE EVENTOS.",
+        "data_admissao": "2022-05-10",
+        "data_demissao": "2026-02-11"
+      }
+    ],
+    "id": "a12a71ca07ac",
+    "enviado_em": "2026-05-24T03:28:27.307964",
+    "status": "Novo",
+    "processado_em": "2026-05-24T03:28:27.307972"
   }
 ]
