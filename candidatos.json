@@ -10989,5 +10989,39 @@
     "enviado_em": "2026-05-24T03:28:27.307964",
     "status": "Novo",
     "processado_em": "2026-05-24T03:28:27.307972"
+  },
+  {
+    "nome": "Leylany Karen Medeiros Alves",
+    "cpf": "096.657.254-83",
+    "telefone": "(82) 99692-4931",
+    "email": "leylanykaren@icloud.com",
+    "cep": "57306-755",
+    "cidade": "Arapiraca",
+    "bairro": "Cavaco",
+    "rua": "Rua Edney Deschamps Carneiro",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09665725483_Leylany_Karen_Medeiros_Alves_OPERADOR_A_DE_CAIXA_20260525_024926.pdf",
+    "arquivo_nome": "CURRÍCULO LEYLANY1 (3).pdf",
+    "tamanho_arquivo": 103970,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Chefranco",
+        "funcao": "Operador de caixa, atendente de delivery",
+        "data_admissao": "2016-11-24",
+        "data_demissao": "2019-02-24"
+      },
+      {
+        "empresa": "Merconplas",
+        "funcao": "Encarregada de loja",
+        "data_admissao": "2023-11-24",
+        "data_demissao": "2025-12-24"
+      }
+    ],
+    "id": "d94f9b2f1be5",
+    "enviado_em": "2026-05-25T02:49:27.618576",
+    "status": "Novo",
+    "processado_em": "2026-05-25T02:49:27.618583"
   }
 ]
