@@ -11208,5 +11208,33 @@
     "enviado_em": "2026-05-26T23:16:40.534304",
     "status": "Novo",
     "processado_em": "2026-05-26T23:16:40.534312"
+  },
+  {
+    "nome": "Weverton Ruan dos santos do nascimento",
+    "cpf": "572.170.174-91",
+    "telefone": "(82) 99929-2472",
+    "email": "wevertonruan017@gmail.con",
+    "cep": "57305-190",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Antônio Cavalcante Gama",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/57217017491_Weverton_Ruan_dos_santos_do_nascimento_EMBALADOR_A_20260526_234312.pdf",
+    "arquivo_nome": "DOC-20260125-WA0022..pdf_20260328_192110_0000.pdf",
+    "tamanho_arquivo": 39719,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado São Luís",
+        "funcao": "Embalador e compositor",
+        "data_admissao": "2024-01-10",
+        "data_demissao": "2025-01-10"
+      }
+    ],
+    "id": "31e95e7b5834",
+    "enviado_em": "2026-05-26T23:43:14.188608",
+    "status": "Novo",
+    "processado_em": "2026-05-26T23:43:14.188616"
   }
 ]
