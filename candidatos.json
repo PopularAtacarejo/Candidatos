@@ -11016,5 +11016,33 @@
     "enviado_em": "2026-05-25T13:46:05.223868",
     "status": "Novo",
     "processado_em": "2026-05-25T13:46:05.223879"
+  },
+  {
+    "nome": "Evellin Jankelly da Silva Santos",
+    "cpf": "149.514.774-67",
+    "telefone": "(82) 98899-0342",
+    "email": "evellinjankelly@gmail.com",
+    "cep": "57305-849",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Rufino Malaquias da Silva",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14951477467_Evellin_Jankelly_da_Silva_Santos_OPERADOR_A_DE_CAIXA_20260526_012728.pdf",
+    "arquivo_nome": "Currículo_Evellin Jankelly da Silva Sant.pdf",
+    "tamanho_arquivo": 3116,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente",
+        "data_admissao": "2026-02-26",
+        "data_demissao": "2026-05-26"
+      }
+    ],
+    "id": "0a75c5c91a0e",
+    "enviado_em": "2026-05-26T01:27:29.403925",
+    "status": "Novo",
+    "processado_em": "2026-05-26T01:27:29.403934"
   }
 ]
