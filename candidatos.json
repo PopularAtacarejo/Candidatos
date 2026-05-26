@@ -11072,5 +11072,39 @@
     "enviado_em": "2026-05-26T20:23:04.177983",
     "status": "Novo",
     "processado_em": "2026-05-26T20:23:04.177993"
+  },
+  {
+    "nome": "Cristiane Pereira da Silva",
+    "cpf": "042.206.354-16",
+    "telefone": "(82) 99927-1047",
+    "email": "cecilia_cris1@hotmail.com",
+    "cep": "57313-005",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Santa Rita",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/04220635416_Cristiane_Pereira_da_Silva_ASSISTENTE_DE_RH_20260526_220926.pdf",
+    "arquivo_nome": "inbound1286355709506673024.pdf",
+    "tamanho_arquivo": 740005,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Casa higiene",
+        "funcao": "Auxiliar financeiro",
+        "data_admissao": "2026-05-26",
+        "data_demissao": "2024-10-18"
+      },
+      {
+        "empresa": "PB comércio",
+        "funcao": "Auxiliar administrativo",
+        "data_admissao": "2024-10-28",
+        "data_demissao": "2025-05-05"
+      }
+    ],
+    "id": "e522b7da2ab7",
+    "enviado_em": "2026-05-26T22:09:28.729467",
+    "status": "Novo",
+    "processado_em": "2026-05-26T22:09:28.729476"
   }
 ]
