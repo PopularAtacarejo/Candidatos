@@ -11140,5 +11140,39 @@
     "enviado_em": "2026-05-26T22:38:58.784517",
     "status": "Novo",
     "processado_em": "2026-05-26T22:38:58.784525"
+  },
+  {
+    "nome": "Káthina layanne da Silva Gomes",
+    "cpf": "106.120.394-80",
+    "telefone": "(82) 98233-6917",
+    "email": "layanne-11@hotmail.com",
+    "cep": "57316-035",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua Japaratinga",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10612039480_Káthina_layanne_da_Silva_Gomes_ASSISTENTE_DE_RH_20260526_225017.docx",
+    "arquivo_nome": "layanne (1).docx",
+    "tamanho_arquivo": 23754,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aretuza modas",
+        "funcao": "Caixa",
+        "data_admissao": "2021-12-26",
+        "data_demissao": "2023-10-26"
+      },
+      {
+        "empresa": "Aretuza modas",
+        "funcao": "Auxiliar administrativo",
+        "data_admissao": "2022-05-26",
+        "data_demissao": "2023-10-26"
+      }
+    ],
+    "id": "fc83ef6490b6",
+    "enviado_em": "2026-05-26T22:50:19.247655",
+    "status": "Novo",
+    "processado_em": "2026-05-26T22:50:19.247663"
   }
 ]
