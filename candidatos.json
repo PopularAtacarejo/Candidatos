@@ -11106,5 +11106,39 @@
     "enviado_em": "2026-05-26T22:09:28.729467",
     "status": "Novo",
     "processado_em": "2026-05-26T22:09:28.729476"
+  },
+  {
+    "nome": "Mayara alves da silva",
+    "cpf": "075.077.274-32",
+    "telefone": "(82) 99668-2639",
+    "email": "mayara.alves.boti@gmail.com",
+    "cep": "57303-769",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Nossa Senhora da Saúde",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07507727432_Mayara_alves_da_silva_ASSISTENTE_DE_RH_20260526_223856.pdf",
+    "arquivo_nome": "Curriculo Mayara 2025.pdf",
+    "tamanho_arquivo": 710538,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Arapiraca LL alimentações",
+        "funcao": "Supervisora administrativo",
+        "data_admissao": "2023-03-26",
+        "data_demissao": "2026-05-01"
+      },
+      {
+        "empresa": "Cea",
+        "funcao": "Analista de RH",
+        "data_admissao": "2022-05-13",
+        "data_demissao": "2023-03-01"
+      }
+    ],
+    "id": "82e5980b79b3",
+    "enviado_em": "2026-05-26T22:38:58.784517",
+    "status": "Novo",
+    "processado_em": "2026-05-26T22:38:58.784525"
   }
 ]
