@@ -1,54 +1,5 @@
 [
   {
-    "nome": "Bruno Pereira lucio",
-    "cpf": "058.442.174-54",
-    "telefone": "(82) 99154-4130",
-    "email": "brunopereiralucio7@gmail.com",
-    "cep": "57313-130",
-    "cidade": "Arapiraca",
-    "bairro": "Brasília",
-    "rua": "Rua Brasília",
-    "transporte": "Não",
-    "vaga": "OPERADOR (A) DE CAIXA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05844217454_Bruno_Pereira_lucio_OPERADOR_A_DE_CAIXA_20260225_190544.pdf",
-    "arquivo_nome": "inbound7153438836301932070.pdf",
-    "tamanho_arquivo": 87033,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Aec",
-        "funcao": "Atendimento ao público",
-        "data_admissao": "2024-01-05",
-        "data_demissao": "2024-09-09"
-      }
-    ],
-    "id": "f46939650554",
-    "enviado_em": "2026-02-25T19:05:46.380531",
-    "status": "Novo",
-    "processado_em": "2026-02-25T19:05:46.380541"
-  },
-  {
-    "nome": "Eduarda Vitória Gomes Santos",
-    "cpf": "160.347.124-32",
-    "telefone": "(82) 99664-1559",
-    "email": "simonegomessantos136@gmail.com",
-    "cep": "57308-380",
-    "cidade": "Arapiraca",
-    "bairro": "Planalto",
-    "rua": "Avenida Branquinha",
-    "transporte": "Não",
-    "vaga": "OPERADOR DE SUPERMERCADO",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16034712432_Eduarda_Vitória_Gomes_Santos_OPERADOR_DE_SUPERMERCADO_20260225_201726.pdf",
-    "arquivo_nome": "currículo Eduarda Vitória Gomes Santos .pdf",
-    "tamanho_arquivo": 153370,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "d47457fe72ee",
-    "enviado_em": "2026-02-25T20:17:28.016946",
-    "status": "Novo",
-    "processado_em": "2026-02-25T20:17:28.016954"
-  },
-  {
     "nome": "José Jefferson Santos da Silva",
     "cpf": "098.547.394-06",
     "telefone": "(82) 99693-0552",
