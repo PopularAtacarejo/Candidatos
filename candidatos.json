@@ -11052,12 +11052,16 @@
     "enviado_em": "2026-05-26T20:20:44.572192",
     "status": "Novo",
     "processado_em": "2026-05-26T20:20:44.572201",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:49:12.392922",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-27T13:53:56.375292",
     "view_history": [
       {
         "viewer": "Cecilia",
         "timestamp": "2026-05-27T10:49:12.392922"
+      },
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-27T13:53:56.375292"
       }
     ]
   },
@@ -11400,15 +11404,7 @@
     "id": "3b18b628977b",
     "enviado_em": "2026-05-27T01:40:39.148940",
     "status": "Novo",
-    "processado_em": "2026-05-27T01:40:39.148950",
-    "ultimo_visualizador": "Natallia Katiane",
-    "ultimo_visualizado_em": "2026-05-27T13:53:21.090522",
-    "view_history": [
-      {
-        "viewer": "Natallia Katiane",
-        "timestamp": "2026-05-27T13:53:21.090522"
-      }
-    ]
+    "processado_em": "2026-05-27T01:40:39.148950"
   },
   {
     "nome": "Ana Maria Luiza bezerra dos santos",
