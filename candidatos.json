@@ -11612,5 +11612,26 @@
     "enviado_em": "2026-05-27T13:18:33.470577",
     "status": "Novo",
     "processado_em": "2026-05-27T13:18:33.470587"
+  },
+  {
+    "nome": "Maxuel Rocha de Sousa",
+    "cpf": "158.826.804-76",
+    "telefone": "(82) 98155-1119",
+    "email": "maxuelr823@gmail.com",
+    "cep": "57330-00_",
+    "cidade": "Lagoa da Canoa",
+    "bairro": "Zona rural ",
+    "rua": "Rua Cavaco ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15882680476_Maxuel_Rocha_de_Sousa_REPOSITOR_A_20260527_134504.pdf",
+    "arquivo_nome": "Currículo de Maxuel.pdf",
+    "tamanho_arquivo": 58250,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9d5f9b7e4ada",
+    "enviado_em": "2026-05-27T13:45:05.954561",
+    "status": "Novo",
+    "processado_em": "2026-05-27T13:45:05.954572"
   }
 ]
