@@ -11637,5 +11637,26 @@
     "enviado_em": "2026-05-27T13:58:16.897190",
     "status": "Novo",
     "processado_em": "2026-05-27T13:58:16.897198"
+  },
+  {
+    "nome": "WESLLEY David bezerra da silva",
+    "cpf": "175.077.884-07",
+    "telefone": "(82) 99672-8100",
+    "email": "weslleydavidbezerradasilva3@gmail.com",
+    "cep": "57309-829",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Miguel Vieira Dules",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17507788407_WESLLEY_David_bezerra_da_silva_AUXILIAR_DE_LIMPEZA_20260527_143815.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades.pdf",
+    "tamanho_arquivo": 90735,
+    "tem_experiencia": "Sim",
+    "experiencias": [],
+    "id": "0e69b106be74",
+    "enviado_em": "2026-05-27T14:38:17.398115",
+    "status": "Novo",
+    "processado_em": "2026-05-27T14:38:17.398125"
   }
 ]
