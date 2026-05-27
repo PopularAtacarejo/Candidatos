@@ -11866,7 +11866,15 @@
     "id": "f5b46f51fdb9",
     "enviado_em": "2026-05-27T18:17:48.040894",
     "status": "Novo",
-    "processado_em": "2026-05-27T18:17:48.040902"
+    "processado_em": "2026-05-27T18:17:48.040902",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T18:42:46.372570",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T18:42:46.372570"
+      }
+    ]
   },
   {
     "nome": "Juan da Silva Oliveira",
