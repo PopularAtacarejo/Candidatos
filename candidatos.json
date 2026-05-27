@@ -11726,7 +11726,15 @@
     "id": "1ff96a6b857b",
     "enviado_em": "2026-05-27T17:41:17.613888",
     "status": "Novo",
-    "processado_em": "2026-05-27T17:41:17.613898"
+    "processado_em": "2026-05-27T17:41:17.613898",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T17:51:34.225597",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T17:51:34.225597"
+      }
+    ]
   },
   {
     "nome": "Joseane dos santos paz",
