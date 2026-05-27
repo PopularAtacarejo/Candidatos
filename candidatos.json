@@ -11287,15 +11287,7 @@
     "id": "d2ca26fdd2d4",
     "enviado_em": "2026-05-27T00:14:17.568361",
     "status": "Novo",
-    "processado_em": "2026-05-27T00:14:17.568371",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T11:00:41.662571",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T11:00:41.662571"
-      }
-    ]
+    "processado_em": "2026-05-27T00:14:17.568371"
   },
   {
     "nome": "Vanessa Oliveira Dules",
@@ -11477,7 +11469,15 @@
     "id": "4f7881987ef6",
     "enviado_em": "2026-05-27T04:11:38.997693",
     "status": "Novo",
-    "processado_em": "2026-05-27T04:11:38.997701"
+    "processado_em": "2026-05-27T04:11:38.997701",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T11:03:10.010275",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T11:03:10.010275"
+      }
+    ]
   },
   {
     "nome": "Pamela Yara Silva Gois",
@@ -11506,33 +11506,5 @@
     "enviado_em": "2026-05-27T07:35:08.470494",
     "status": "Novo",
     "processado_em": "2026-05-27T07:35:08.470506"
-  },
-  {
-    "nome": "Ligia Milena de lima pereira",
-    "cpf": "113.262.964-00",
-    "telefone": "(82) 99677-9841",
-    "email": "ligiamilena9@gmail.com",
-    "cep": "57312-420",
-    "cidade": "Arapiraca",
-    "bairro": "Alto do Cruzeiro",
-    "rua": "Rua Marcelino Magalhães",
-    "transporte": "Sim",
-    "vaga": "BALCONISTA DE PADARIA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11326296400_Ligia_Milena_de_lima_pereira_BALCONISTA_DE_PADARIA_20260527_110231.pdf",
-    "arquivo_nome": "inbound1739495090227786369.pdf",
-    "tamanho_arquivo": 88348,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Supermercado alburqueque",
-        "funcao": "Atendente",
-        "data_admissao": "2025-01-16",
-        "data_demissao": "2026-02-28"
-      }
-    ],
-    "id": "3b9591ab0dcc",
-    "enviado_em": "2026-05-27T11:02:33.282292",
-    "status": "Novo",
-    "processado_em": "2026-05-27T11:02:33.282302"
   }
 ]
