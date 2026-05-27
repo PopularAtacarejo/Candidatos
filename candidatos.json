@@ -11944,7 +11944,15 @@
     "id": "09fe1e9d2ea2",
     "enviado_em": "2026-05-27T18:51:28.341890",
     "status": "Novo",
-    "processado_em": "2026-05-27T18:51:28.341901"
+    "processado_em": "2026-05-27T18:51:28.341901",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T19:22:01.226065",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T19:22:01.226065"
+      }
+    ]
   },
   {
     "nome": "Gabriela Maria da Silva",
