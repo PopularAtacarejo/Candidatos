@@ -11264,5 +11264,26 @@
     "enviado_em": "2026-05-27T00:14:17.568361",
     "status": "Novo",
     "processado_em": "2026-05-27T00:14:17.568371"
+  },
+  {
+    "nome": "Vanessa Oliveira Dules",
+    "cpf": "081.766.414-99",
+    "telefone": "(82) 99667-2409",
+    "email": "dclaudioferreira@icloud.com",
+    "cep": "57302-204",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Joaquim Gabriel de Lima",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08176641499_Vanessa_Oliveira_Dules_EMBALADOR_A_20260527_002420.pdf",
+    "arquivo_nome": "Curriculo_Vanessa_Oliveira_Dules.pdf",
+    "tamanho_arquivo": 16630,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "7500618464e7",
+    "enviado_em": "2026-05-27T00:24:22.425661",
+    "status": "Novo",
+    "processado_em": "2026-05-27T00:24:22.425670"
   }
 ]
