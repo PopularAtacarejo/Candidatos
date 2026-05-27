@@ -12350,5 +12350,33 @@
     "enviado_em": "2026-05-27T22:56:52.472905",
     "status": "Novo",
     "processado_em": "2026-05-27T22:56:52.472913"
+  },
+  {
+    "nome": "Ana Claudia Alves Damasceno",
+    "cpf": "152.047.694-98",
+    "telefone": "(82) 99316-0412",
+    "email": "deyvisongabriel677@gmail.com",
+    "cep": "57330-00_",
+    "cidade": "Lagoa da Canoa",
+    "bairro": "Centro",
+    "rua": "Rua dom Pedro Primeiro",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15204769498_Ana_Claudia_Alves_Damasceno_EMBALADOR_A_20260527_232410.pdf",
+    "arquivo_nome": "Currículo-Ana Claudia .pdf",
+    "tamanho_arquivo": 123030,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Almeida Supermercado",
+        "funcao": "Repositora",
+        "data_admissao": "2025-06-27",
+        "data_demissao": "2025-12-27"
+      }
+    ],
+    "id": "b5ce2d42c05c",
+    "enviado_em": "2026-05-27T23:24:12.304017",
+    "status": "Novo",
+    "processado_em": "2026-05-27T23:24:12.304026"
   }
 ]
