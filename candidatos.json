@@ -10622,15 +10622,7 @@
     "id": "7092a75b5fc3",
     "enviado_em": "2026-05-20T18:38:33.967220",
     "status": "Novo",
-    "processado_em": "2026-05-20T18:38:33.967230",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:57:40.616239",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:57:40.616239"
-      }
-    ]
+    "processado_em": "2026-05-20T18:38:33.967230"
   },
   {
     "nome": "Kauanne Silva Santos",
@@ -10679,7 +10671,15 @@
     "id": "f6b36a7b8fc8",
     "enviado_em": "2026-05-21T21:11:14.962516",
     "status": "Novo",
-    "processado_em": "2026-05-21T21:11:14.962524"
+    "processado_em": "2026-05-21T21:11:14.962524",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:58:17.547687",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:58:17.547687"
+      }
+    ]
   },
   {
     "nome": "Júlia Vitória Custódio Porto",
