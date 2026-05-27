@@ -11341,5 +11341,33 @@
     "enviado_em": "2026-05-27T01:20:31.760639",
     "status": "Novo",
     "processado_em": "2026-05-27T01:20:31.760647"
+  },
+  {
+    "nome": "José dos Santos Almeida",
+    "cpf": "080.193.544-09",
+    "telefone": "(82) 98189-2418",
+    "email": "almeidajsnt@gmail.com",
+    "cep": "57302-840",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua José Lins Moura",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08019354409_José_dos_Santos_Almeida_ASSISTENTE_DE_RH_20260527_014037.pdf",
+    "arquivo_nome": "inbound2790718180881824486.pdf",
+    "tamanho_arquivo": 59693,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Supervisor",
+        "data_admissao": "2022-12-20",
+        "data_demissao": "2025-04-22"
+      }
+    ],
+    "id": "3b18b628977b",
+    "enviado_em": "2026-05-27T01:40:39.148940",
+    "status": "Novo",
+    "processado_em": "2026-05-27T01:40:39.148950"
   }
 ]
