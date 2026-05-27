@@ -12378,5 +12378,33 @@
     "enviado_em": "2026-05-27T23:24:12.304017",
     "status": "Novo",
     "processado_em": "2026-05-27T23:24:12.304026"
+  },
+  {
+    "nome": "Carlos André da Silva Santos",
+    "cpf": "109.913.804-36",
+    "telefone": "(21) 99576-4042",
+    "email": "carlosprimario@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Feira Grande",
+    "bairro": "Centro",
+    "rua": "7 de setembro",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10991380436_Carlos_André_da_Silva_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260527_232808.pdf",
+    "arquivo_nome": "Carlos Andre Da Silva Santos.pdf",
+    "tamanho_arquivo": 642006,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Carajás home center",
+        "funcao": "Operador de loja",
+        "data_admissao": "2024-10-28",
+        "data_demissao": "2026-04-20"
+      }
+    ],
+    "id": "863f06d058bf",
+    "enviado_em": "2026-05-27T23:28:10.997979",
+    "status": "Novo",
+    "processado_em": "2026-05-27T23:28:10.997989"
   }
 ]
