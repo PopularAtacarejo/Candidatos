@@ -11945,5 +11945,33 @@
     "enviado_em": "2026-05-27T18:51:28.341890",
     "status": "Novo",
     "processado_em": "2026-05-27T18:51:28.341901"
+  },
+  {
+    "nome": "Gabriela Maria da Silva",
+    "cpf": "123.707.944-61",
+    "telefone": "(82) 99325-8264",
+    "email": "gabyy8754@gmail.com",
+    "cep": "57307-350",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua José Emídio de Lima",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12370794461_Gabriela_Maria_da_Silva_EMBALADOR_A_20260527_190238.pdf",
+    "arquivo_nome": "inbound552937146206958371.pdf",
+    "tamanho_arquivo": 684313,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ponto da esfiha",
+        "funcao": "Atendente",
+        "data_admissao": "2018-03-06",
+        "data_demissao": "2019-03-06"
+      }
+    ],
+    "id": "8ad2dbb6cc79",
+    "enviado_em": "2026-05-27T19:02:40.732348",
+    "status": "Novo",
+    "processado_em": "2026-05-27T19:02:40.732355"
   }
 ]
