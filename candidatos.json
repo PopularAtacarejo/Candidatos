@@ -11693,5 +11693,39 @@
     "enviado_em": "2026-05-27T17:36:19.416848",
     "status": "Novo",
     "processado_em": "2026-05-27T17:36:19.416855"
+  },
+  {
+    "nome": "André Maciel Santos",
+    "cpf": "767.444.855-04",
+    "telefone": "(71) 98280-6429",
+    "email": "andremaciel.adm@gmail.com",
+    "cep": "57315-766",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Matilde Barbosa Paulino",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/76744485504_André_Maciel_Santos_ASSISTENTE_DE_RH_20260527_174115.pdf",
+    "arquivo_nome": "inbound9131634307172710918.pdf",
+    "tamanho_arquivo": 167947,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Sergipe Industrial",
+        "funcao": "Auxiliar Administrativo",
+        "data_admissao": "2018-06-01",
+        "data_demissao": "2020-10-19"
+      },
+      {
+        "empresa": "Metro Engenharia",
+        "funcao": "Auxiliar de Escritório",
+        "data_admissao": "2021-10-04",
+        "data_demissao": "2022-07-01"
+      }
+    ],
+    "id": "1ff96a6b857b",
+    "enviado_em": "2026-05-27T17:41:17.613888",
+    "status": "Novo",
+    "processado_em": "2026-05-27T17:41:17.613898"
   }
 ]
