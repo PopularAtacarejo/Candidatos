@@ -11043,7 +11043,15 @@
     "id": "d06c197479d2",
     "enviado_em": "2026-05-26T20:20:44.572192",
     "status": "Novo",
-    "processado_em": "2026-05-26T20:20:44.572201"
+    "processado_em": "2026-05-26T20:20:44.572201",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:49:12.392922",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:49:12.392922"
+      }
+    ]
   },
   {
     "nome": "Ana Lívia Liberato chaves Liberato chaves",
@@ -11105,15 +11113,7 @@
     "id": "e522b7da2ab7",
     "enviado_em": "2026-05-26T22:09:28.729467",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:09:28.729476",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:48:29.264277",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:48:29.264277"
-      }
-    ]
+    "processado_em": "2026-05-26T22:09:28.729476"
   },
   {
     "nome": "Mayara alves da silva",
