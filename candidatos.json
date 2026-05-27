@@ -10911,7 +10911,15 @@
     "id": "a12a71ca07ac",
     "enviado_em": "2026-05-24T03:28:27.307964",
     "status": "Novo",
-    "processado_em": "2026-05-24T03:28:27.307972"
+    "processado_em": "2026-05-24T03:28:27.307972",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:54:42.569895",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:54:42.569895"
+      }
+    ]
   },
   {
     "nome": "Leylany Karen Medeiros Alves",
@@ -11243,15 +11251,7 @@
     "id": "31e95e7b5834",
     "enviado_em": "2026-05-26T23:43:14.188608",
     "status": "Novo",
-    "processado_em": "2026-05-26T23:43:14.188616",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:52:42.158823",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:52:42.158823"
-      }
-    ]
+    "processado_em": "2026-05-26T23:43:14.188616"
   },
   {
     "nome": "José de Araujo Santos Junior",
