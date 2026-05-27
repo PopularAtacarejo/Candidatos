@@ -10028,15 +10028,7 @@
     "id": "449b11ad2628",
     "enviado_em": "2026-05-18T20:05:11.173389",
     "status": "Novo",
-    "processado_em": "2026-05-18T20:05:11.173396",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:55:19.708334",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:55:19.708334"
-      }
-    ]
+    "processado_em": "2026-05-18T20:05:11.173396"
   },
   {
     "nome": "Glória Teresa De Freitas Belo",
@@ -10337,7 +10329,15 @@
     "id": "5cf9acac6004",
     "enviado_em": "2026-05-19T20:06:46.368118",
     "status": "Novo",
-    "processado_em": "2026-05-19T20:06:46.368126"
+    "processado_em": "2026-05-19T20:06:46.368126",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:56:20.140019",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:56:20.140019"
+      }
+    ]
   },
   {
     "nome": "Daniel dos Santos Silva",
