@@ -11023,15 +11023,7 @@
     "id": "88a236ab2966",
     "enviado_em": "2026-05-26T10:44:10.054253",
     "status": "Novo",
-    "processado_em": "2026-05-26T10:44:10.054262",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:58:44.930292",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:58:44.930292"
-      }
-    ]
+    "processado_em": "2026-05-26T10:44:10.054262"
   },
   {
     "nome": "Brenda Beatriz Aleixo da Silva",
@@ -11231,7 +11223,15 @@
     "id": "585d39abdf77",
     "enviado_em": "2026-05-26T23:16:40.534304",
     "status": "Novo",
-    "processado_em": "2026-05-26T23:16:40.534312"
+    "processado_em": "2026-05-26T23:16:40.534312",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:59:25.254498",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:59:25.254498"
+      }
+    ]
   },
   {
     "nome": "Weverton Ruan dos santos do nascimento",
