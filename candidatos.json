@@ -11534,5 +11534,33 @@
     "enviado_em": "2026-05-27T11:19:02.524594",
     "status": "Novo",
     "processado_em": "2026-05-27T11:19:02.524604"
+  },
+  {
+    "nome": "Andréa Maria da rocha",
+    "cpf": "082.547.484-11",
+    "telefone": "(82) 98894-6219",
+    "email": "andreamariadarochajh@gmail.com",
+    "cep": "57312-256",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua São Paulo",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08254748411_Andréa_Maria_da_rocha_BALCONISTA_DE_PADARIA_20260527_123338.pdf",
+    "arquivo_nome": "Currículo- Andréa Maria .pdf",
+    "tamanho_arquivo": 35356,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado buriti Verde",
+        "funcao": "Balconista",
+        "data_admissao": "2013-09-05",
+        "data_demissao": "2015-06-28"
+      }
+    ],
+    "id": "f9a070155eb2",
+    "enviado_em": "2026-05-27T12:33:41.227263",
+    "status": "Novo",
+    "processado_em": "2026-05-27T12:33:41.227271"
   }
 ]
