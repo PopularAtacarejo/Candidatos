@@ -11189,7 +11189,15 @@
     "id": "fc83ef6490b6",
     "enviado_em": "2026-05-26T22:50:19.247655",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:50:19.247663"
+    "processado_em": "2026-05-26T22:50:19.247663",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-27T13:26:31.312530",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-27T13:26:31.312530"
+      }
+    ]
   },
   {
     "nome": "JOSE RAMOS DE BARROS",
