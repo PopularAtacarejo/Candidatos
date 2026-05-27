@@ -11236,5 +11236,33 @@
     "enviado_em": "2026-05-26T23:43:14.188608",
     "status": "Novo",
     "processado_em": "2026-05-26T23:43:14.188616"
+  },
+  {
+    "nome": "José de Araujo Santos Junior",
+    "cpf": "152.787.724-84",
+    "telefone": "(82) 98102-6005",
+    "email": "araujozzoficial21@gmail.com",
+    "cep": "57313-000",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Santa Rita",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15278772484_José_de_Araujo_Santos_Junior_EMBALADOR_A_20260527_001416.pdf",
+    "arquivo_nome": "inbound715147472458656274.pdf",
+    "tamanho_arquivo": 2300,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado MG",
+        "funcao": "Repositor",
+        "data_admissao": "2025-12-29",
+        "data_demissao": "2026-05-26"
+      }
+    ],
+    "id": "d2ca26fdd2d4",
+    "enviado_em": "2026-05-27T00:14:17.568361",
+    "status": "Novo",
+    "processado_em": "2026-05-27T00:14:17.568371"
   }
 ]
