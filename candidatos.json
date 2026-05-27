@@ -10671,15 +10671,7 @@
     "id": "f6b36a7b8fc8",
     "enviado_em": "2026-05-21T21:11:14.962516",
     "status": "Novo",
-    "processado_em": "2026-05-21T21:11:14.962524",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:58:17.547687",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:58:17.547687"
-      }
-    ]
+    "processado_em": "2026-05-21T21:11:14.962524"
   },
   {
     "nome": "Júlia Vitória Custódio Porto",
@@ -11031,7 +11023,15 @@
     "id": "88a236ab2966",
     "enviado_em": "2026-05-26T10:44:10.054253",
     "status": "Novo",
-    "processado_em": "2026-05-26T10:44:10.054262"
+    "processado_em": "2026-05-26T10:44:10.054262",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:58:44.930292",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:58:44.930292"
+      }
+    ]
   },
   {
     "nome": "Brenda Beatriz Aleixo da Silva",
