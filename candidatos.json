@@ -12002,5 +12002,33 @@
     "enviado_em": "2026-05-27T19:56:46.026747",
     "status": "Novo",
     "processado_em": "2026-05-27T19:56:46.026755"
+  },
+  {
+    "nome": "Katiana Maria da Silva",
+    "cpf": "093.064.784-02",
+    "telefone": "(82) 99828-9439",
+    "email": "kathyanasilva@outlook.com",
+    "cep": "57303-234",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rodovia AL-485",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09306478402_Katiana_Maria_da_Silva_EMBALADOR_A_20260527_202021.pdf",
+    "arquivo_nome": "inbound8534520717791093219.pdf",
+    "tamanho_arquivo": 267369,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Shallon supermercado",
+        "funcao": "Operador de Caixa",
+        "data_admissao": "2023-09-05",
+        "data_demissao": "2025-10-30"
+      }
+    ],
+    "id": "90a3578995cd",
+    "enviado_em": "2026-05-27T20:20:24.045206",
+    "status": "Novo",
+    "processado_em": "2026-05-27T20:20:24.045214"
   }
 ]
