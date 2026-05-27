@@ -11799,5 +11799,33 @@
         "timestamp": "2026-05-27T18:09:03.430119"
       }
     ]
+  },
+  {
+    "nome": "Wellingtan Lima",
+    "cpf": "122.185.144-60",
+    "telefone": "(82) 98166-1012",
+    "email": "limaleta59@gmail.com",
+    "cep": "57260-00_",
+    "cidade": "Limoeiro De Anadia",
+    "bairro": "Pé leve novo",
+    "rua": "Rua da rello net",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12218514460_Wellingtan_Lima_AUXILIAR_DE_LIMPEZA_20260527_181014.pdf",
+    "arquivo_nome": "inbound2038573843640614795.pdf",
+    "tamanho_arquivo": 339116,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jr serviços",
+        "funcao": "Limpeza",
+        "data_admissao": "2026-05-21",
+        "data_demissao": "2026-05-27"
+      }
+    ],
+    "id": "7381309137d0",
+    "enviado_em": "2026-05-27T18:10:16.499728",
+    "status": "Novo",
+    "processado_em": "2026-05-27T18:10:16.499739"
   }
 ]
