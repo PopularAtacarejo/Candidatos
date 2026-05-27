@@ -11651,5 +11651,26 @@
     "enviado_em": "2026-05-27T17:34:54.416297",
     "status": "Novo",
     "processado_em": "2026-05-27T17:34:54.416305"
+  },
+  {
+    "nome": "Natália Soares de Albuquerque",
+    "cpf": "426.013.508-22",
+    "telefone": "(82) 98745-0422",
+    "email": "nataliasoares.albu@gmail.com",
+    "cep": "57311-310",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Praça Antônio Laurindo",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/42601350822_Natália_Soares_de_Albuquerque_AUXILIAR_DE_LIMPEZA_20260527_173547.pdf",
+    "arquivo_nome": "inbound6017128736357347927.pdf",
+    "tamanho_arquivo": 788887,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "052810beb144",
+    "enviado_em": "2026-05-27T17:35:50.441123",
+    "status": "Novo",
+    "processado_em": "2026-05-27T17:35:50.441133"
   }
 ]
