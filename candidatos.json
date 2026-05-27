@@ -11425,5 +11425,26 @@
     "enviado_em": "2026-05-27T03:46:20.728751",
     "status": "Novo",
     "processado_em": "2026-05-27T03:46:20.728760"
+  },
+  {
+    "nome": "Willian Jhonatan dos Santos",
+    "cpf": "714.683.984-23",
+    "telefone": "(82) 98206-6011",
+    "email": "w_jhonatan@icloud.com",
+    "cep": "57301-080",
+    "cidade": "Arapiraca",
+    "bairro": "Ouro Preto",
+    "rua": "Rua Maria de Nazaré",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71468398423_Willian_Jhonatan_dos_Santos_EMBALADOR_A_20260527_041136.pdf",
+    "arquivo_nome": "curriculumvitae.pdf",
+    "tamanho_arquivo": 985736,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "4f7881987ef6",
+    "enviado_em": "2026-05-27T04:11:38.997693",
+    "status": "Novo",
+    "processado_em": "2026-05-27T04:11:38.997701"
   }
 ]
