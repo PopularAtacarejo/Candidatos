@@ -11105,7 +11105,15 @@
     "id": "e522b7da2ab7",
     "enviado_em": "2026-05-26T22:09:28.729467",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:09:28.729476"
+    "processado_em": "2026-05-26T22:09:28.729476",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:48:29.264277",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:48:29.264277"
+      }
+    ]
   },
   {
     "nome": "Mayara alves da silva",
@@ -11139,15 +11147,7 @@
     "id": "82e5980b79b3",
     "enviado_em": "2026-05-26T22:38:58.784517",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:38:58.784525",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:47:01.496848",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:47:01.496848"
-      }
-    ]
+    "processado_em": "2026-05-26T22:38:58.784525"
   },
   {
     "nome": "Káthina layanne da Silva Gomes",
