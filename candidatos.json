@@ -11121,15 +11121,7 @@
     "id": "e522b7da2ab7",
     "enviado_em": "2026-05-26T22:09:28.729467",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:09:28.729476",
-    "ultimo_visualizador": "Natallia Katiane",
-    "ultimo_visualizado_em": "2026-05-27T13:52:00.622436",
-    "view_history": [
-      {
-        "viewer": "Natallia Katiane",
-        "timestamp": "2026-05-27T13:52:00.622436"
-      }
-    ]
+    "processado_em": "2026-05-26T22:09:28.729476"
   },
   {
     "nome": "Mayara alves da silva",
@@ -11408,7 +11400,15 @@
     "id": "3b18b628977b",
     "enviado_em": "2026-05-27T01:40:39.148940",
     "status": "Novo",
-    "processado_em": "2026-05-27T01:40:39.148950"
+    "processado_em": "2026-05-27T01:40:39.148950",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-27T13:52:36.660138",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-27T13:52:36.660138"
+      }
+    ]
   },
   {
     "nome": "Ana Maria Luiza bezerra dos santos",
