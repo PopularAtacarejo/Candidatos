@@ -11287,7 +11287,15 @@
     "id": "d2ca26fdd2d4",
     "enviado_em": "2026-05-27T00:14:17.568361",
     "status": "Novo",
-    "processado_em": "2026-05-27T00:14:17.568371"
+    "processado_em": "2026-05-27T00:14:17.568371",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T11:00:41.662571",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T11:00:41.662571"
+      }
+    ]
   },
   {
     "nome": "Vanessa Oliveira Dules",
