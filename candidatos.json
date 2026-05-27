@@ -11139,7 +11139,15 @@
     "id": "82e5980b79b3",
     "enviado_em": "2026-05-26T22:38:58.784517",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:38:58.784525"
+    "processado_em": "2026-05-26T22:38:58.784525",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T10:47:01.496848",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T10:47:01.496848"
+      }
+    ]
   },
   {
     "nome": "Káthina layanne da Silva Gomes",
@@ -11173,15 +11181,7 @@
     "id": "fc83ef6490b6",
     "enviado_em": "2026-05-26T22:50:19.247655",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:50:19.247663",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:46:21.127126",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-27T10:46:21.127126"
-      }
-    ]
+    "processado_em": "2026-05-26T22:50:19.247663"
   },
   {
     "nome": "JOSE RAMOS DE BARROS",
