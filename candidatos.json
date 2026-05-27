@@ -11790,6 +11790,14 @@
     "id": "4280221363a6",
     "enviado_em": "2026-05-27T17:48:49.726336",
     "status": "Novo",
-    "processado_em": "2026-05-27T17:48:49.726348"
+    "processado_em": "2026-05-27T17:48:49.726348",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-05-27T18:09:03.430119",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-27T18:09:03.430119"
+      }
+    ]
   }
 ]
