@@ -12744,5 +12744,33 @@
     "enviado_em": "2026-05-28T20:41:21.396893",
     "status": "Novo",
     "processado_em": "2026-05-28T20:41:21.396901"
+  },
+  {
+    "nome": "Julyana santos de oliveira Freitas",
+    "cpf": "117.419.584-31",
+    "telefone": "(82) 99691-0050",
+    "email": "ojulyanaoliveira90@gmail.com",
+    "cep": "57310-250",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Edwiges",
+    "rua": "Rua Celestina Maria do Nascimento",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11741958431_Julyana_santos_de_oliveira_Freitas_OPERADOR_A_DE_CAIXA_20260528_210243.pdf",
+    "arquivo_nome": "inbound7508494286852761577.pdf",
+    "tamanho_arquivo": 144417,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São luiz",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2025-05-05",
+        "data_demissao": "2025-11-27"
+      }
+    ],
+    "id": "4e261fbfbe98",
+    "enviado_em": "2026-05-28T21:02:45.460639",
+    "status": "Novo",
+    "processado_em": "2026-05-28T21:02:45.460647"
   }
 ]
