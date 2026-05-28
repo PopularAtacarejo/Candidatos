@@ -12616,5 +12616,26 @@
     "enviado_em": "2026-05-28T12:39:36.235435",
     "status": "Novo",
     "processado_em": "2026-05-28T12:39:36.235446"
+  },
+  {
+    "nome": "Liorran Gabriel Marques dos Santos",
+    "cpf": "168.877.404-19",
+    "telefone": "(82) 99619-8218",
+    "email": "liorrangabriel97@gmail.com",
+    "cep": "57309-499",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Ypê Branco",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16887740419_Liorran_Gabriel_Marques_dos_Santos_REPOSITOR_A_20260528_134328.pdf",
+    "arquivo_nome": "inbound2965303056420000086.pdf",
+    "tamanho_arquivo": 28812,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "5cac456faafd",
+    "enviado_em": "2026-05-28T13:43:30.007857",
+    "status": "Novo",
+    "processado_em": "2026-05-28T13:43:30.007864"
   }
 ]
