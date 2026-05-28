@@ -12251,7 +12251,15 @@
     "id": "187fd63bd664",
     "enviado_em": "2026-05-27T22:40:16.172449",
     "status": "Novo",
-    "processado_em": "2026-05-27T22:40:16.172460"
+    "processado_em": "2026-05-27T22:40:16.172460",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-28T13:17:46.232563",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-28T13:17:46.232563"
+      }
+    ]
   },
   {
     "nome": "Rillary Kelly Oliveira Silva",
@@ -12445,15 +12453,7 @@
     "id": "a65ea6d191e6",
     "enviado_em": "2026-05-28T00:20:06.864685",
     "status": "Novo",
-    "processado_em": "2026-05-28T00:20:06.864694",
-    "ultimo_visualizador": "Natallia Katiane",
-    "ultimo_visualizado_em": "2026-05-28T13:13:59.071679",
-    "view_history": [
-      {
-        "viewer": "Natallia Katiane",
-        "timestamp": "2026-05-28T13:13:59.071679"
-      }
-    ]
+    "processado_em": "2026-05-28T00:20:06.864694"
   },
   {
     "nome": "Kaique Fernandes braz",
