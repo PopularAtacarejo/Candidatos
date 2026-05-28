@@ -11923,15 +11923,7 @@
     "id": "9515d9914940",
     "enviado_em": "2026-05-27T18:51:07.110727",
     "status": "Novo",
-    "processado_em": "2026-05-27T18:51:07.110734",
-    "ultimo_visualizador": "Natallia Katiane",
-    "ultimo_visualizado_em": "2026-05-28T13:12:11.450688",
-    "view_history": [
-      {
-        "viewer": "Natallia Katiane",
-        "timestamp": "2026-05-28T13:12:11.450688"
-      }
-    ]
+    "processado_em": "2026-05-27T18:51:07.110734"
   },
   {
     "nome": "Maria Eduarda",
@@ -12481,7 +12473,15 @@
     "id": "a5523a9fcfd0",
     "enviado_em": "2026-05-28T00:22:03.892117",
     "status": "Novo",
-    "processado_em": "2026-05-28T00:22:03.892127"
+    "processado_em": "2026-05-28T00:22:03.892127",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-28T13:13:04.240098",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-28T13:13:04.240098"
+      }
+    ]
   },
   {
     "nome": "Vanessa Lima da Silva",
