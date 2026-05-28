@@ -11181,11 +11181,15 @@
     "status": "Novo",
     "processado_em": "2026-05-26T23:16:40.534312",
     "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-27T10:59:25.254498",
+    "ultimo_visualizado_em": "2026-05-28T14:38:25.735723",
     "view_history": [
       {
         "viewer": "Cecilia",
         "timestamp": "2026-05-27T10:59:25.254498"
+      },
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-05-28T14:38:25.735723"
       }
     ]
   },
@@ -12482,16 +12486,12 @@
     "enviado_em": "2026-05-28T00:22:03.892117",
     "status": "Novo",
     "processado_em": "2026-05-28T00:22:03.892127",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-05-28T14:37:13.649580",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-28T13:13:04.240098",
     "view_history": [
       {
         "viewer": "Natallia Katiane",
         "timestamp": "2026-05-28T13:13:04.240098"
-      },
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-05-28T14:37:13.649580"
       }
     ]
   },
