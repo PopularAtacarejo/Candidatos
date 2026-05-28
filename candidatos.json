@@ -12406,5 +12406,45 @@
     "enviado_em": "2026-05-27T23:28:10.997979",
     "status": "Novo",
     "processado_em": "2026-05-27T23:28:10.997989"
+  },
+  {
+    "nome": "Guilherme Galvão da Silva",
+    "cpf": "131.248.504-32",
+    "telefone": "(82) 99123-2257",
+    "email": "guilhermegs1225@gmail.com",
+    "cep": "57314-140",
+    "cidade": "Arapiraca",
+    "bairro": "Itapoã",
+    "rua": "Rua João Antônio da Silva",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13124850432_Guilherme_Galvão_da_Silva_ASSISTENTE_DE_RH_20260528_002005.pdf",
+    "arquivo_nome": "Currículo_Guilherme_Galvão.pdf",
+    "tamanho_arquivo": 70667,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Martins e Martins LTDA",
+        "funcao": "Operador de Caixa",
+        "data_admissao": "2021-06-06",
+        "data_demissao": "2022-10-27"
+      },
+      {
+        "empresa": "AeC Centro de Contatos S/A",
+        "funcao": "Atendente",
+        "data_admissao": "2023-03-27",
+        "data_demissao": "2025-05-27"
+      },
+      {
+        "empresa": "Pedro Locações LTDA",
+        "funcao": "Assistente de RH",
+        "data_admissao": "2025-12-27",
+        "data_demissao": "2026-04-30"
+      }
+    ],
+    "id": "a65ea6d191e6",
+    "enviado_em": "2026-05-28T00:20:06.864685",
+    "status": "Novo",
+    "processado_em": "2026-05-28T00:20:06.864694"
   }
 ]
