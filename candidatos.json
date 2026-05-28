@@ -12445,7 +12445,15 @@
     "id": "a65ea6d191e6",
     "enviado_em": "2026-05-28T00:20:06.864685",
     "status": "Novo",
-    "processado_em": "2026-05-28T00:20:06.864694"
+    "processado_em": "2026-05-28T00:20:06.864694",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-28T13:13:59.071679",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-28T13:13:59.071679"
+      }
+    ]
   },
   {
     "nome": "Kaique Fernandes braz",
