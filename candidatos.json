@@ -11103,15 +11103,7 @@
     "id": "82e5980b79b3",
     "enviado_em": "2026-05-26T22:38:58.784517",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:38:58.784525",
-    "ultimo_visualizador": "Natallia Katiane",
-    "ultimo_visualizado_em": "2026-05-28T13:11:33.594482",
-    "view_history": [
-      {
-        "viewer": "Natallia Katiane",
-        "timestamp": "2026-05-28T13:11:33.594482"
-      }
-    ]
+    "processado_em": "2026-05-26T22:38:58.784525"
   },
   {
     "nome": "Káthina layanne da Silva Gomes",
@@ -11931,7 +11923,15 @@
     "id": "9515d9914940",
     "enviado_em": "2026-05-27T18:51:07.110727",
     "status": "Novo",
-    "processado_em": "2026-05-27T18:51:07.110734"
+    "processado_em": "2026-05-27T18:51:07.110734",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-28T13:12:11.450688",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-28T13:12:11.450688"
+      }
+    ]
   },
   {
     "nome": "Maria Eduarda",
