@@ -12544,5 +12544,33 @@
     "enviado_em": "2026-05-28T01:39:40.012461",
     "status": "Novo",
     "processado_em": "2026-05-28T01:39:40.012473"
+  },
+  {
+    "nome": "Joseane dos Santos torres",
+    "cpf": "047.600.074-23",
+    "telefone": "(82) 98157-3149",
+    "email": "torresjoseane39@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/04760007423_Joseane_dos_Santos_torres_AUXILIAR_DE_LIMPEZA_20260528_073952.pdf",
+    "arquivo_nome": "inbound9171979366182341303.pdf",
+    "tamanho_arquivo": 199414,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Padaria Rio Branco",
+        "funcao": "Serviço gerais",
+        "data_admissao": "2024-08-06",
+        "data_demissao": "2024-12-18"
+      }
+    ],
+    "id": "73d67e22f573",
+    "enviado_em": "2026-05-28T07:39:54.870875",
+    "status": "Novo",
+    "processado_em": "2026-05-28T07:39:54.870885"
   }
 ]
