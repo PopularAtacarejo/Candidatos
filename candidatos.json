@@ -12446,5 +12446,33 @@
     "enviado_em": "2026-05-28T00:20:06.864685",
     "status": "Novo",
     "processado_em": "2026-05-28T00:20:06.864694"
+  },
+  {
+    "nome": "Kaique Fernandes braz",
+    "cpf": "129.045.164-84",
+    "telefone": "(82) 98192-4677",
+    "email": "fernandesbrazkaique3@gmail.con",
+    "cep": "57312-013",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Professora Terezinha Amorim de Oliveira",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12904516484_Kaique_Fernandes_braz_ASSISTENTE_DE_RH_20260528_002202.pdf",
+    "arquivo_nome": "Currículo Kaique 2026 5 .pdf",
+    "tamanho_arquivo": 135116,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Instituto gerir social",
+        "funcao": "Auxiliar de RH",
+        "data_admissao": "2024-01-27",
+        "data_demissao": "2025-01-27"
+      }
+    ],
+    "id": "a5523a9fcfd0",
+    "enviado_em": "2026-05-28T00:22:03.892117",
+    "status": "Novo",
+    "processado_em": "2026-05-28T00:22:03.892127"
   }
 ]
