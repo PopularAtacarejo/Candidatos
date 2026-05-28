@@ -12691,5 +12691,33 @@
     "enviado_em": "2026-05-28T19:18:42.007988",
     "status": "Novo",
     "processado_em": "2026-05-28T19:18:42.007998"
+  },
+  {
+    "nome": "Mariana Araújo Ferreira",
+    "cpf": "100.250.974-23",
+    "telefone": "(82) 99134-2778",
+    "email": "mariana.1989sabores@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10025097423_Mariana_Araújo_Ferreira_OPERADOR_A_DE_CAIXA_20260528_201349.pdf",
+    "arquivo_nome": "inbound7134492546113673657.pdf",
+    "tamanho_arquivo": 28459,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "atacadão",
+        "funcao": "operadora de caixa",
+        "data_admissao": "2015-05-28",
+        "data_demissao": "2016-05-28"
+      }
+    ],
+    "id": "29d6f83f0d8e",
+    "enviado_em": "2026-05-28T20:13:50.999569",
+    "status": "Novo",
+    "processado_em": "2026-05-28T20:13:50.999575"
   }
 ]
