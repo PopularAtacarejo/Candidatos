@@ -12649,5 +12649,26 @@
     "enviado_em": "2026-05-28T13:43:30.007857",
     "status": "Novo",
     "processado_em": "2026-05-28T13:43:30.007864"
+  },
+  {
+    "nome": "José Edson bezerra dos Santos",
+    "cpf": "155.068.254-71",
+    "telefone": "(82) 98102-8553",
+    "email": "joseedson88email.com@gmail.com",
+    "cep": "57308-750",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Benevaldo Lisboa dos Santos",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15506825471_José_Edson_bezerra_dos_Santos_REPOSITOR_A_20260528_153955.pdf",
+    "arquivo_nome": "inbound5715828678837336793.pdf",
+    "tamanho_arquivo": 32770,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "ad3b0a6d3aac",
+    "enviado_em": "2026-05-28T15:39:57.819609",
+    "status": "Novo",
+    "processado_em": "2026-05-28T15:39:57.819616"
   }
 ]
