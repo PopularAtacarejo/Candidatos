@@ -11103,7 +11103,15 @@
     "id": "82e5980b79b3",
     "enviado_em": "2026-05-26T22:38:58.784517",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:38:58.784525"
+    "processado_em": "2026-05-26T22:38:58.784525",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-28T13:11:33.594482",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-28T13:11:33.594482"
+      }
+    ]
   },
   {
     "nome": "Káthina layanne da Silva Gomes",
@@ -12111,15 +12119,7 @@
     "id": "7abbdb114665",
     "enviado_em": "2026-05-27T21:06:34.624899",
     "status": "Novo",
-    "processado_em": "2026-05-27T21:06:34.624910",
-    "ultimo_visualizador": "Natallia Katiane",
-    "ultimo_visualizado_em": "2026-05-28T13:10:33.853856",
-    "view_history": [
-      {
-        "viewer": "Natallia Katiane",
-        "timestamp": "2026-05-28T13:10:33.853856"
-      }
-    ]
+    "processado_em": "2026-05-27T21:06:34.624910"
   },
   {
     "nome": "Jariel Barbosa Lima",
