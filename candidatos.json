@@ -11103,7 +11103,15 @@
     "id": "82e5980b79b3",
     "enviado_em": "2026-05-26T22:38:58.784517",
     "status": "Novo",
-    "processado_em": "2026-05-26T22:38:58.784525"
+    "processado_em": "2026-05-26T22:38:58.784525",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-29T20:03:42.675893",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-29T20:03:42.675893"
+      }
+    ]
   },
   {
     "nome": "Káthina layanne da Silva Gomes",
