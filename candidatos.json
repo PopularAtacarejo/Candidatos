@@ -12775,6 +12775,14 @@
     "id": "4e261fbfbe98",
     "enviado_em": "2026-05-28T21:02:45.460639",
     "status": "Novo",
-    "processado_em": "2026-05-28T21:02:45.460647"
+    "processado_em": "2026-05-28T21:02:45.460647",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-05-29T19:23:46.666021",
+    "view_history": [
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-05-29T19:23:46.666021"
+      }
+    ]
   }
 ]
