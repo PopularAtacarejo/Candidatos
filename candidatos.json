@@ -12073,7 +12073,15 @@
     "id": "9c18675fc840",
     "enviado_em": "2026-05-27T22:07:14.750641",
     "status": "Novo",
-    "processado_em": "2026-05-27T22:07:14.750649"
+    "processado_em": "2026-05-27T22:07:14.750649",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-01T19:53:25.421714",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-01T19:53:25.421714"
+      }
+    ]
   },
   {
     "nome": "Gleiciane França Santos",
