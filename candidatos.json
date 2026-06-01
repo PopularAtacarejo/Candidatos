@@ -12507,5 +12507,26 @@
     "enviado_em": "2026-05-30T23:31:32.605542",
     "status": "Novo",
     "processado_em": "2026-05-30T23:31:32.605555"
+  },
+  {
+    "nome": "Jeferson Jefry",
+    "cpf": "107.738.464-50",
+    "telefone": "(82) 99915-8412",
+    "email": "djaxelf22@gmail.com",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10773846450_Jeferson_Jefry_AUXILIAR_DE_T.I_20260601_203411.pdf",
+    "arquivo_nome": "OFERTAS FECHA MÊS - 27 A 31.05.pdf",
+    "tamanho_arquivo": 171645,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "1dc84a2af75d",
+    "enviado_em": "2026-06-01T20:34:13.821849",
+    "status": "Novo",
+    "processado_em": "2026-06-01T20:34:13.821859"
   }
 ]
