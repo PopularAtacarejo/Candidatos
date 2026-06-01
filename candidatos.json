@@ -12073,15 +12073,7 @@
     "id": "9c18675fc840",
     "enviado_em": "2026-05-27T22:07:14.750641",
     "status": "Novo",
-    "processado_em": "2026-05-27T22:07:14.750649",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-01T19:53:25.421714",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-01T19:53:25.421714"
-      }
-    ]
+    "processado_em": "2026-05-27T22:07:14.750649"
   },
   {
     "nome": "Gleiciane França Santos",
@@ -12686,7 +12678,15 @@
     "id": "4abe642c81ec",
     "enviado_em": "2026-05-30T19:04:05.735353",
     "status": "Novo",
-    "processado_em": "2026-05-30T19:04:05.735362"
+    "processado_em": "2026-05-30T19:04:05.735362",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-01T19:55:43.835241",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-01T19:55:43.835241"
+      }
+    ]
   },
   {
     "nome": "Claudia Maria dos Santos",
