@@ -12704,5 +12704,39 @@
     "enviado_em": "2026-06-02T15:37:55.316415",
     "status": "Novo",
     "processado_em": "2026-06-02T15:37:55.316423"
+  },
+  {
+    "nome": "Gyovanna Samara Barbosa da Silva",
+    "cpf": "118.468.124-45",
+    "telefone": "(82) 98170-5432",
+    "email": "gyovanna11barbosa@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11846812445_Gyovanna_Samara_Barbosa_da_Silva_ASSISTENTE_DE_RH_20260602_165152.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 219085,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Romanos Barbearia ",
+        "funcao": "Recepcionista/Atendente",
+        "data_admissao": "2024-11-28",
+        "data_demissao": "2004-06-11"
+      },
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2023-04-02",
+        "data_demissao": "2023-08-02"
+      }
+    ],
+    "id": "a9bb5a28d73f",
+    "enviado_em": "2026-06-02T16:51:53.956032",
+    "status": "Novo",
+    "processado_em": "2026-06-02T16:51:53.956041"
   }
 ]
