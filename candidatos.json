@@ -12683,5 +12683,26 @@
     "enviado_em": "2026-06-02T15:25:58.123826",
     "status": "Novo",
     "processado_em": "2026-06-02T15:25:58.123834"
+  },
+  {
+    "nome": "Kauane Vitória dos Santos Cordeiro",
+    "cpf": "148.481.444-42",
+    "telefone": "(82) 9994-1314",
+    "email": "kv99421314@gmail.com",
+    "cep": "57309-066",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Daniel Pedro dos Santos",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14848144442_Kauane_Vitória_dos_Santos_Cordeiro_EMBALADOR_A_20260602_153753.pdf",
+    "arquivo_nome": "Currículo para o primeiro emprego simples.pdf.pdf",
+    "tamanho_arquivo": 74859,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "be3d95f86929",
+    "enviado_em": "2026-06-02T15:37:55.316415",
+    "status": "Novo",
+    "processado_em": "2026-06-02T15:37:55.316423"
   }
 ]
