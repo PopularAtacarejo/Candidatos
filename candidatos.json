@@ -12657,7 +12657,15 @@
     "id": "46447b794e33",
     "enviado_em": "2026-06-02T13:02:39.957270",
     "status": "Novo",
-    "processado_em": "2026-06-02T13:02:39.957277"
+    "processado_em": "2026-06-02T13:02:39.957277",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-02T19:33:04.312010",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-02T19:33:04.312010"
+      }
+    ]
   },
   {
     "nome": "Elayne Maria dos Santos",
@@ -12733,15 +12741,7 @@
     "id": "a9bb5a28d73f",
     "enviado_em": "2026-06-02T16:51:53.956032",
     "status": "Novo",
-    "processado_em": "2026-06-02T16:51:53.956041",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-02T19:32:33.874750",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-02T19:32:33.874750"
-      }
-    ]
+    "processado_em": "2026-06-02T16:51:53.956041"
   },
   {
     "nome": "Anny Gabrielly Pereira de Oliveira Rodrigues",
