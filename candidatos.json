@@ -12499,7 +12499,15 @@
     "id": "1dc84a2af75d",
     "enviado_em": "2026-06-01T20:34:13.821849",
     "status": "Novo",
-    "processado_em": "2026-06-01T20:34:13.821859"
+    "processado_em": "2026-06-01T20:34:13.821859",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-02T11:52:13.752374",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-02T11:52:13.752374"
+      }
+    ]
   },
   {
     "nome": "Carlos Henrique bispo dos Santos",
