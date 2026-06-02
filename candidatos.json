@@ -12890,5 +12890,33 @@
     "enviado_em": "2026-06-02T21:00:55.290413",
     "status": "Novo",
     "processado_em": "2026-06-02T21:00:55.290422"
+  },
+  {
+    "nome": "Emily karolina",
+    "cpf": "093.049.384-22",
+    "telefone": "(82) 99699-5688",
+    "email": "holandaemylekarolina@gmail.com",
+    "cep": "57304-502",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Coronel Vicente Ramos",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09304938422_Emily_karolina_OPERADOR_A_DE_CAIXA_20260602_221113.pdf",
+    "arquivo_nome": "inbound7550108521779192598.pdf",
+    "tamanho_arquivo": 138057,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Clínica una ",
+        "funcao": "Recepcionista ",
+        "data_admissao": "2022-02-23",
+        "data_demissao": "2024-04-18"
+      }
+    ],
+    "id": "4cacb239abf9",
+    "enviado_em": "2026-06-02T22:11:15.557439",
+    "status": "Novo",
+    "processado_em": "2026-06-02T22:11:15.557446"
   }
 ]
