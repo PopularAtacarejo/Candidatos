@@ -12574,7 +12574,15 @@
     "id": "e0b97470fd6f",
     "enviado_em": "2026-06-01T21:14:36.547951",
     "status": "Novo",
-    "processado_em": "2026-06-01T21:14:36.547960"
+    "processado_em": "2026-06-01T21:14:36.547960",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-02T19:38:21.659095",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-02T19:38:21.659095"
+      }
+    ]
   },
   {
     "nome": "José Gustavo Messias dos santos",
