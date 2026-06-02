@@ -12501,7 +12501,7 @@
     "status": "Aprovado",
     "processado_em": "2026-06-01T20:34:13.821859",
     "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-02T19:32:10.644016",
+    "ultimo_visualizado_em": "2026-06-02T19:32:14.625399",
     "view_history": [
       {
         "viewer": "Cecilia",
@@ -12522,6 +12522,10 @@
       {
         "viewer": "Cecilia",
         "timestamp": "2026-06-02T19:32:10.644016"
+      },
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-02T19:32:14.625399"
       }
     ],
     "entrevistador": "",
