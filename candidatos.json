@@ -12501,7 +12501,7 @@
     "status": "Novo",
     "processado_em": "2026-06-01T20:34:13.821859",
     "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-06-02T14:31:31.200521",
+    "ultimo_visualizado_em": "2026-06-02T17:14:13.083118",
     "view_history": [
       {
         "viewer": "Cecilia",
@@ -12514,6 +12514,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-06-02T14:31:31.200521"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-06-02T17:14:13.083118"
       }
     ]
   },
