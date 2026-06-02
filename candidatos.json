@@ -12500,12 +12500,16 @@
     "enviado_em": "2026-06-01T20:34:13.821849",
     "status": "Novo",
     "processado_em": "2026-06-01T20:34:13.821859",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-02T11:52:33.752467",
+    "ultimo_visualizador": "Jeferson",
+    "ultimo_visualizado_em": "2026-06-02T13:17:05.776587",
     "view_history": [
       {
         "viewer": "Cecilia",
         "timestamp": "2026-06-02T11:52:33.752467"
+      },
+      {
+        "viewer": "Jeferson",
+        "timestamp": "2026-06-02T13:17:05.776587"
       }
     ]
   },
