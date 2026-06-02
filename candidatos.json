@@ -12733,7 +12733,15 @@
     "id": "a9bb5a28d73f",
     "enviado_em": "2026-06-02T16:51:53.956032",
     "status": "Novo",
-    "processado_em": "2026-06-02T16:51:53.956041"
+    "processado_em": "2026-06-02T16:51:53.956041",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-02T19:32:33.874750",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-02T19:32:33.874750"
+      }
+    ]
   },
   {
     "nome": "Anny Gabrielly Pereira de Oliveira Rodrigues",
