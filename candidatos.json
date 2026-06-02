@@ -12498,10 +12498,10 @@
     "experiencias": [],
     "id": "1dc84a2af75d",
     "enviado_em": "2026-06-01T20:34:13.821849",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-06-01T20:34:13.821859",
     "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-06-02T17:14:13.083118",
+    "ultimo_visualizado_em": "2026-06-02T14:31:31.200521",
     "view_history": [
       {
         "viewer": "Cecilia",
@@ -12514,12 +12514,13 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-06-02T14:31:31.200521"
-      },
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-06-02T17:14:13.083118"
       }
-    ]
+    ],
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-06-02T17:14:22.095409",
+    "updated_by": "Jeferson"
   },
   {
     "nome": "Carlos Henrique bispo dos Santos",
