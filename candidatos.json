@@ -12732,7 +12732,15 @@
     "id": "a9bb5a28d73f",
     "enviado_em": "2026-06-02T16:51:53.956032",
     "status": "Novo",
-    "processado_em": "2026-06-02T16:51:53.956041"
+    "processado_em": "2026-06-02T16:51:53.956041",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-03T18:37:42.496527",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-03T18:37:42.496527"
+      }
+    ]
   },
   {
     "nome": "Anny Gabrielly Pereira de Oliveira Rodrigues",
@@ -12788,15 +12796,7 @@
     "id": "eec7e417fb55",
     "enviado_em": "2026-06-02T20:10:27.661783",
     "status": "Novo",
-    "processado_em": "2026-06-02T20:10:27.661790",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-03T18:37:30.570902",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-03T18:37:30.570902"
-      }
-    ]
+    "processado_em": "2026-06-02T20:10:27.661790"
   },
   {
     "nome": "Kelli Cristina Nascimento",
