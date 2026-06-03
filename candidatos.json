@@ -12946,5 +12946,33 @@
     "enviado_em": "2026-06-03T16:31:48.742996",
     "status": "Novo",
     "processado_em": "2026-06-03T16:31:48.743007"
+  },
+  {
+    "nome": "Yvlly Nogueira Carvalho Santos",
+    "cpf": "153.484.464-32",
+    "telefone": "(55) 99656-6002",
+    "email": "yvllycarvalhoo@gmail.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15348446432_Yvlly_Nogueira_Carvalho_Santos_BALCONISTA_DE_PADARIA_20260603_163414.pdf",
+    "arquivo_nome": "Currículo Cronológico Branco .pdf",
+    "tamanho_arquivo": 43913,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2026-02-26",
+        "data_demissao": "2026-05-03"
+      }
+    ],
+    "id": "3a72be3a7928",
+    "enviado_em": "2026-06-03T16:34:16.530592",
+    "status": "Novo",
+    "processado_em": "2026-06-03T16:34:16.530623"
   }
 ]
