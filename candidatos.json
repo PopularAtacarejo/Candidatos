@@ -13203,5 +13203,26 @@
     "enviado_em": "2026-06-04T17:54:56.248893",
     "status": "Novo",
     "processado_em": "2026-06-04T17:54:56.248903"
+  },
+  {
+    "nome": "Gabriela Rocha Bispo",
+    "cpf": "119.807.344-61",
+    "telefone": "(82) 99679-4479",
+    "email": "gabrielarocha10072007@gmail.com",
+    "cep": "57313-300",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Macionilo Miguel da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11980734461_Gabriela_Rocha_Bispo_BALCONISTA_DE_PADARIA_20260604_175542.pdf",
+    "arquivo_nome": "curriculo_gabriela.pdf",
+    "tamanho_arquivo": 2366,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "f9d2aa22352b",
+    "enviado_em": "2026-06-04T17:55:44.159400",
+    "status": "Novo",
+    "processado_em": "2026-06-04T17:55:44.159409"
   }
 ]
