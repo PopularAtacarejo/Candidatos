@@ -13196,5 +13196,33 @@
     "enviado_em": "2026-06-04T17:56:30.178380",
     "status": "Novo",
     "processado_em": "2026-06-04T17:56:30.178388"
+  },
+  {
+    "nome": "José Marcos Virgínio da Silva",
+    "cpf": "155.090.034-05",
+    "telefone": "(82) 99635-9153",
+    "email": "josemarcos1402em@gmail.com",
+    "cep": "57309-825",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Geraldo Evaristo da Rocha",
+    "transporte": "Não",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15509003405_José_Marcos_Virgínio_da_Silva_REPOSITOR_DE_FRIOS_20260605_002446.pdf",
+    "arquivo_nome": "inbound2676004689103931155.pdf",
+    "tamanho_arquivo": 47618,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado vieira (informal) ",
+        "funcao": "Repositor de frios, hortifruti, mercearia. ",
+        "data_admissao": "2026-03-18",
+        "data_demissao": "2026-05-18"
+      }
+    ],
+    "id": "5209d76cbb7f",
+    "enviado_em": "2026-06-05T00:24:47.891261",
+    "status": "Novo",
+    "processado_em": "2026-06-05T00:24:47.891269"
   }
 ]
