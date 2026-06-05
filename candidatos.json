@@ -1,54 +1,5 @@
 [
   {
-    "nome": "Lucas Henrique Vieira Gonçalves",
-    "cpf": "126.298.964-71",
-    "telefone": "(82) 99366-4414",
-    "email": "lucashenriquevieiragoncalves@gmail.com",
-    "cep": "57300-970",
-    "cidade": "Arapiraca",
-    "bairro": "Centro",
-    "rua": "Praça Luiz Pereira Lima",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12629896471_Lucas_Henrique_Vieira_Gonçalves_REPOSITOR_A_20260306_184551.pdf",
-    "arquivo_nome": "inbound1804130739906150047.pdf",
-    "tamanho_arquivo": 128148,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "54f79aa3ce54",
-    "enviado_em": "2026-03-06T18:45:52.625472",
-    "status": "Novo",
-    "processado_em": "2026-03-06T18:45:52.625479"
-  },
-  {
-    "nome": "Wesley da silva",
-    "cpf": "130.015.624-47",
-    "telefone": "(82) 98202-6302",
-    "email": "wesleydasilvasilva47@gmail.com",
-    "cep": "57300-030",
-    "cidade": "Arapiraca",
-    "bairro": "Centro",
-    "rua": "Rua Boa Vista",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13001562447_Wesley_da_silva_REPOSITOR_A_20260306_204440.pdf",
-    "arquivo_nome": "inbound316546199123185172.pdf",
-    "tamanho_arquivo": 1130304,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Grupo coringa",
-        "funcao": "Auxiliar de expedição",
-        "data_admissao": "2020-04-08",
-        "data_demissao": "2024-06-07"
-      }
-    ],
-    "id": "26ebae6b699a",
-    "enviado_em": "2026-03-06T20:44:41.971082",
-    "status": "Novo",
-    "processado_em": "2026-03-06T20:44:41.971091"
-  },
-  {
     "nome": "Emilly Ferreira da Silva",
     "cpf": "720.791.164-52",
     "telefone": "(82) 9675-1403",
