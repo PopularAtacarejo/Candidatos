@@ -312,12 +312,13 @@
   {
     "id": "assistente-de-rh",
     "nome": "ASSISTENTE DE RH",
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "requisitos": [],
     "beneficios": [],
     "created_by": "Jeferson",
     "created_at": "2026-05-26T14:41:35.766440",
-    "inserido_em": "2026-05-26T14:41:35.766440"
+    "inserido_em": "2026-05-26T14:41:35.766440",
+    "updated_at": "2026-06-08T10:29:22.634071"
   }
 ]
