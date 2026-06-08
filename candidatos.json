@@ -10820,7 +10820,15 @@
     "id": "5cac456faafd",
     "enviado_em": "2026-05-28T13:43:30.007857",
     "status": "Novo",
-    "processado_em": "2026-05-28T13:43:30.007864"
+    "processado_em": "2026-05-28T13:43:30.007864",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-08T18:23:05.453211",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-08T18:23:05.453211"
+      }
+    ]
   },
   {
     "nome": "José Edson bezerra dos Santos",
@@ -11097,15 +11105,7 @@
     "id": "fa503703c2fe",
     "enviado_em": "2026-06-01T21:07:11.569841",
     "status": "Novo",
-    "processado_em": "2026-06-01T21:07:11.569850",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-08T18:22:31.554883",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-08T18:22:31.554883"
-      }
-    ]
+    "processado_em": "2026-06-01T21:07:11.569850"
   },
   {
     "nome": "Jhonatan ramos rocha",
