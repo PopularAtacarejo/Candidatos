@@ -11795,8 +11795,8 @@
     "enviado_em": "2026-06-01T20:34:13.821849",
     "status": "Aprovado",
     "processado_em": "2026-06-01T20:34:13.821859",
-    "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-06-03T18:29:37.089179",
+    "ultimo_visualizador": "Natallia Katiane",
+    "ultimo_visualizado_em": "2026-06-08T13:35:28.891997",
     "view_history": [
       {
         "viewer": "Cecilia",
@@ -11825,6 +11825,10 @@
       {
         "viewer": "Jeferson",
         "timestamp": "2026-06-03T18:29:37.089179"
+      },
+      {
+        "viewer": "Natallia Katiane",
+        "timestamp": "2026-06-08T13:35:28.891997"
       }
     ],
     "entrevistador": "",
