@@ -11887,5 +11887,33 @@
     "enviado_em": "2026-06-08T13:37:12.914652",
     "status": "Novo",
     "processado_em": "2026-06-08T13:37:12.914661"
+  },
+  {
+    "nome": "Gilson Soares Santos",
+    "cpf": "022.760.604-33",
+    "telefone": "(13) 99721-5791",
+    "email": "gilson190976@gmail.com",
+    "cep": "57303-040",
+    "cidade": "Arapiraca",
+    "bairro": "Verdes Campos",
+    "rua": "Rua Salvelina Maria da Conceição",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/02276060433_Gilson_Soares_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260608_222657.pdf",
+    "arquivo_nome": "inbound4106921273381182257.pdf",
+    "tamanho_arquivo": 42413,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Extra supermercado ",
+        "funcao": "Operador de loja",
+        "data_admissao": "2013-09-02",
+        "data_demissao": "2022-05-19"
+      }
+    ],
+    "id": "35206379d6a2",
+    "enviado_em": "2026-06-08T22:26:59.188437",
+    "status": "Novo",
+    "processado_em": "2026-06-08T22:26:59.188443"
   }
 ]
