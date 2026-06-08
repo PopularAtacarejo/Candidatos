@@ -8524,7 +8524,15 @@
     "id": "b74d7970812d",
     "enviado_em": "2026-05-20T00:18:36.899275",
     "status": "Novo",
-    "processado_em": "2026-05-20T00:18:36.899283"
+    "processado_em": "2026-05-20T00:18:36.899283",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-08T17:29:20.434486",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-08T17:29:20.434486"
+      }
+    ]
   },
   {
     "nome": "Ismenia Pinheiro",
@@ -10569,15 +10577,7 @@
     "id": "863f06d058bf",
     "enviado_em": "2026-05-27T23:28:10.997979",
     "status": "Novo",
-    "processado_em": "2026-05-27T23:28:10.997989",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-08T17:24:38.800674",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-08T17:24:38.800674"
-      }
-    ]
+    "processado_em": "2026-05-27T23:28:10.997989"
   },
   {
     "nome": "Guilherme Galvão da Silva",
