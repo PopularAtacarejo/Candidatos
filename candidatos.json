@@ -10569,7 +10569,15 @@
     "id": "863f06d058bf",
     "enviado_em": "2026-05-27T23:28:10.997979",
     "status": "Novo",
-    "processado_em": "2026-05-27T23:28:10.997989"
+    "processado_em": "2026-05-27T23:28:10.997989",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-08T17:24:38.800674",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-08T17:24:38.800674"
+      }
+    ]
   },
   {
     "nome": "Guilherme Galvão da Silva",
@@ -11938,15 +11946,7 @@
     "id": "b3257db81be5",
     "enviado_em": "2026-06-07T02:21:12.051259",
     "status": "Novo",
-    "processado_em": "2026-06-07T02:21:12.051267",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-08T17:24:20.677534",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-08T17:24:20.677534"
-      }
-    ]
+    "processado_em": "2026-06-07T02:21:12.051267"
   },
   {
     "nome": "Natallia Katiane Alves da Silva",
