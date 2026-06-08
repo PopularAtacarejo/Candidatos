@@ -11938,7 +11938,15 @@
     "id": "b3257db81be5",
     "enviado_em": "2026-06-07T02:21:12.051259",
     "status": "Novo",
-    "processado_em": "2026-06-07T02:21:12.051267"
+    "processado_em": "2026-06-07T02:21:12.051267",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-08T17:24:20.677534",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-08T17:24:20.677534"
+      }
+    ]
   },
   {
     "nome": "Natallia Katiane Alves da Silva",
