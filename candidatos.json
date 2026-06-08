@@ -11097,7 +11097,15 @@
     "id": "fa503703c2fe",
     "enviado_em": "2026-06-01T21:07:11.569841",
     "status": "Novo",
-    "processado_em": "2026-06-01T21:07:11.569850"
+    "processado_em": "2026-06-01T21:07:11.569850",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-08T18:22:31.554883",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-08T18:22:31.554883"
+      }
+    ]
   },
   {
     "nome": "Jhonatan ramos rocha",
