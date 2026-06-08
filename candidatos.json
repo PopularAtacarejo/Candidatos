@@ -8152,7 +8152,15 @@
     "id": "449b11ad2628",
     "enviado_em": "2026-05-18T20:05:11.173389",
     "status": "Novo",
-    "processado_em": "2026-05-18T20:05:11.173396"
+    "processado_em": "2026-05-18T20:05:11.173396",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-08T17:45:08.099801",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-08T17:45:08.099801"
+      }
+    ]
   },
   {
     "nome": "Glória Teresa De Freitas Belo",
