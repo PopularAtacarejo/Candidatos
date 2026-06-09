@@ -11846,5 +11846,39 @@
     "enviado_em": "2026-06-09T17:43:07.808571",
     "status": "Novo",
     "processado_em": "2026-06-09T17:43:07.808581"
+  },
+  {
+    "nome": "Vitorya vyvian Silva Albuquerque",
+    "cpf": "148.071.514-01",
+    "telefone": "(82) 99977-2353",
+    "email": "albuquerquevitorya7@gmail.com",
+    "cep": "57302-200",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Antônio Feliciano",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14807151401_Vitorya_vyvian_Silva_Albuquerque_BALCONISTA_DE_PADARIA_20260609_182054.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 559384,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Sodiê doces (Sp)",
+        "funcao": "Balconista ",
+        "data_admissao": "2019-07-09",
+        "data_demissao": "2020-04-09"
+      },
+      {
+        "empresa": "Griletto (Sp) ",
+        "funcao": "Atendente ",
+        "data_admissao": "2020-12-09",
+        "data_demissao": "2021-11-09"
+      }
+    ],
+    "id": "e33b88f6fe30",
+    "enviado_em": "2026-06-09T18:20:56.611934",
+    "status": "Novo",
+    "processado_em": "2026-06-09T18:20:56.611945"
   }
 ]
