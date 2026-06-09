@@ -11790,5 +11790,33 @@
     "enviado_em": "2026-06-09T06:02:56.929140",
     "status": "Novo",
     "processado_em": "2026-06-09T06:02:56.929147"
+  },
+  {
+    "nome": "José Matheus Pereira Beltrão",
+    "cpf": "151.110.394-90",
+    "telefone": "(82) 98225-9403",
+    "email": "gabriellukcas94@gmail.com",
+    "cep": "57312-230",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua da Liberdade",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15111039490_José_Matheus_Pereira_Beltrão_REPOSITOR_A_20260609_142534.pdf",
+    "arquivo_nome": "inbound4683621060099977278.pdf",
+    "tamanho_arquivo": 2593,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente ",
+        "data_admissao": "2025-02-01",
+        "data_demissao": "2026-06-30"
+      }
+    ],
+    "id": "412cd0382e06",
+    "enviado_em": "2026-06-09T14:25:36.158854",
+    "status": "Novo",
+    "processado_em": "2026-06-09T14:25:36.158864"
   }
 ]
