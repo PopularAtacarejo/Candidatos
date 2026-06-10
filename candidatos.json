@@ -11796,5 +11796,33 @@
     "enviado_em": "2026-06-10T01:45:41.403655",
     "status": "Novo",
     "processado_em": "2026-06-10T01:45:41.403665"
+  },
+  {
+    "nome": "Alberto Ferreira",
+    "cpf": "051.340.114-86",
+    "telefone": "(82) 99930-2881",
+    "email": "albertooh.ferreir@gmail.com",
+    "cep": "57315-766",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Matilde Barbosa Paulino",
+    "transporte": "Não",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05134011486_Alberto_Ferreira_AUX._DE_PREVENÇÃO_E_PERDAS_20260610_154005.pdf",
+    "arquivo_nome": "inbound1681250186543984244.pdf",
+    "tamanho_arquivo": 170192,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Grupo tio Vieira ",
+        "funcao": "Conferente de carga ",
+        "data_admissao": "2007-06-01",
+        "data_demissao": "2025-11-19"
+      }
+    ],
+    "id": "3e03fe08e7c2",
+    "enviado_em": "2026-06-10T15:40:07.513589",
+    "status": "Novo",
+    "processado_em": "2026-06-10T15:40:07.513599"
   }
 ]
