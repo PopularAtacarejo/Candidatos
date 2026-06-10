@@ -11656,7 +11656,15 @@
     "id": "5e77ce87eae0",
     "enviado_em": "2026-06-09T06:02:56.929140",
     "status": "Novo",
-    "processado_em": "2026-06-09T06:02:56.929147"
+    "processado_em": "2026-06-09T06:02:56.929147",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-10T20:44:34.490499",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-10T20:44:34.490499"
+      }
+    ]
   },
   {
     "nome": "José Matheus Pereira Beltrão",
