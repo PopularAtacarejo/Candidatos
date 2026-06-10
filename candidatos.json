@@ -11845,5 +11845,33 @@
     "enviado_em": "2026-06-09T22:07:46.887755",
     "status": "Novo",
     "processado_em": "2026-06-09T22:07:46.887765"
+  },
+  {
+    "nome": "Eloyne Vitória Silva Santos",
+    "cpf": "174.641.084-18",
+    "telefone": "(82) 99916-5783",
+    "email": "vitoriaeloyne49@gmail.com",
+    "cep": "57310-000",
+    "cidade": "Arapiraca ",
+    "bairro": "Capiatã ",
+    "rua": "Maria Vicência de Albuquerque ",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17464108418_Eloyne_Vitória_Silva_Santos_AUXILIAR_DE_LIMPEZA_20260610_014539.pdf",
+    "arquivo_nome": "inbound4203577163774067755.pdf",
+    "tamanho_arquivo": 340332,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bella massa pizzaria",
+        "funcao": "Auxiliar de cozinha, atendente de mesa, atendente de delivery e clientes online e operadora de caixa ",
+        "data_admissao": "2026-03-11",
+        "data_demissao": "2026-05-22"
+      }
+    ],
+    "id": "27320f04e621",
+    "enviado_em": "2026-06-10T01:45:41.403655",
+    "status": "Novo",
+    "processado_em": "2026-06-10T01:45:41.403665"
   }
 ]
