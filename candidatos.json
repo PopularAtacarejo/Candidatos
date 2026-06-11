@@ -11659,5 +11659,33 @@
     "enviado_em": "2026-06-10T23:52:05.437371",
     "status": "Novo",
     "processado_em": "2026-06-10T23:52:05.437381"
+  },
+  {
+    "nome": "Clara Eduarda Bernardo da Silva dos Santos",
+    "cpf": "166.489.744-51",
+    "telefone": "(82) 99644-6503",
+    "email": "claraeduardabernardosilva2013@gmail.com",
+    "cep": "57308-820",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua José Caetano Neto",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16648974451_Clara_Eduarda_Bernardo_da_Silva_dos_Santos_BALCONISTA_DE_PADARIA_20260611_024742.pdf",
+    "arquivo_nome": "inbound57207652116006544.pdf",
+    "tamanho_arquivo": 36233,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mix Mateus",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2026-02-10",
+        "data_demissao": "2026-03-05"
+      }
+    ],
+    "id": "3c97503d28f1",
+    "enviado_em": "2026-06-11T02:47:43.901952",
+    "status": "Novo",
+    "processado_em": "2026-06-11T02:47:43.901960"
   }
 ]
