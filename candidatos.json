@@ -11490,7 +11490,15 @@
     "id": "e2ffb7cd03fa",
     "enviado_em": "2026-06-09T17:43:07.808571",
     "status": "Novo",
-    "processado_em": "2026-06-09T17:43:07.808581"
+    "processado_em": "2026-06-09T17:43:07.808581",
+    "ultimo_visualizador": "Cecilia",
+    "ultimo_visualizado_em": "2026-06-12T16:51:28.675955",
+    "view_history": [
+      {
+        "viewer": "Cecilia",
+        "timestamp": "2026-06-12T16:51:28.675955"
+      }
+    ]
   },
   {
     "nome": "Vitorya vyvian Silva Albuquerque",
@@ -11545,15 +11553,7 @@
     "id": "1dab3be37996",
     "enviado_em": "2026-06-09T22:07:46.887755",
     "status": "Novo",
-    "processado_em": "2026-06-09T22:07:46.887765",
-    "ultimo_visualizador": "Cecilia",
-    "ultimo_visualizado_em": "2026-06-12T16:50:37.341628",
-    "view_history": [
-      {
-        "viewer": "Cecilia",
-        "timestamp": "2026-06-12T16:50:37.341628"
-      }
-    ]
+    "processado_em": "2026-06-09T22:07:46.887765"
   },
   {
     "nome": "Eloyne Vitória Silva Santos",
