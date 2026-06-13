@@ -11662,5 +11662,33 @@
     "enviado_em": "2026-06-11T11:57:50.824402",
     "status": "Novo",
     "processado_em": "2026-06-11T11:57:50.824410"
+  },
+  {
+    "nome": "Anna Clara Caetano de Melo",
+    "cpf": "083.765.354-12",
+    "telefone": "(82) 99102-6996",
+    "email": "kakacaetano2020@gmail.com",
+    "cep": "57315-748",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua José Otávio de Oliveira",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08376535412_Anna_Clara_Caetano_de_Melo_AUX._DE_ESTOQUE_20260613_015808.pdf",
+    "arquivo_nome": "CURRICULO.pdf",
+    "tamanho_arquivo": 1212658,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec ",
+        "funcao": "Operadora Call Center",
+        "data_admissao": "2024-10-01",
+        "data_demissao": "2025-08-01"
+      }
+    ],
+    "id": "acfc2a801dc1",
+    "enviado_em": "2026-06-13T01:58:10.172483",
+    "status": "Novo",
+    "processado_em": "2026-06-13T01:58:10.172492"
   }
 ]
