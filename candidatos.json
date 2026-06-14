@@ -11655,5 +11655,26 @@
     "enviado_em": "2026-06-14T03:43:52.939100",
     "status": "Novo",
     "processado_em": "2026-06-14T03:43:52.939107"
+  },
+  {
+    "nome": "Maria Sofya Felix de Farias",
+    "cpf": "152.117.404-08",
+    "telefone": "(82) 98780-2589",
+    "email": "sofyamaria26@gmail.com",
+    "cep": "57305-864",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Pedro Álvares Cabral",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15211740408_Maria_Sofya_Felix_de_Farias_BALCONISTA_DE_PADARIA_20260614_152347.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 172811,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "821c2f45a80b",
+    "enviado_em": "2026-06-14T15:23:49.253058",
+    "status": "Novo",
+    "processado_em": "2026-06-14T15:23:49.253068"
   }
 ]
