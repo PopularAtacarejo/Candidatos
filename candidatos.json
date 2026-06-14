@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Douglas Santos Silva",
-    "cpf": "122.036.194-14",
-    "telefone": "(82) 99641-6562",
-    "email": "doguinhast97@gmail.com",
-    "cep": "57304-465",
-    "cidade": "Arapiraca",
-    "bairro": "Cacimbas",
-    "rua": "Rua Santa Catarina",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12203619414_Douglas_Santos_Silva_REPOSITOR_A_20260316_142626.pdf",
-    "arquivo_nome": "Douglas Santos Silva.pdf",
-    "tamanho_arquivo": 77276,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Carajas",
-        "funcao": "Repositor",
-        "data_admissao": "2023-01-16",
-        "data_demissao": "2025-02-20"
-      }
-    ],
-    "id": "b464d998e1c5",
-    "enviado_em": "2026-03-16T14:26:28.090166",
-    "status": "Novo",
-    "processado_em": "2026-03-16T14:26:28.090174"
-  },
-  {
     "nome": "Fernanda Thays silva Tavares",
     "cpf": "139.711.134-86",
     "telefone": "(55) 82991-2809",
