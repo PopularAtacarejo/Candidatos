@@ -11662,5 +11662,26 @@
     "enviado_em": "2026-06-13T01:58:10.172483",
     "status": "Novo",
     "processado_em": "2026-06-13T01:58:10.172492"
+  },
+  {
+    "nome": "sarah ferreira dos Anjos",
+    "cpf": "080.555.045-39",
+    "telefone": "(82) 99630-5188",
+    "email": "anjosarinha03@gmail.com",
+    "cep": "57312-530",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua José Cloves Resende de Barros",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08055504539_sarah_ferreira_dos_Anjos_REPOSITOR_A_20260614_034351.pdf",
+    "arquivo_nome": "inbound1661653801303377265.pdf",
+    "tamanho_arquivo": 89313,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "15f07d33f6d4",
+    "enviado_em": "2026-06-14T03:43:52.939100",
+    "status": "Novo",
+    "processado_em": "2026-06-14T03:43:52.939107"
   }
 ]
