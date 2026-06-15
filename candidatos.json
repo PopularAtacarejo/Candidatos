@@ -11615,5 +11615,33 @@
     "enviado_em": "2026-06-15T16:57:28.464660",
     "status": "Novo",
     "processado_em": "2026-06-15T16:57:28.464668"
+  },
+  {
+    "nome": "Camyle Beatriz da Silva Tavares",
+    "cpf": "117.088.114-94",
+    "telefone": "(82) 99805-8840",
+    "email": "camyletavares741@gmail.com",
+    "cep": "57315-720",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Claudeci Gregório da Silva",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11708811494_Camyle_Beatriz_da_Silva_Tavares_EMBALADOR_A_20260615_211541.pdf",
+    "arquivo_nome": "inbound2199431293474878596.pdf",
+    "tamanho_arquivo": 113780,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Farmácia permanente ",
+        "funcao": "Operador de caixa, embalador, repositor ",
+        "data_admissao": "2023-01-29",
+        "data_demissao": "2025-05-19"
+      }
+    ],
+    "id": "60aa0dc0589b",
+    "enviado_em": "2026-06-15T21:15:43.035681",
+    "status": "Novo",
+    "processado_em": "2026-06-15T21:15:43.035689"
   }
 ]
