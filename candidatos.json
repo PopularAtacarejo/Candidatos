@@ -11517,5 +11517,33 @@
     "enviado_em": "2026-06-15T02:08:54.806071",
     "status": "Novo",
     "processado_em": "2026-06-15T02:08:54.806093"
+  },
+  {
+    "nome": "Maria Vitória da Silva",
+    "cpf": "720.109.064-03",
+    "telefone": "(82) 98147-1902",
+    "email": "mv965509@gmail.com",
+    "cep": "57325-00_",
+    "cidade": "Coité do Nóia",
+    "bairro": "Centro ",
+    "rua": "Rua projetada 8 ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/72010906403_Maria_Vitória_da_Silva_BALCONISTA_DE_PADARIA_20260615_145158.pdf",
+    "arquivo_nome": "inbound8298533087829360794.pdf",
+    "tamanho_arquivo": 15665,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Minimercado jardim vera cruz sp",
+        "funcao": "Atendente ",
+        "data_admissao": "2022-06-06",
+        "data_demissao": "2023-10-10"
+      }
+    ],
+    "id": "6c3d82e386be",
+    "enviado_em": "2026-06-15T14:52:00.552152",
+    "status": "Novo",
+    "processado_em": "2026-06-15T14:52:00.552163"
   }
 ]
