@@ -11523,7 +11523,15 @@
     "id": "64db102e72f9",
     "enviado_em": "2026-06-15T16:57:28.464660",
     "status": "Novo",
-    "processado_em": "2026-06-15T16:57:28.464668"
+    "processado_em": "2026-06-15T16:57:28.464668",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-16T20:31:02.321223",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-16T20:31:02.321223"
+      }
+    ]
   },
   {
     "nome": "Camyle Beatriz da Silva Tavares",
@@ -11579,15 +11587,7 @@
     "id": "bf226f7d3f0f",
     "enviado_em": "2026-06-15T22:52:23.187527",
     "status": "Novo",
-    "processado_em": "2026-06-15T22:52:23.187538",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-16T20:29:12.897940",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-16T20:29:12.897940"
-      }
-    ]
+    "processado_em": "2026-06-15T22:52:23.187538"
   },
   {
     "nome": "Maria Aparecida ferreira dos Santos",
