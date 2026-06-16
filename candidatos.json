@@ -11671,5 +11671,33 @@
     "enviado_em": "2026-06-15T22:59:31.347691",
     "status": "Novo",
     "processado_em": "2026-06-15T22:59:31.347700"
+  },
+  {
+    "nome": "Alice Santos de Lucena",
+    "cpf": "130.363.224-18",
+    "telefone": "(82) 98708-6825",
+    "email": "alicesantoslucenaa@gmail.com",
+    "cep": "57318-10_",
+    "cidade": "Arapiraca",
+    "bairro": "Cangandu",
+    "rua": "Cangandu de cima",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13036322418_Alice_Santos_de_Lucena_AUX._DE_PREVENÇÃO_E_PERDAS_20260616_121046.pdf",
+    "arquivo_nome": "Alice_Santos_de_Lucena.pdf",
+    "tamanho_arquivo": 117509,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Esparta Seriço",
+        "funcao": "Agente de Segurança",
+        "data_admissao": "2023-07-16",
+        "data_demissao": "2026-04-30"
+      }
+    ],
+    "id": "60e027a52d71",
+    "enviado_em": "2026-06-16T12:10:48.010471",
+    "status": "Novo",
+    "processado_em": "2026-06-16T12:10:48.010481"
   }
 ]
