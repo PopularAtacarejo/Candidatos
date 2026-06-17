@@ -11667,5 +11667,26 @@
     "enviado_em": "2026-06-17T03:41:58.679268",
     "status": "Novo",
     "processado_em": "2026-06-17T03:41:58.679280"
+  },
+  {
+    "nome": "Maria rose da Silva Santos",
+    "cpf": "114.793.214-00",
+    "telefone": "(82) 98113-9001",
+    "email": "rosesilvasantos071@gmail.com",
+    "cep": "57301-160",
+    "cidade": "Arapiraca",
+    "bairro": "Ouro Preto",
+    "rua": "Rua Manoel Caetano de Souza",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11479321400_Maria_rose_da_Silva_Santos_BALCONISTA_DE_PADARIA_20260617_113938.pdf",
+    "arquivo_nome": "inbound560983948021956560.pdf",
+    "tamanho_arquivo": 703485,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c7da2472261f",
+    "enviado_em": "2026-06-17T11:39:40.452987",
+    "status": "Novo",
+    "processado_em": "2026-06-17T11:39:40.452993"
   }
 ]
