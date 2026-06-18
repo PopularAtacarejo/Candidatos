@@ -11624,5 +11624,26 @@
     "enviado_em": "2026-06-18T18:13:53.648204",
     "status": "Novo",
     "processado_em": "2026-06-18T18:13:53.648211"
+  },
+  {
+    "nome": "Eduardo Matias",
+    "cpf": "118.836.834-67",
+    "telefone": "(82) 99830-7891",
+    "email": "em074379@gmail.com",
+    "cep": "57313-705",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Aderval Inácio da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11883683467_Eduardo_Matias_REPOSITOR_A_20260618_212253.pdf",
+    "arquivo_nome": "inbound8383173464059255368.pdf",
+    "tamanho_arquivo": 25974,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "217486e1ac9c",
+    "enviado_em": "2026-06-18T21:22:54.667073",
+    "status": "Novo",
+    "processado_em": "2026-06-18T21:22:54.667082"
   }
 ]
