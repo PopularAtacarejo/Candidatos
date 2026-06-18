@@ -11590,5 +11590,39 @@
     "enviado_em": "2026-06-18T01:49:30.021279",
     "status": "Novo",
     "processado_em": "2026-06-18T01:49:30.021288"
+  },
+  {
+    "nome": "Gabriel Gomes",
+    "cpf": "118.606.714-46",
+    "telefone": "(82) 99334-3886",
+    "email": "gomesbr98368@gmail.com",
+    "cep": "57304-562",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Manoel Leal",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11860671446_Gabriel_Gomes_EMBALADOR_A_20260618_181351.pdf",
+    "arquivo_nome": "curriculum (3).pdf",
+    "tamanho_arquivo": 197136,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Radar Jeep/ram ",
+        "funcao": "Auxiliar administrativo ",
+        "data_admissao": "2025-04-18",
+        "data_demissao": "2026-04-16"
+      },
+      {
+        "empresa": "Belgo cercas ",
+        "funcao": "Estoquista a",
+        "data_admissao": "2024-05-18",
+        "data_demissao": "2024-12-23"
+      }
+    ],
+    "id": "5af6b44aa69b",
+    "enviado_em": "2026-06-18T18:13:53.648204",
+    "status": "Novo",
+    "processado_em": "2026-06-18T18:13:53.648211"
   }
 ]
