@@ -11653,5 +11653,26 @@
     "enviado_em": "2026-06-17T18:39:20.468305",
     "status": "Novo",
     "processado_em": "2026-06-17T18:39:20.468313"
+  },
+  {
+    "nome": "Maria Lívia Rodrigues da silva",
+    "cpf": "157.337.614-07",
+    "telefone": "(82) 99676-8601",
+    "email": "liviaaclair9@gmail.com",
+    "cep": "57301-718",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz II",
+    "rua": "Rua Carlindo Olindino Pereira",
+    "transporte": "Não",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15733761407_Maria_Lívia_Rodrigues_da_silva_OPERADOR_DE_SUPERMERCADO_20260618_014928.pdf",
+    "arquivo_nome": "Curriculo_Jovem_Aprendiz_Maria_Livia.pdf",
+    "tamanho_arquivo": 2306,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "262e67fa1c16",
+    "enviado_em": "2026-06-18T01:49:30.021279",
+    "status": "Novo",
+    "processado_em": "2026-06-18T01:49:30.021288"
   }
 ]
