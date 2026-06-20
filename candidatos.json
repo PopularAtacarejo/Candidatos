@@ -11673,5 +11673,39 @@
     "enviado_em": "2026-06-18T23:43:15.948709",
     "status": "Novo",
     "processado_em": "2026-06-18T23:43:15.948719"
+  },
+  {
+    "nome": "Camile Cristine da Silva",
+    "cpf": "097.582.344-20",
+    "telefone": "(82) 99322-3505",
+    "email": "camiletheohiago@gmail.com",
+    "cep": "57315-730",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Manoel Barbosa Sobrinho",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09758234420_Camile_Cristine_da_Silva_OPERADOR_A_DE_CAIXA_20260620_134004.pdf",
+    "arquivo_nome": "curriculum DOC-20260610-WA0378..pdf",
+    "tamanho_arquivo": 47163,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "MM2 SUPERMERCADO LTDA",
+        "funcao": "SUB ENCARREGADO (A)",
+        "data_admissao": "2022-09-22",
+        "data_demissao": "2024-01-08"
+      },
+      {
+        "empresa": "E.R.DE CASTRO& CIA LTDA",
+        "funcao": "OPERADOR (A) CAIXA",
+        "data_admissao": "2024-12-13",
+        "data_demissao": "2026-02-18"
+      }
+    ],
+    "id": "130abf06cc82",
+    "enviado_em": "2026-06-20T13:40:05.635036",
+    "status": "Novo",
+    "processado_em": "2026-06-20T13:40:05.635048"
   }
 ]
