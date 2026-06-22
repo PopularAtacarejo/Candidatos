@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Daniel Rocha da Silva",
-    "cpf": "185.001.164-80",
-    "telefone": "(82) 99944-8860",
-    "email": "danielrocha079d@gmail.com",
-    "cep": "57310-170",
-    "cidade": "Arapiraca",
-    "bairro": "Capiatã",
-    "rua": "Rua Teodoro Pereira",
-    "transporte": "Não",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18500116480_Daniel_Rocha_da_Silva_REPOSITOR_A_20260324_184100.pdf",
-    "arquivo_nome": "inbound8169836894935250717.pdf",
-    "tamanho_arquivo": 86613,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "São Luiz",
-        "funcao": "Repositor de hort frut (estagiário)",
-        "data_admissao": "2025-04-14",
-        "data_demissao": "2025-12-31"
-      }
-    ],
-    "id": "3e325f5a41bf",
-    "enviado_em": "2026-03-24T18:41:01.554647",
-    "status": "Novo",
-    "processado_em": "2026-03-24T18:41:01.554653"
-  },
-  {
     "nome": "Fernanda Thays silva Tavares",
     "cpf": "139.711.134-86",
     "telefone": "(82) 99128-0931",
