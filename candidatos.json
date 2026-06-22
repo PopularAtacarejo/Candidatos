@@ -11448,7 +11448,15 @@
     "id": "5af6b44aa69b",
     "enviado_em": "2026-06-18T18:13:53.648204",
     "status": "Novo",
-    "processado_em": "2026-06-18T18:13:53.648211"
+    "processado_em": "2026-06-18T18:13:53.648211",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-22T21:10:16.520655",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-22T21:10:16.520655"
+      }
+    ]
   },
   {
     "nome": "Eduardo Matias",
@@ -11617,15 +11625,11 @@
     "status": "Novo",
     "processado_em": "2026-06-22T01:19:55.799569",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-22T21:09:04.037067",
+    "ultimo_visualizado_em": "2026-06-22T21:08:56.703704",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-06-22T21:08:56.703704"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-22T21:09:04.037067"
       }
     ]
   },
