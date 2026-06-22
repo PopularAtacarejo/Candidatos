@@ -11448,15 +11448,7 @@
     "id": "5af6b44aa69b",
     "enviado_em": "2026-06-18T18:13:53.648204",
     "status": "Novo",
-    "processado_em": "2026-06-18T18:13:53.648211",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-22T21:10:20.308728",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-22T21:10:20.308728"
-      }
-    ]
+    "processado_em": "2026-06-18T18:13:53.648211"
   },
   {
     "nome": "Eduardo Matias",
@@ -11595,7 +11587,15 @@
     "id": "bb3b90f313c4",
     "enviado_em": "2026-06-21T21:41:20.306885",
     "status": "Novo",
-    "processado_em": "2026-06-21T21:41:20.306893"
+    "processado_em": "2026-06-21T21:41:20.306893",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-22T21:10:53.876851",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-22T21:10:53.876851"
+      }
+    ]
   },
   {
     "nome": "Pedro Henrique da Silva Santos",
