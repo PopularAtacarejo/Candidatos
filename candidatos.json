@@ -11509,7 +11509,15 @@
     "id": "e4c6cd32197c",
     "enviado_em": "2026-06-25T14:46:18.604373",
     "status": "Novo",
-    "processado_em": "2026-06-25T14:46:18.604381"
+    "processado_em": "2026-06-25T14:46:18.604381",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-25T19:04:56.283466",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-25T19:04:56.283466"
+      }
+    ]
   },
   {
     "nome": "Graciele Maria Dos Santos",
