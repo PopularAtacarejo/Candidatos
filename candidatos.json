@@ -11566,5 +11566,33 @@
     "enviado_em": "2026-06-25T14:46:18.604373",
     "status": "Novo",
     "processado_em": "2026-06-25T14:46:18.604381"
+  },
+  {
+    "nome": "Graciele Maria Dos Santos",
+    "cpf": "120.942.844-09",
+    "telefone": "(82) 99651-0921",
+    "email": "santosgraciele993@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12094284409_Graciele_Maria_Dos_Santos_BALCONISTA_DE_PADARIA_20260625_152839.pdf",
+    "arquivo_nome": "inbound332312937834131728.pdf",
+    "tamanho_arquivo": 75880,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jomart ",
+        "funcao": "Balconista de padaria ",
+        "data_admissao": "2024-01-02",
+        "data_demissao": "2026-02-19"
+      }
+    ],
+    "id": "2de441c40e34",
+    "enviado_em": "2026-06-25T15:28:41.467083",
+    "status": "Novo",
+    "processado_em": "2026-06-25T15:28:41.467090"
   }
 ]
