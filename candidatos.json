@@ -11469,7 +11469,15 @@
     "id": "217486e1ac9c",
     "enviado_em": "2026-06-18T21:22:54.667073",
     "status": "Novo",
-    "processado_em": "2026-06-18T21:22:54.667082"
+    "processado_em": "2026-06-18T21:22:54.667082",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-25T10:07:29.960527",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-25T10:07:29.960527"
+      }
+    ]
   },
   {
     "nome": "Maria de Fátima Guedes da Silva",
