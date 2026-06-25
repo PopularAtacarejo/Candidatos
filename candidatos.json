@@ -11481,15 +11481,7 @@
     "id": "8ee4d5fb5ee2",
     "enviado_em": "2026-06-25T12:38:52.803868",
     "status": "Novo",
-    "processado_em": "2026-06-25T12:38:52.803877",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-25T18:38:18.387766",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-25T18:38:18.387766"
-      }
-    ]
+    "processado_em": "2026-06-25T12:38:52.803877"
   },
   {
     "nome": "Thiago Victor Lima da Silva",
@@ -11601,7 +11593,15 @@
     "id": "24f0b49e7103",
     "enviado_em": "2026-06-25T17:17:24.835219",
     "status": "Novo",
-    "processado_em": "2026-06-25T17:17:24.835230"
+    "processado_em": "2026-06-25T17:17:24.835230",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-25T18:38:55.353437",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-25T18:38:55.353437"
+      }
+    ]
   },
   {
     "nome": "Claudemir Barbosa da Silva Júnior",
