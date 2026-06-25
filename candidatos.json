@@ -11524,5 +11524,33 @@
     "enviado_em": "2026-06-25T21:01:37.331916",
     "status": "Novo",
     "processado_em": "2026-06-25T21:01:37.331928"
+  },
+  {
+    "nome": "Leticia Dos Santos costa",
+    "cpf": "121.223.394-89",
+    "telefone": "(82) 98737-0598",
+    "email": "leticiadossantos408@gmail.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca ",
+    "bairro": "Cangandu ",
+    "rua": "Cangandu ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12122339489_Leticia_Dos_Santos_costa_BALCONISTA_DE_PADARIA_20260625_230107.pdf",
+    "arquivo_nome": "inbound767920391661879046.pdf",
+    "tamanho_arquivo": 149670,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Panificação forene",
+        "funcao": "Balconista ",
+        "data_admissao": "2016-04-01",
+        "data_demissao": "2019-01-31"
+      }
+    ],
+    "id": "beb48aae2cbf",
+    "enviado_em": "2026-06-25T23:01:09.697671",
+    "status": "Novo",
+    "processado_em": "2026-06-25T23:01:09.697681"
   }
 ]
