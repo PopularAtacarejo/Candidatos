@@ -11538,5 +11538,33 @@
     "enviado_em": "2026-06-25T12:38:52.803868",
     "status": "Novo",
     "processado_em": "2026-06-25T12:38:52.803877"
+  },
+  {
+    "nome": "Thiago Victor Lima da Silva",
+    "cpf": "119.813.364-35",
+    "telefone": "(82) 99638-5446",
+    "email": "thiago.victor.contato@gmail.com",
+    "cep": "57303-042",
+    "cidade": "Arapiraca",
+    "bairro": "Verdes Campos",
+    "rua": "Rua José Cleoncides Barros",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11981336435_Thiago_Victor_Lima_da_Silva_OPERADOR_A_DE_CAIXA_20260625_144615.pdf",
+    "arquivo_nome": "Thiago Victor Lima da silva .pdf",
+    "tamanho_arquivo": 701993,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Farmácia permanente ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2021-07-25",
+        "data_demissao": "2023-05-25"
+      }
+    ],
+    "id": "e4c6cd32197c",
+    "enviado_em": "2026-06-25T14:46:18.604373",
+    "status": "Novo",
+    "processado_em": "2026-06-25T14:46:18.604381"
   }
 ]
