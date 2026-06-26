@@ -11619,5 +11619,33 @@
     "enviado_em": "2026-06-26T23:01:16.173666",
     "status": "Novo",
     "processado_em": "2026-06-26T23:01:16.173675"
+  },
+  {
+    "nome": "Mariana Lourenço da Silva",
+    "cpf": "145.731.694-31",
+    "telefone": "(82) 98162-2176",
+    "email": "marianalou200513@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Coité do Nóia",
+    "bairro": "Centro",
+    "rua": " Antônio Miguel de Oliveira ",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14573169431_Mariana_Lourenço_da_Silva_REPOSITOR_A_20260626_230144.pdf",
+    "arquivo_nome": "inbound2827223454087601276.pdf",
+    "tamanho_arquivo": 126293,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Star Balanças e equipamentos ",
+        "funcao": "Consultora de vendas",
+        "data_admissao": "2025-12-10",
+        "data_demissao": "2026-03-08"
+      }
+    ],
+    "id": "e58e9f81ea11",
+    "enviado_em": "2026-06-26T23:01:46.194735",
+    "status": "Novo",
+    "processado_em": "2026-06-26T23:01:46.194743"
   }
 ]
