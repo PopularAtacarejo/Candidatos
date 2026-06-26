@@ -11647,5 +11647,45 @@
     "enviado_em": "2026-06-26T23:01:46.194735",
     "status": "Novo",
     "processado_em": "2026-06-26T23:01:46.194743"
+  },
+  {
+    "nome": "Everly janyelle Menezes Silva Rodrigues",
+    "cpf": "710.222.534-25",
+    "telefone": "(11) 98099-2173",
+    "email": "everllyh77@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Limoeiro de Anadia",
+    "bairro": "Centro ",
+    "rua": "Rua Luís Gonzaga ",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71022253425_Everly_janyelle_Menezes_Silva_Rodrigues_OPERADOR_A_DE_CAIXA_20260626_234151.pdf",
+    "arquivo_nome": "inbound7571625340692455767.pdf",
+    "tamanho_arquivo": 3290,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado e mercearia três irmãos ",
+        "funcao": "Operadora de loja ",
+        "data_admissao": "2023-04-13",
+        "data_demissao": "2025-07-25"
+      },
+      {
+        "empresa": "Seara alimentos ",
+        "funcao": "Atendente de loja",
+        "data_admissao": "2025-11-24",
+        "data_demissao": "2026-01-12"
+      },
+      {
+        "empresa": "Supermercado vila rosa ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2026-01-13",
+        "data_demissao": "2026-06-10"
+      }
+    ],
+    "id": "ad209880e58c",
+    "enviado_em": "2026-06-26T23:41:53.011750",
+    "status": "Novo",
+    "processado_em": "2026-06-26T23:41:53.011762"
   }
 ]
