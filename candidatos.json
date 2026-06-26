@@ -11522,5 +11522,39 @@
     "enviado_em": "2026-06-26T06:08:16.341881",
     "status": "Novo",
     "processado_em": "2026-06-26T06:08:16.341888"
+  },
+  {
+    "nome": "José Everson Batista da Silva Santos",
+    "cpf": "072.601.234-35",
+    "telefone": "(82) 98149-4868",
+    "email": "eversonb845@gmail.com",
+    "cep": "57311-430",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Pedro Correia das Graças",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07260123435_José_Everson_Batista_da_Silva_Santos_OPERADOR_A_DE_CAIXA_20260626_145101.pdf",
+    "arquivo_nome": "Currículo - Everson Batista da Silva.pdf",
+    "tamanho_arquivo": 112222,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado Novo Dia ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2024-06-26",
+        "data_demissao": "2025-03-31"
+      },
+      {
+        "empresa": "Supermercado Albuquerque ",
+        "funcao": "Operador de Caixa ",
+        "data_admissao": "2025-11-01",
+        "data_demissao": "2026-02-28"
+      }
+    ],
+    "id": "500a25a98f5a",
+    "enviado_em": "2026-06-26T14:51:03.418693",
+    "status": "Novo",
+    "processado_em": "2026-06-26T14:51:03.418701"
   }
 ]
