@@ -11503,5 +11503,33 @@
     "enviado_em": "2026-06-25T23:01:09.697671",
     "status": "Novo",
     "processado_em": "2026-06-25T23:01:09.697681"
+  },
+  {
+    "nome": "Elaine da paz Antunes Souza",
+    "cpf": "074.504.344-58",
+    "telefone": "(82) 99836-4242",
+    "email": "nannysouza711@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas ",
+    "rua": "Loteamento são Pedro ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07450434458_Elaine_da_paz_Antunes_Souza_BALCONISTA_DE_PADARIA_20260626_022627.pdf",
+    "arquivo_nome": "inbound3403000716129258158.pdf",
+    "tamanho_arquivo": 123706,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Panificadora são Gerônimo ",
+        "funcao": "Balconista e embaladora manual",
+        "data_admissao": "2013-05-24",
+        "data_demissao": "2014-12-26"
+      }
+    ],
+    "id": "171825b4cf15",
+    "enviado_em": "2026-06-26T02:26:29.462807",
+    "status": "Novo",
+    "processado_em": "2026-06-26T02:26:29.462817"
   }
 ]
