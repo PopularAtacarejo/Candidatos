@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Gabriela Maria",
-    "cpf": "123.707.944-61",
-    "telefone": "(82) 99336-6570",
-    "email": "gabyy8754@gmail.com",
-    "cep": "57307-350",
-    "cidade": "Arapiraca",
-    "bairro": "Jardim Esperança",
-    "rua": "Rua José Emídio de Lima",
-    "transporte": "Sim",
-    "vaga": "BALCONISTA DE PADARIA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12370794461_Gabriela_Maria_BALCONISTA_DE_PADARIA_20260329_050323.pdf",
-    "arquivo_nome": "inbound654132990906920176.pdf",
-    "tamanho_arquivo": 680124,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Pastelaria 101",
-        "funcao": "Auxiliar de cozinha",
-        "data_admissao": "2025-06-20",
-        "data_demissao": "2026-01-07"
-      }
-    ],
-    "id": "44d3cd3e1154",
-    "enviado_em": "2026-03-29T05:03:25.213538",
-    "status": "Novo",
-    "processado_em": "2026-03-29T05:03:25.213547"
-  },
-  {
     "nome": "Sadriele Vitoria da Silva Gomes",
     "cpf": "153.031.224-84",
     "telefone": "(82) 99941-7249",
