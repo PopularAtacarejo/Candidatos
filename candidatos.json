@@ -11722,5 +11722,39 @@
     "enviado_em": "2026-06-27T02:41:04.838976",
     "status": "Novo",
     "processado_em": "2026-06-27T02:41:04.838983"
+  },
+  {
+    "nome": "Ademir dos santos Silva",
+    "cpf": "143.627.194-07",
+    "telefone": "(11) 96742-4583",
+    "email": "odairrozendo18@gmail.com",
+    "cep": "57300-011",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Domingos Correia",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14362719407_Ademir_dos_santos_Silva_REPOSITOR_A_20260627_081237.pdf",
+    "arquivo_nome": "inbound933691920601691901.pdf",
+    "tamanho_arquivo": 21836,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Oba Hortifruti ",
+        "funcao": "Encarregado ",
+        "data_admissao": "2019-07-24",
+        "data_demissao": "2025-06-25"
+      },
+      {
+        "empresa": "Mix Mateus ",
+        "funcao": "Gerente de Hortifruti ",
+        "data_admissao": "2026-02-09",
+        "data_demissao": "2026-07-01"
+      }
+    ],
+    "id": "590e4786d5b0",
+    "enviado_em": "2026-06-27T08:12:39.600274",
+    "status": "Novo",
+    "processado_em": "2026-06-27T08:12:39.600282"
   }
 ]
