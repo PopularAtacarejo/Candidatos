@@ -11916,5 +11916,39 @@
     "enviado_em": "2026-06-27T19:05:36.176089",
     "status": "Novo",
     "processado_em": "2026-06-27T19:05:36.176099"
+  },
+  {
+    "nome": "Edemir Luiz da Silva",
+    "cpf": "123.334.474-94",
+    "telefone": "(55) 8299",
+    "email": "luizedemir3@gmail.com",
+    "cep": "57311-550",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Teotônio Vilela",
+    "rua": "Rua Fausto Joaquim Luciano",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12333447494_Edemir_Luiz_da_Silva_REPOSITOR_A_20260628_020716.pdf",
+    "arquivo_nome": "inbound8554435725041082938.pdf",
+    "tamanho_arquivo": 157162,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Pé Calçados",
+        "funcao": "Vendedor",
+        "data_admissao": "2018-06-05",
+        "data_demissao": "2019-02-27"
+      },
+      {
+        "empresa": "Casa do celular",
+        "funcao": "Vendedor",
+        "data_admissao": "2019-06-10",
+        "data_demissao": "2019-11-26"
+      }
+    ],
+    "id": "118a36570e75",
+    "enviado_em": "2026-06-28T02:07:18.179741",
+    "status": "Novo",
+    "processado_em": "2026-06-28T02:07:18.179749"
   }
 ]
