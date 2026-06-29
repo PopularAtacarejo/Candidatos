@@ -11713,5 +11713,26 @@
     "enviado_em": "2026-06-29T19:24:17.914066",
     "status": "Novo",
     "processado_em": "2026-06-29T19:24:17.914077"
+  },
+  {
+    "nome": "João Guilherme Ferreira cavalcante",
+    "cpf": "099.347.194-36",
+    "telefone": "(82) 99627-2809",
+    "email": "sueliferreirajoaolucas@gmail.com",
+    "cep": "57315-762",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Cícero Ferreira da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09934719436_João_Guilherme_Ferreira_cavalcante_REPOSITOR_A_20260629_192613.pdf",
+    "arquivo_nome": "Currículo  - João Guilherme Ferreira Cavalcante.pdf",
+    "tamanho_arquivo": 162496,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "90ba0ba244d5",
+    "enviado_em": "2026-06-29T19:26:15.582485",
+    "status": "Novo",
+    "processado_em": "2026-06-29T19:26:15.582494"
   }
 ]
