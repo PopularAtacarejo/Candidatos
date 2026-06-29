@@ -11755,5 +11755,33 @@
     "enviado_em": "2026-06-29T22:21:52.764005",
     "status": "Novo",
     "processado_em": "2026-06-29T22:21:52.764014"
+  },
+  {
+    "nome": "Wesly Almeida Buralho",
+    "cpf": "153.917.434-43",
+    "telefone": "(82) 99166-5464",
+    "email": "almeidaburalhoo12@gmail.com",
+    "cep": "57311-210",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Nossa Senhora da Penha",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15391743443_Wesly_Almeida_Buralho_REPOSITOR_A_20260629_222659.pdf",
+    "arquivo_nome": "Design sem nome.pdf",
+    "tamanho_arquivo": 334689,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luís ",
+        "funcao": "Repositor ",
+        "data_admissao": "2022-02-07",
+        "data_demissao": "2024-03-29"
+      }
+    ],
+    "id": "fe3f39d40573",
+    "enviado_em": "2026-06-29T22:27:01.026092",
+    "status": "Novo",
+    "processado_em": "2026-06-29T22:27:01.026101"
   }
 ]
