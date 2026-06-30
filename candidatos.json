@@ -11850,11 +11850,15 @@
     "status": "Novo",
     "processado_em": "2026-06-30T04:47:51.907260",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:17:25.526030",
+    "ultimo_visualizado_em": "2026-06-30T12:24:24.461888",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-06-30T12:17:25.526030"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:24:24.461888"
       }
     ]
   },
