@@ -12155,5 +12155,33 @@
     "enviado_em": "2026-06-30T16:19:36.899589",
     "status": "Novo",
     "processado_em": "2026-06-30T16:19:36.899599"
+  },
+  {
+    "nome": "Rayssa Vitória Gomes Amorim",
+    "cpf": "142.638.294-41",
+    "telefone": "(82) 99995-0149",
+    "email": "rayssavictoria2023@gmail.com",
+    "cep": "57312-390",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Nossa Senhora da Salete",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14263829441_Rayssa_Vitória_Gomes_Amorim_OPERADOR_A_DE_CAIXA_20260630_190243.pdf",
+    "arquivo_nome": "Rayssa Vitória Gomes Amorim .pdf",
+    "tamanho_arquivo": 103579,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Riachuelo ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2026-03-13",
+        "data_demissao": "2026-06-20"
+      }
+    ],
+    "id": "35b58331e2a8",
+    "enviado_em": "2026-06-30T19:02:45.212265",
+    "status": "Novo",
+    "processado_em": "2026-06-30T19:02:45.212274"
   }
 ]
