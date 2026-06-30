@@ -12078,5 +12078,26 @@
     "enviado_em": "2026-06-30T15:15:22.296902",
     "status": "Novo",
     "processado_em": "2026-06-30T15:15:22.296912"
+  },
+  {
+    "nome": "Islane Maria Saturnino da Silva",
+    "cpf": "132.859.834-93",
+    "telefone": "(82) 99688-1517",
+    "email": "islanesaturnino119@gmail.com",
+    "cep": "57305-060",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Mané Garrincha",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13285983493_Islane_Maria_Saturnino_da_Silva_BALCONISTA_DE_PADARIA_20260630_151638.pdf",
+    "arquivo_nome": "Currículo Islane.pdf",
+    "tamanho_arquivo": 322107,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "6d0648d3d1c1",
+    "enviado_em": "2026-06-30T15:16:40.820225",
+    "status": "Novo",
+    "processado_em": "2026-06-30T15:16:40.820233"
   }
 ]
