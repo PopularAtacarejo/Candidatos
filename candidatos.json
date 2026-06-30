@@ -11847,7 +11847,7 @@
     ],
     "id": "74870f71ed2d",
     "enviado_em": "2026-06-30T04:47:51.907250",
-    "status": "Novo",
+    "status": "Reprovado",
     "processado_em": "2026-06-30T04:47:51.907260",
     "ultimo_visualizador": "Maria Sabrina",
     "ultimo_visualizado_em": "2026-06-30T12:17:25.526030",
@@ -11856,7 +11856,12 @@
         "viewer": "Maria Sabrina",
         "timestamp": "2026-06-30T12:17:25.526030"
       }
-    ]
+    ],
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-06-30T12:24:32.650024",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Noemi steffany santos de lima",
@@ -11877,15 +11882,7 @@
     "id": "0b0400c1e5b7",
     "enviado_em": "2026-06-30T05:02:22.560234",
     "status": "Novo",
-    "processado_em": "2026-06-30T05:02:22.560244",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:24:28.723482",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:24:28.723482"
-      }
-    ]
+    "processado_em": "2026-06-30T05:02:22.560244"
   },
   {
     "nome": "Karine Stephanie Souza Barbosa Lima",
