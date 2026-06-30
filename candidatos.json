@@ -11733,7 +11733,15 @@
     "id": "90ba0ba244d5",
     "enviado_em": "2026-06-29T19:26:15.582485",
     "status": "Novo",
-    "processado_em": "2026-06-29T19:26:15.582494"
+    "processado_em": "2026-06-29T19:26:15.582494",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:15:14.940582",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:15:14.940582"
+      }
+    ]
   },
   {
     "nome": "Sara Nunes De Melo Cahet",
@@ -11782,15 +11790,7 @@
     "id": "fe3f39d40573",
     "enviado_em": "2026-06-29T22:27:01.026092",
     "status": "Novo",
-    "processado_em": "2026-06-29T22:27:01.026101",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:14:50.917799",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:14:50.917799"
-      }
-    ]
+    "processado_em": "2026-06-29T22:27:01.026101"
   },
   {
     "nome": "Aparecida Lívia Almeida Silva",
