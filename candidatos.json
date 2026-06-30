@@ -11435,7 +11435,15 @@
     "id": "0f29d57ed890",
     "enviado_em": "2026-06-27T02:41:04.838976",
     "status": "Novo",
-    "processado_em": "2026-06-27T02:41:04.838983"
+    "processado_em": "2026-06-27T02:41:04.838983",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:23:34.494827",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:23:34.494827"
+      }
+    ]
   },
   {
     "nome": "Ademir dos santos Silva",
@@ -11549,15 +11557,7 @@
     "id": "533e7af47d03",
     "enviado_em": "2026-06-27T13:50:36.820538",
     "status": "Novo",
-    "processado_em": "2026-06-27T13:50:36.820548",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:20:28.554393",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:20:28.554393"
-      }
-    ]
+    "processado_em": "2026-06-27T13:50:36.820548"
   },
   {
     "nome": "José Fellipe Vieira Soares",
