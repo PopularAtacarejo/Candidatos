@@ -11283,7 +11283,15 @@
     "id": "c7babe6748f1",
     "enviado_em": "2026-06-26T22:43:51.115730",
     "status": "Novo",
-    "processado_em": "2026-06-26T22:43:51.115739"
+    "processado_em": "2026-06-26T22:43:51.115739",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:25:44.360708",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:25:44.360708"
+      }
+    ]
   },
   {
     "nome": "João Pedro Marques",
