@@ -12001,5 +12001,33 @@
     "enviado_em": "2026-06-30T13:51:10.964619",
     "status": "Novo",
     "processado_em": "2026-06-30T13:51:10.964629"
+  },
+  {
+    "nome": "Lyandson Matheus Ferreira Santos",
+    "cpf": "141.975.274-03",
+    "telefone": "(82) 99303-4267",
+    "email": "lyandsonmatheussantos@gmail.com",
+    "cep": "57254-388",
+    "cidade": "Campo Alegre",
+    "bairro": "Santa Luzia (Luziápolis)",
+    "rua": "Rua Wilson Lopes",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14197527403_Lyandson_Matheus_Ferreira_Santos_REPOSITOR_A_20260630_135141.pdf",
+    "arquivo_nome": "Currículo simples preto e branco.pdf_20260624_154332_0000.pdf",
+    "tamanho_arquivo": 56915,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Tropical Supermercados ",
+        "funcao": "Repositor de supermercado ",
+        "data_admissao": "2024-08-14",
+        "data_demissao": "2024-12-16"
+      }
+    ],
+    "id": "daf6c48fd7e5",
+    "enviado_em": "2026-06-30T13:51:43.338613",
+    "status": "Novo",
+    "processado_em": "2026-06-30T13:51:43.338622"
   }
 ]
