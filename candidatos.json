@@ -11282,16 +11282,13 @@
     ],
     "id": "c7babe6748f1",
     "enviado_em": "2026-06-26T22:43:51.115730",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-06-26T22:43:51.115739",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:25:51.815747",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:25:51.815747"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-06-30T12:26:03.162266",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "João Pedro Marques",
