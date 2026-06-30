@@ -11469,7 +11469,15 @@
     "id": "590e4786d5b0",
     "enviado_em": "2026-06-27T08:12:39.600274",
     "status": "Novo",
-    "processado_em": "2026-06-27T08:12:39.600282"
+    "processado_em": "2026-06-27T08:12:39.600282",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:16:19.979989",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:16:19.979989"
+      }
+    ]
   },
   {
     "nome": "José Fellipe Vieira Soares",
@@ -11684,15 +11692,7 @@
     "id": "118a36570e75",
     "enviado_em": "2026-06-28T02:07:18.179741",
     "status": "Novo",
-    "processado_em": "2026-06-28T02:07:18.179749",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:15:37.119034",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:15:37.119034"
-      }
-    ]
+    "processado_em": "2026-06-28T02:07:18.179749"
   },
   {
     "nome": "Maurício Gustavo Ferreira da Silva",
