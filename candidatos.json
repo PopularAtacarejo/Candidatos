@@ -11712,7 +11712,15 @@
     "id": "d4c5758c4771",
     "enviado_em": "2026-06-29T19:24:17.914066",
     "status": "Novo",
-    "processado_em": "2026-06-29T19:24:17.914077"
+    "processado_em": "2026-06-29T19:24:17.914077",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:19:44.556924",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:19:44.556924"
+      }
+    ]
   },
   {
     "nome": "João Guilherme Ferreira cavalcante",
