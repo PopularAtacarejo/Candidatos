@@ -11882,7 +11882,15 @@
     "id": "0b0400c1e5b7",
     "enviado_em": "2026-06-30T05:02:22.560234",
     "status": "Novo",
-    "processado_em": "2026-06-30T05:02:22.560244"
+    "processado_em": "2026-06-30T05:02:22.560244",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:24:36.661583",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:24:36.661583"
+      }
+    ]
   },
   {
     "nome": "Karine Stephanie Souza Barbosa Lima",
