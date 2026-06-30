@@ -11865,5 +11865,33 @@
     "enviado_em": "2026-06-30T05:02:22.560234",
     "status": "Novo",
     "processado_em": "2026-06-30T05:02:22.560244"
+  },
+  {
+    "nome": "Karine Stephanie Souza Barbosa Lima",
+    "cpf": "406.014.438-02",
+    "telefone": "(11) 95473-0492",
+    "email": "kalulorena08@gmail.com",
+    "cep": "57310-110",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Dom João VI",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/40601443802_Karine_Stephanie_Souza_Barbosa_Lima_OPERADOR_A_DE_CAIXA_20260630_111632.pdf",
+    "arquivo_nome": "Curriculo_Karine_Lima_Completo_Padaria.pdf",
+    "tamanho_arquivo": 2728,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado Monteiro ",
+        "funcao": "Auxiliar de Produção ",
+        "data_admissao": "2024-06-01",
+        "data_demissao": "2025-10-18"
+      }
+    ],
+    "id": "6d78ce343009",
+    "enviado_em": "2026-06-30T11:16:34.299993",
+    "status": "Novo",
+    "processado_em": "2026-06-30T11:16:34.300001"
   }
 ]
