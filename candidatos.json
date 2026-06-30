@@ -11192,7 +11192,15 @@
     "id": "500a25a98f5a",
     "enviado_em": "2026-06-26T14:51:03.418693",
     "status": "Novo",
-    "processado_em": "2026-06-26T14:51:03.418701"
+    "processado_em": "2026-06-26T14:51:03.418701",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:27:06.645006",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:27:06.645006"
+      }
+    ]
   },
   {
     "nome": "Lenilson Samuel Albuquerque de Oliveira Lima",
@@ -11309,15 +11317,7 @@
     "id": "5413944024c0",
     "enviado_em": "2026-06-26T23:01:16.173666",
     "status": "Novo",
-    "processado_em": "2026-06-26T23:01:16.173675",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:26:49.522170",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:26:49.522170"
-      }
-    ]
+    "processado_em": "2026-06-26T23:01:16.173675"
   },
   {
     "nome": "Mariana Lourenço da Silva",
