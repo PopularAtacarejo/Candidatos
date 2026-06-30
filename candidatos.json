@@ -12029,5 +12029,33 @@
     "enviado_em": "2026-06-30T13:51:43.338613",
     "status": "Novo",
     "processado_em": "2026-06-30T13:51:43.338622"
+  },
+  {
+    "nome": "Aline Belarmino dos Santos",
+    "cpf": "102.596.224-94",
+    "telefone": "(82) 99991-5261",
+    "email": "aline27rodrigo@gmail.com",
+    "cep": "57309-660",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Maria Augusta Nunes Paulino Silva",
+    "transporte": "Não",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10259622494_Aline_Belarmino_dos_Santos_Fiscal_de_Caixa_20260630_141942.pdf",
+    "arquivo_nome": "inbound2444634594750878013.pdf",
+    "tamanho_arquivo": 324075,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aradisa",
+        "funcao": "Auxiliar administrativo ",
+        "data_admissao": "2025-02-03",
+        "data_demissao": "2026-03-30"
+      }
+    ],
+    "id": "ff8aec3ae7f5",
+    "enviado_em": "2026-06-30T14:19:45.345109",
+    "status": "Novo",
+    "processado_em": "2026-06-30T14:19:45.345134"
   }
 ]
