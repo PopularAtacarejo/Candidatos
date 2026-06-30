@@ -11684,7 +11684,15 @@
     "id": "118a36570e75",
     "enviado_em": "2026-06-28T02:07:18.179741",
     "status": "Novo",
-    "processado_em": "2026-06-28T02:07:18.179749"
+    "processado_em": "2026-06-28T02:07:18.179749",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:15:37.119034",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:15:37.119034"
+      }
+    ]
   },
   {
     "nome": "Maurício Gustavo Ferreira da Silva",
@@ -11733,15 +11741,7 @@
     "id": "90ba0ba244d5",
     "enviado_em": "2026-06-29T19:26:15.582485",
     "status": "Novo",
-    "processado_em": "2026-06-29T19:26:15.582494",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:15:14.940582",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-06-30T12:15:14.940582"
-      }
-    ]
+    "processado_em": "2026-06-29T19:26:15.582494"
   },
   {
     "nome": "Sara Nunes De Melo Cahet",
