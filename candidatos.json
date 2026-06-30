@@ -12057,5 +12057,26 @@
     "enviado_em": "2026-06-30T14:19:45.345109",
     "status": "Novo",
     "processado_em": "2026-06-30T14:19:45.345134"
+  },
+  {
+    "nome": "Islane Maria Saturnino da Silva",
+    "cpf": "132.859.834-93",
+    "telefone": "(55) 82996-8815",
+    "email": "islanesaturnino119@gmail.com",
+    "cep": "57305-060",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Mané Garrincha",
+    "transporte": "Sim",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13285983493_Islane_Maria_Saturnino_da_Silva_Fiscal_de_Caixa_20260630_151520.pdf",
+    "arquivo_nome": "Currículo Islane.pdf",
+    "tamanho_arquivo": 322107,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "de254d619997",
+    "enviado_em": "2026-06-30T15:15:22.296902",
+    "status": "Novo",
+    "processado_em": "2026-06-30T15:15:22.296912"
   }
 ]
