@@ -11309,7 +11309,15 @@
     "id": "5413944024c0",
     "enviado_em": "2026-06-26T23:01:16.173666",
     "status": "Novo",
-    "processado_em": "2026-06-26T23:01:16.173675"
+    "processado_em": "2026-06-26T23:01:16.173675",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-06-30T12:26:49.522170",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-06-30T12:26:49.522170"
+      }
+    ]
   },
   {
     "nome": "Mariana Lourenço da Silva",
