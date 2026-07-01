@@ -11945,7 +11945,15 @@
     "id": "067e7c40629f",
     "enviado_em": "2026-06-30T13:51:10.964619",
     "status": "Novo",
-    "processado_em": "2026-06-30T13:51:10.964629"
+    "processado_em": "2026-06-30T13:51:10.964629",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-01T20:18:08.828559",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-01T20:18:08.828559"
+      }
+    ]
   },
   {
     "nome": "Lyandson Matheus Ferreira Santos",
@@ -11973,15 +11981,7 @@
     "id": "daf6c48fd7e5",
     "enviado_em": "2026-06-30T13:51:43.338613",
     "status": "Novo",
-    "processado_em": "2026-06-30T13:51:43.338622",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-01T20:17:03.937677",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-01T20:17:03.937677"
-      }
-    ]
+    "processado_em": "2026-06-30T13:51:43.338622"
   },
   {
     "nome": "Aline Belarmino dos Santos",
