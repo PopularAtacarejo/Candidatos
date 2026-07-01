@@ -11973,7 +11973,15 @@
     "id": "daf6c48fd7e5",
     "enviado_em": "2026-06-30T13:51:43.338613",
     "status": "Novo",
-    "processado_em": "2026-06-30T13:51:43.338622"
+    "processado_em": "2026-06-30T13:51:43.338622",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-01T20:17:00.508627",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-01T20:17:00.508627"
+      }
+    ]
   },
   {
     "nome": "Aline Belarmino dos Santos",
@@ -12071,15 +12079,7 @@
     "id": "ac187bcb877f",
     "enviado_em": "2026-06-30T15:17:53.687382",
     "status": "Novo",
-    "processado_em": "2026-06-30T15:17:53.687389",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-01T20:16:28.035613",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-01T20:16:28.035613"
-      }
-    ]
+    "processado_em": "2026-06-30T15:17:53.687389"
   },
   {
     "nome": "Damiana dos Santos",
