@@ -12127,7 +12127,15 @@
     "id": "35b58331e2a8",
     "enviado_em": "2026-06-30T19:02:45.212265",
     "status": "Novo",
-    "processado_em": "2026-06-30T19:02:45.212274"
+    "processado_em": "2026-06-30T19:02:45.212274",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-01T19:43:59.869146",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-01T19:43:59.869146"
+      }
+    ]
   },
   {
     "nome": "Iarytza lorrana Soares Santos",
