@@ -12217,5 +12217,45 @@
     "enviado_em": "2026-07-02T03:45:33.514002",
     "status": "Novo",
     "processado_em": "2026-07-02T03:45:33.514012"
+  },
+  {
+    "nome": "Sterffanny Leão Da Silva",
+    "cpf": "139.456.694-80",
+    "telefone": "(82) 99802-6869",
+    "email": "sterffanny.leao@gmail.com",
+    "cep": "57312-415",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Delmiro Gouveia",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13945669480_Sterffanny_Leão_Da_Silva_OPERADOR_A_DE_CAIXA_20260702_035122.pdf",
+    "arquivo_nome": "Curriculo_Sterffanny_Leao.pdf",
+    "tamanho_arquivo": 120711,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Telemarketing receptivo ",
+        "data_admissao": "2023-01-01",
+        "data_demissao": "2024-07-08"
+      },
+      {
+        "empresa": "Riachuelo ",
+        "funcao": "Atendente, assistente de vendas",
+        "data_admissao": "2022-12-01",
+        "data_demissao": "2023-01-02"
+      },
+      {
+        "empresa": "Di Santinni ",
+        "funcao": "Atendente, Caixa, Estoquista ",
+        "data_admissao": "2026-06-01",
+        "data_demissao": "2026-06-30"
+      }
+    ],
+    "id": "be796300825b",
+    "enviado_em": "2026-07-02T03:51:23.917495",
+    "status": "Novo",
+    "processado_em": "2026-07-02T03:51:23.917503"
   }
 ]
