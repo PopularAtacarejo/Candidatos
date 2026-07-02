@@ -11981,15 +11981,7 @@
     "id": "ff8aec3ae7f5",
     "enviado_em": "2026-06-30T14:19:45.345109",
     "status": "Novo",
-    "processado_em": "2026-06-30T14:19:45.345134",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-02T11:25:29.363716",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-02T11:25:29.363716"
-      }
-    ]
+    "processado_em": "2026-06-30T14:19:45.345134"
   },
   {
     "nome": "Islane Maria Saturnino da Silva",
@@ -12266,11 +12258,15 @@
     "status": "Novo",
     "processado_em": "2026-07-02T03:51:23.917503",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-02T10:58:28.073744",
+    "ultimo_visualizado_em": "2026-07-02T11:28:08.294318",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-02T10:58:28.073744"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-02T11:28:08.294318"
       }
     ]
   },
