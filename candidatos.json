@@ -11981,7 +11981,15 @@
     "id": "ff8aec3ae7f5",
     "enviado_em": "2026-06-30T14:19:45.345109",
     "status": "Novo",
-    "processado_em": "2026-06-30T14:19:45.345134"
+    "processado_em": "2026-06-30T14:19:45.345134",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-02T11:25:29.363716",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-02T11:25:29.363716"
+      }
+    ]
   },
   {
     "nome": "Islane Maria Saturnino da Silva",
