@@ -12215,16 +12215,13 @@
     ],
     "id": "223e29f754da",
     "enviado_em": "2026-07-02T03:45:33.514002",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-02T03:45:33.514012",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-02T11:28:12.625080",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-02T11:28:12.625080"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-02T11:28:26.412698",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Sterffanny Leão Da Silva",
