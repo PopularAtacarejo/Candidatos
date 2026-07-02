@@ -12216,7 +12216,15 @@
     "id": "223e29f754da",
     "enviado_em": "2026-07-02T03:45:33.514002",
     "status": "Novo",
-    "processado_em": "2026-07-02T03:45:33.514012"
+    "processado_em": "2026-07-02T03:45:33.514012",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-02T11:28:12.625080",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-02T11:28:12.625080"
+      }
+    ]
   },
   {
     "nome": "Sterffanny Leão Da Silva",
@@ -12258,15 +12266,11 @@
     "status": "Novo",
     "processado_em": "2026-07-02T03:51:23.917503",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-02T11:28:08.294318",
+    "ultimo_visualizado_em": "2026-07-02T10:58:28.073744",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-02T10:58:28.073744"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-02T11:28:08.294318"
       }
     ]
   },
