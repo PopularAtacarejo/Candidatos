@@ -12270,5 +12270,26 @@
         "timestamp": "2026-07-02T10:58:28.073744"
       }
     ]
+  },
+  {
+    "nome": "Maria Fabiana Melo Silva",
+    "cpf": "056.698.684-12",
+    "telefone": "(82) 99687-0217",
+    "email": "fabianamello956@gmail.com",
+    "cep": "57304-050",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Mayr Guedes do Amaral",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05669868412_Maria_Fabiana_Melo_Silva_AUXILIAR_DE_LIMPEZA_20260702_194031.pdf",
+    "arquivo_nome": "inbound7661626462934130053.pdf",
+    "tamanho_arquivo": 1484658,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9f0c5f0e7e1b",
+    "enviado_em": "2026-07-02T19:40:33.728565",
+    "status": "Novo",
+    "processado_em": "2026-07-02T19:40:33.728576"
   }
 ]
