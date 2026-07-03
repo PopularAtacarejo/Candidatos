@@ -12317,16 +12317,13 @@
     ],
     "id": "17f03e435a2e",
     "enviado_em": "2026-07-03T01:55:38.270826",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-03T01:55:38.270834",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-03T10:30:19.923398",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-03T10:30:19.923398"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-03T10:30:29.723314",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Gabriel Gomes de Oliveira",
