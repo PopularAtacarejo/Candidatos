@@ -12332,7 +12332,15 @@
     "data_entrevista": "",
     "observacoes": "",
     "updated_at": "2026-07-03T10:30:29.723314",
-    "updated_by": "Maria Sabrina"
+    "updated_by": "Maria Sabrina",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-03T19:58:10.443980",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-03T19:58:10.443980"
+      }
+    ]
   },
   {
     "nome": "Gabriel Gomes de Oliveira",
