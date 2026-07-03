@@ -11777,7 +11777,7 @@
     "status": "Em análise",
     "processado_em": "2026-06-30T04:47:51.907260",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-06-30T12:24:59.612952",
+    "ultimo_visualizado_em": "2026-07-03T12:46:20.781094",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
@@ -11798,6 +11798,10 @@
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-06-30T12:24:59.612952"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-03T12:46:20.781094"
       }
     ],
     "entrevistador": "",
