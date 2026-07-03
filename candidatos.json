@@ -12291,5 +12291,33 @@
     "enviado_em": "2026-07-02T19:40:33.728565",
     "status": "Novo",
     "processado_em": "2026-07-02T19:40:33.728576"
+  },
+  {
+    "nome": "Hygor kawa da Silva",
+    "cpf": "118.627.274-06",
+    "telefone": "(82) 99657-6150",
+    "email": "hygorkawa123@gmail.com",
+    "cep": "57315-758",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria Luiza Nóbrega Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11862727406_Hygor_kawa_da_Silva_REPOSITOR_A_20260703_015536.pdf",
+    "arquivo_nome": "‎WhatsApp 4.pdf",
+    "tamanho_arquivo": 76358,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jomart atacado ",
+        "funcao": "Repositor ",
+        "data_admissao": "2019-10-28",
+        "data_demissao": "2021-03-15"
+      }
+    ],
+    "id": "17f03e435a2e",
+    "enviado_em": "2026-07-03T01:55:38.270826",
+    "status": "Novo",
+    "processado_em": "2026-07-03T01:55:38.270834"
   }
 ]
