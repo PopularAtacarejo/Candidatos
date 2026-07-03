@@ -11643,16 +11643,13 @@
     ],
     "id": "d4c5758c4771",
     "enviado_em": "2026-06-29T19:24:17.914066",
-    "status": "Novo",
+    "status": "Reprovado",
     "processado_em": "2026-06-29T19:24:17.914077",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-03T12:47:20.707751",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-03T12:47:20.707751"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-03T12:47:24.895268",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "João Guilherme Ferreira cavalcante",
