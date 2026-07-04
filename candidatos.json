@@ -12385,5 +12385,33 @@
     "enviado_em": "2026-07-04T18:26:38.265654",
     "status": "Novo",
     "processado_em": "2026-07-04T18:26:38.265663"
+  },
+  {
+    "nome": "Simone Gomes santos",
+    "cpf": "070.211.094-90",
+    "telefone": "(82) 99986-4064",
+    "email": "simonegomessilva1985@gmail.com",
+    "cep": "57308-380",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Branquinha",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07021109490_Simone_Gomes_santos_BALCONISTA_DE_PADARIA_20260704_191919.pdf",
+    "arquivo_nome": "inbound5520855430519353369.pdf",
+    "tamanho_arquivo": 129590,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Padaria pão do posto ",
+        "funcao": "Balconista ",
+        "data_admissao": "2024-06-27",
+        "data_demissao": "2026-02-10"
+      }
+    ],
+    "id": "be93dc1e1839",
+    "enviado_em": "2026-07-04T19:19:21.140272",
+    "status": "Novo",
+    "processado_em": "2026-07-04T19:19:21.140279"
   }
 ]
