@@ -12324,5 +12324,45 @@
     "enviado_em": "2026-07-04T02:49:50.874601",
     "status": "Novo",
     "processado_em": "2026-07-04T02:49:50.874613"
+  },
+  {
+    "nome": "José Lucas Marques Góis",
+    "cpf": "098.484.374-44",
+    "telefone": "(82) 99909-5474",
+    "email": "lucasmarquesjlmg@gmail.com",
+    "cep": "57306-745",
+    "cidade": "Arapiraca",
+    "bairro": "Cavaco",
+    "rua": "Rua Quitéria Soares de Assunção",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09848437444_José_Lucas_Marques_Góis_OPERADOR_A_DE_CAIXA_20260704_182337.doc",
+    "arquivo_nome": "Curriculum - JosÃ©️ Lucas Marques Gois - 220396.doc",
+    "tamanho_arquivo": 30720,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Hotel senna",
+        "funcao": "Recepcionista ",
+        "data_admissao": "2022-11-19",
+        "data_demissao": "2026-03-08"
+      },
+      {
+        "empresa": "Estacionamento rio branco",
+        "funcao": "Manobrista ",
+        "data_admissao": "2019-01-01",
+        "data_demissao": "2022-07-20"
+      },
+      {
+        "empresa": "Mega trocão",
+        "funcao": "Motorista entregador ",
+        "data_admissao": "2018-01-04",
+        "data_demissao": "2018-12-13"
+      }
+    ],
+    "id": "03d24fbfa832",
+    "enviado_em": "2026-07-04T18:23:39.199133",
+    "status": "Novo",
+    "processado_em": "2026-07-04T18:23:39.199144"
   }
 ]
