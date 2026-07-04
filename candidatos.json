@@ -12296,5 +12296,33 @@
         "timestamp": "2026-07-03T19:58:15.073460"
       }
     ]
+  },
+  {
+    "nome": "Letícia da Silva Ribeiro",
+    "cpf": "078.578.695-38",
+    "telefone": "(82) 99336-5649",
+    "email": "leticiasilribeiro00000@gmail.com",
+    "cep": "57309-153",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Avenida Pio XII",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07857869538_Letícia_da_Silva_Ribeiro_REPOSITOR_A_20260704_024949.pdf",
+    "arquivo_nome": "Currículo Letícia da Silva Ribeiro.pdf",
+    "tamanho_arquivo": 225076,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ciano",
+        "funcao": "Jovem Aprendiz",
+        "data_admissao": "2025-07-03",
+        "data_demissao": "2027-05-03"
+      }
+    ],
+    "id": "0a3cb33ce235",
+    "enviado_em": "2026-07-04T02:49:50.874601",
+    "status": "Novo",
+    "processado_em": "2026-07-04T02:49:50.874613"
   }
 ]
