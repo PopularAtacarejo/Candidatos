@@ -295,13 +295,14 @@
   {
     "id": "AUXILIAR DE LIMPEZA",
     "nome": "AUXILIAR DE LIMPEZA",
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "requisitos": [],
     "beneficios": [],
     "created_by": "Natallia Katiane",
     "created_at": "2026-05-18T15:14:20.343997",
-    "inserido_em": "2026-05-18T15:14:20.343997"
+    "inserido_em": "2026-05-18T15:14:20.343997",
+    "updated_at": "2026-07-06T17:43:02.044943"
   },
   {
     "id": "auxiliar-de-limpeza",
