@@ -12369,7 +12369,15 @@
     "id": "8d0a7d00bcee",
     "enviado_em": "2026-07-06T10:21:10.603021",
     "status": "Novo",
-    "processado_em": "2026-07-06T10:21:10.603031"
+    "processado_em": "2026-07-06T10:21:10.603031",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-06T18:24:36.134319",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-06T18:24:36.134319"
+      }
+    ]
   },
   {
     "nome": "Mariana vitória Alves dos Santos",
