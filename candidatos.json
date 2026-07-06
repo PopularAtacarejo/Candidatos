@@ -12336,5 +12336,26 @@
     "enviado_em": "2026-07-04T19:19:21.140272",
     "status": "Novo",
     "processado_em": "2026-07-04T19:19:21.140279"
+  },
+  {
+    "nome": "Jose Lucas da Silva Rocha",
+    "cpf": "153.900.324-89",
+    "telefone": "(82) 99660-7039",
+    "email": "calibramjoestar2121@gmail.com",
+    "cep": "57307-006",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Adolfo Bispo da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15390032489_Jose_Lucas_da_Silva_Rocha_REPOSITOR_A_20260706_102109.pdf",
+    "arquivo_nome": "Curriculo.pdf",
+    "tamanho_arquivo": 3078,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "8d0a7d00bcee",
+    "enviado_em": "2026-07-06T10:21:10.603021",
+    "status": "Novo",
+    "processado_em": "2026-07-06T10:21:10.603031"
   }
 ]
