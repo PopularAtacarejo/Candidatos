@@ -12288,11 +12288,15 @@
     "status": "Em análise",
     "processado_em": "2026-07-04T18:23:39.199144",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-06T11:08:50.877612",
+    "ultimo_visualizado_em": "2026-07-06T18:25:55.677357",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-06T11:08:50.877612"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-06T18:25:55.677357"
       }
     ],
     "entrevistador": "",
@@ -12369,15 +12373,7 @@
     "id": "8d0a7d00bcee",
     "enviado_em": "2026-07-06T10:21:10.603021",
     "status": "Novo",
-    "processado_em": "2026-07-06T10:21:10.603031",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-06T18:24:36.134319",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-06T18:24:36.134319"
-      }
-    ]
+    "processado_em": "2026-07-06T10:21:10.603031"
   },
   {
     "nome": "Mariana vitória Alves dos Santos",
