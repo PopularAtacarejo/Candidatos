@@ -174,14 +174,15 @@
     "tipo_contrato": "",
     "requisitos": [],
     "beneficios": [],
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "created_by": "Jeferson",
     "id": "10",
     "criado_em": "2026-01-27T16:28:11.638416",
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:28:11.638416",
-    "atualizado_por": "Jeferson"
+    "atualizado_por": "Jeferson",
+    "updated_at": "2026-07-06T17:42:41.660034"
   },
   {
     "nome": "AUXILIAR DE T.I",
