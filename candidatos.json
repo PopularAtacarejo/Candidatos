@@ -12246,7 +12246,15 @@
     "id": "0a3cb33ce235",
     "enviado_em": "2026-07-04T02:49:50.874601",
     "status": "Novo",
-    "processado_em": "2026-07-04T02:49:50.874613"
+    "processado_em": "2026-07-04T02:49:50.874613",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-06T20:52:36.808685",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-06T20:52:36.808685"
+      }
+    ]
   },
   {
     "nome": "José Lucas Marques Góis",
