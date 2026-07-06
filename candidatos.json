@@ -12285,7 +12285,7 @@
     ],
     "id": "03d24fbfa832",
     "enviado_em": "2026-07-04T18:23:39.199133",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-04T18:23:39.199144",
     "ultimo_visualizador": "Maria Sabrina",
     "ultimo_visualizado_em": "2026-07-06T11:08:50.877612",
@@ -12294,7 +12294,12 @@
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-06T11:08:50.877612"
       }
-    ]
+    ],
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-06T11:14:21.447608",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "José Lucas Marques Góis",
