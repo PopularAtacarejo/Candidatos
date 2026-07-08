@@ -12286,5 +12286,39 @@
         "timestamp": "2026-07-07T20:47:19.141780"
       }
     ]
+  },
+  {
+    "nome": "CHRISLANE BARBOSA",
+    "cpf": "119.789.604-09",
+    "telefone": "(82) 99644-2858",
+    "email": "crispanda2341@gmail.com",
+    "cep": "57300-180",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Avenida Pedro Leão",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11978960409_CHRISLANE_BARBOSA_OPERADOR_A_DE_CAIXA_20260708_213953.pdf",
+    "arquivo_nome": "Chris 2026 .pdf",
+    "tamanho_arquivo": 414473,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São Luiz supermercado ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2025-01-01",
+        "data_demissao": "2025-10-08"
+      },
+      {
+        "empresa": "Uninassau ",
+        "funcao": "Assistente Adm/ recepção da coordenação ",
+        "data_admissao": "2025-12-08",
+        "data_demissao": "2026-05-05"
+      }
+    ],
+    "id": "59c41d48e461",
+    "enviado_em": "2026-07-08T21:39:54.797122",
+    "status": "Novo",
+    "processado_em": "2026-07-08T21:39:54.797130"
   }
 ]
