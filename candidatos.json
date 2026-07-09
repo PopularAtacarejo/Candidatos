@@ -12348,5 +12348,45 @@
     "enviado_em": "2026-07-08T23:41:58.482304",
     "status": "Novo",
     "processado_em": "2026-07-08T23:41:58.482313"
+  },
+  {
+    "nome": "Tatielle Maria de Melo Silva",
+    "cpf": "103.996.104-56",
+    "telefone": "(82) 9108-9317",
+    "email": "tatiellemelo879@gmail.com",
+    "cep": "57304-090",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Francisco Cavalcante",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10399610456_Tatielle_Maria_de_Melo_Silva_AUX._DE_ESTOQUE_20260709_010129.pdf",
+    "arquivo_nome": "inbound377578965806356913.pdf",
+    "tamanho_arquivo": 557795,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec ",
+        "funcao": "Atendente telemarketing ",
+        "data_admissao": "2022-06-01",
+        "data_demissao": "2024-06-07"
+      },
+      {
+        "empresa": "Star Balanças ",
+        "funcao": "Auxiliar Administrativo Financeiro ",
+        "data_admissao": "2024-12-20",
+        "data_demissao": "2025-07-02"
+      },
+      {
+        "empresa": "Firts Class ",
+        "funcao": "Operadora de caixa  Administrativo ",
+        "data_admissao": "2025-10-02",
+        "data_demissao": "2026-01-02"
+      }
+    ],
+    "id": "d66c85e9f364",
+    "enviado_em": "2026-07-09T01:01:31.866536",
+    "status": "Novo",
+    "processado_em": "2026-07-09T01:01:31.866544"
   }
 ]
