@@ -12356,5 +12356,45 @@
     "enviado_em": "2026-07-09T19:19:14.372341",
     "status": "Novo",
     "processado_em": "2026-07-09T19:19:14.372351"
+  },
+  {
+    "nome": "José Fellipe Vieira Soares",
+    "cpf": "149.793.184-36",
+    "telefone": "(82) 99844-1075",
+    "email": "lyphee12@gmail.com",
+    "cep": "57309-501",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Mulungú",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14979318436_José_Fellipe_Vieira_Soares_REPOSITOR_A_20260709_211806.pdf",
+    "arquivo_nome": "José Fellipe.pdf",
+    "tamanho_arquivo": 136400,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC ",
+        "funcao": "Atendente",
+        "data_admissao": "2022-10-01",
+        "data_demissao": "2023-08-01"
+      },
+      {
+        "empresa": "AeC",
+        "funcao": "Supervisor de operações ",
+        "data_admissao": "2023-08-01",
+        "data_demissao": "2024-09-01"
+      },
+      {
+        "empresa": "AeC",
+        "funcao": "Analista de Conteúdo ",
+        "data_admissao": "2024-09-01",
+        "data_demissao": "2026-02-13"
+      }
+    ],
+    "id": "677310dac2e2",
+    "enviado_em": "2026-07-09T21:18:08.584396",
+    "status": "Novo",
+    "processado_em": "2026-07-09T21:18:08.584404"
   }
 ]
