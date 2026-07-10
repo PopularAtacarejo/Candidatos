@@ -12336,5 +12336,26 @@
     "enviado_em": "2026-07-10T14:55:16.918162",
     "status": "Novo",
     "processado_em": "2026-07-10T14:55:16.918170"
+  },
+  {
+    "nome": "Jose wylames ferreira da Silva",
+    "cpf": "052.884.825-94",
+    "telefone": "(79) 99895-9962",
+    "email": "wyllamesferreira28@gmail.com",
+    "cep": "57311-550",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Teotônio Vilela",
+    "rua": "Rua Fausto Joaquim Luciano",
+    "transporte": "Sim",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05288482594_Jose_wylames_ferreira_da_Silva_Fiscal_de_Caixa_20260710_155156.pdf",
+    "arquivo_nome": "inbound1806691801275380733.pdf",
+    "tamanho_arquivo": 82410,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "8fa9d6a6be1e",
+    "enviado_em": "2026-07-10T15:51:58.139601",
+    "status": "Novo",
+    "processado_em": "2026-07-10T15:51:58.139613"
   }
 ]
