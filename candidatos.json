@@ -12024,15 +12024,11 @@
     "status": "Novo",
     "processado_em": "2026-07-09T21:18:08.584404",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-10T18:09:32.829706",
+    "ultimo_visualizado_em": "2026-07-10T11:20:55.522333",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-10T11:20:55.522333"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-10T18:09:32.829706"
       }
     ]
   },
@@ -12074,7 +12070,15 @@
     "id": "eb0efebc762a",
     "enviado_em": "2026-07-09T21:21:19.934801",
     "status": "Novo",
-    "processado_em": "2026-07-09T21:21:19.934809"
+    "processado_em": "2026-07-09T21:21:19.934809",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-10T18:09:43.674536",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-10T18:09:43.674536"
+      }
+    ]
   },
   {
     "nome": "Marcos Paulo Ferreira Martins",
