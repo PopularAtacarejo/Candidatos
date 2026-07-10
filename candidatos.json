@@ -12091,5 +12091,26 @@
     "enviado_em": "2026-07-10T19:32:19.457325",
     "status": "Novo",
     "processado_em": "2026-07-10T19:32:19.457333"
+  },
+  {
+    "nome": "Yara Aparecida dos Santos Calixto",
+    "cpf": "102.545.454-59",
+    "telefone": "(79) 99858-2828",
+    "email": "yarasantos1324566@gmail.com",
+    "cep": "57300-030",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Boa Vista",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10254545459_Yara_Aparecida_dos_Santos_Calixto_BALCONISTA_DE_PADARIA_20260710_223545.pdf",
+    "arquivo_nome": "inbound1800778461385791645.pdf",
+    "tamanho_arquivo": 145075,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "3c31cfaba6f3",
+    "enviado_em": "2026-07-10T22:35:48.896836",
+    "status": "Novo",
+    "processado_em": "2026-07-10T22:35:48.896844"
   }
 ]
