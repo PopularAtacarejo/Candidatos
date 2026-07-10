@@ -12196,5 +12196,26 @@
     "enviado_em": "2026-07-10T18:53:44.262695",
     "status": "Novo",
     "processado_em": "2026-07-10T18:53:44.262703"
+  },
+  {
+    "nome": "Sophia Natally Silva Lima",
+    "cpf": "179.444.354-12",
+    "telefone": "(82) 99686-9501",
+    "email": "ssophianatally@gmail.com",
+    "cep": "57310-105",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Guanabara",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17944435412_Sophia_Natally_Silva_Lima_REPOSITOR_A_20260710_193218.pdf",
+    "arquivo_nome": "Currículo Simples Minimalista para Áreas Diversas 2.pdf",
+    "tamanho_arquivo": 53955,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "cf103f0e3819",
+    "enviado_em": "2026-07-10T19:32:19.457325",
+    "status": "Novo",
+    "processado_em": "2026-07-10T19:32:19.457333"
   }
 ]
