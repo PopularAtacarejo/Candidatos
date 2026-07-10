@@ -12273,5 +12273,26 @@
     "enviado_em": "2026-07-10T13:12:10.491423",
     "status": "Novo",
     "processado_em": "2026-07-10T13:12:10.491430"
+  },
+  {
+    "nome": "José Diego Mendes Matias",
+    "cpf": "167.763.164-30",
+    "telefone": "(82) 98774-7498",
+    "email": "diegomathias26@icloud.com",
+    "cep": "57300-030",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Boa Vista",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16776316430_José_Diego_Mendes_Matias_EMBALADOR_A_20260710_135950.pdf",
+    "arquivo_nome": "CURRICULO DO DIEGO 2.pdf",
+    "tamanho_arquivo": 141820,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "91fa8c9879be",
+    "enviado_em": "2026-07-10T13:59:53.242009",
+    "status": "Novo",
+    "processado_em": "2026-07-10T13:59:53.242019"
   }
 ]
