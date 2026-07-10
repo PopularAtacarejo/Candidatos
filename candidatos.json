@@ -12241,5 +12241,33 @@
     "enviado_em": "2026-07-09T21:21:19.934801",
     "status": "Novo",
     "processado_em": "2026-07-09T21:21:19.934809"
+  },
+  {
+    "nome": "Marcos Paulo Ferreira Martins",
+    "cpf": "126.767.517-94",
+    "telefone": "(21) 97090-4890",
+    "email": "martinsferreirafla28@gmail.com",
+    "cep": "57300-001",
+    "cidade": "Taquarana",
+    "bairro": "Alto da Colina ",
+    "rua": "Rua Vitória Quadra O ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12676751794_Marcos_Paulo_Ferreira_Martins_BALCONISTA_DE_PADARIA_20260710_121843.pdf",
+    "arquivo_nome": "inbound7783546651345504481.pdf",
+    "tamanho_arquivo": 1773199,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Princesa supermercado ",
+        "funcao": "Repositor ",
+        "data_admissao": "2025-02-03",
+        "data_demissao": "2025-08-22"
+      }
+    ],
+    "id": "ff148cbed54a",
+    "enviado_em": "2026-07-10T12:18:46.052173",
+    "status": "Novo",
+    "processado_em": "2026-07-10T12:18:46.052182"
   }
 ]
