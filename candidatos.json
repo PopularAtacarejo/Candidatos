@@ -12203,5 +12203,33 @@
     "enviado_em": "2026-07-10T16:47:06.905651",
     "status": "Novo",
     "processado_em": "2026-07-10T16:47:06.905659"
+  },
+  {
+    "nome": "Janileide Almeida Oliveira",
+    "cpf": "068.002.484-01",
+    "telefone": "(82) 99834-4551",
+    "email": "janileide.almeida87@gmail.com",
+    "cep": "57304-410",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Sargento Benevides Montes",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06800248401_Janileide_Almeida_Oliveira_OPERADOR_A_DE_CAIXA_20260710_183709.pdf",
+    "arquivo_nome": "Curriculum - Janileide de Almeida Oliveira.pdf",
+    "tamanho_arquivo": 111091,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mix Mateus ",
+        "funcao": "Fiscal de caixa ",
+        "data_admissao": "2026-02-09",
+        "data_demissao": "2026-07-02"
+      }
+    ],
+    "id": "3ab76731c591",
+    "enviado_em": "2026-07-10T18:37:11.558775",
+    "status": "Novo",
+    "processado_em": "2026-07-10T18:37:11.558783"
   }
 ]
