@@ -12327,15 +12327,7 @@
     "id": "c2101544099b",
     "enviado_em": "2026-07-09T19:15:28.870415",
     "status": "Novo",
-    "processado_em": "2026-07-09T19:15:28.870423",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-10T11:20:28.276894",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-10T11:20:28.276894"
-      }
-    ]
+    "processado_em": "2026-07-09T19:15:28.870423"
   },
   {
     "nome": "Marcos Paulo Ferreira Martins",
@@ -12403,7 +12395,15 @@
     "id": "677310dac2e2",
     "enviado_em": "2026-07-09T21:18:08.584396",
     "status": "Novo",
-    "processado_em": "2026-07-09T21:18:08.584404"
+    "processado_em": "2026-07-09T21:18:08.584404",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-10T11:20:55.522333",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-10T11:20:55.522333"
+      }
+    ]
   },
   {
     "nome": "José Fellipe Vieira Soares",
