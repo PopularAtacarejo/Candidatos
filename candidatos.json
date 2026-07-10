@@ -12269,5 +12269,26 @@
     "enviado_em": "2026-07-10T12:18:46.052173",
     "status": "Novo",
     "processado_em": "2026-07-10T12:18:46.052182"
+  },
+  {
+    "nome": "Maria Grasiela Santos Silva",
+    "cpf": "159.191.804-98",
+    "telefone": "(82) 99919-5624",
+    "email": "sgrazy809@gmail.com",
+    "cep": "57303-223",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Maria José Nunes Lima",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15919180498_Maria_Grasiela_Santos_Silva_AUXILIAR_DE_LIMPEZA_20260710_131208.pdf",
+    "arquivo_nome": "Curriculum Vitae GRASIELA (1).pdf",
+    "tamanho_arquivo": 85389,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "8a76238fde9d",
+    "enviado_em": "2026-07-10T13:12:10.491423",
+    "status": "Novo",
+    "processado_em": "2026-07-10T13:12:10.491430"
   }
 ]
