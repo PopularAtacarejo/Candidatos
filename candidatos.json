@@ -11975,5 +11975,45 @@
     "enviado_em": "2026-07-11T14:19:58.894908",
     "status": "Novo",
     "processado_em": "2026-07-11T14:19:58.894916"
+  },
+  {
+    "nome": "Felipe Santos da Silva",
+    "cpf": "129.184.474-04",
+    "telefone": "(11) 91286-8980",
+    "email": "felipeg7711@gmail.com",
+    "cep": "57308-780",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Juarez Pacheco da Silva",
+    "transporte": "Sim",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12918447404_Felipe_Santos_da_Silva_OPERADOR_DE_SUPERMERCADO_20260711_215503.pdf",
+    "arquivo_nome": "Currículo ….pdf",
+    "tamanho_arquivo": 123833,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Adiser comércio de alimentos Ltda ",
+        "funcao": "Atendente de lanchonete",
+        "data_admissao": "2017-08-14",
+        "data_demissao": "2020-03-20"
+      },
+      {
+        "empresa": "Cepam panificadora e restaurante Ltda ",
+        "funcao": "Atendente de lanchonete lancheiro ",
+        "data_admissao": "2021-08-18",
+        "data_demissao": "2024-04-15"
+      },
+      {
+        "empresa": "Village Cepam indústria de chocolates Ltda",
+        "funcao": "Auxiliar de produção de panetones ",
+        "data_admissao": "2025-09-23",
+        "data_demissao": "2025-12-05"
+      }
+    ],
+    "id": "0b8a1e00e377",
+    "enviado_em": "2026-07-11T21:55:05.458448",
+    "status": "Novo",
+    "processado_em": "2026-07-11T21:55:05.458457"
   }
 ]
