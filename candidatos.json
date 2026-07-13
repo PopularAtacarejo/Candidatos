@@ -11697,5 +11697,26 @@
         "timestamp": "2026-07-13T13:05:35.246169"
       }
     ]
+  },
+  {
+    "nome": "Alice de Souza Silva",
+    "cpf": "097.536.775-70",
+    "telefone": "(79) 99911-9344",
+    "email": "alicesouzasilva458@gmail.com",
+    "cep": "5731_-___",
+    "cidade": "Arapiraca",
+    "bairro": "Lagoa do Rancho",
+    "rua": "Vila São José ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09753677570_Alice_de_Souza_Silva_BALCONISTA_DE_PADARIA_20260713_151458.pdf",
+    "arquivo_nome": "inbound9062220709022252021.pdf",
+    "tamanho_arquivo": 187689,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "8cab1b7491a5",
+    "enviado_em": "2026-07-13T15:15:00.887961",
+    "status": "Novo",
+    "processado_em": "2026-07-13T15:15:00.887971"
   }
 ]
