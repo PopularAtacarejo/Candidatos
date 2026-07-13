@@ -11982,7 +11982,15 @@
     "id": "3b04dfca269d",
     "enviado_em": "2026-07-11T14:19:58.894908",
     "status": "Novo",
-    "processado_em": "2026-07-11T14:19:58.894916"
+    "processado_em": "2026-07-11T14:19:58.894916",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-13T14:28:29.526911",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-13T14:28:29.526911"
+      }
+    ]
   },
   {
     "nome": "Felipe Santos da Silva",
