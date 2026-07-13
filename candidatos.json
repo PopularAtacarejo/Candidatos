@@ -12022,7 +12022,15 @@
     "id": "0b8a1e00e377",
     "enviado_em": "2026-07-11T21:55:05.458448",
     "status": "Novo",
-    "processado_em": "2026-07-11T21:55:05.458457"
+    "processado_em": "2026-07-11T21:55:05.458457",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-13T13:05:30.711454",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-13T13:05:30.711454"
+      }
+    ]
   },
   {
     "nome": "Márcio Vitor Barbosa dos Santos",
