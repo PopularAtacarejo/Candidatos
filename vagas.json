@@ -337,5 +337,16 @@
     "created_by": "Maria Sabrina",
     "created_at": "2026-06-23T10:58:28.275349",
     "inserido_em": "2026-06-23T10:58:28.275349"
+  },
+  {
+    "id": "operador-de-empilhadeira",
+    "nome": "operador de empilhadeira",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Maria Sabrina",
+    "created_at": "2026-07-14T15:04:41.464373",
+    "inserido_em": "2026-07-14T15:04:41.464373"
   }
 ]
