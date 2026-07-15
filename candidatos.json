@@ -11615,5 +11615,57 @@
     "enviado_em": "2026-07-15T01:49:35.622098",
     "status": "Novo",
     "processado_em": "2026-07-15T01:49:35.622106"
+  },
+  {
+    "nome": "Vitória Camila Costa Albuquerque",
+    "cpf": "157.665.704-30",
+    "telefone": "(11) 92195-7499",
+    "email": "vihcamila@gmail.com",
+    "cep": "57308-310",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Jany Camelo Lima",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15766570430_Vitória_Camila_Costa_Albuquerque_OPERADOR_A_DE_CAIXA_20260715_020038.pdf",
+    "arquivo_nome": "Gabriel Pietro Teixeira Lima.pdf",
+    "tamanho_arquivo": 62754,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Pizzaria a família ",
+        "funcao": "Serviços gerais ",
+        "data_admissao": "2020-12-14",
+        "data_demissao": "2026-12-14"
+      },
+      {
+        "empresa": "Mercadinho Orti fruti feijão verde ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2021-12-14",
+        "data_demissao": "2022-08-14"
+      },
+      {
+        "empresa": "Pastelaria santa edwiges ",
+        "funcao": "Serviços gerais ",
+        "data_admissao": "2022-10-14",
+        "data_demissao": "2023-06-14"
+      },
+      {
+        "empresa": "Cabana aeroporto ltda (Guarulhos)",
+        "funcao": "Atendente ",
+        "data_admissao": "2024-11-14",
+        "data_demissao": "2025-05-14"
+      },
+      {
+        "empresa": "Coopersuzan ",
+        "funcao": "Cobradora",
+        "data_admissao": "2025-09-14",
+        "data_demissao": "2026-06-14"
+      }
+    ],
+    "id": "29aa1e565d08",
+    "enviado_em": "2026-07-15T02:00:40.969022",
+    "status": "Novo",
+    "processado_em": "2026-07-15T02:00:40.969031"
   }
 ]
