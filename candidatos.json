@@ -11805,5 +11805,26 @@
     "enviado_em": "2026-07-15T13:18:38.084771",
     "status": "Novo",
     "processado_em": "2026-07-15T13:18:38.084780"
+  },
+  {
+    "nome": "Jocieliton Feitosa dos Santos",
+    "cpf": "083.368.824-30",
+    "telefone": "(65) 99697-4587",
+    "email": "jocieliton1988@gmail.com",
+    "cep": "57305-670",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Avenida Miguel Correia Amorim",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08336882430_Jocieliton_Feitosa_dos_Santos_operador_de_empilhadeira_20260715_133721.pdf",
+    "arquivo_nome": "inbound1681769681480121607.pdf",
+    "tamanho_arquivo": 218668,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "6cd4ab8a11f0",
+    "enviado_em": "2026-07-15T13:37:23.299547",
+    "status": "Novo",
+    "processado_em": "2026-07-15T13:37:23.299557"
   }
 ]
