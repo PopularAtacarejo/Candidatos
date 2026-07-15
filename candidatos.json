@@ -11777,5 +11777,33 @@
     "enviado_em": "2026-07-15T13:37:23.299547",
     "status": "Novo",
     "processado_em": "2026-07-15T13:37:23.299557"
+  },
+  {
+    "nome": "Gleysiane Inácio",
+    "cpf": "153.620.704-79",
+    "telefone": "(82) 99607-7896",
+    "email": "gleysianeinacio46@gmail.com",
+    "cep": "57305-050",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Domingos Evangelista",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15362070479_Gleysiane_Inácio_OPERADOR_A_DE_CAIXA_20260715_152031.pdf",
+    "arquivo_nome": "inbound4177170506552037656.pdf",
+    "tamanho_arquivo": 23727,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Loja Ilha dourada",
+        "funcao": "Operadora de e vendedora ",
+        "data_admissao": "2026-03-10",
+        "data_demissao": "2026-07-06"
+      }
+    ],
+    "id": "9d2050228ced",
+    "enviado_em": "2026-07-15T15:20:33.126218",
+    "status": "Novo",
+    "processado_em": "2026-07-15T15:20:33.126229"
   }
 ]
