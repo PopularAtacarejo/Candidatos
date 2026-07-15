@@ -11805,5 +11805,26 @@
     "enviado_em": "2026-07-15T15:20:33.126218",
     "status": "Novo",
     "processado_em": "2026-07-15T15:20:33.126229"
+  },
+  {
+    "nome": "Julia Kelly gomes dos Santos",
+    "cpf": "122.863.904-36",
+    "telefone": "(82) 99659-7671",
+    "email": "juliakellygomez90@gmail.com",
+    "cep": "57301-040",
+    "cidade": "Arapiraca",
+    "bairro": "Ouro Preto",
+    "rua": "Rua Senhor dos Pobres",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12286390436_Julia_Kelly_gomes_dos_Santos_REPOSITOR_A_20260715_152358.pdf",
+    "arquivo_nome": "Curriculo_Julia_Kelly_Atualizado 3.pdf",
+    "tamanho_arquivo": 2062,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "66a9871bb6cb",
+    "enviado_em": "2026-07-15T15:23:59.622959",
+    "status": "Novo",
+    "processado_em": "2026-07-15T15:23:59.622970"
   }
 ]
