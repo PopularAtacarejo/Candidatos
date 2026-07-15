@@ -11709,5 +11709,45 @@
     "enviado_em": "2026-07-15T02:19:02.509868",
     "status": "Novo",
     "processado_em": "2026-07-15T02:19:02.509879"
+  },
+  {
+    "nome": "Cintia luise de lima",
+    "cpf": "037.961.174-06",
+    "telefone": "(82) 99386-9061",
+    "email": "cintialuise336@gmail.com",
+    "cep": "57302-764",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Ivanildo Vieira de Góis",
+    "transporte": "Não",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/03796117406_Cintia_luise_de_lima_Fiscal_de_Caixa_20260715_110926.pdf",
+    "arquivo_nome": "inbound3021795578777416276.pdf",
+    "tamanho_arquivo": 89226,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão S/A",
+        "funcao": "Operadora de caixa e ferista do RM",
+        "data_admissao": "2018-06-09",
+        "data_demissao": "2021-10-01"
+      },
+      {
+        "empresa": "IBN Pinto Grupo J Pinto ",
+        "funcao": "Atendente e frentista ",
+        "data_admissao": "2016-01-01",
+        "data_demissao": "2018-05-26"
+      },
+      {
+        "empresa": "Diesel Distribuidora,Grupo Luiz Jatobá ",
+        "funcao": "Auxiliar administrativo,aux.setor pessoal,aux.de tesouraria ,gerente de pistae gerente de posto administrativo ",
+        "data_admissao": "2010-03-01",
+        "data_demissao": "2014-01-19"
+      }
+    ],
+    "id": "77060df62194",
+    "enviado_em": "2026-07-15T11:09:29.084425",
+    "status": "Novo",
+    "processado_em": "2026-07-15T11:09:29.084434"
   }
 ]
