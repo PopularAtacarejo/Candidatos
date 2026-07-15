@@ -1,54 +1,5 @@
 [
   {
-    "nome": "Edkelner Flávio Ferreira Veríssimo",
-    "cpf": "111.440.904-90",
-    "telefone": "(82) 99124-8948",
-    "email": "edkelnerflavio@gmail.com",
-    "cep": "57302-760",
-    "cidade": "Arapiraca",
-    "bairro": "Canafístula",
-    "rua": "Rua Vital Curi",
-    "transporte": "Sim",
-    "vaga": "EMBALADOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11144090490_Edkelner_Flávio_Ferreira_Veríssimo_EMBALADOR_A_20260416_142801.pdf",
-    "arquivo_nome": "inbound442544330659924276.pdf",
-    "tamanho_arquivo": 239265,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Casa H L",
-        "funcao": "Entregador",
-        "data_admissao": "2025-09-25",
-        "data_demissao": "2026-03-25"
-      }
-    ],
-    "id": "d3cc530fe090",
-    "enviado_em": "2026-04-16T14:28:03.054469",
-    "status": "Novo",
-    "processado_em": "2026-04-16T14:28:03.054479"
-  },
-  {
-    "nome": "Guilhermy Vyctor Bezerra Da Silva",
-    "cpf": "175.402.284-74",
-    "telefone": "(82) 99968-0464",
-    "email": "guilhermy00714@gmail.com",
-    "cep": "57315-738",
-    "cidade": "Arapiraca",
-    "bairro": "Senador Arnon de Melo",
-    "rua": "Rua Pedro Barbosa Bela",
-    "transporte": "Não",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17540228474_Guilhermy_Vyctor_Bezerra_Da_Silva_REPOSITOR_A_20260416_150358.pdf",
-    "arquivo_nome": "Currículo A4 simples preto.pdf",
-    "tamanho_arquivo": 397733,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "9b087f6a7191",
-    "enviado_em": "2026-04-16T15:04:00.129332",
-    "status": "Novo",
-    "processado_em": "2026-04-16T15:04:00.129342"
-  },
-  {
     "nome": "Endereço pessoal de LUANA GUEDES SOUZA",
     "cpf": "081.976.204-07",
     "telefone": "(82) 99431-1566",
