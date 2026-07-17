@@ -11857,5 +11857,33 @@
     "enviado_em": "2026-07-17T12:47:38.537703",
     "status": "Novo",
     "processado_em": "2026-07-17T12:47:38.537713"
+  },
+  {
+    "nome": "Joel andre justino de oliveira",
+    "cpf": "713.418.964-39",
+    "telefone": "(82) 99973-1407",
+    "email": "levitajoel17@gmail.com",
+    "cep": "57302-679",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Sebastiana Izídio de Oliveira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR DE SUPERMERCADO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71341896439_Joel_andre_justino_de_oliveira_OPERADOR_DE_SUPERMERCADO_20260717_125016.pdf",
+    "arquivo_nome": "inbound1034456235431479881.pdf",
+    "tamanho_arquivo": 454,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Carvalho supermercado ",
+        "funcao": "Motorista ",
+        "data_admissao": "2024-07-17",
+        "data_demissao": "2026-07-08"
+      }
+    ],
+    "id": "23da970ec5b5",
+    "enviado_em": "2026-07-17T12:50:18.002521",
+    "status": "Novo",
+    "processado_em": "2026-07-17T12:50:18.002533"
   }
 ]
