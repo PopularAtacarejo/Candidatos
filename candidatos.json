@@ -12088,5 +12088,51 @@
     "enviado_em": "2026-07-17T18:29:01.048372",
     "status": "Novo",
     "processado_em": "2026-07-17T18:29:01.048383"
+  },
+  {
+    "nome": "Willian Mahonri Ferreira",
+    "cpf": "149.739.194-62",
+    "telefone": "(82) 99369-0865",
+    "email": "ferreiramahonri3@gmail.com",
+    "cep": "57311-180",
+    "cidade": "Arapiraca ",
+    "bairro": "Massaranduba ",
+    "rua": "Av pedro tetuliano",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14973919462_Willian_Mahonri_Ferreira_OPERADOR_A_DE_CAIXA_20260717_185409.pdf",
+    "arquivo_nome": "Curriculum_mahonri_ferreira.pdf",
+    "tamanho_arquivo": 4181,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Arapiraca Distribuidora",
+        "funcao": "Atendente ",
+        "data_admissao": "2019-08-17",
+        "data_demissao": "2020-01-17"
+      },
+      {
+        "empresa": "Radio Viva Fm",
+        "funcao": "Sonoplasta",
+        "data_admissao": "2020-12-07",
+        "data_demissao": "2023-04-17"
+      },
+      {
+        "empresa": "Bobs",
+        "funcao": "Atendente",
+        "data_admissao": "2023-08-17",
+        "data_demissao": "2024-01-17"
+      },
+      {
+        "empresa": "Radio estadão Alagoas",
+        "funcao": "Redator e Sonoplasta",
+        "data_admissao": "2024-01-17",
+        "data_demissao": "2024-04-17"
+      }
+    ],
+    "id": "97ba6dd0b3c7",
+    "enviado_em": "2026-07-17T18:54:10.755076",
+    "status": "Novo",
+    "processado_em": "2026-07-17T18:54:10.755084"
   }
 ]
