@@ -12011,5 +12011,33 @@
     "enviado_em": "2026-07-17T16:41:12.813086",
     "status": "Novo",
     "processado_em": "2026-07-17T16:41:12.813095"
+  },
+  {
+    "nome": "Maria Letícia Pereira Nunes",
+    "cpf": "152.054.574-65",
+    "telefone": "(82) 99902-3360",
+    "email": "nunesmarrialeticiaz@gmail.com",
+    "cep": "57316-035",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua Japaratinga",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15205457465_Maria_Letícia_Pereira_Nunes_OPERADOR_A_DE_CAIXA_20260717_173718.pdf",
+    "arquivo_nome": "Currícul-Maria-Letícia _20260713_224159_0000.pdf",
+    "tamanho_arquivo": 53185,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC Centro de Contatos S.A",
+        "funcao": "Operador de telemarketing ",
+        "data_admissao": "2024-02-02",
+        "data_demissao": "2024-08-01"
+      }
+    ],
+    "id": "0cc8c7ead35d",
+    "enviado_em": "2026-07-17T17:37:20.373348",
+    "status": "Novo",
+    "processado_em": "2026-07-17T17:37:20.373359"
   }
 ]
