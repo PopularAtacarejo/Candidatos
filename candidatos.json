@@ -11941,5 +11941,33 @@
     "enviado_em": "2026-07-17T13:45:11.295545",
     "status": "Novo",
     "processado_em": "2026-07-17T13:45:11.295555"
+  },
+  {
+    "nome": "Raynan Santos",
+    "cpf": "129.820.774-69",
+    "telefone": "(82) 99615-6158",
+    "email": "sraynan166@gmail.com",
+    "cep": "57310-111",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Dom Felício Vasconcelos",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12982077469_Raynan_Santos_operador_de_empilhadeira_20260717_144336.pdf",
+    "arquivo_nome": "inbound4149043784253578976.pdf",
+    "tamanho_arquivo": 177852,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "José Aparecido Cavalcante ",
+        "funcao": "Motociclista entregador ",
+        "data_admissao": "2025-07-01",
+        "data_demissao": "2026-07-24"
+      }
+    ],
+    "id": "c7f0a8f8e217",
+    "enviado_em": "2026-07-17T14:43:38.728434",
+    "status": "Novo",
+    "processado_em": "2026-07-17T14:43:38.728442"
   }
 ]
