@@ -56,25 +56,6 @@
     "updated_at": "2026-07-06T17:42:16.554724"
   },
   {
-    "nome": "CONFEITEIRO",
-    "descricao": "",
-    "departamento": "",
-    "localizacao": "",
-    "salario": "",
-    "tipo_contrato": "",
-    "requisitos": [],
-    "beneficios": [],
-    "status": "inativa",
-    "vagas_disponiveis": 1,
-    "created_by": "Jeferson",
-    "id": "5",
-    "criado_em": "2026-01-27T16:27:28.262149",
-    "criado_por": "Jeferson",
-    "atualizado_em": "2026-01-27T16:27:28.262149",
-    "atualizado_por": "Jeferson",
-    "updated_at": "2026-07-06T17:42:23.431605"
-  },
-  {
     "nome": "REPOSITOR DE FRIOS",
     "descricao": "",
     "departamento": "",
