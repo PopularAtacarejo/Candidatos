@@ -11990,5 +11990,26 @@
     "enviado_em": "2026-07-17T16:19:09.722497",
     "status": "Novo",
     "processado_em": "2026-07-17T16:19:09.722505"
+  },
+  {
+    "nome": "Jenny",
+    "cpf": "166.137.984-28",
+    "telefone": "(82) 9999-7298",
+    "email": "jenifertainara17@gmail.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16613798428_Jenny_BALCONISTA_DE_PADARIA_20260717_164110.pdf",
+    "arquivo_nome": "Currículo simples preto e cinza_20260717_133858_0000.pdf",
+    "tamanho_arquivo": 107245,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "7b54337041f8",
+    "enviado_em": "2026-07-17T16:41:12.813086",
+    "status": "Novo",
+    "processado_em": "2026-07-17T16:41:12.813095"
   }
 ]
