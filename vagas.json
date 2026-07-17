@@ -119,14 +119,15 @@
     "tipo_contrato": "",
     "requisitos": [],
     "beneficios": [],
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "created_by": "Jeferson",
     "id": "11",
     "criado_em": "2026-01-27T16:28:53.565158",
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:28:53.565158",
-    "atualizado_por": "Jeferson"
+    "atualizado_por": "Jeferson",
+    "updated_at": "2026-07-17T11:49:05.996693"
   },
   {
     "nome": "AUXILIAR DE PADEIRO",
