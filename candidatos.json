@@ -12225,5 +12225,26 @@
     "enviado_em": "2026-07-17T22:41:56.514785",
     "status": "Novo",
     "processado_em": "2026-07-17T22:41:56.514792"
+  },
+  {
+    "nome": "Júlia Eloá Bento da Silva",
+    "cpf": "174.198.204-90",
+    "telefone": "(82) 98135-7059",
+    "email": "juliabentosv@hotmail.com",
+    "cep": "57307-460",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua Maria de Castro Tavares",
+    "transporte": "Não",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17419820490_Júlia_Eloá_Bento_da_Silva_Fiscal_de_Caixa_20260717_224426.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 64942,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e13110ae749b",
+    "enviado_em": "2026-07-17T22:44:27.945279",
+    "status": "Novo",
+    "processado_em": "2026-07-17T22:44:27.945287"
   }
 ]
