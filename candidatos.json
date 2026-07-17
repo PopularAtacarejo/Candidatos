@@ -11913,5 +11913,33 @@
     "enviado_em": "2026-07-17T13:19:29.858659",
     "status": "Novo",
     "processado_em": "2026-07-17T13:19:29.858668"
+  },
+  {
+    "nome": "Rayne Gomes de Souza",
+    "cpf": "126.786.664-09",
+    "telefone": "(19) 98148-8492",
+    "email": "souzarayne738@gmail.com",
+    "cep": "57305-730",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua José Rodrigues de Lima",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12678666409_Rayne_Gomes_de_Souza_OPERADOR_A_DE_CAIXA_20260717_134509.pdf",
+    "arquivo_nome": "inbound6207942760020188934.pdf",
+    "tamanho_arquivo": 89476,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercados caetano -valinhos/SP",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2018-08-20",
+        "data_demissao": "2025-03-12"
+      }
+    ],
+    "id": "9eadcf19dddb",
+    "enviado_em": "2026-07-17T13:45:11.295545",
+    "status": "Novo",
+    "processado_em": "2026-07-17T13:45:11.295555"
   }
 ]
