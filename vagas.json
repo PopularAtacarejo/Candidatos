@@ -137,14 +137,15 @@
     "tipo_contrato": "",
     "requisitos": [],
     "beneficios": [],
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "created_by": "Jeferson",
     "id": "12",
     "criado_em": "2026-01-27T16:29:02.648007",
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:29:02.648007",
-    "atualizado_por": "Jeferson"
+    "atualizado_por": "Jeferson",
+    "updated_at": "2026-07-17T11:48:59.604781"
   },
   {
     "nome": "BALCONISTA DE PADARIA",
