@@ -12267,5 +12267,33 @@
     "enviado_em": "2026-07-17T23:27:08.250099",
     "status": "Novo",
     "processado_em": "2026-07-17T23:27:08.250108"
+  },
+  {
+    "nome": "Marta do Nascimento Tavares",
+    "cpf": "103.207.134-66",
+    "telefone": "(82) 99938-8737",
+    "email": "marta.tavares.edf@gmail.com",
+    "cep": "57302-768",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Manoel dos Santos Costa",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10320713466_Marta_do_Nascimento_Tavares_OPERADOR_A_DE_CAIXA_20260717_235832.pdf",
+    "arquivo_nome": "inbound2203340524029674928.pdf",
+    "tamanho_arquivo": 76626,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Assaí ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2024-06-18",
+        "data_demissao": "2025-07-16"
+      }
+    ],
+    "id": "457cefda8a2a",
+    "enviado_em": "2026-07-17T23:58:34.639158",
+    "status": "Novo",
+    "processado_em": "2026-07-17T23:58:34.639166"
   }
 ]
