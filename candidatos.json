@@ -11829,5 +11829,33 @@
     "enviado_em": "2026-07-17T12:28:03.796579",
     "status": "Novo",
     "processado_em": "2026-07-17T12:28:03.796591"
+  },
+  {
+    "nome": "Joel André Justino de Oliveira",
+    "cpf": "713.418.964-39",
+    "telefone": "(82) 99973-1407",
+    "email": "levitajoel17@gmail.com",
+    "cep": "57302-639",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Adriana Maria de Lima",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71341896439_Joel_André_Justino_de_Oliveira_AUX._DE_ESTOQUE_20260717_124737.pdf",
+    "arquivo_nome": "inbound547396307251254159.pdf",
+    "tamanho_arquivo": 454,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Capitão supermercado ",
+        "funcao": "Operador de loja",
+        "data_admissao": "2025-01-01",
+        "data_demissao": "2026-07-31"
+      }
+    ],
+    "id": "dcc96c5651e3",
+    "enviado_em": "2026-07-17T12:47:38.537703",
+    "status": "Novo",
+    "processado_em": "2026-07-17T12:47:38.537713"
   }
 ]
