@@ -173,14 +173,15 @@
     "tipo_contrato": "",
     "requisitos": [],
     "beneficios": [],
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "created_by": "Jeferson",
     "id": "14",
     "criado_em": "2026-01-27T16:29:17.463468",
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:29:17.463468",
-    "atualizado_por": "Jeferson"
+    "atualizado_por": "Jeferson",
+    "updated_at": "2026-07-17T11:48:55.485038"
   },
   {
     "nome": "REPOSITOR (A)",
