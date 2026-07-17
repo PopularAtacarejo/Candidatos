@@ -11765,5 +11765,33 @@
         "timestamp": "2026-07-16T10:24:02.075777"
       }
     ]
+  },
+  {
+    "nome": "Maria Vitória ferreira",
+    "cpf": "141.162.474-21",
+    "telefone": "(82) 98770-4113",
+    "email": "ferreiravitoriaferreira55@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca ",
+    "bairro": "Canafistula ",
+    "rua": "Loteamento Campo Grande ",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14116247421_Maria_Vitória_ferreira_ASSISTENTE_DE_RH_20260717_012614.pdf",
+    "arquivo_nome": "signyoucinemobile_aconvite-pm.pdf",
+    "tamanho_arquivo": 109066,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jangadeiro ",
+        "funcao": "Produção ",
+        "data_admissao": "2023-06-26",
+        "data_demissao": "2026-06-30"
+      }
+    ],
+    "id": "982a69424f8e",
+    "enviado_em": "2026-07-17T01:26:16.700687",
+    "status": "Novo",
+    "processado_em": "2026-07-17T01:26:16.700693"
   }
 ]
