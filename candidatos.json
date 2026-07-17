@@ -12060,5 +12060,33 @@
     "enviado_em": "2026-07-17T18:03:09.871947",
     "status": "Novo",
     "processado_em": "2026-07-17T18:03:09.871955"
+  },
+  {
+    "nome": "Iara pastora dos Santos",
+    "cpf": "118.875.814-48",
+    "telefone": "(82) 99673-8755",
+    "email": "yarasts2021@gmail.com",
+    "cep": "57309-548",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Professora Paulina Vieira Silva",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11887581448_Iara_pastora_dos_Santos_BALCONISTA_DE_PADARIA_20260717_182859.pdf",
+    "arquivo_nome": "inbound660039835431496889.pdf",
+    "tamanho_arquivo": 20436,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Grall rancho português ",
+        "funcao": "Atendente ",
+        "data_admissao": "2025-06-10",
+        "data_demissao": "2026-07-12"
+      }
+    ],
+    "id": "a42eb6aece4a",
+    "enviado_em": "2026-07-17T18:29:01.048372",
+    "status": "Novo",
+    "processado_em": "2026-07-17T18:29:01.048383"
   }
 ]
