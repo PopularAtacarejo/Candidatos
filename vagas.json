@@ -93,25 +93,6 @@
     "updated_at": "2026-07-17T11:47:43.520958"
   },
   {
-    "nome": "OPERADOR DE SUPERMERCADO",
-    "descricao": "",
-    "departamento": "",
-    "localizacao": "",
-    "salario": "",
-    "tipo_contrato": "",
-    "requisitos": [],
-    "beneficios": [],
-    "status": "inativa",
-    "vagas_disponiveis": 1,
-    "created_by": "Jeferson",
-    "id": "8",
-    "criado_em": "2026-01-27T16:27:51.442267",
-    "criado_por": "Jeferson",
-    "atualizado_em": "2026-01-27T16:27:51.442267",
-    "atualizado_por": "Jeferson",
-    "updated_at": "2026-07-17T11:47:45.715612"
-  },
-  {
     "nome": "BALCONISTA DE AÇOUGUE",
     "descricao": "",
     "departamento": "",
