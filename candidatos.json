@@ -11885,5 +11885,33 @@
     "enviado_em": "2026-07-17T12:50:18.002521",
     "status": "Novo",
     "processado_em": "2026-07-17T12:50:18.002533"
+  },
+  {
+    "nome": "Silvanete Viturino Da Silva Oliveira",
+    "cpf": "094.946.444-92",
+    "telefone": "(82) 98136-3197",
+    "email": "silvanetesil22@hotmail.com",
+    "cep": "_____-___",
+    "cidade": "Girau do Ponciano",
+    "bairro": "São Tarcísio ",
+    "rua": "Rua professora Dinair dos Santos costa ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09494644492_Silvanete_Viturino_Da_Silva_Oliveira_REPOSITOR_A_20260717_131927.pdf",
+    "arquivo_nome": "inbound4916675556532540977.pdf",
+    "tamanho_arquivo": 1956876,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado bom de preço ",
+        "funcao": "Repositor ",
+        "data_admissao": "2018-01-02",
+        "data_demissao": "2020-04-02"
+      }
+    ],
+    "id": "89558416bb4c",
+    "enviado_em": "2026-07-17T13:19:29.858659",
+    "status": "Novo",
+    "processado_em": "2026-07-17T13:19:29.858668"
   }
 ]
