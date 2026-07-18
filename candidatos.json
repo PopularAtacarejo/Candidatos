@@ -12396,5 +12396,33 @@
     "enviado_em": "2026-07-18T11:20:07.229821",
     "status": "Novo",
     "processado_em": "2026-07-18T11:20:07.229829"
+  },
+  {
+    "nome": "FABIO HENRIQUE DA SILVA MELO8",
+    "cpf": "119.049.954-11",
+    "telefone": "(82) 9804-1771",
+    "email": "melofabiomelo47@gmail.com",
+    "cep": "57302-175",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua José Jaime Alves dos Santos",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11904995411_FABIO_HENRIQUE_DA_SILVA_MELO8_REPOSITOR_A_20260718_175913.pdf",
+    "arquivo_nome": "Currículo simples preto e branco _20260708_120528_0000.pdf",
+    "tamanho_arquivo": 39269,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mix Mateus ",
+        "funcao": "Auxiliar de frente de loja ",
+        "data_admissao": "2026-02-12",
+        "data_demissao": "2026-05-04"
+      }
+    ],
+    "id": "bcd4ef725c7e",
+    "enviado_em": "2026-07-18T17:59:15.100919",
+    "status": "Novo",
+    "processado_em": "2026-07-18T17:59:15.100927"
   }
 ]
