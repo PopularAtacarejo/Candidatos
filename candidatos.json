@@ -12295,5 +12295,39 @@
     "enviado_em": "2026-07-17T23:58:34.639158",
     "status": "Novo",
     "processado_em": "2026-07-17T23:58:34.639166"
+  },
+  {
+    "nome": "Maria iara dos Santos",
+    "cpf": "089.944.414-84",
+    "telefone": "(82) 99917-7073",
+    "email": "meusarquivos200608@gmail.com",
+    "cep": "57303-304",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Josué Lino da Silva",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08994441484_Maria_iara_dos_Santos_OPERADOR_A_DE_CAIXA_20260718_023941.pdf",
+    "arquivo_nome": "inbound6018783688757210149.pdf",
+    "tamanho_arquivo": 231072,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado são luiz",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2025-10-06",
+        "data_demissao": "2026-06-11"
+      },
+      {
+        "empresa": "Cacau show ",
+        "funcao": "Atendente e caixa ",
+        "data_admissao": "2023-01-10",
+        "data_demissao": "2025-07-14"
+      }
+    ],
+    "id": "933ed2d5840e",
+    "enviado_em": "2026-07-18T02:39:43.217377",
+    "status": "Novo",
+    "processado_em": "2026-07-18T02:39:43.217395"
   }
 ]
