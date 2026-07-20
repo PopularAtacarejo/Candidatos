@@ -12245,7 +12245,15 @@
     "id": "457cefda8a2a",
     "enviado_em": "2026-07-17T23:58:34.639158",
     "status": "Novo",
-    "processado_em": "2026-07-17T23:58:34.639166"
+    "processado_em": "2026-07-17T23:58:34.639166",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-20T10:37:55.753145",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-20T10:37:55.753145"
+      }
+    ]
   },
   {
     "nome": "Maria iara dos Santos",
