@@ -12345,7 +12345,7 @@
     ],
     "id": "c54fd924a412",
     "enviado_em": "2026-07-18T11:16:42.869648",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-18T11:16:42.869656",
     "ultimo_visualizador": "Maria Sabrina",
     "ultimo_visualizado_em": "2026-07-20T10:34:09.449471",
@@ -12354,7 +12354,12 @@
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-20T10:34:09.449471"
       }
-    ]
+    ],
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-20T10:36:38.711572",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Karine Stephanie Souza Barbosa Lima",
