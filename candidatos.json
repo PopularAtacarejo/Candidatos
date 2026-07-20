@@ -12429,16 +12429,13 @@
     ],
     "id": "dc6b6836c8ff",
     "enviado_em": "2026-07-18T22:01:37.034618",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-18T22:01:37.034626",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-20T10:31:35.013253",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-20T10:31:35.013253"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-20T10:32:07.615897",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Valdice da Silva",
