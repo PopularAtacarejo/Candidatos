@@ -12551,16 +12551,13 @@
     ],
     "id": "25d3f763462c",
     "enviado_em": "2026-07-20T00:54:26.051857",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-20T00:54:26.051865",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-20T10:48:10.512474",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-20T10:48:10.512474"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-20T10:48:17.456268",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Francisco Ananias dos Santos",
