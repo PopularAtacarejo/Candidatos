@@ -12346,7 +12346,15 @@
     "id": "c54fd924a412",
     "enviado_em": "2026-07-18T11:16:42.869648",
     "status": "Novo",
-    "processado_em": "2026-07-18T11:16:42.869656"
+    "processado_em": "2026-07-18T11:16:42.869656",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-20T10:34:05.396722",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-20T10:34:05.396722"
+      }
+    ]
   },
   {
     "nome": "Karine Stephanie Souza Barbosa Lima",
@@ -12493,15 +12501,7 @@
     "id": "25d3f763462c",
     "enviado_em": "2026-07-20T00:54:26.051857",
     "status": "Novo",
-    "processado_em": "2026-07-20T00:54:26.051865",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-20T10:33:37.887586",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-20T10:33:37.887586"
-      }
-    ]
+    "processado_em": "2026-07-20T00:54:26.051865"
   },
   {
     "nome": "Francisco Ananias dos Santos",
