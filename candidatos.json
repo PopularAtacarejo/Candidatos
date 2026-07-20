@@ -12415,7 +12415,15 @@
     "id": "bcd4ef725c7e",
     "enviado_em": "2026-07-18T17:59:15.100919",
     "status": "Novo",
-    "processado_em": "2026-07-18T17:59:15.100927"
+    "processado_em": "2026-07-18T17:59:15.100927",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-20T10:37:07.223723",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-20T10:37:07.223723"
+      }
+    ]
   },
   {
     "nome": "José Matheus Almeida Silva",
