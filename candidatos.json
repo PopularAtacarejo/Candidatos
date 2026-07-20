@@ -12138,7 +12138,15 @@
     "id": "51ab447d38ca",
     "enviado_em": "2026-07-17T19:00:49.299652",
     "status": "Novo",
-    "processado_em": "2026-07-17T19:00:49.299662"
+    "processado_em": "2026-07-17T19:00:49.299662",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-20T10:45:32.744184",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-20T10:45:32.744184"
+      }
+    ]
   },
   {
     "nome": "Kellyne Kelly da Silva Santos",
