@@ -12084,7 +12084,15 @@
     "id": "97ba6dd0b3c7",
     "enviado_em": "2026-07-17T18:54:10.755076",
     "status": "Novo",
-    "processado_em": "2026-07-17T18:54:10.755084"
+    "processado_em": "2026-07-17T18:54:10.755084",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-20T10:43:43.079490",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-20T10:43:43.079490"
+      }
+    ]
   },
   {
     "nome": "Lucilania Alves da Silva",
@@ -12175,15 +12183,7 @@
     "id": "b62024bba154",
     "enviado_em": "2026-07-17T22:41:56.514785",
     "status": "Novo",
-    "processado_em": "2026-07-17T22:41:56.514792",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-20T10:42:32.891720",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-20T10:42:32.891720"
-      }
-    ]
+    "processado_em": "2026-07-17T22:41:56.514792"
   },
   {
     "nome": "Júlia Eloá Bento da Silva",
