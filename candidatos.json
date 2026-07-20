@@ -12217,7 +12217,15 @@
     "id": "292d2f57e1ad",
     "enviado_em": "2026-07-17T23:27:08.250099",
     "status": "Novo",
-    "processado_em": "2026-07-17T23:27:08.250108"
+    "processado_em": "2026-07-17T23:27:08.250108",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-20T10:41:33.355483",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-20T10:41:33.355483"
+      }
+    ]
   },
   {
     "nome": "Marta do Nascimento Tavares",
