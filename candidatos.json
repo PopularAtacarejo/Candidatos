@@ -12244,16 +12244,13 @@
     ],
     "id": "457cefda8a2a",
     "enviado_em": "2026-07-17T23:58:34.639158",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-17T23:58:34.639166",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-20T10:38:17.739067",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-20T10:38:17.739067"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-20T10:38:23.869970",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Maria iara dos Santos",
