@@ -12083,16 +12083,13 @@
     ],
     "id": "97ba6dd0b3c7",
     "enviado_em": "2026-07-17T18:54:10.755076",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-17T18:54:10.755084",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-20T10:44:30.471695",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-20T10:44:30.471695"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-20T10:44:34.739669",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Lucilania Alves da Silva",
