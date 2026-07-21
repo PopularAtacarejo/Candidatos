@@ -12573,5 +12573,39 @@
     "enviado_em": "2026-07-21T16:11:45.912075",
     "status": "Novo",
     "processado_em": "2026-07-21T16:11:45.912085"
+  },
+  {
+    "nome": "Jose Luiz masceno da Silva",
+    "cpf": "715.811.574-79",
+    "telefone": "(82) 9657-7429",
+    "email": "joseluizmascenodasilva2@gmail.com",
+    "cep": "57317-562",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas",
+    "rua": "Rua José Galdino dos Santos",
+    "transporte": "Sim",
+    "vaga": "AÇOUGUEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71581157479_Jose_Luiz_masceno_da_Silva_AÇOUGUEIRO_20260721_224340.pdf",
+    "arquivo_nome": "inbound1308543436268581359.pdf",
+    "tamanho_arquivo": 95046,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Abc atacadista ",
+        "funcao": "Açougueiro ",
+        "data_admissao": "2026-03-12",
+        "data_demissao": "2026-06-25"
+      },
+      {
+        "empresa": "Maglioni ribeiro ltda",
+        "funcao": "Auxiliar de açougue ",
+        "data_admissao": "2025-10-01",
+        "data_demissao": "2026-04-01"
+      }
+    ],
+    "id": "5ec3d82d15ab",
+    "enviado_em": "2026-07-21T22:43:41.711275",
+    "status": "Novo",
+    "processado_em": "2026-07-21T22:43:41.711290"
   }
 ]
