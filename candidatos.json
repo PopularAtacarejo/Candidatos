@@ -12635,5 +12635,33 @@
     "enviado_em": "2026-07-22T07:53:42.641236",
     "status": "Novo",
     "processado_em": "2026-07-22T07:53:42.641247"
+  },
+  {
+    "nome": "José bezerra da Silva filho",
+    "cpf": "051.004.154-01",
+    "telefone": "(11) 98215-8582",
+    "email": "jose.fillho@hotmail.com",
+    "cep": "57300-460",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Santa Terezinha",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05100415401_José_bezerra_da_Silva_filho_REPOSITOR_DE_FRIOS_20260722_123907.pdf",
+    "arquivo_nome": "inbound3796182875529433420.pdf",
+    "tamanho_arquivo": 112046,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Grupo fartura de Hortifruti ",
+        "funcao": "Supervisor de loja",
+        "data_admissao": "2012-11-14",
+        "data_demissao": "2026-03-03"
+      }
+    ],
+    "id": "ae3c9a6781b6",
+    "enviado_em": "2026-07-22T12:39:09.496727",
+    "status": "Novo",
+    "processado_em": "2026-07-22T12:39:09.496738"
   }
 ]
