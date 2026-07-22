@@ -12663,5 +12663,33 @@
     "enviado_em": "2026-07-22T12:39:09.496727",
     "status": "Novo",
     "processado_em": "2026-07-22T12:39:09.496738"
+  },
+  {
+    "nome": "Clebson cleiton da Silva Araujo Santos",
+    "cpf": "135.993.464-29",
+    "telefone": "(82) 99309-1575",
+    "email": "clebsoncleiton021@gmail.com",
+    "cep": "57313-000",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Santa Rita",
+    "transporte": "Sim",
+    "vaga": "AÇOUGUEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13599346429_Clebson_cleiton_da_Silva_Araujo_Santos_AÇOUGUEIRO_20260722_155057.docx",
+    "arquivo_nome": "inbound2000834809263957807.docx",
+    "tamanho_arquivo": 29071,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Cestão da Econômia ",
+        "funcao": "Açougueiro ",
+        "data_admissao": "2024-11-09",
+        "data_demissao": "2026-03-27"
+      }
+    ],
+    "id": "58b6cc8eaca4",
+    "enviado_em": "2026-07-22T15:50:59.047831",
+    "status": "Novo",
+    "processado_em": "2026-07-22T15:50:59.047839"
   }
 ]
