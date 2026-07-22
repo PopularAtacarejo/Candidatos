@@ -12753,5 +12753,33 @@
     "enviado_em": "2026-07-22T23:08:06.859758",
     "status": "Novo",
     "processado_em": "2026-07-22T23:08:06.859768"
+  },
+  {
+    "nome": "Ana lyvia Rocha Santos",
+    "cpf": "150.261.774-92",
+    "telefone": "(82) 99618-6123",
+    "email": "anarochalyvia@gmail.com",
+    "cep": "57312-230",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua da Liberdade",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15026177492_Ana_lyvia_Rocha_Santos_OPERADOR_A_DE_CAIXA_20260722_234840.pdf",
+    "arquivo_nome": "inbound2585637869431475928.pdf",
+    "tamanho_arquivo": 112661,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ly boutique ",
+        "funcao": "Vendedora ",
+        "data_admissao": "2025-11-26",
+        "data_demissao": "2026-01-07"
+      }
+    ],
+    "id": "b77bfd9b2ce2",
+    "enviado_em": "2026-07-22T23:48:42.319388",
+    "status": "Novo",
+    "processado_em": "2026-07-22T23:48:42.319399"
   }
 ]
