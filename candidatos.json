@@ -12725,5 +12725,33 @@
     "enviado_em": "2026-07-22T19:56:26.847289",
     "status": "Novo",
     "processado_em": "2026-07-22T19:56:26.847300"
+  },
+  {
+    "nome": "Bianca Carolina da Costa",
+    "cpf": "082.146.364-00",
+    "telefone": "(82) 99619-8208",
+    "email": "bc9123904@gmail.com",
+    "cep": "57304-562",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Manoel Leal",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08214636400_Bianca_Carolina_da_Costa_ASSISTENTE_DE_RH_20260722_230805.pdf",
+    "arquivo_nome": "inbound2320173645341078868.pdf",
+    "tamanho_arquivo": 2146,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mineração vale verde ",
+        "funcao": "Estagiária ",
+        "data_admissao": "2023-08-14",
+        "data_demissao": "2026-06-29"
+      }
+    ],
+    "id": "9e1e544b524a",
+    "enviado_em": "2026-07-22T23:08:06.859758",
+    "status": "Novo",
+    "processado_em": "2026-07-22T23:08:06.859768"
   }
 ]
