@@ -13060,5 +13060,33 @@
     "enviado_em": "2026-07-23T17:53:32.686579",
     "status": "Novo",
     "processado_em": "2026-07-23T17:53:32.686588"
+  },
+  {
+    "nome": "Janaína Lima da Silva",
+    "cpf": "180.708.744-14",
+    "telefone": "(82) 99947-8739",
+    "email": "janainahot123@gmail.com",
+    "cep": "57312-240",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Cícero de Queiroz",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18070874414_Janaína_Lima_da_Silva_REPOSITOR_A_20260723_180232.pdf",
+    "arquivo_nome": "CURRÍCULO-JANAINA LIMA DA SILVA.pdf",
+    "tamanho_arquivo": 171656,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Claro",
+        "funcao": "Vendedora ",
+        "data_admissao": "2025-05-07",
+        "data_demissao": "2026-11-03"
+      }
+    ],
+    "id": "50f7526e286d",
+    "enviado_em": "2026-07-23T18:02:34.603471",
+    "status": "Novo",
+    "processado_em": "2026-07-23T18:02:34.603479"
   }
 ]
