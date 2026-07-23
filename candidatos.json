@@ -13004,5 +13004,39 @@
     "enviado_em": "2026-07-23T13:41:22.504817",
     "status": "Novo",
     "processado_em": "2026-07-23T13:41:22.504825"
+  },
+  {
+    "nome": "Gabriel Gomes",
+    "cpf": "118.606.714-46",
+    "telefone": "(82) 99334-3886",
+    "email": "gomesbr98368@gmail.com",
+    "cep": "57304-562",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Manoel Leal",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11860671446_Gabriel_Gomes_REPOSITOR_A_20260723_134940.pdf",
+    "arquivo_nome": "curriculum (3).pdf",
+    "tamanho_arquivo": 197136,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Radar Jeep/ ram ",
+        "funcao": "Auxiliar da ",
+        "data_admissao": "2025-04-23",
+        "data_demissao": "2026-04-17"
+      },
+      {
+        "empresa": "Belgo cercas ",
+        "funcao": "Estoquista ",
+        "data_admissao": "2024-04-23",
+        "data_demissao": "2024-11-23"
+      }
+    ],
+    "id": "92e8fa6be985",
+    "enviado_em": "2026-07-23T13:49:42.504562",
+    "status": "Novo",
+    "processado_em": "2026-07-23T13:49:42.504572"
   }
 ]
