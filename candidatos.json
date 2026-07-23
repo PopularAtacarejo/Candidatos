@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Kaique Fernandes braz",
-    "cpf": "129.045.164-84",
-    "telefone": "(82) 98192-4677",
-    "email": "fernandesbrazkaique3@gmail.con",
-    "cep": "57307-560",
-    "cidade": "Arapiraca",
-    "bairro": "Jardim Esperança",
-    "rua": "Rua José Raimundo",
-    "transporte": "Não",
-    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12904516484_Kaique_Fernandes_braz_AUX._DE_PREVENÇÃO_E_PERDAS_20260424_184345.pdf",
-    "arquivo_nome": " Currículo kaique 2026 2.pdf",
-    "tamanho_arquivo": 135230,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Gerir social",
-        "funcao": "Auxiliar administrativo",
-        "data_admissao": "2024-11-24",
-        "data_demissao": "2026-02-24"
-      }
-    ],
-    "id": "4384815d8841",
-    "enviado_em": "2026-04-24T18:43:46.911138",
-    "status": "Novo",
-    "processado_em": "2026-04-24T18:43:46.911145"
-  },
-  {
     "nome": "Iasmim.lorrane Lorrane",
     "cpf": "170.349.464-42",
     "telefone": "(82) 99391-2520",
