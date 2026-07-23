@@ -13067,5 +13067,33 @@
     "enviado_em": "2026-07-23T19:29:17.130184",
     "status": "Novo",
     "processado_em": "2026-07-23T19:29:17.130192"
+  },
+  {
+    "nome": "Geovane De Oliveira Barros",
+    "cpf": "174.992.474-90",
+    "telefone": "(82) 99970-4431",
+    "email": "geovanebarros123321@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Guaribas ",
+    "rua": "Baixa da onça ",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17499247490_Geovane_De_Oliveira_Barros_OPERADOR_A_DE_CAIXA_20260723_232747.pdf",
+    "arquivo_nome": "inbound6502162469822562994.pdf",
+    "tamanho_arquivo": 49007,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Cardoso e martins comércio de máquinas e equipamentos ",
+        "funcao": "Auxiliar administrativo ",
+        "data_admissao": "2024-11-12",
+        "data_demissao": "2026-04-02"
+      }
+    ],
+    "id": "39cad5bc5da8",
+    "enviado_em": "2026-07-23T23:27:49.661779",
+    "status": "Novo",
+    "processado_em": "2026-07-23T23:27:49.661790"
   }
 ]
