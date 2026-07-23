@@ -13038,5 +13038,33 @@
     "enviado_em": "2026-07-23T16:15:10.028845",
     "status": "Novo",
     "processado_em": "2026-07-23T16:15:10.028856"
+  },
+  {
+    "nome": "Magno Brito cardoso",
+    "cpf": "114.098.624-45",
+    "telefone": "(82) 99990-3125",
+    "email": "magnocardoso712@gmail.com",
+    "cep": "57309-790",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Aurélio Freire Monteiro",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11409862445_Magno_Brito_cardoso_REPOSITOR_A_20260723_164044.docx",
+    "arquivo_nome": "curriculo magno2.docx",
+    "tamanho_arquivo": 60167,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "A&L Brindes",
+        "funcao": "Gerente de produção ",
+        "data_admissao": "2024-01-02",
+        "data_demissao": "2026-04-10"
+      }
+    ],
+    "id": "e1a975799395",
+    "enviado_em": "2026-07-23T16:40:46.204228",
+    "status": "Novo",
+    "processado_em": "2026-07-23T16:40:46.204237"
   }
 ]
