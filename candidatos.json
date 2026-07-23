@@ -13088,5 +13088,33 @@
     "enviado_em": "2026-07-23T19:28:40.792510",
     "status": "Novo",
     "processado_em": "2026-07-23T19:28:40.792521"
+  },
+  {
+    "nome": "Sarah beatriz Santos Araújo",
+    "cpf": "149.247.364-22",
+    "telefone": "(82) 99366-5977",
+    "email": "lidiavitoria590@gmail.com",
+    "cep": "57309-817",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Flávio Ramon de Almeida Filho",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14924736422_Sarah_beatriz_Santos_Araújo_OPERADOR_A_DE_CAIXA_20260723_192914.pdf",
+    "arquivo_nome": "Currículo - Sarah Beatriz Santos Araújo 20260409184330.pdf",
+    "tamanho_arquivo": 347974,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lanchonete sabores ",
+        "funcao": "Operador de caixa, atendente, pizzaiolo ",
+        "data_admissao": "2025-01-23",
+        "data_demissao": "2026-03-07"
+      }
+    ],
+    "id": "e67baa6f6b57",
+    "enviado_em": "2026-07-23T19:29:17.130184",
+    "status": "Novo",
+    "processado_em": "2026-07-23T19:29:17.130192"
   }
 ]
