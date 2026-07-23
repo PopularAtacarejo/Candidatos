@@ -12858,5 +12858,33 @@
     "enviado_em": "2026-07-23T03:37:19.031790",
     "status": "Novo",
     "processado_em": "2026-07-23T03:37:19.031800"
+  },
+  {
+    "nome": "Deize davilly Martins dos Santos",
+    "cpf": "152.530.444-50",
+    "telefone": "(82) 99659-7824",
+    "email": "davillydeize@gmail.com",
+    "cep": "57315-738",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Pedro Barbosa Bela",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15253044450_Deize_davilly_Martins_dos_Santos_BALCONISTA_DE_PADARIA_20260723_040226.docx",
+    "arquivo_nome": "Curriculo_Deize_Atualizado.docx",
+    "tamanho_arquivo": 37038,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lu pizzaria e lanches ",
+        "funcao": "Vendedora, garçonete, atendimento ao público ",
+        "data_admissao": "2026-04-09",
+        "data_demissao": "2026-07-20"
+      }
+    ],
+    "id": "e47a26e5c8c4",
+    "enviado_em": "2026-07-23T04:02:27.664746",
+    "status": "Novo",
+    "processado_em": "2026-07-23T04:02:27.664757"
   }
 ]
