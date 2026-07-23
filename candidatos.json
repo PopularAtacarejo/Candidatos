@@ -12976,5 +12976,33 @@
     "enviado_em": "2026-07-23T12:47:12.192382",
     "status": "Novo",
     "processado_em": "2026-07-23T12:47:12.192390"
+  },
+  {
+    "nome": "Anielly Tenorio da Silva",
+    "cpf": "141.209.714-22",
+    "telefone": "(82) 99945-8851",
+    "email": "aniellytenorioib@gmail.com",
+    "cep": "57308-000",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rodovia AL-220",
+    "transporte": "Sim",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14120971422_Anielly_Tenorio_da_Silva_Fiscal_de_Caixa_20260723_134120.pdf",
+    "arquivo_nome": "Currículo simples redatora e social media branco e preto.pdf",
+    "tamanho_arquivo": 34442,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Koch hipermercados S/A",
+        "funcao": "Fiscal de caixa ",
+        "data_admissao": "2023-10-11",
+        "data_demissao": "2026-04-15"
+      }
+    ],
+    "id": "79f89577a41b",
+    "enviado_em": "2026-07-23T13:41:22.504817",
+    "status": "Novo",
+    "processado_em": "2026-07-23T13:41:22.504825"
   }
 ]
