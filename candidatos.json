@@ -1,54 +1,5 @@
 [
   {
-    "nome": "Iasmim.lorrane Lorrane",
-    "cpf": "170.349.464-42",
-    "telefone": "(82) 99391-2520",
-    "email": "iasmimlorrane690@gmail.com",
-    "cep": "57300-970",
-    "cidade": "Arapiraca",
-    "bairro": "Centro",
-    "rua": "Praça Luiz Pereira Lima",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17034946442_Iasmim.lorrane_Lorrane_REPOSITOR_A_20260424_202016.pdf",
-    "arquivo_nome": "inbound6484106208598762882.pdf",
-    "tamanho_arquivo": 250823,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "71199019b303",
-    "enviado_em": "2026-04-24T20:20:18.249090",
-    "status": "Novo",
-    "processado_em": "2026-04-24T20:20:18.249100"
-  },
-  {
-    "nome": "Layane Maysa dos Santos",
-    "cpf": "120.348.504-24",
-    "telefone": "(82) 99137-6586",
-    "email": "layanemaysa_2023@outlook.com",
-    "cep": "57317-088",
-    "cidade": "Arapiraca",
-    "bairro": "Deputado Nezinho",
-    "rua": "Rua Monsenhor Aldo de Melo Brandão",
-    "transporte": "Não",
-    "vaga": "BALCONISTA DE PADARIA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12034850424_Layane_Maysa_dos_Santos_BALCONISTA_DE_PADARIA_20260424_210649.pdf",
-    "arquivo_nome": "inbound1194305831302505428.pdf",
-    "tamanho_arquivo": 380732,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Arapiraca utilidades",
-        "funcao": "Operadora de caixa",
-        "data_admissao": "2025-10-10",
-        "data_demissao": "2025-12-09"
-      }
-    ],
-    "id": "8cf2033b77ca",
-    "enviado_em": "2026-04-24T21:06:51.968734",
-    "status": "Novo",
-    "processado_em": "2026-04-24T21:06:51.968742"
-  },
-  {
     "nome": "WALAN FERREIRA",
     "cpf": "105.835.584-88",
     "telefone": "(82) 99675-6909",
