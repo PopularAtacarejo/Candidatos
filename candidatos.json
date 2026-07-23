@@ -12886,5 +12886,33 @@
     "enviado_em": "2026-07-23T04:02:27.664746",
     "status": "Novo",
     "processado_em": "2026-07-23T04:02:27.664757"
+  },
+  {
+    "nome": "Any Carolayne Santana França",
+    "cpf": "140.636.564-54",
+    "telefone": "(82) 98206-3555",
+    "email": "anycarolayne1002@gmail.com",
+    "cep": "57307-340",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua Antônio Messias",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14063656454_Any_Carolayne_Santana_França_OPERADOR_A_DE_CAIXA_20260723_094330.pdf",
+    "arquivo_nome": "Currículo - Any Carolayne.pdf",
+    "tamanho_arquivo": 64032,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec ",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2023-07-28",
+        "data_demissao": "2025-04-16"
+      }
+    ],
+    "id": "6de5401e4e18",
+    "enviado_em": "2026-07-23T09:43:31.903969",
+    "status": "Novo",
+    "processado_em": "2026-07-23T09:43:31.903978"
   }
 ]
