@@ -12837,5 +12837,26 @@
     "enviado_em": "2026-07-23T03:35:31.958552",
     "status": "Novo",
     "processado_em": "2026-07-23T03:35:31.958559"
+  },
+  {
+    "nome": "Fábio Rykewme Soares dos Santos",
+    "cpf": "096.555.444-94",
+    "telefone": "(82) 99646-6387",
+    "email": "rykewmesoares123@gmail.com",
+    "cep": "57303-869",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua José Henrique Filho",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09655544494_Fábio_Rykewme_Soares_dos_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260723_033716.pdf",
+    "arquivo_nome": "Curriculum.pdf",
+    "tamanho_arquivo": 815742,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "bb588dfb77ce",
+    "enviado_em": "2026-07-23T03:37:19.031790",
+    "status": "Novo",
+    "processado_em": "2026-07-23T03:37:19.031800"
   }
 ]
