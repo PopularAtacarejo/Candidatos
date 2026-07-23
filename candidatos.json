@@ -1,39 +1,5 @@
 [
   {
-    "nome": "Tiago Terto Gomes",
-    "cpf": "073.817.394-02",
-    "telefone": "(82) 98153-3787",
-    "email": "tiagootica87@gmail.com",
-    "cep": "57309-786",
-    "cidade": "Arapiraca",
-    "bairro": "Massaranduba",
-    "rua": "Rua Terezinha Feitosa de Lima",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07381739402_Tiago_Terto_Gomes_REPOSITOR_A_20260424_175422.pdf",
-    "arquivo_nome": "inbound4964099926598142568.pdf",
-    "tamanho_arquivo": 97430,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Supermercado Alimentos e cia",
-        "funcao": "Repositor, motorista, prevenção",
-        "data_admissao": "2008-04-03",
-        "data_demissao": "2010-04-24"
-      },
-      {
-        "empresa": "Ótica veja mais",
-        "funcao": "Vendedor",
-        "data_admissao": "2011-04-11",
-        "data_demissao": "2016-06-10"
-      }
-    ],
-    "id": "c1c8257230c0",
-    "enviado_em": "2026-04-24T17:54:23.757312",
-    "status": "Novo",
-    "processado_em": "2026-04-24T17:54:23.757319"
-  },
-  {
     "nome": "Roseane Silva",
     "cpf": "060.657.274-07",
     "telefone": "(82) 99650-7756",
