@@ -13066,5 +13066,33 @@
     "enviado_em": "2026-07-23T16:40:46.204228",
     "status": "Novo",
     "processado_em": "2026-07-23T16:40:46.204237"
+  },
+  {
+    "nome": "Renata Lino Bezerra",
+    "cpf": "111.281.524-44",
+    "telefone": "(82) 99811-2432",
+    "email": "linorenata057@gmail.com",
+    "cep": "57309-415",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua João Nobre de Farias",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11128152444_Renata_Lino_Bezerra_AUX._DE_ESTOQUE_20260723_175330.docx",
+    "arquivo_nome": "inbound4967754050551104801.docx",
+    "tamanho_arquivo": 34876,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Carlinhos Móveis ",
+        "funcao": "Estoque/Almoxarifado ",
+        "data_admissao": "2025-11-18",
+        "data_demissao": "2026-06-30"
+      }
+    ],
+    "id": "52c4c1ea8830",
+    "enviado_em": "2026-07-23T17:53:32.686579",
+    "status": "Novo",
+    "processado_em": "2026-07-23T17:53:32.686588"
   }
 ]
