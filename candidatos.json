@@ -1,39 +1,5 @@
 [
   {
-    "nome": "José Aparecido Silva Santos",
-    "cpf": "132.782.984-38",
-    "telefone": "(82) 98762-9116",
-    "email": "joseaparecidosilvasantos198@gmail.com",
-    "cep": "57325-970",
-    "cidade": "Coité do Nóia",
-    "bairro": "Centro",
-    "rua": "Rua Governador Luiz Cavalcante",
-    "transporte": "Sim",
-    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13278298438_José_Aparecido_Silva_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260425_151017.pdf",
-    "arquivo_nome": "Jose Aparecido Silva Santos.pdf",
-    "tamanho_arquivo": 70838,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Supermercado Boa",
-        "funcao": "Fiscal de loja",
-        "data_admissao": "2022-05-04",
-        "data_demissao": "2025-10-20"
-      },
-      {
-        "empresa": "Supermercado boa",
-        "funcao": "Repositor Flv",
-        "data_admissao": "2022-05-04",
-        "data_demissao": "2025-10-25"
-      }
-    ],
-    "id": "466e92ff2e9d",
-    "enviado_em": "2026-04-25T15:10:18.848297",
-    "status": "Novo",
-    "processado_em": "2026-04-25T15:10:18.848305"
-  },
-  {
     "nome": "João Vitor Vieira",
     "cpf": "108.435.534-56",
     "telefone": "(82) 9649-2822",
