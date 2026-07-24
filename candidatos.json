@@ -12797,5 +12797,26 @@
     "enviado_em": "2026-07-24T14:52:32.851100",
     "status": "Novo",
     "processado_em": "2026-07-24T14:52:32.851111"
+  },
+  {
+    "nome": "Renata Lino Bezerra",
+    "cpf": "111.281.524-44",
+    "telefone": "(82) 99811-2432",
+    "email": "linorenata057@gmail.com",
+    "cep": "57309-415",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua João Nobre de Farias",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11128152444_Renata_Lino_Bezerra_BALCONISTA_DE_PADARIA_20260724_152603.docx",
+    "arquivo_nome": "inbound9141646612819795237.docx",
+    "tamanho_arquivo": 34876,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "2d474bdab802",
+    "enviado_em": "2026-07-24T15:26:05.028784",
+    "status": "Novo",
+    "processado_em": "2026-07-24T15:26:05.028793"
   }
 ]
