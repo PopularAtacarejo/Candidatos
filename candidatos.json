@@ -12769,5 +12769,26 @@
     "enviado_em": "2026-07-24T15:26:05.028784",
     "status": "Novo",
     "processado_em": "2026-07-24T15:26:05.028793"
+  },
+  {
+    "nome": "João Guilherme dos Santos",
+    "cpf": "719.059.244-02",
+    "telefone": "(82) 99690-0997",
+    "email": "joaoguilherme051109701@gmail.com",
+    "cep": "57309-829",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Miguel Vieira Dules",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71905924402_João_Guilherme_dos_Santos_EMBALADOR_A_20260725_023214.pdf",
+    "arquivo_nome": "inbound9092487049042208448.pdf",
+    "tamanho_arquivo": 35198,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "cbff5a8e0ed8",
+    "enviado_em": "2026-07-25T02:32:16.364762",
+    "status": "Novo",
+    "processado_em": "2026-07-25T02:32:16.364772"
   }
 ]
