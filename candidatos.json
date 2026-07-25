@@ -12748,5 +12748,26 @@
     "enviado_em": "2026-07-25T02:32:16.364762",
     "status": "Novo",
     "processado_em": "2026-07-25T02:32:16.364772"
+  },
+  {
+    "nome": "João Vitor da Silva Santos",
+    "cpf": "137.458.124-09",
+    "telefone": "(82) 98229-9166",
+    "email": "auxjoaovitor@gmail.com",
+    "cep": "57308-735",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua do Sol",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13745812409_João_Vitor_da_Silva_Santos_EMBALADOR_A_20260725_234033.pdf",
+    "arquivo_nome": "inbound5403710914372078186.pdf",
+    "tamanho_arquivo": 97793,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "54b0dee3deaa",
+    "enviado_em": "2026-07-25T23:40:35.328424",
+    "status": "Novo",
+    "processado_em": "2026-07-25T23:40:35.328433"
   }
 ]
