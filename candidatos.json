@@ -1,54 +1,5 @@
 [
   {
-    "nome": "João Vitor Vieira",
-    "cpf": "108.435.534-56",
-    "telefone": "(82) 9649-2822",
-    "email": "joaovitorjob7@gmail.com",
-    "cep": "57306-490",
-    "cidade": "Arapiraca",
-    "bairro": "Cavaco",
-    "rua": "Rua Abraão de Oliveira",
-    "transporte": "Sim",
-    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10843553456_João_Vitor_Vieira_AUX._DE_PREVENÇÃO_E_PERDAS_20260425_201846.pdf",
-    "arquivo_nome": "inbound7502091694211497081.pdf",
-    "tamanho_arquivo": 656800,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Aec",
-        "funcao": "Analista de atendimento",
-        "data_admissao": "2024-02-07",
-        "data_demissao": "2025-10-25"
-      }
-    ],
-    "id": "95dd867a3be6",
-    "enviado_em": "2026-04-25T20:18:48.230718",
-    "status": "Novo",
-    "processado_em": "2026-04-25T20:18:48.230728"
-  },
-  {
-    "nome": "Stephany Gabriele dos Santos",
-    "cpf": "145.460.054-31",
-    "telefone": "(82) 99150-8548",
-    "email": "bryele0107@gmail.com",
-    "cep": "57304-390",
-    "cidade": "Arapiraca",
-    "bairro": "Primavera",
-    "rua": "Rua José Honorato",
-    "transporte": "Não",
-    "vaga": "BALCONISTA DE PADARIA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14546005431_Stephany_Gabriele_dos_Santos_BALCONISTA_DE_PADARIA_20260425_211458.pdf",
-    "arquivo_nome": "Currículo Stephany Gabriele.pdf",
-    "tamanho_arquivo": 53242,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "76c9e8963e28",
-    "enviado_em": "2026-04-25T21:14:59.437829",
-    "status": "Novo",
-    "processado_em": "2026-04-25T21:14:59.437837"
-  },
-  {
     "nome": "Maria Luzia santos",
     "cpf": "177.344.924-95",
     "telefone": "(82) 9920-1340",
