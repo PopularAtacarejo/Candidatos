@@ -12769,5 +12769,26 @@
     "enviado_em": "2026-07-25T23:40:35.328424",
     "status": "Novo",
     "processado_em": "2026-07-25T23:40:35.328433"
+  },
+  {
+    "nome": "Jamili da Silva Alves",
+    "cpf": "134.137.904-39",
+    "telefone": "(82) 8230-4540",
+    "email": "jamilealvesdasilva190@gmail.com",
+    "cep": "57300-030",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Boa Vista",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13413790439_Jamili_da_Silva_Alves_BALCONISTA_DE_PADARIA_20260726_021001.pdf",
+    "arquivo_nome": "CURRICULO DA JAMILI (1).pdf",
+    "tamanho_arquivo": 137776,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e520fc958cdc",
+    "enviado_em": "2026-07-26T02:10:02.680886",
+    "status": "Novo",
+    "processado_em": "2026-07-26T02:10:02.680894"
   }
 ]
