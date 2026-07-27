@@ -1,54 +1,5 @@
 [
   {
-    "nome": "Dannyelle Gonzaga Duarte",
-    "cpf": "038.507.154-00",
-    "telefone": "(82) 99950-4140",
-    "email": "dannyelle.rodrigues2014@gmail.com",
-    "cep": "57303-722",
-    "cidade": "Arapiraca",
-    "bairro": "Guaribas",
-    "rua": "Rua Antônio Gomes Reinaldo",
-    "transporte": "Sim",
-    "vaga": "BALCONISTA DE PADARIA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/03850715400_Dannyelle_Gonzaga_Duarte_BALCONISTA_DE_PADARIA_20260428_154818.pdf",
-    "arquivo_nome": "5b5931d5-798f-49cf-bb4c-e5636c64e028 2.pdf",
-    "tamanho_arquivo": 111444,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Panificadora e lanchonete Brasília",
-        "funcao": "Balconista e vendedora",
-        "data_admissao": "2012-01-01",
-        "data_demissao": "2026-04-28"
-      }
-    ],
-    "id": "7f90b53876d6",
-    "enviado_em": "2026-04-28T15:48:19.660114",
-    "status": "Novo",
-    "processado_em": "2026-04-28T15:48:19.660123"
-  },
-  {
-    "nome": "Beatriz Mendonça de Araújo",
-    "cpf": "143.552.064-59",
-    "telefone": "(82) 98124-4317",
-    "email": "beamendo229@gmail.com",
-    "cep": "57312-540",
-    "cidade": "Arapiraca",
-    "bairro": "Novo Horizonte",
-    "rua": "Rua José Cavalcante Bezerra de Barros",
-    "transporte": "Não",
-    "vaga": "AUXILIAR DE PADEIRO",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14355206459_Beatriz_Mendonça_de_Araújo_AUXILIAR_DE_PADEIRO_20260428_171057.pdf",
-    "arquivo_nome": "Currículo Beatriz Mendonça .pdf",
-    "tamanho_arquivo": 184832,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "4e03da7587e0",
-    "enviado_em": "2026-04-28T17:10:59.617838",
-    "status": "Novo",
-    "processado_em": "2026-04-28T17:10:59.617847"
-  },
-  {
     "nome": "Janina Lima da Silva",
     "cpf": "180.708.744-14",
     "telefone": "(82) 99947-8739",
