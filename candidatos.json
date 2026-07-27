@@ -12339,5 +12339,33 @@
     "enviado_em": "2026-07-27T15:05:15.713389",
     "status": "Novo",
     "processado_em": "2026-07-27T15:05:15.713399"
+  },
+  {
+    "nome": "Marcelo José dos Santos",
+    "cpf": "116.376.714-07",
+    "telefone": "(82) 99949-3281",
+    "email": "marcelomacelinhosantos@gmail.com",
+    "cep": "57308-715",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Nossa Senhora Aparecida",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11637671407_Marcelo_José_dos_Santos_AUXILIAR_DE_PADEIRO_20260727_171142.pdf",
+    "arquivo_nome": "inbound4239929192627500240.pdf",
+    "tamanho_arquivo": 400458,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bom trigo",
+        "funcao": "Cilindreiro e ajudante de padeiro",
+        "data_admissao": "2023-10-23",
+        "data_demissao": "2026-10-12"
+      }
+    ],
+    "id": "ea92e9e7acfc",
+    "enviado_em": "2026-07-27T17:11:45.213128",
+    "status": "Novo",
+    "processado_em": "2026-07-27T17:11:45.213137"
   }
 ]
