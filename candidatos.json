@@ -12338,5 +12338,26 @@
     "enviado_em": "2026-07-27T20:12:33.599702",
     "status": "Novo",
     "processado_em": "2026-07-27T20:12:33.599709"
+  },
+  {
+    "nome": "Priscila",
+    "cpf": "078.951.624-11",
+    "telefone": "(82) 99812-1577",
+    "email": "priscilladamacena754@gmail.com",
+    "cep": "57308-070",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Olegário Leite",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07895162411_Priscila_BALCONISTA_DE_AÇOUGUE_20260727_201414.pdf",
+    "arquivo_nome": "inbound6044024373302917913.pdf",
+    "tamanho_arquivo": 65841,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "ba78a3d5f411",
+    "enviado_em": "2026-07-27T20:14:16.253543",
+    "status": "Novo",
+    "processado_em": "2026-07-27T20:14:16.253550"
   }
 ]
