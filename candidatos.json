@@ -12131,5 +12131,33 @@
     "enviado_em": "2026-07-28T12:23:39.503647",
     "status": "Novo",
     "processado_em": "2026-07-28T12:23:39.503655"
+  },
+  {
+    "nome": "Érica Silva Alves",
+    "cpf": "134.020.534-38",
+    "telefone": "(82) 9669-5036",
+    "email": "eo7238093@gmail.com",
+    "cep": "57316-165",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua São Roque",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13402053438_Érica_Silva_Alves_OPERADOR_A_DE_CAIXA_20260728_131134.pdf",
+    "arquivo_nome": "Currículo.pdf.pdf",
+    "tamanho_arquivo": 38736,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Brasileirão Atacado ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2020-10-02",
+        "data_demissao": "2023-05-15"
+      }
+    ],
+    "id": "2bed1a67361e",
+    "enviado_em": "2026-07-28T13:11:36.033768",
+    "status": "Novo",
+    "processado_em": "2026-07-28T13:11:36.033777"
   }
 ]
