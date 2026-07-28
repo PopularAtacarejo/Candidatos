@@ -12072,5 +12072,33 @@
     "enviado_em": "2026-07-28T09:52:48.915097",
     "status": "Novo",
     "processado_em": "2026-07-28T09:52:48.915105"
+  },
+  {
+    "nome": "Lucas de Araújo Silva",
+    "cpf": "139.763.424-32",
+    "telefone": "(82) 99831-1844",
+    "email": "fernandaalves91242969@gmail.com",
+    "cep": "57315-100",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Manoel Pereira dos Santos",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13976342432_Lucas_de_Araújo_Silva_REPOSITOR_A_20260728_113925.pdf",
+    "arquivo_nome": "Lucas de Araújo Silva-Currículo .pdf",
+    "tamanho_arquivo": 104416,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Cavalcante acessória e serviços ltda- Arapiraca ",
+        "funcao": "Ajudante de padaria e serviços diversos",
+        "data_admissao": "2024-06-01",
+        "data_demissao": "2026-07-28"
+      }
+    ],
+    "id": "af89f0aa3d9f",
+    "enviado_em": "2026-07-28T11:39:27.507715",
+    "status": "Novo",
+    "processado_em": "2026-07-28T11:39:27.507728"
   }
 ]
