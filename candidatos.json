@@ -12232,5 +12232,33 @@
     "enviado_em": "2026-07-28T20:25:02.332305",
     "status": "Novo",
     "processado_em": "2026-07-28T20:25:02.332314"
+  },
+  {
+    "nome": "Maria Aparecida Ferreira canuto",
+    "cpf": "112.998.234-32",
+    "telefone": "(87) 98163-6861",
+    "email": "cidinnhaferreira24@gmail.com",
+    "cep": "57315-094",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua João Nicolau de Melo",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11299823432_Maria_Aparecida_Ferreira_canuto_OPERADOR_A_DE_CAIXA_20260728_204601.pdf",
+    "arquivo_nome": "curriculo_maria_aparecida-2.pdf",
+    "tamanho_arquivo": 239461,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aev",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2023-12-23",
+        "data_demissao": "2026-01-12"
+      }
+    ],
+    "id": "cbb0b4c3a1a4",
+    "enviado_em": "2026-07-28T20:46:03.309193",
+    "status": "Novo",
+    "processado_em": "2026-07-28T20:46:03.309203"
   }
 ]
