@@ -12107,5 +12107,57 @@
     "enviado_em": "2026-07-28T12:06:35.830915",
     "status": "Novo",
     "processado_em": "2026-07-28T12:06:35.830927"
+  },
+  {
+    "nome": "Julyene Cristine Nunes de Oliveira",
+    "cpf": "061.847.644-03",
+    "telefone": "(11) 95801-9679",
+    "email": "julyeneoliveira@outlook.com",
+    "cep": "57316-650",
+    "cidade": "Arapiraca",
+    "bairro": "João Paulo II",
+    "rua": "Rua Edite Florêncio de Oliveira",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06184764403_Julyene_Cristine_Nunes_de_Oliveira_OPERADOR_A_DE_CAIXA_20260728_122337.pdf",
+    "arquivo_nome": "Currículo Julyene1.pdf",
+    "tamanho_arquivo": 57049,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Americanas.com(pronto logística)",
+        "funcao": "Auxiliar de escritório em geral ",
+        "data_admissao": "2008-09-22",
+        "data_demissao": "2010-06-02"
+      },
+      {
+        "empresa": "Mercado Polaris Ltda ",
+        "funcao": "Atendimento ao cliente em geral",
+        "data_admissao": "2011-03-11",
+        "data_demissao": "2013-06-06"
+      },
+      {
+        "empresa": "Reinaldo Alves dos Santos modas-Me ",
+        "funcao": "Balconista e vendedora ",
+        "data_admissao": "2013-11-13",
+        "data_demissao": "2014-11-14"
+      },
+      {
+        "empresa": "Mercado Polaris Ltda ",
+        "funcao": "Auxiliar financeiro ",
+        "data_admissao": "2015-08-03",
+        "data_demissao": "2019-09-19"
+      },
+      {
+        "empresa": "Salonica confecções ( ideal work)",
+        "funcao": "Desenvolvimento gráfico ",
+        "data_admissao": "2019-10-01",
+        "data_demissao": "2026-02-27"
+      }
+    ],
+    "id": "5b9a012b127a",
+    "enviado_em": "2026-07-28T12:23:39.503647",
+    "status": "Novo",
+    "processado_em": "2026-07-28T12:23:39.503655"
   }
 ]
