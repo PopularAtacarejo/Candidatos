@@ -11662,7 +11662,15 @@
     "id": "39cad5bc5da8",
     "enviado_em": "2026-07-23T23:27:49.661779",
     "status": "Novo",
-    "processado_em": "2026-07-23T23:27:49.661790"
+    "processado_em": "2026-07-23T23:27:49.661790",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-28T14:25:52.212004",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-28T14:25:52.212004"
+      }
+    ]
   },
   {
     "nome": "Raiane Lisboa dos Santos",
