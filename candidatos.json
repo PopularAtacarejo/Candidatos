@@ -12073,5 +12073,33 @@
     "enviado_em": "2026-07-27T20:16:28.456722",
     "status": "Novo",
     "processado_em": "2026-07-27T20:16:28.456730"
+  },
+  {
+    "nome": "Letícia Oliveira",
+    "cpf": "156.047.654-06",
+    "telefone": "(82) 9957-3067",
+    "email": "le.odsilva2007@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Canaã",
+    "rua": "Rua projetada ",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15604765406_Letícia_Oliveira_REPOSITOR_A_20260728_095245.pdf",
+    "arquivo_nome": "inbound6542038205814091804.pdf",
+    "tamanho_arquivo": 2382218,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC ",
+        "funcao": "Atendente de Telemarketing ",
+        "data_admissao": "2026-01-29",
+        "data_demissao": "2026-06-07"
+      }
+    ],
+    "id": "5515c1fd5070",
+    "enviado_em": "2026-07-28T09:52:48.915097",
+    "status": "Novo",
+    "processado_em": "2026-07-28T09:52:48.915105"
   }
 ]
