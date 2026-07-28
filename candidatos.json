@@ -12159,5 +12159,33 @@
     "enviado_em": "2026-07-28T13:11:36.033768",
     "status": "Novo",
     "processado_em": "2026-07-28T13:11:36.033777"
+  },
+  {
+    "nome": "Adailson Gomes dos Santos",
+    "cpf": "110.974.024-79",
+    "telefone": "(11) 97673-4665",
+    "email": "negaonba123@gmail.com",
+    "cep": "57310-495",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Vinte e Um de Maio",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11097402479_Adailson_Gomes_dos_Santos_operador_de_empilhadeira_20260728_132838.pdf",
+    "arquivo_nome": "inbound5928806926630871291.pdf",
+    "tamanho_arquivo": 98923,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Xsupermercado ",
+        "funcao": "Emcarregado de recebimento ",
+        "data_admissao": "2025-07-05",
+        "data_demissao": "2026-06-19"
+      }
+    ],
+    "id": "19fdb81703af",
+    "enviado_em": "2026-07-28T13:28:39.985253",
+    "status": "Novo",
+    "processado_em": "2026-07-28T13:28:39.985263"
   }
 ]
