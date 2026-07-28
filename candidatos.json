@@ -11450,7 +11450,15 @@
     "id": "e5ce87ebb059",
     "enviado_em": "2026-07-23T16:15:10.028845",
     "status": "Novo",
-    "processado_em": "2026-07-23T16:15:10.028856"
+    "processado_em": "2026-07-23T16:15:10.028856",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-28T14:08:52.891655",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-28T14:08:52.891655"
+      }
+    ]
   },
   {
     "nome": "Magno Brito cardoso",
