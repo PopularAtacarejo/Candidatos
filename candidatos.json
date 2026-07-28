@@ -11869,7 +11869,15 @@
     "id": "56d2a6439f7d",
     "enviado_em": "2026-07-27T15:05:15.713389",
     "status": "Novo",
-    "processado_em": "2026-07-27T15:05:15.713399"
+    "processado_em": "2026-07-27T15:05:15.713399",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-28T13:37:17.130422",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-28T13:37:17.130422"
+      }
+    ]
   },
   {
     "nome": "Marcelo José dos Santos",
@@ -12207,15 +12215,7 @@
     "id": "37bcf80630e1",
     "enviado_em": "2026-07-28T13:33:44.301936",
     "status": "Novo",
-    "processado_em": "2026-07-28T13:33:44.301945",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-28T13:36:23.785577",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-28T13:36:23.785577"
-      }
-    ]
+    "processado_em": "2026-07-28T13:33:44.301945"
   },
   {
     "nome": "Silmara Barbosa Vieira",
