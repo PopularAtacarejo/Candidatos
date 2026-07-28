@@ -12268,5 +12268,26 @@
     "enviado_em": "2026-07-28T20:46:03.309193",
     "status": "Novo",
     "processado_em": "2026-07-28T20:46:03.309203"
+  },
+  {
+    "nome": "José Cícero da Silva filho",
+    "cpf": "141.545.164-85",
+    "telefone": "(82) 9628-1534",
+    "email": "josefilhosilva2005@gmail.com",
+    "cep": "57303-849",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Antônio Ribeiro Pacheco",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14154516485_José_Cícero_da_Silva_filho_REPOSITOR_DE_FRIOS_20260728_235546.pdf",
+    "arquivo_nome": "CURRICULO JOSÉ CÍCERO 2025 (1).pdf",
+    "tamanho_arquivo": 359704,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "7a472b9fb9da",
+    "enviado_em": "2026-07-28T23:55:49.158027",
+    "status": "Novo",
+    "processado_em": "2026-07-28T23:55:49.158037"
   }
 ]
