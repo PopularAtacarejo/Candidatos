@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Ana Paula Nunes dos Santos Silva",
-    "cpf": "051.880.574-33",
-    "telefone": "(82) 99901-3215",
-    "email": "ananunesdossantossilva@gmail.com",
-    "cep": "57300-460",
-    "cidade": "Arapiraca",
-    "bairro": "Centro",
-    "rua": "Rua Santa Terezinha",
-    "transporte": "Não",
-    "vaga": "OPERADOR (A) DE CAIXA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05188057433_Ana_Paula_Nunes_dos_Santos_Silva_OPERADOR_A_DE_CAIXA_20260429_122518.pdf",
-    "arquivo_nome": "inbound8784473736864326703.pdf",
-    "tamanho_arquivo": 120039,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "São luiz",
-        "funcao": "Operadora de caixa",
-        "data_admissao": "2025-07-09",
-        "data_demissao": "2026-01-23"
-      }
-    ],
-    "id": "56102b81a41e",
-    "enviado_em": "2026-04-29T12:25:19.946621",
-    "status": "Novo",
-    "processado_em": "2026-04-29T12:25:19.946630"
-  },
-  {
     "nome": "Thiago Silva Santos",
     "cpf": "112.929.714-44",
     "telefone": "(82) 99688-8728",
