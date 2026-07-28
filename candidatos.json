@@ -12204,5 +12204,33 @@
     "enviado_em": "2026-07-28T13:33:44.301936",
     "status": "Novo",
     "processado_em": "2026-07-28T13:33:44.301945"
+  },
+  {
+    "nome": "José Felipe dos Santos Pereira",
+    "cpf": "107.167.284-35",
+    "telefone": "(82) 99356-9255",
+    "email": "felipehinzagh1995@gmail.com",
+    "cep": "57300-001",
+    "cidade": "Arapiraca ",
+    "bairro": "Centro",
+    "rua": "Nova",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10716728435_José_Felipe_dos_Santos_Pereira_BALCONISTA_DE_AÇOUGUE_20260728_152901.pdf",
+    "arquivo_nome": "inbound5538675832616655548.pdf",
+    "tamanho_arquivo": 683610,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "GA alimentos",
+        "funcao": "Repositor ",
+        "data_admissao": "2013-04-01",
+        "data_demissao": "2018-08-31"
+      }
+    ],
+    "id": "b2998ca38cce",
+    "enviado_em": "2026-07-28T15:29:03.757789",
+    "status": "Novo",
+    "processado_em": "2026-07-28T15:29:03.757798"
   }
 ]
