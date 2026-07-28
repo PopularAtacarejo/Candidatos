@@ -12142,5 +12142,33 @@
     "enviado_em": "2026-07-28T15:29:03.757789",
     "status": "Novo",
     "processado_em": "2026-07-28T15:29:03.757798"
+  },
+  {
+    "nome": "deywid Tenório Cavalcante",
+    "cpf": "084.283.054-55",
+    "telefone": "(82) 99634-3722",
+    "email": "dsibite@gmail.com",
+    "cep": "57312-465",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua São José",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08428305455_deywid_Tenório_Cavalcante_REPOSITOR_A_20260728_193832.pdf",
+    "arquivo_nome": "inbound8615058652524282965.pdf",
+    "tamanho_arquivo": 57689,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "atacadao",
+        "funcao": "repositor ",
+        "data_admissao": "2026-07-28",
+        "data_demissao": "2026-07-28"
+      }
+    ],
+    "id": "10e7bbb9ce25",
+    "enviado_em": "2026-07-28T19:38:34.191726",
+    "status": "Novo",
+    "processado_em": "2026-07-28T19:38:34.191734"
   }
 ]
