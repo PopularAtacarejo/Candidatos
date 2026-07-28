@@ -12187,5 +12187,26 @@
     "enviado_em": "2026-07-28T13:28:39.985253",
     "status": "Novo",
     "processado_em": "2026-07-28T13:28:39.985263"
+  },
+  {
+    "nome": "Adailson Gomes dos Santos",
+    "cpf": "110.974.024-79",
+    "telefone": "(11) 97673-4665",
+    "email": "negaonba123@gmail.com",
+    "cep": "57310-495",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Vinte e Um de Maio",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11097402479_Adailson_Gomes_dos_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260728_133342.pdf",
+    "arquivo_nome": "inbound9124327004044713785.pdf",
+    "tamanho_arquivo": 98923,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "37bcf80630e1",
+    "enviado_em": "2026-07-28T13:33:44.301936",
+    "status": "Novo",
+    "processado_em": "2026-07-28T13:33:44.301945"
   }
 ]
