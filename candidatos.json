@@ -12289,5 +12289,33 @@
     "enviado_em": "2026-07-29T00:49:53.759712",
     "status": "Novo",
     "processado_em": "2026-07-29T00:49:53.759722"
+  },
+  {
+    "nome": "Maria José Vieira da Silva",
+    "cpf": "054.072.824-10",
+    "telefone": "(82) 98214-8571",
+    "email": "mariasilvaj909@gmail.com",
+    "cep": "57315-730",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Manoel Barbosa Sobrinho",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05407282410_Maria_José_Vieira_da_Silva_OPERADOR_A_DE_CAIXA_20260729_021851.pdf",
+    "arquivo_nome": "inbound8185694407332971315.pdf",
+    "tamanho_arquivo": 115248,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Sesc Alagoas ",
+        "funcao": "Caixa PDV ",
+        "data_admissao": "2004-09-09",
+        "data_demissao": "2025-03-13"
+      }
+    ],
+    "id": "1acd34bf65f2",
+    "enviado_em": "2026-07-29T02:18:53.373774",
+    "status": "Novo",
+    "processado_em": "2026-07-29T02:18:53.373783"
   }
 ]
