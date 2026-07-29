@@ -12484,5 +12484,26 @@
     "enviado_em": "2026-07-29T14:19:26.420618",
     "status": "Novo",
     "processado_em": "2026-07-29T14:19:26.420625"
+  },
+  {
+    "nome": "Marília Vitória Souza Gonsalves",
+    "cpf": "123.484.474-52",
+    "telefone": "(82) 99826-7787",
+    "email": "mariliavitoriagonsalvesouza17@gmail.com",
+    "cep": "57317-562",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas",
+    "rua": "Rua José Galdino dos Santos",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12348447452_Marília_Vitória_Souza_Gonsalves_BALCONISTA_DE_PADARIA_20260729_180749.pdf",
+    "arquivo_nome": "inbound4205730625334392319.pdf",
+    "tamanho_arquivo": 123721,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b2a6c874d653",
+    "enviado_em": "2026-07-29T18:07:51.650753",
+    "status": "Novo",
+    "processado_em": "2026-07-29T18:07:51.650763"
   }
 ]
