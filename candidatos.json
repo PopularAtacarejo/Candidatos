@@ -12377,5 +12377,39 @@
     "enviado_em": "2026-07-29T11:33:14.270032",
     "status": "Novo",
     "processado_em": "2026-07-29T11:33:14.270039"
+  },
+  {
+    "nome": "Cintia luise de lima",
+    "cpf": "037.961.174-06",
+    "telefone": "(82) 99386-9061",
+    "email": "cintialuise336@gmail.com",
+    "cep": "57302-764",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Ivanildo Vieira de Góis",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/03796117406_Cintia_luise_de_lima_OPERADOR_A_DE_CAIXA_20260729_121952.pdf",
+    "arquivo_nome": "inbound191284774135080288.pdf",
+    "tamanho_arquivo": 89226,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão S/A",
+        "funcao": "Operadora de caixa e ferista do RM ",
+        "data_admissao": "2018-07-09",
+        "data_demissao": "2021-12-01"
+      },
+      {
+        "empresa": "IBN Pinto Grupo J pinto",
+        "funcao": "Frentista e até dente",
+        "data_admissao": "2016-01-04",
+        "data_demissao": "2018-05-25"
+      }
+    ],
+    "id": "dcd6a383d192",
+    "enviado_em": "2026-07-29T12:19:54.281779",
+    "status": "Novo",
+    "processado_em": "2026-07-29T12:19:54.281786"
   }
 ]
