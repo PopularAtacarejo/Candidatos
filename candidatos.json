@@ -12123,7 +12123,7 @@
     ],
     "id": "10e7bbb9ce25",
     "enviado_em": "2026-07-28T19:38:34.191726",
-    "status": "Novo",
+    "status": "Reprovado",
     "processado_em": "2026-07-28T19:38:34.191734",
     "ultimo_visualizador": "Maria Sabrina",
     "ultimo_visualizado_em": "2026-07-29T18:04:06.770671",
@@ -12132,7 +12132,12 @@
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-29T18:04:06.770671"
       }
-    ]
+    ],
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-29T18:05:10.973488",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "José Fellipe Vieira Soares",
