@@ -12242,16 +12242,13 @@
     "experiencias": [],
     "id": "7a472b9fb9da",
     "enviado_em": "2026-07-28T23:55:49.158027",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-28T23:55:49.158037",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-29T17:59:14.185257",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-29T17:59:14.185257"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-29T17:59:35.179644",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Leila Gomes severo dos santos",
