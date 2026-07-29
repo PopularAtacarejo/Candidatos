@@ -12047,15 +12047,7 @@
     "id": "19fdb81703af",
     "enviado_em": "2026-07-28T13:28:39.985253",
     "status": "Novo",
-    "processado_em": "2026-07-28T13:28:39.985263",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-29T14:53:52.223405",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-29T14:53:52.223405"
-      }
-    ]
+    "processado_em": "2026-07-28T13:28:39.985263"
   },
   {
     "nome": "Adailson Gomes dos Santos",
@@ -12356,7 +12348,15 @@
     "id": "8b259d2688f9",
     "enviado_em": "2026-07-29T10:36:58.278163",
     "status": "Novo",
-    "processado_em": "2026-07-29T10:36:58.278171"
+    "processado_em": "2026-07-29T10:36:58.278171",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-29T14:54:52.743803",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-29T14:54:52.743803"
+      }
+    ]
   },
   {
     "nome": "Flávia bispo dos Santos Oliveira",
