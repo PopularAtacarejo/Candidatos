@@ -12096,15 +12096,7 @@
     "id": "b2998ca38cce",
     "enviado_em": "2026-07-28T15:29:03.757789",
     "status": "Novo",
-    "processado_em": "2026-07-28T15:29:03.757798",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-29T17:59:54.224164",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-29T17:59:54.224164"
-      }
-    ]
+    "processado_em": "2026-07-28T15:29:03.757798"
   },
   {
     "nome": "deywid Tenório Cavalcante",
@@ -12132,7 +12124,15 @@
     "id": "10e7bbb9ce25",
     "enviado_em": "2026-07-28T19:38:34.191726",
     "status": "Novo",
-    "processado_em": "2026-07-28T19:38:34.191734"
+    "processado_em": "2026-07-28T19:38:34.191734",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-29T18:04:02.848211",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-29T18:04:02.848211"
+      }
+    ]
   },
   {
     "nome": "José Fellipe Vieira Soares",
