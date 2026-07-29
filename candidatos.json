@@ -11910,16 +11910,13 @@
     ],
     "id": "af89f0aa3d9f",
     "enviado_em": "2026-07-28T11:39:27.507715",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-07-28T11:39:27.507728",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-29T18:08:31.627030",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-29T18:08:31.627030"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-07-29T18:08:53.308286",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Rayane Menezes santos Silva",
