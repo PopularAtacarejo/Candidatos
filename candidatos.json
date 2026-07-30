@@ -12166,7 +12166,15 @@
     "data_entrevista": "",
     "observacoes": "",
     "updated_at": "2026-07-29T17:59:35.179644",
-    "updated_by": "Maria Sabrina"
+    "updated_by": "Maria Sabrina",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-30T19:41:33.185888",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-30T19:41:33.185888"
+      }
+    ]
   },
   {
     "nome": "Leila Gomes severo dos santos",
@@ -12273,15 +12281,11 @@
     "status": "Novo",
     "processado_em": "2026-07-29T10:36:58.278171",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-30T19:39:52.377996",
+    "ultimo_visualizado_em": "2026-07-29T14:54:57.021074",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-29T14:54:57.021074"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-30T19:39:52.377996"
       }
     ]
   },
