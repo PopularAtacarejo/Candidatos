@@ -12106,11 +12106,15 @@
     "status": "Novo",
     "processado_em": "2026-07-28T20:25:02.332314",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-28T20:54:44.807445",
+    "ultimo_visualizado_em": "2026-07-30T19:47:50.514176",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-28T20:54:44.807445"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-30T19:47:50.514176"
       }
     ]
   },
