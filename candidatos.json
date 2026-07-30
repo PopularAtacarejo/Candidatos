@@ -12273,11 +12273,15 @@
     "status": "Novo",
     "processado_em": "2026-07-29T10:36:58.278171",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-29T14:54:57.021074",
+    "ultimo_visualizado_em": "2026-07-30T19:39:52.377996",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-07-29T14:54:57.021074"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-30T19:39:52.377996"
       }
     ]
   },
