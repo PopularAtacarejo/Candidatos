@@ -12555,5 +12555,33 @@
     "enviado_em": "2026-07-31T21:54:42.611762",
     "status": "Novo",
     "processado_em": "2026-07-31T21:54:42.611769"
+  },
+  {
+    "nome": "Júlia Caroline Lopes da Silva",
+    "cpf": "114.507.614-96",
+    "telefone": "(82) 99976-5024",
+    "email": "jc4850555@gmail.com",
+    "cep": "57307-178",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Antônio Carlos de Oliveira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11450761496_Júlia_Caroline_Lopes_da_Silva_OPERADOR_A_DE_CAIXA_20260731_220712.pdf",
+    "arquivo_nome": "Currículo Mulher Profissional Simples Branco e Rosa.pdf",
+    "tamanho_arquivo": 590025,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Vital conveniência ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2026-01-05",
+        "data_demissao": "2026-06-02"
+      }
+    ],
+    "id": "a122ecff853d",
+    "enviado_em": "2026-07-31T22:07:14.986002",
+    "status": "Novo",
+    "processado_em": "2026-07-31T22:07:14.986011"
   }
 ]
