@@ -11659,7 +11659,15 @@
     "id": "53c54b0fde4c",
     "enviado_em": "2026-07-27T19:03:37.046072",
     "status": "Novo",
-    "processado_em": "2026-07-27T19:03:37.046081"
+    "processado_em": "2026-07-27T19:03:37.046081",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-31T12:00:13.731552",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-31T12:00:13.731552"
+      }
+    ]
   },
   {
     "nome": "Priscila damacena",
@@ -11680,15 +11688,7 @@
     "id": "91485633de09",
     "enviado_em": "2026-07-27T20:12:33.599702",
     "status": "Novo",
-    "processado_em": "2026-07-27T20:12:33.599709",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-31T11:59:37.836763",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-31T11:59:37.836763"
-      }
-    ]
+    "processado_em": "2026-07-27T20:12:33.599709"
   },
   {
     "nome": "Priscila",
