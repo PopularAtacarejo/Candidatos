@@ -10977,7 +10977,15 @@
     "id": "e47a26e5c8c4",
     "enviado_em": "2026-07-23T04:02:27.664746",
     "status": "Novo",
-    "processado_em": "2026-07-23T04:02:27.664757"
+    "processado_em": "2026-07-23T04:02:27.664757",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-31T12:02:26.984828",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-31T12:02:26.984828"
+      }
+    ]
   },
   {
     "nome": "Any Carolayne Santana França",
@@ -11536,15 +11544,7 @@
     "id": "e520fc958cdc",
     "enviado_em": "2026-07-26T02:10:02.680886",
     "status": "Novo",
-    "processado_em": "2026-07-26T02:10:02.680894",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-07-31T12:01:53.326986",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-07-31T12:01:53.326986"
-      }
-    ]
+    "processado_em": "2026-07-26T02:10:02.680894"
   },
   {
     "nome": "Danilo Edvaldo da Silva",
