@@ -12459,5 +12459,26 @@
     "enviado_em": "2026-07-31T14:23:50.115568",
     "status": "Novo",
     "processado_em": "2026-07-31T14:23:50.115577"
+  },
+  {
+    "nome": "Rita de Cássia dos Santos",
+    "cpf": "117.098.094-50",
+    "telefone": "(82) 99636-1956",
+    "email": "ritinharitasantos90@gmail.com",
+    "cep": "57315-780",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Gilberto Félix de Menezes",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11709809450_Rita_de_Cássia_dos_Santos_BALCONISTA_DE_PADARIA_20260731_182944.pdf",
+    "arquivo_nome": "inbound7168382922152732469.pdf",
+    "tamanho_arquivo": 2068021,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "372e871e815d",
+    "enviado_em": "2026-07-31T18:29:47.810293",
+    "status": "Novo",
+    "processado_em": "2026-07-31T18:29:47.810303"
   }
 ]
