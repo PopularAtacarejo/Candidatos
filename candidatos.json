@@ -12403,5 +12403,33 @@
     "enviado_em": "2026-07-30T19:50:34.893569",
     "status": "Novo",
     "processado_em": "2026-07-30T19:50:34.893576"
+  },
+  {
+    "nome": "Adriano Gomes da Silva santos",
+    "cpf": "147.132.784-16",
+    "telefone": "(82) 99644-7352",
+    "email": "adrianobaixosong@gmail.com",
+    "cep": "57302-840",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua José Lins Moura",
+    "transporte": "Não",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14713278416_Adriano_Gomes_da_Silva_santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260731_130036.pdf",
+    "arquivo_nome": "inbound2796595975511746200.pdf",
+    "tamanho_arquivo": 125515,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Spessoa embalagem ",
+        "funcao": "Repositor",
+        "data_admissao": "2020-07-01",
+        "data_demissao": "2020-12-20"
+      }
+    ],
+    "id": "db09689e8130",
+    "enviado_em": "2026-07-31T13:00:37.980047",
+    "status": "Novo",
+    "processado_em": "2026-07-31T13:00:37.980055"
   }
 ]
