@@ -1,33 +1,5 @@
 [
   {
-    "nome": "Felipe Adelino Santos",
-    "cpf": "099.444.474-55",
-    "telefone": "(82) 99652-4169",
-    "email": "felipeadelino69@gmail.com",
-    "cep": "57303-213",
-    "cidade": "Arapiraca",
-    "bairro": "Boa Vista",
-    "rua": "Rua Cecília Pereira de Macedo",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09944447455_Felipe_Adelino_Santos_REPOSITOR_A_20260502_160103.pdf",
-    "arquivo_nome": "inbound4748241398199192584.pdf",
-    "tamanho_arquivo": 69691,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Alimentos e Bebidas bem viver",
-        "funcao": "Empacotador, repositor, estoquista, serviços gerais",
-        "data_admissao": "2025-03-04",
-        "data_demissao": "2026-04-15"
-      }
-    ],
-    "id": "a856ab9a93cd",
-    "enviado_em": "2026-05-02T16:01:05.748349",
-    "status": "Novo",
-    "processado_em": "2026-05-02T16:01:05.748359"
-  },
-  {
     "nome": "Fabrício de Lima Martins",
     "cpf": "143.363.544-56",
     "telefone": "(82) 99900-4730",
