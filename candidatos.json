@@ -11536,7 +11536,15 @@
     "id": "e520fc958cdc",
     "enviado_em": "2026-07-26T02:10:02.680886",
     "status": "Novo",
-    "processado_em": "2026-07-26T02:10:02.680894"
+    "processado_em": "2026-07-26T02:10:02.680894",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-07-31T12:01:53.326986",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-07-31T12:01:53.326986"
+      }
+    ]
   },
   {
     "nome": "Danilo Edvaldo da Silva",
