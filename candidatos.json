@@ -12459,5 +12459,33 @@
     "enviado_em": "2026-07-31T13:01:00.844458",
     "status": "Novo",
     "processado_em": "2026-07-31T13:01:00.844466"
+  },
+  {
+    "nome": "Diego Januário filho",
+    "cpf": "123.861.174-56",
+    "telefone": "(82) 98722-7725",
+    "email": "filhodiego264@gmail.com",
+    "cep": "57300-150",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Linduarte de Oliveira Barros",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12386117456_Diego_Januário_filho_AUX._DE_PREVENÇÃO_E_PERDAS_20260731_142347.pdf",
+    "arquivo_nome": "Curriculum - DIEGO JANUARIO FILHO - 31-10-2001.pdf",
+    "tamanho_arquivo": 82273,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Rota distribuidora ",
+        "funcao": "Ajudante de motorista ",
+        "data_admissao": "2024-12-18",
+        "data_demissao": "2026-01-07"
+      }
+    ],
+    "id": "a24aa136a590",
+    "enviado_em": "2026-07-31T14:23:50.115568",
+    "status": "Novo",
+    "processado_em": "2026-07-31T14:23:50.115577"
   }
 ]
