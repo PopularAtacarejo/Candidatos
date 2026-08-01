@@ -12737,5 +12737,33 @@
     "enviado_em": "2026-08-01T19:02:03.461844",
     "status": "Novo",
     "processado_em": "2026-08-01T19:02:03.461860"
+  },
+  {
+    "nome": "Daniel Júnior Da Silva",
+    "cpf": "369.121.508-45",
+    "telefone": "(82) 98768-5577",
+    "email": "danieljuniordasilva36@gmail.com",
+    "cep": "57309-232",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Ialdo Rodrigues e Silva",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/36912150845_Daniel_Júnior_Da_Silva_operador_de_empilhadeira_20260801_194320.pdf",
+    "arquivo_nome": "inbound6440506254207422510.pdf",
+    "tamanho_arquivo": 171894,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Clariat",
+        "funcao": "Operador de produção ",
+        "data_admissao": "2012-03-14",
+        "data_demissao": "2018-11-14"
+      }
+    ],
+    "id": "42c7ce22494a",
+    "enviado_em": "2026-08-01T19:43:21.661719",
+    "status": "Novo",
+    "processado_em": "2026-08-01T19:43:21.661726"
   }
 ]
