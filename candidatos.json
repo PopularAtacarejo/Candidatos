@@ -12639,5 +12639,33 @@
     "enviado_em": "2026-08-01T15:45:16.509082",
     "status": "Novo",
     "processado_em": "2026-08-01T15:45:16.509091"
+  },
+  {
+    "nome": "Maria Gabriella Silva Souza",
+    "cpf": "103.309.264-97",
+    "telefone": "(82) 99643-3170",
+    "email": "sgabriella119@gmail.com",
+    "cep": "57309-470",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Pedro Alexandre",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10330926497_Maria_Gabriella_Silva_Souza_OPERADOR_A_DE_CAIXA_20260801_154541.pdf",
+    "arquivo_nome": "inbound649056934643918577.pdf",
+    "tamanho_arquivo": 140856,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "JS confecções ",
+        "funcao": "Vendedora ",
+        "data_admissao": "2021-03-06",
+        "data_demissao": "2026-03-20"
+      }
+    ],
+    "id": "57db363553d3",
+    "enviado_em": "2026-08-01T15:45:43.602810",
+    "status": "Novo",
+    "processado_em": "2026-08-01T15:45:43.602819"
   }
 ]
