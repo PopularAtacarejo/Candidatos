@@ -12716,5 +12716,26 @@
     "enviado_em": "2026-08-01T17:27:15.046207",
     "status": "Novo",
     "processado_em": "2026-08-01T17:27:15.046217"
+  },
+  {
+    "nome": "Eva De Almeida Espedito",
+    "cpf": "175.910.874-01",
+    "telefone": "(82) 99977-9668",
+    "email": "eevaalmeidaaaaaa@gmail.com",
+    "cep": "57303-215",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Luciana Rodrigues de Araújo",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17591087401_Eva_De_Almeida_Espedito_OPERADOR_A_DE_CAIXA_20260801_190201.pdf",
+    "arquivo_nome": "EVA DE ALMEIDA ESPEDITO (1).pdf",
+    "tamanho_arquivo": 288688,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "85e756ff510c",
+    "enviado_em": "2026-08-01T19:02:03.461844",
+    "status": "Novo",
+    "processado_em": "2026-08-01T19:02:03.461860"
   }
 ]
