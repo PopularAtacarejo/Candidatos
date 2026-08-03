@@ -12418,7 +12418,15 @@
     "id": "db09689e8130",
     "enviado_em": "2026-07-31T13:00:37.980047",
     "status": "Novo",
-    "processado_em": "2026-07-31T13:00:37.980055"
+    "processado_em": "2026-07-31T13:00:37.980055",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-03T14:44:29.020776",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-03T14:44:29.020776"
+      }
+    ]
   },
   {
     "nome": "Adriano Gomes da Silva santos",
@@ -12474,15 +12482,7 @@
     "id": "a24aa136a590",
     "enviado_em": "2026-07-31T14:23:50.115568",
     "status": "Novo",
-    "processado_em": "2026-07-31T14:23:50.115577",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-03T14:43:19.501108",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-03T14:43:19.501108"
-      }
-    ]
+    "processado_em": "2026-07-31T14:23:50.115577"
   },
   {
     "nome": "Rita de Cássia dos Santos",
