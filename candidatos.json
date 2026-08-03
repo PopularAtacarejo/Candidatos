@@ -12369,7 +12369,15 @@
     "id": "9bd517e067cd",
     "enviado_em": "2026-08-03T17:44:28.915962",
     "status": "Novo",
-    "processado_em": "2026-08-03T17:44:28.915972"
+    "processado_em": "2026-08-03T17:44:28.915972",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-03T20:39:58.638645",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-03T20:39:58.638645"
+      }
+    ]
   },
   {
     "nome": "Maria Aparecida da paz santos",
@@ -12397,15 +12405,7 @@
     "id": "898bf31cc0c1",
     "enviado_em": "2026-08-03T17:53:28.860246",
     "status": "Novo",
-    "processado_em": "2026-08-03T17:53:28.860254",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-03T20:39:05.107083",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-03T20:39:05.107083"
-      }
-    ]
+    "processado_em": "2026-08-03T17:53:28.860254"
   },
   {
     "nome": "Bruno santos silva",
