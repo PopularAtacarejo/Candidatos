@@ -12474,7 +12474,15 @@
     "id": "a24aa136a590",
     "enviado_em": "2026-07-31T14:23:50.115568",
     "status": "Novo",
-    "processado_em": "2026-07-31T14:23:50.115577"
+    "processado_em": "2026-07-31T14:23:50.115577",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-03T14:43:14.631357",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-03T14:43:14.631357"
+      }
+    ]
   },
   {
     "nome": "Rita de Cássia dos Santos",
@@ -12495,15 +12503,7 @@
     "id": "372e871e815d",
     "enviado_em": "2026-07-31T18:29:47.810293",
     "status": "Novo",
-    "processado_em": "2026-07-31T18:29:47.810303",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-03T14:41:29.723780",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-03T14:41:29.723780"
-      }
-    ]
+    "processado_em": "2026-07-31T18:29:47.810303"
   },
   {
     "nome": "João Guilherme Ferreira cavalcante",
