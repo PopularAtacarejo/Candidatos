@@ -12279,5 +12279,26 @@
     "enviado_em": "2026-08-03T19:43:16.949217",
     "status": "Novo",
     "processado_em": "2026-08-03T19:43:16.949227"
+  },
+  {
+    "nome": "Leandro Victor de Souza Farias",
+    "cpf": "117.367.074-26",
+    "telefone": "(82) 9916-1154",
+    "email": "leandrodr4567@gmail.com",
+    "cep": "57315-758",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Maria Luiza Nóbrega Lima",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11736707426_Leandro_Victor_de_Souza_Farias_REPOSITOR_A_20260803_211516.pdf",
+    "arquivo_nome": "inbound3068375658169907505.pdf",
+    "tamanho_arquivo": 59254,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "963fe17bfe20",
+    "enviado_em": "2026-08-03T21:15:18.274572",
+    "status": "Novo",
+    "processado_em": "2026-08-03T21:15:18.274579"
   }
 ]
