@@ -12495,7 +12495,15 @@
     "id": "372e871e815d",
     "enviado_em": "2026-07-31T18:29:47.810293",
     "status": "Novo",
-    "processado_em": "2026-07-31T18:29:47.810303"
+    "processado_em": "2026-07-31T18:29:47.810303",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-03T14:41:29.723780",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-03T14:41:29.723780"
+      }
+    ]
   },
   {
     "nome": "João Guilherme Ferreira cavalcante",
@@ -12537,15 +12545,7 @@
     "id": "d03904c5da6e",
     "enviado_em": "2026-07-31T21:50:12.474863",
     "status": "Novo",
-    "processado_em": "2026-07-31T21:50:12.474886",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-03T14:40:49.568342",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-03T14:40:49.568342"
-      }
-    ]
+    "processado_em": "2026-07-31T21:50:12.474886"
   },
   {
     "nome": "Leila Gomes severo dos santos",
