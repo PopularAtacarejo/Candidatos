@@ -11659,7 +11659,15 @@
     "id": "4c10c6060da8",
     "enviado_em": "2026-07-29T14:19:26.420618",
     "status": "Novo",
-    "processado_em": "2026-07-29T14:19:26.420625"
+    "processado_em": "2026-07-29T14:19:26.420625",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-04T11:44:52.751199",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-04T11:44:52.751199"
+      }
+    ]
   },
   {
     "nome": "sbfhfdfdfda",
