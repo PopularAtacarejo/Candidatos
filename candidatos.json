@@ -1,54 +1,5 @@
 [
   {
-    "nome": "weslley kevin oliveira silva",
-    "cpf": "115.596.234-62",
-    "telefone": "(82) 99833-4621",
-    "email": "kelvinlevi157@gmail.com",
-    "cep": "_____-___",
-    "cidade": "arapiraca",
-    "bairro": "caititus",
-    "rua": "pedro barbosa da silva",
-    "transporte": "Não",
-    "vaga": "AÇOUGUEIRO",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11559623462_weslley_kevin_oliveira_silva_AÇOUGUEIRO_20260506_134224.pdf",
-    "arquivo_nome": "inbound4906216706240755932.pdf",
-    "tamanho_arquivo": 81135,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "ls de oliveira",
-        "funcao": "motoqueiro",
-        "data_admissao": "2025-06-08",
-        "data_demissao": "2025-12-22"
-      }
-    ],
-    "id": "7e088c7c836c",
-    "enviado_em": "2026-05-06T13:42:26.219437",
-    "status": "Novo",
-    "processado_em": "2026-05-06T13:42:26.219445"
-  },
-  {
-    "nome": "Márcyara Mayris da Silva",
-    "cpf": "185.314.834-25",
-    "telefone": "(82) 99609-4926",
-    "email": "marcysilva193@gmail.com",
-    "cep": "57316-899",
-    "cidade": "Arapiraca",
-    "bairro": "Área Rural de Arapiraca",
-    "rua": "Área Rural",
-    "transporte": "Não",
-    "vaga": "EMBALADOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18531483425_Márcyara_Mayris_da_Silva_EMBALADOR_A_20260506_142257.pdf",
-    "arquivo_nome": "inbound4375722571379901954.pdf",
-    "tamanho_arquivo": 42571,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "a48d49477ae2",
-    "enviado_em": "2026-05-06T14:22:58.808030",
-    "status": "Novo",
-    "processado_em": "2026-05-06T14:22:58.808039"
-  },
-  {
     "nome": "Carlos Cauã de Oliveira Freitas",
     "cpf": "144.012.174-54",
     "telefone": "(82) 99611-2683",
