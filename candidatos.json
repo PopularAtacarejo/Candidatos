@@ -12216,7 +12216,15 @@
     "id": "963fe17bfe20",
     "enviado_em": "2026-08-03T21:15:18.274572",
     "status": "Novo",
-    "processado_em": "2026-08-03T21:15:18.274579"
+    "processado_em": "2026-08-03T21:15:18.274579",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-04T11:07:17.770879",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-04T11:07:17.770879"
+      }
+    ]
   },
   {
     "nome": "Matheus Maciel dos Santos Silva",
@@ -12237,15 +12245,7 @@
     "id": "5bdb0390925f",
     "enviado_em": "2026-08-03T22:44:35.939474",
     "status": "Novo",
-    "processado_em": "2026-08-03T22:44:35.939484",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-04T11:06:03.394107",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-04T11:06:03.394107"
-      }
-    ]
+    "processado_em": "2026-08-03T22:44:35.939484"
   },
   {
     "nome": "Cícera polliany",
