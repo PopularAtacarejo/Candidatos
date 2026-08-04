@@ -12310,5 +12310,39 @@
     "enviado_em": "2026-08-04T16:48:11.526236",
     "status": "Novo",
     "processado_em": "2026-08-04T16:48:11.526246"
+  },
+  {
+    "nome": "José Leandro",
+    "cpf": "135.574.604-36",
+    "telefone": "(82) 99934-3396",
+    "email": "josleandsants@icloud.com",
+    "cep": "57312-190",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Ademário José Mendes Lira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13557460436_José_Leandro_OPERADOR_A_DE_CAIXA_20260804_210849.pdf",
+    "arquivo_nome": "Modern Professional CV Resume.pdf",
+    "tamanho_arquivo": 100939,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Caranguejo for man ",
+        "funcao": "Caixa e atendimento ",
+        "data_admissao": "2026-01-08",
+        "data_demissao": "2026-03-26"
+      },
+      {
+        "empresa": "Pizzaria americana ",
+        "funcao": "Caixa e Atendente ",
+        "data_admissao": "2025-01-04",
+        "data_demissao": "2025-03-04"
+      }
+    ],
+    "id": "3afb79898175",
+    "enviado_em": "2026-08-04T21:08:51.112896",
+    "status": "Novo",
+    "processado_em": "2026-08-04T21:08:51.112906"
   }
 ]
