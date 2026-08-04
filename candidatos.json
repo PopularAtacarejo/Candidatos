@@ -12315,5 +12315,33 @@
     "enviado_em": "2026-08-04T06:10:34.464733",
     "status": "Novo",
     "processado_em": "2026-08-04T06:10:34.464743"
+  },
+  {
+    "nome": "Hillary Gabrielly Oliveira Santos",
+    "cpf": "143.916.404-57",
+    "telefone": "(82) 98800-4567",
+    "email": "oliveirahillary21@gmail.com",
+    "cep": "_____-___",
+    "cidade": "São Sebastião ",
+    "bairro": "Centro ",
+    "rua": "José de Oliveira abreu",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14391640457_Hillary_Gabrielly_Oliveira_Santos_EMBALADOR_A_20260804_085040.pdf",
+    "arquivo_nome": "inbound3819603750187527942.pdf",
+    "tamanho_arquivo": 325614,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Santos cosméticos ",
+        "funcao": "Vendedora",
+        "data_admissao": "2026-06-29",
+        "data_demissao": "2026-07-29"
+      }
+    ],
+    "id": "530dac7c795f",
+    "enviado_em": "2026-08-04T08:50:43.085622",
+    "status": "Novo",
+    "processado_em": "2026-08-04T08:50:43.085629"
   }
 ]
