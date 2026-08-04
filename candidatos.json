@@ -10778,7 +10778,15 @@
     "id": "e520fc958cdc",
     "enviado_em": "2026-07-26T02:10:02.680886",
     "status": "Novo",
-    "processado_em": "2026-07-26T02:10:02.680894"
+    "processado_em": "2026-07-26T02:10:02.680894",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-04T11:45:40.214738",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-04T11:45:40.214738"
+      }
+    ]
   },
   {
     "nome": "Danilo Edvaldo da Silva",
@@ -11659,15 +11667,7 @@
     "id": "4c10c6060da8",
     "enviado_em": "2026-07-29T14:19:26.420618",
     "status": "Novo",
-    "processado_em": "2026-07-29T14:19:26.420625",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-04T11:44:52.751199",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-04T11:44:52.751199"
-      }
-    ]
+    "processado_em": "2026-07-29T14:19:26.420625"
   },
   {
     "nome": "sbfhfdfdfda",
