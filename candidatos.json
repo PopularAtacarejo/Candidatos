@@ -12352,5 +12352,33 @@
         "timestamp": "2026-08-05T10:51:29.948368"
       }
     ]
+  },
+  {
+    "nome": "Maria Ana Paula Cassiano Dos Santos",
+    "cpf": "137.785.644-55",
+    "telefone": "(82) 99619-4624",
+    "email": "paulas.072198@gmail.com",
+    "cep": "57306-350",
+    "cidade": "Arapiraca",
+    "bairro": "Cavaco",
+    "rua": "Rua José Ezequiel Santos",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13778564455_Maria_Ana_Paula_Cassiano_Dos_Santos_OPERADOR_A_DE_CAIXA_20260805_205233.pdf",
+    "arquivo_nome": "DuckResume_1779923921131.pdf",
+    "tamanho_arquivo": 421862,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Assai Atacadão ",
+        "funcao": "Empacotador ",
+        "data_admissao": "2024-11-25",
+        "data_demissao": "2025-05-26"
+      }
+    ],
+    "id": "37f7edd5f598",
+    "enviado_em": "2026-08-05T20:52:36.283283",
+    "status": "Novo",
+    "processado_em": "2026-08-05T20:52:36.283294"
   }
 ]
