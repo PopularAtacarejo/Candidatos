@@ -12380,5 +12380,33 @@
     "enviado_em": "2026-08-05T23:05:38.712871",
     "status": "Novo",
     "processado_em": "2026-08-05T23:05:38.712879"
+  },
+  {
+    "nome": "Julia Carolaine Machado Dantas",
+    "cpf": "139.966.914-16",
+    "telefone": "(82) 99957-9322",
+    "email": "juliadantasntl@gmail.com",
+    "cep": "57310-114",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Sebastião Guimarães Gomes",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13996691416_Julia_Carolaine_Machado_Dantas_REPOSITOR_A_20260805_233412.pdf",
+    "arquivo_nome": "Julia Carolaine Machado Dantas - Currículo _20260805_185822_0000.pdf",
+    "tamanho_arquivo": 235701,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Hot dog lanches",
+        "funcao": "Designer Gráfico e Social Media",
+        "data_admissao": "2026-05-08",
+        "data_demissao": "2026-08-05"
+      }
+    ],
+    "id": "6151bcf77af0",
+    "enviado_em": "2026-08-05T23:34:14.881073",
+    "status": "Novo",
+    "processado_em": "2026-08-05T23:34:14.881081"
   }
 ]
