@@ -12225,15 +12225,7 @@
     "id": "f94be8869ec7",
     "enviado_em": "2026-08-04T15:06:57.254110",
     "status": "Novo",
-    "processado_em": "2026-08-04T15:06:57.254118",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-05T10:51:02.595217",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-05T10:51:02.595217"
-      }
-    ]
+    "processado_em": "2026-08-04T15:06:57.254118"
   },
   {
     "nome": "Layane Maysa dos Santos",
@@ -12351,7 +12343,15 @@
     "id": "3afb79898175",
     "enviado_em": "2026-08-04T21:08:51.112896",
     "status": "Novo",
-    "processado_em": "2026-08-04T21:08:51.112906"
+    "processado_em": "2026-08-04T21:08:51.112906",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-05T10:51:26.004906",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-05T10:51:26.004906"
+      }
+    ]
   },
   {
     "nome": "Lydia Ana Pereira da Paz",
