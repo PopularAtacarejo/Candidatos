@@ -12492,5 +12492,26 @@
     "enviado_em": "2026-08-06T17:42:43.702950",
     "status": "Novo",
     "processado_em": "2026-08-06T17:42:43.702958"
+  },
+  {
+    "nome": "Jamili da Silva Alves",
+    "cpf": "134.137.904-39",
+    "telefone": "(82) 8230-4540",
+    "email": "jamilealvesdasilva190@gmail.com",
+    "cep": "57300-030",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Boa Vista",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13413790439_Jamili_da_Silva_Alves_EMBALADOR_A_20260806_181020.pdf",
+    "arquivo_nome": "CURRICULO DA JAMILI (1).pdf",
+    "tamanho_arquivo": 137776,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "353112fa15ae",
+    "enviado_em": "2026-08-06T18:10:23.012412",
+    "status": "Novo",
+    "processado_em": "2026-08-06T18:10:23.012424"
   }
 ]
