@@ -12408,5 +12408,33 @@
     "enviado_em": "2026-08-05T23:34:14.881073",
     "status": "Novo",
     "processado_em": "2026-08-05T23:34:14.881081"
+  },
+  {
+    "nome": "Maria Janaina da Silva",
+    "cpf": "118.728.174-32",
+    "telefone": "(82) 99654-5042",
+    "email": "mjanaina1997@gmail.com",
+    "cep": "57300-850",
+    "cidade": "Arapiraca",
+    "bairro": "Olho d'Água dos cajuzinho",
+    "rua": "Conjunto vale pelo caba",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11872817432_Maria_Janaina_da_Silva_REPOSITOR_A_20260806_082438.pdf",
+    "arquivo_nome": "inbound8543743561417214626.pdf",
+    "tamanho_arquivo": 59173,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "JC churros ",
+        "funcao": "Atendente de delivery ",
+        "data_admissao": "2025-10-20",
+        "data_demissao": "2026-06-05"
+      }
+    ],
+    "id": "de46567e5999",
+    "enviado_em": "2026-08-06T08:24:40.005230",
+    "status": "Novo",
+    "processado_em": "2026-08-06T08:24:40.005238"
   }
 ]
