@@ -12436,5 +12436,33 @@
     "enviado_em": "2026-08-06T08:24:40.005230",
     "status": "Novo",
     "processado_em": "2026-08-06T08:24:40.005238"
+  },
+  {
+    "nome": "Maria Vitória da Silva",
+    "cpf": "120.203.414-41",
+    "telefone": "(82) 99345-8783",
+    "email": "mariavitoriavdc250@gmail.com",
+    "cep": "57308-630",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Penedo",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12020341441_Maria_Vitória_da_Silva_REPOSITOR_A_20260806_130542.pdf",
+    "arquivo_nome": "inbound283423099125845083.pdf",
+    "tamanho_arquivo": 218385,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Teleatendimento ",
+        "data_admissao": "2023-03-12",
+        "data_demissao": "2025-01-22"
+      }
+    ],
+    "id": "423bf0821bf6",
+    "enviado_em": "2026-08-06T13:05:44.960574",
+    "status": "Novo",
+    "processado_em": "2026-08-06T13:05:44.960582"
   }
 ]
