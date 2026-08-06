@@ -12464,5 +12464,33 @@
     "enviado_em": "2026-08-06T13:05:44.960574",
     "status": "Novo",
     "processado_em": "2026-08-06T13:05:44.960582"
+  },
+  {
+    "nome": "Rodrigo de Souza Silva",
+    "cpf": "129.087.614-24",
+    "telefone": "(82) 99409-9841",
+    "email": "rd0455561@gmail.com",
+    "cep": "57311-305",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Petrolina",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12908761424_Rodrigo_de_Souza_Silva_ASSISTENTE_DE_RH_20260806_174241.pdf",
+    "arquivo_nome": "inbound3961980325498304780.pdf",
+    "tamanho_arquivo": 134943,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Merconplas ",
+        "funcao": "Conferente de produção e operador de Injetora",
+        "data_admissao": "2020-07-01",
+        "data_demissao": "2026-08-06"
+      }
+    ],
+    "id": "915c8050725f",
+    "enviado_em": "2026-08-06T17:42:43.702950",
+    "status": "Novo",
+    "processado_em": "2026-08-06T17:42:43.702958"
   }
 ]
