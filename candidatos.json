@@ -12544,5 +12544,33 @@
     "enviado_em": "2026-08-06T19:38:30.569030",
     "status": "Novo",
     "processado_em": "2026-08-06T19:38:30.569040"
+  },
+  {
+    "nome": "Maria Raissa Honório da Silva",
+    "cpf": "126.280.874-05",
+    "telefone": "(82) 98125-3627",
+    "email": "honorioraissa44@gmail.com",
+    "cep": "57313-755",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua José Ferreira da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12628087405_Maria_Raissa_Honório_da_Silva_REPOSITOR_A_20260807_171841.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades.pdf",
+    "tamanho_arquivo": 887234,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Comercial Nascimento ",
+        "funcao": "Repositor ",
+        "data_admissao": "2024-07-07",
+        "data_demissao": "2026-06-15"
+      }
+    ],
+    "id": "7df067f06527",
+    "enviado_em": "2026-08-07T17:18:44.463883",
+    "status": "Novo",
+    "processado_em": "2026-08-07T17:18:44.463889"
   }
 ]
