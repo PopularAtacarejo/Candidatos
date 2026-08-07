@@ -11759,7 +11759,15 @@
     "id": "8564ebe8c478",
     "enviado_em": "2026-08-01T17:07:50.072555",
     "status": "Novo",
-    "processado_em": "2026-08-01T17:07:50.072563"
+    "processado_em": "2026-08-01T17:07:50.072563",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-07T11:49:13.358402",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-07T11:49:13.358402"
+      }
+    ]
   },
   {
     "nome": "Ana Paula de Lima Santos",
@@ -12092,15 +12100,7 @@
     "id": "3c033ab8f76e",
     "enviado_em": "2026-08-04T06:10:34.464733",
     "status": "Novo",
-    "processado_em": "2026-08-04T06:10:34.464743",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-07T11:48:47.656880",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-07T11:48:47.656880"
-      }
-    ]
+    "processado_em": "2026-08-04T06:10:34.464743"
   },
   {
     "nome": "Hillary Gabrielly Oliveira Santos",
