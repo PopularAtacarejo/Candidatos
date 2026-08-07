@@ -12551,5 +12551,26 @@
     "enviado_em": "2026-08-07T17:18:44.463883",
     "status": "Novo",
     "processado_em": "2026-08-07T17:18:44.463889"
+  },
+  {
+    "nome": "Elaine Alves Olimpio da Silva",
+    "cpf": "131.032.404-22",
+    "telefone": "(82) 99937-2608",
+    "email": "elainecereja28@gmail.com",
+    "cep": "57316-889",
+    "cidade": "Arapiraca ",
+    "bairro": "Zona Rural",
+    "rua": "Avenida José Alves da Silva",
+    "transporte": "Não",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13103240422_Elaine_Alves_Olimpio_da_Silva_Fiscal_de_Caixa_20260807_192223.pdf",
+    "arquivo_nome": "inbound213992091395879477.pdf",
+    "tamanho_arquivo": 43215,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "5153df171791",
+    "enviado_em": "2026-08-07T19:22:25.221100",
+    "status": "Novo",
+    "processado_em": "2026-08-07T19:22:25.221108"
   }
 ]
