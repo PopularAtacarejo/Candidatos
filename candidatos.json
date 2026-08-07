@@ -12092,7 +12092,15 @@
     "id": "3c033ab8f76e",
     "enviado_em": "2026-08-04T06:10:34.464733",
     "status": "Novo",
-    "processado_em": "2026-08-04T06:10:34.464743"
+    "processado_em": "2026-08-04T06:10:34.464743",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-07T11:48:47.656880",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-07T11:48:47.656880"
+      }
+    ]
   },
   {
     "nome": "Hillary Gabrielly Oliveira Santos",
