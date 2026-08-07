@@ -12378,16 +12378,13 @@
     "experiencias": [],
     "id": "542374bfbc32",
     "enviado_em": "2026-08-05T23:05:38.712871",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-08-05T23:05:38.712879",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-07T11:46:27.909688",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-07T11:46:27.909688"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-08-07T11:47:18.326861",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Julia Carolaine Machado Dantas",
