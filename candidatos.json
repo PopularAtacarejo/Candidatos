@@ -12538,7 +12538,15 @@
     "id": "978d4f977b1b",
     "enviado_em": "2026-08-06T18:58:33.026372",
     "status": "Novo",
-    "processado_em": "2026-08-06T18:58:33.026383"
+    "processado_em": "2026-08-06T18:58:33.026383",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-07T11:47:30.029086",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-07T11:47:30.029086"
+      }
+    ]
   },
   {
     "nome": "Rayane da Silva Rodrigues",
