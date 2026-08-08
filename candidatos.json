@@ -12628,5 +12628,26 @@
     "enviado_em": "2026-08-08T06:44:21.470806",
     "status": "Novo",
     "processado_em": "2026-08-08T06:44:21.470813"
+  },
+  {
+    "nome": "Ingrid Santos",
+    "cpf": "114.706.134-33",
+    "telefone": "(82) 99937-6629",
+    "email": "ingridsantos.8282@gmail.com",
+    "cep": "57315-198",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Luiz Jose de França",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11470613433_Ingrid_Santos_BALCONISTA_DE_PADARIA_20260808_121527.pdf",
+    "arquivo_nome": "Curriculo_Ingrid_Santos.pdf",
+    "tamanho_arquivo": 2587,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "ddd6c89eea2e",
+    "enviado_em": "2026-08-08T12:15:29.293654",
+    "status": "Novo",
+    "processado_em": "2026-08-08T12:15:29.293664"
   }
 ]
