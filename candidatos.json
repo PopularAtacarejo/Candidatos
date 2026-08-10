@@ -12673,5 +12673,26 @@
     "enviado_em": "2026-08-10T16:43:25.881886",
     "status": "Novo",
     "processado_em": "2026-08-10T16:43:25.881895"
+  },
+  {
+    "nome": "Maria Clara Ramalho da Silva",
+    "cpf": "152.791.084-99",
+    "telefone": "(55) 82999-5712",
+    "email": "claramaria2023n@icloud.com",
+    "cep": "57315-756",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Terezinha de Jesus Vital Gomes",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15279108499_Maria_Clara_Ramalho_da_Silva_EMBALADOR_A_20260810_185658.pdf",
+    "arquivo_nome": "curriculo_maria_clara_sem_foto.docx.pdf",
+    "tamanho_arquivo": 64667,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "75dac90d85f4",
+    "enviado_em": "2026-08-10T18:56:59.877972",
+    "status": "Novo",
+    "processado_em": "2026-08-10T18:56:59.877979"
   }
 ]
