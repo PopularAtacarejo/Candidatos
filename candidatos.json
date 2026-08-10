@@ -12624,5 +12624,26 @@
     "enviado_em": "2026-08-08T19:35:10.228960",
     "status": "Novo",
     "processado_em": "2026-08-08T19:35:10.228968"
+  },
+  {
+    "nome": "Wilma Torres de Lima",
+    "cpf": "015.088.024-32",
+    "telefone": "(82) 99643-5531",
+    "email": "wilmatorres251@gmail.com",
+    "cep": "57307-140",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Pedro Romualdo da Silva",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/01508802432_Wilma_Torres_de_Lima_AUXILIAR_DE_LIMPEZA_20260810_161121.pdf",
+    "arquivo_nome": "inbound5722146655981208935.pdf",
+    "tamanho_arquivo": 264946,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "72c5160142a9",
+    "enviado_em": "2026-08-10T16:11:24.410101",
+    "status": "Novo",
+    "processado_em": "2026-08-10T16:11:24.410112"
   }
 ]
