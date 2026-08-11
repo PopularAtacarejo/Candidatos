@@ -12580,5 +12580,33 @@
     "enviado_em": "2026-08-11T22:57:00.338665",
     "status": "Novo",
     "processado_em": "2026-08-11T22:57:00.338673"
+  },
+  {
+    "nome": "Júlio romeiro de Araújo neto",
+    "cpf": "134.693.494-01",
+    "telefone": "(82) 99968-6649",
+    "email": "julioromeiro12@icloud.com",
+    "cep": "57309-835",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Ledo Ivo",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13469349401_Júlio_romeiro_de_Araújo_neto_REPOSITOR_A_20260811_225705.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 138923,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacarejo",
+        "funcao": "Repositor ",
+        "data_admissao": "2022-01-20",
+        "data_demissao": "2024-09-05"
+      }
+    ],
+    "id": "2c18372d3873",
+    "enviado_em": "2026-08-11T22:57:06.956630",
+    "status": "Novo",
+    "processado_em": "2026-08-11T22:57:06.956639"
   }
 ]
