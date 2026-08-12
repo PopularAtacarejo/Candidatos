@@ -12805,5 +12805,33 @@
     "enviado_em": "2026-08-12T15:04:28.293444",
     "status": "Novo",
     "processado_em": "2026-08-12T15:04:28.293452"
+  },
+  {
+    "nome": "Juliana Oliveira da Silva",
+    "cpf": "712.237.424-66",
+    "telefone": "(74) 98862-3620",
+    "email": "jujuhungria10@gmail.com",
+    "cep": "57303-847",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Francisco Pereira Lima",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71223742466_Juliana_Oliveira_da_Silva_AUXILIAR_DE_LIMPEZA_20260812_175018.pdf",
+    "arquivo_nome": "CV_2025110421250363.pdf",
+    "tamanho_arquivo": 608964,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Cajueiro motos ",
+        "funcao": "Auxiliar de limpeza ",
+        "data_admissao": "2022-08-12",
+        "data_demissao": "2025-08-12"
+      }
+    ],
+    "id": "22695b71632d",
+    "enviado_em": "2026-08-12T17:50:20.175862",
+    "status": "Novo",
+    "processado_em": "2026-08-12T17:50:20.175870"
   }
 ]
