@@ -12962,5 +12962,26 @@
     "enviado_em": "2026-08-12T19:38:28.504155",
     "status": "Novo",
     "processado_em": "2026-08-12T19:38:28.504163"
+  },
+  {
+    "nome": "Carlos Victor",
+    "cpf": "123.678.394-84",
+    "telefone": "(82) 99120-4506",
+    "email": "carlosvictorsantosdasilva14@gmail.com",
+    "cep": "57309-824",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua José Amaro Filho",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12367839484_Carlos_Victor_AUXILIAR_DE_T.I_20260812_202705.pdf",
+    "arquivo_nome": "curriculo_carlos_victor_v3.pdf",
+    "tamanho_arquivo": 14267,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b43c8e599241",
+    "enviado_em": "2026-08-12T20:27:07.057725",
+    "status": "Novo",
+    "processado_em": "2026-08-12T20:27:07.057735"
   }
 ]
