@@ -12955,5 +12955,26 @@
     "enviado_em": "2026-08-12T20:27:07.057725",
     "status": "Novo",
     "processado_em": "2026-08-12T20:27:07.057735"
+  },
+  {
+    "nome": "Jeferson Da Silva Santos",
+    "cpf": "107.738.464-50",
+    "telefone": "(82) 99915-8412",
+    "email": "popularatacarejomkt@gmail.com",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "transporte": "Sim",
+    "vaga": "AÇOUGUEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10773846450_Jeferson_Da_Silva_Santos_AÇOUGUEIRO_20260812_204401.pdf",
+    "arquivo_nome": "Solicitação de placas - 12.08.pdf",
+    "tamanho_arquivo": 24175,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c1fd46b32114",
+    "enviado_em": "2026-08-12T20:44:03.566957",
+    "status": "Novo",
+    "processado_em": "2026-08-12T20:44:03.566966"
   }
 ]
