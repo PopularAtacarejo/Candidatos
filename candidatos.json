@@ -12670,15 +12670,7 @@
     "id": "f99ccc88c0c2",
     "enviado_em": "2026-08-12T13:04:21.176547",
     "status": "Novo",
-    "processado_em": "2026-08-12T13:04:21.176559",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-12T16:53:55.616040",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-12T16:53:55.616040"
-      }
-    ]
+    "processado_em": "2026-08-12T13:04:21.176559"
   },
   {
     "nome": "Camila Klarte Rodrigues Ferreira",
@@ -12806,7 +12798,15 @@
     "id": "77d90bf2b94e",
     "enviado_em": "2026-08-12T14:34:06.387709",
     "status": "Novo",
-    "processado_em": "2026-08-12T14:34:06.387717"
+    "processado_em": "2026-08-12T14:34:06.387717",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-12T16:56:45.935221",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-12T16:56:45.935221"
+      }
+    ]
   },
   {
     "nome": "Maria Eduarda da Silva Rodrigues",
