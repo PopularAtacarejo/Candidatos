@@ -103,5 +103,33 @@
     "enviado_em": "2026-08-11T23:39:02.659081",
     "status": "Novo",
     "processado_em": "2026-08-11T23:39:02.659089"
+  },
+  {
+    "nome": "Anny Gabrielly Pereira de Oliveira Rodrigues",
+    "cpf": "118.647.974-44",
+    "telefone": "(82) 99928-3559",
+    "email": "gr7514290@gmail.com",
+    "cep": "57312-266",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Presidente Dutra",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11864797444_Anny_Gabrielly_Pereira_de_Oliveira_Rodrigues_OPERADOR_A_DE_CAIXA_20260812_004446.pdf",
+    "arquivo_nome": "ANNY GABRIELLY PEREIRA DE OLIVEIRA RODRIGUES.pdf",
+    "tamanho_arquivo": 0,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Divino fogão",
+        "funcao": "Atendente, operadora de caixa ",
+        "data_admissao": "2023-04-24",
+        "data_demissao": "2025-05-11"
+      }
+    ],
+    "id": "4ec04b824a7c",
+    "enviado_em": "2026-08-12T00:44:47.908744",
+    "status": "Novo",
+    "processado_em": "2026-08-12T00:44:47.908752"
   }
 ]
