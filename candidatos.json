@@ -227,5 +227,26 @@
     "enviado_em": "2026-08-12T08:32:19.686437",
     "status": "Novo",
     "processado_em": "2026-08-12T08:32:19.686444"
+  },
+  {
+    "nome": "Gabriel Alves de Morais",
+    "cpf": "147.244.064-10",
+    "telefone": "(82) 9693-8482",
+    "email": "moraisgabo2008@gmail.com",
+    "cep": "57309-168",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Iraci Rosa da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14724406410_Gabriel_Alves_de_Morais_BALCONISTA_DE_AÇOUGUE_20260812_084621.pdf",
+    "arquivo_nome": "Gabriel Alves de Morais - Currículo _20260805_185545_0000.pdf",
+    "tamanho_arquivo": 201861,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "6066aa67acf1",
+    "enviado_em": "2026-08-12T08:46:23.700103",
+    "status": "Novo",
+    "processado_em": "2026-08-12T08:46:23.700110"
   }
 ]
