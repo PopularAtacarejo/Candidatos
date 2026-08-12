@@ -12729,5 +12729,26 @@
     "enviado_em": "2026-08-12T13:04:37.071429",
     "status": "Novo",
     "processado_em": "2026-08-12T13:04:37.071438"
+  },
+  {
+    "nome": "Maysa Danielle Ferreira da Silva",
+    "cpf": "151.511.524-08",
+    "telefone": "(82) 99633-0778",
+    "email": "maysadanielle652@gmail.com",
+    "cep": "57309-774",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Avenida Pio XII",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15151152408_Maysa_Danielle_Ferreira_da_Silva_REPOSITOR_A_20260812_141250.pdf",
+    "arquivo_nome": "inbound9064448604278800640.pdf",
+    "tamanho_arquivo": 72073,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "79bfe61d2c97",
+    "enviado_em": "2026-08-12T14:12:52.939829",
+    "status": "Novo",
+    "processado_em": "2026-08-12T14:12:52.939838"
   }
 ]
