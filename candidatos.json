@@ -12771,5 +12771,33 @@
     "enviado_em": "2026-08-12T14:19:58.361990",
     "status": "Novo",
     "processado_em": "2026-08-12T14:19:58.362001"
+  },
+  {
+    "nome": "Karoline Larissa Torres de Amorim",
+    "cpf": "123.758.174-51",
+    "telefone": "(82) 99614-3419",
+    "email": "karoll.torrest@gmail.com",
+    "cep": "57315-730",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Manoel Barbosa Sobrinho",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12375817451_Karoline_Larissa_Torres_de_Amorim_AUXILIAR_DE_T.I_20260812_143403.pdf",
+    "arquivo_nome": "Karoline_Torres_Curriculo.pdf",
+    "tamanho_arquivo": 85687,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Secretaria de educação ",
+        "funcao": "Estágio Auxiliar de t.i",
+        "data_admissao": "2026-04-06",
+        "data_demissao": "2026-12-31"
+      }
+    ],
+    "id": "77d90bf2b94e",
+    "enviado_em": "2026-08-12T14:34:06.387709",
+    "status": "Novo",
+    "processado_em": "2026-08-12T14:34:06.387717"
   }
 ]
