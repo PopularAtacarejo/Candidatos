@@ -12750,5 +12750,26 @@
     "enviado_em": "2026-08-12T14:12:52.939829",
     "status": "Novo",
     "processado_em": "2026-08-12T14:12:52.939838"
+  },
+  {
+    "nome": "Maria Aparecida Soares da Silva",
+    "cpf": "114.010.414-42",
+    "telefone": "(82) 98134-8909",
+    "email": "antanyelemariasoares@gmail.com",
+    "cep": "57313-200",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Vereador Pedro Aristides da Silva",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11401041442_Maria_Aparecida_Soares_da_Silva_OPERADOR_A_DE_CAIXA_20260812_141956.pdf",
+    "arquivo_nome": "inbound6582267326811059001.pdf",
+    "tamanho_arquivo": 59319,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "0670eaaf0fb6",
+    "enviado_em": "2026-08-12T14:19:58.361990",
+    "status": "Novo",
+    "processado_em": "2026-08-12T14:19:58.362001"
   }
 ]
