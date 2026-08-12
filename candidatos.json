@@ -143,15 +143,7 @@
     "id": "4ec04b824a7c",
     "enviado_em": "2026-08-12T00:44:47.908744",
     "status": "Novo",
-    "processado_em": "2026-08-12T00:44:47.908752",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-12T11:07:14.074455",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-12T11:07:14.074455"
-      }
-    ]
+    "processado_em": "2026-08-12T00:44:47.908752"
   },
   {
     "nome": "Weverton Ruan dos santos do nascimento",
@@ -213,7 +205,15 @@
     "id": "52e5ed4977b4",
     "enviado_em": "2026-08-12T03:15:31.579956",
     "status": "Novo",
-    "processado_em": "2026-08-12T03:15:31.579965"
+    "processado_em": "2026-08-12T03:15:31.579965",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-12T11:07:56.920275",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-12T11:07:56.920275"
+      }
+    ]
   },
   {
     "nome": "Sérgio Ricardo de Souza Paz Júnior",
