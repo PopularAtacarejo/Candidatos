@@ -12799,5 +12799,33 @@
     "enviado_em": "2026-08-12T14:34:06.387709",
     "status": "Novo",
     "processado_em": "2026-08-12T14:34:06.387717"
+  },
+  {
+    "nome": "Maria Eduarda da Silva Rodrigues",
+    "cpf": "151.499.424-05",
+    "telefone": "(82) 99905-3363",
+    "email": "meduardarodrigues2111@gmail.com",
+    "cep": "52312-230",
+    "cidade": "Arapiraca",
+    "bairro": "Santa esmeralda ",
+    "rua": "Da liberdade ",
+    "transporte": "Sim",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15149942405_Maria_Eduarda_da_Silva_Rodrigues_Fiscal_de_Caixa_20260812_150426.pdf",
+    "arquivo_nome": "inbound8777245172988757323.pdf",
+    "tamanho_arquivo": 237966,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Novo atacarejo ",
+        "funcao": "Fiscal de frente de loja",
+        "data_admissao": "2026-08-10",
+        "data_demissao": "2026-08-10"
+      }
+    ],
+    "id": "0cb284e3277d",
+    "enviado_em": "2026-08-12T15:04:28.293444",
+    "status": "Novo",
+    "processado_em": "2026-08-12T15:04:28.293452"
   }
 ]
