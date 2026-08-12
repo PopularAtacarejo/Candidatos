@@ -205,15 +205,7 @@
     "id": "52e5ed4977b4",
     "enviado_em": "2026-08-12T03:15:31.579956",
     "status": "Novo",
-    "processado_em": "2026-08-12T03:15:31.579965",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-12T11:08:01.762564",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-12T11:08:01.762564"
-      }
-    ]
+    "processado_em": "2026-08-12T03:15:31.579965"
   },
   {
     "nome": "Sérgio Ricardo de Souza Paz Júnior",
@@ -12420,7 +12412,15 @@
     "id": "5153df171791",
     "enviado_em": "2026-08-07T19:22:25.221100",
     "status": "Novo",
-    "processado_em": "2026-08-07T19:22:25.221108"
+    "processado_em": "2026-08-07T19:22:25.221108",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-12T11:10:32.512181",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-12T11:10:32.512181"
+      }
+    ]
   },
   {
     "nome": "Layane Maysa dos Santos",
