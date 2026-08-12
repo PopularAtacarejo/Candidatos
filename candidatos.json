@@ -88,7 +88,7 @@
     "updated_at": "2026-08-12T10:58:59.982505",
     "updated_by": "Maria Sabrina",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-12T14:05:53.983717",
+    "ultimo_visualizado_em": "2026-08-12T14:05:57.450653",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
@@ -97,6 +97,10 @@
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-12T14:05:53.983717"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-12T14:05:57.450653"
       }
     ]
   },
