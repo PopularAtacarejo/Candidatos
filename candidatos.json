@@ -159,5 +159,39 @@
     "enviado_em": "2026-08-12T01:15:39.709089",
     "status": "Novo",
     "processado_em": "2026-08-12T01:15:39.709098"
+  },
+  {
+    "nome": "Marksuel Cosmo Leandro dos santos",
+    "cpf": "142.917.934-13",
+    "telefone": "(82) 99678-3323",
+    "email": "sl08081999@gmail.com",
+    "cep": "57316-040",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua Padre Antônio Lima Neto",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14291793413_Marksuel_Cosmo_Leandro_dos_santos_OPERADOR_A_DE_CAIXA_20260812_031528.pdf",
+    "arquivo_nome": "inbound7858002780870341487.pdf",
+    "tamanho_arquivo": 249802,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado Souza e Néri ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2024-07-06",
+        "data_demissao": "2024-12-11"
+      },
+      {
+        "empresa": "Supermercado meideiros ",
+        "funcao": "Repositor de mercadorias ",
+        "data_admissao": "2021-08-08",
+        "data_demissao": "2023-08-20"
+      }
+    ],
+    "id": "52e5ed4977b4",
+    "enviado_em": "2026-08-12T03:15:31.579956",
+    "status": "Novo",
+    "processado_em": "2026-08-12T03:15:31.579965"
   }
 ]
