@@ -12934,5 +12934,33 @@
     "enviado_em": "2026-08-12T19:38:19.053853",
     "status": "Novo",
     "processado_em": "2026-08-12T19:38:19.053866"
+  },
+  {
+    "nome": "shayanne kevilly cândido dos santos",
+    "cpf": "152.210.794-02",
+    "telefone": "(82) 99941-4931",
+    "email": "shayannekevilly5@gmail.com",
+    "cep": "57303-817",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Marlene Barbosa da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15221079402_shayanne_kevilly_cândido_dos_santos_REPOSITOR_DE_FRIOS_20260812_193826.pdf",
+    "arquivo_nome": " Shayanne Kevely Candido dos Santos _20260812_150527_0000.pdf",
+    "tamanho_arquivo": 159050,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "BELLACOMPRA",
+        "funcao": "Operadora de caixa",
+        "data_admissao": "2025-02-13",
+        "data_demissao": "2025-11-25"
+      }
+    ],
+    "id": "bdf596d58119",
+    "enviado_em": "2026-08-12T19:38:28.504155",
+    "status": "Novo",
+    "processado_em": "2026-08-12T19:38:28.504163"
   }
 ]
