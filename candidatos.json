@@ -12833,5 +12833,33 @@
     "enviado_em": "2026-08-12T17:50:20.175862",
     "status": "Novo",
     "processado_em": "2026-08-12T17:50:20.175870"
+  },
+  {
+    "nome": "Jonas emmanoel Gomes da Silva",
+    "cpf": "120.072.414-39",
+    "telefone": "(82) 98154-6072",
+    "email": "emmanoeljonas10@gmail.com",
+    "cep": "57305-570",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Antônio Menezes Neto",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12007241439_Jonas_emmanoel_Gomes_da_Silva_AUXILIAR_DE_LIMPEZA_20260812_181354.pdf",
+    "arquivo_nome": "inbound5499852452886430007.pdf",
+    "tamanho_arquivo": 148880,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bra serviços ",
+        "funcao": "Serviços gerais",
+        "data_admissao": "2023-05-17",
+        "data_demissao": "2026-03-25"
+      }
+    ],
+    "id": "71a1472bee55",
+    "enviado_em": "2026-08-12T18:13:56.255192",
+    "status": "Novo",
+    "processado_em": "2026-08-12T18:13:56.255203"
   }
 ]
