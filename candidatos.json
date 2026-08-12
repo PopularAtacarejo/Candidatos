@@ -12570,16 +12570,13 @@
     ],
     "id": "da11eca3141e",
     "enviado_em": "2026-08-12T10:55:13.333381",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-08-12T10:55:13.333388",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-12T10:59:58.549108",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-12T10:59:58.549108"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-08-12T11:00:05.229252",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Cauã Vinicius Melo dos Santos",
