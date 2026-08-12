@@ -193,5 +193,39 @@
     "enviado_em": "2026-08-12T03:15:31.579956",
     "status": "Novo",
     "processado_em": "2026-08-12T03:15:31.579965"
+  },
+  {
+    "nome": "Sérgio Ricardo de Souza Paz Júnior",
+    "cpf": "152.113.134-10",
+    "telefone": "(82) 99999-0670",
+    "email": "sergioricardo.dapazjr@gmail.com",
+    "cep": "57309-620",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Abacateiro",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15211313410_Sérgio_Ricardo_de_Souza_Paz_Júnior_OPERADOR_A_DE_CAIXA_20260812_083217.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 485496,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente ",
+        "data_admissao": "2022-02-02",
+        "data_demissao": "2024-12-12"
+      },
+      {
+        "empresa": "Aec",
+        "funcao": "Supervisor de Operações ",
+        "data_admissao": "2024-12-12",
+        "data_demissao": "2025-05-12"
+      }
+    ],
+    "id": "d368e409200e",
+    "enviado_em": "2026-08-12T08:32:19.686437",
+    "status": "Novo",
+    "processado_em": "2026-08-12T08:32:19.686444"
   }
 ]
