@@ -12663,5 +12663,63 @@
     "enviado_em": "2026-08-12T13:04:21.176547",
     "status": "Novo",
     "processado_em": "2026-08-12T13:04:21.176559"
+  },
+  {
+    "nome": "Camila Klarte Rodrigues Ferreira",
+    "cpf": "058.383.524-42",
+    "telefone": "(82) 99142-6518",
+    "email": "kakauklarte@gmail.com",
+    "cep": "57300-390",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Olavo Bilac",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05838352442_Camila_Klarte_Rodrigues_Ferreira_OPERADOR_A_DE_CAIXA_20260812_130435.pdf",
+    "arquivo_nome": "inbound2394353321047105696.pdf",
+    "tamanho_arquivo": 361534,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Armazém do Sorveteiro ",
+        "funcao": "Operador de Caixa ",
+        "data_admissao": "2023-09-11",
+        "data_demissao": "2024-08-31"
+      },
+      {
+        "empresa": "ZAP consultoria recursos humanos ",
+        "funcao": "Assistente administrativo ",
+        "data_admissao": "2025-09-24",
+        "data_demissao": "2025-12-20"
+      },
+      {
+        "empresa": "J Cláudio Decor",
+        "funcao": "Auxiliar administrativo ",
+        "data_admissao": "2013-01-03",
+        "data_demissao": "2015-11-30"
+      },
+      {
+        "empresa": "Lojas Americanas ",
+        "funcao": "Auxiliar de loja",
+        "data_admissao": "2026-03-01",
+        "data_demissao": "2026-04-01"
+      },
+      {
+        "empresa": "Grupo Alerta ",
+        "funcao": "Recepcionista ",
+        "data_admissao": "2025-05-05",
+        "data_demissao": "2026-09-07"
+      },
+      {
+        "empresa": "ZAP consultoria recursos humanos ",
+        "funcao": "Assistente administrativo ",
+        "data_admissao": "2026-05-03",
+        "data_demissao": "2026-07-31"
+      }
+    ],
+    "id": "0d008adff345",
+    "enviado_em": "2026-08-12T13:04:37.071429",
+    "status": "Novo",
+    "processado_em": "2026-08-12T13:04:37.071438"
   }
 ]
