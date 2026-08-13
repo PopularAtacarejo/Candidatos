@@ -13105,5 +13105,33 @@
     "enviado_em": "2026-08-13T17:04:40.458805",
     "status": "Novo",
     "processado_em": "2026-08-13T17:04:40.458815"
+  },
+  {
+    "nome": "Letícia da Paz Ferreira Dias",
+    "cpf": "136.061.464-85",
+    "telefone": "(82) 99605-9730",
+    "email": "leticciapaz@gmail.com",
+    "cep": "57302-706",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Valdeni Barbosa",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13606146485_Letícia_da_Paz_Ferreira_Dias_REPOSITOR_A_20260813_175105.pdf",
+    "arquivo_nome": "inbound7512606937908192504.pdf",
+    "tamanho_arquivo": 30981,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "aec",
+        "funcao": "operador de telemarketing ",
+        "data_admissao": "2025-10-08",
+        "data_demissao": "2026-07-07"
+      }
+    ],
+    "id": "b441c4bce68d",
+    "enviado_em": "2026-08-13T17:51:07.664508",
+    "status": "Novo",
+    "processado_em": "2026-08-13T17:51:07.664517"
   }
 ]
