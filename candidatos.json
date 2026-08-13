@@ -13047,5 +13047,63 @@
     "enviado_em": "2026-08-13T15:49:42.221612",
     "status": "Novo",
     "processado_em": "2026-08-13T15:49:42.221619"
+  },
+  {
+    "nome": "Marksuel Cosmo Leandro dos Santos",
+    "cpf": "142.917.934-13",
+    "telefone": "(82) 99678-3323",
+    "email": "sl08081999@gmail.com",
+    "cep": "57316-040",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua Padre Antônio Lima Neto",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14291793413_Marksuel_Cosmo_Leandro_dos_Santos_REPOSITOR_A_20260813_170437.pdf",
+    "arquivo_nome": "inbound1800321003914971476.pdf",
+    "tamanho_arquivo": 320580,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "JBS FOODS SEARA ALIMENTOS",
+        "funcao": "Auxiliar de produção ",
+        "data_admissao": "2018-08-20",
+        "data_demissao": "2018-11-01"
+      },
+      {
+        "empresa": "TRAVESSEIROS E ESPUMAS LTDA ",
+        "funcao": "Auxiliar de produção ",
+        "data_admissao": "2018-11-28",
+        "data_demissao": "2020-07-06"
+      },
+      {
+        "empresa": "VISION ENGENHARIA LTDA",
+        "funcao": "Servente",
+        "data_admissao": "2020-09-01",
+        "data_demissao": "2021-02-12"
+      },
+      {
+        "empresa": "SUPERMERCADO MEIDEIROS ",
+        "funcao": "Repositor ",
+        "data_admissao": "2021-06-10",
+        "data_demissao": "2023-08-13"
+      },
+      {
+        "empresa": "SUPERMERCADO SOUZA E NÉRI ",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2024-07-01",
+        "data_demissao": "2024-12-01"
+      },
+      {
+        "empresa": "Colégio Arleir",
+        "funcao": "Motorista de veículo escolar",
+        "data_admissao": "2024-12-02",
+        "data_demissao": "2026-07-08"
+      }
+    ],
+    "id": "c2ddac1871bc",
+    "enviado_em": "2026-08-13T17:04:40.458805",
+    "status": "Novo",
+    "processado_em": "2026-08-13T17:04:40.458815"
   }
 ]
