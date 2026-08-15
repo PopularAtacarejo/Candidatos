@@ -13162,5 +13162,33 @@
     "enviado_em": "2026-08-15T05:14:52.201440",
     "status": "Novo",
     "processado_em": "2026-08-15T05:14:52.201449"
+  },
+  {
+    "nome": "Naira Rouse da Silva Lopes",
+    "cpf": "074.084.084-36",
+    "telefone": "(82) 98760-5731",
+    "email": "nairalopes949@gmail.com",
+    "cep": "57311-210",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Nossa Senhora da Penha",
+    "transporte": "Sim",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07408408436_Naira_Rouse_da_Silva_Lopes_Auxiliar_de_Limpeza_20260815_181201.pdf",
+    "arquivo_nome": "inbound5747195200858581143.pdf",
+    "tamanho_arquivo": 30136,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec teleatendimento ",
+        "funcao": "Atendente ",
+        "data_admissao": "2025-08-01",
+        "data_demissao": "2026-07-10"
+      }
+    ],
+    "id": "5eb374e43bc4",
+    "enviado_em": "2026-08-15T18:12:02.981516",
+    "status": "Novo",
+    "processado_em": "2026-08-15T18:12:02.981527"
   }
 ]
