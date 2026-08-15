@@ -13085,5 +13085,33 @@
     "enviado_em": "2026-08-13T18:03:25.695880",
     "status": "Novo",
     "processado_em": "2026-08-13T18:03:25.695890"
+  },
+  {
+    "nome": "Kayssa galdino dos santos",
+    "cpf": "141.081.554-40",
+    "telefone": "(82) 99810-1590",
+    "email": "kayssagaldino@gmail.com",
+    "cep": "57306-100",
+    "cidade": "Arapiraca",
+    "bairro": "Eldorado",
+    "rua": "Rua Marechal Hermes da Fonseca",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14108155440_Kayssa_galdino_dos_santos_REPOSITOR_A_20260815_005833.pdf",
+    "arquivo_nome": "pdf .pdf",
+    "tamanho_arquivo": 114102,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente ",
+        "data_admissao": "2025-01-14",
+        "data_demissao": "2025-09-01"
+      }
+    ],
+    "id": "d00fbc7ad058",
+    "enviado_em": "2026-08-15T00:58:34.955045",
+    "status": "Novo",
+    "processado_em": "2026-08-15T00:58:34.955053"
   }
 ]
