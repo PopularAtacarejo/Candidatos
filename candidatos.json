@@ -291,34 +291,6 @@
     ]
   },
   {
-    "nome": "Adrielly Pereira lima",
-    "cpf": "001.348.034-00",
-    "telefone": "(82) 99630-9449",
-    "email": "adriellylima0110@gmail.com",
-    "cep": "57310-380",
-    "cidade": "Arapiraca",
-    "bairro": "Santa Edwiges",
-    "rua": "Rua Luíza Maria de Olinda",
-    "transporte": "Sim",
-    "vaga": "AUXILIAR DE LIMPEZA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/00134803400_Adrielly_Pereira_lima_AUXILIAR_DE_LIMPEZA_20260517_215431.pdf",
-    "arquivo_nome": "Currículo simples analista de sistemas preto e branco.pdf",
-    "tamanho_arquivo": 304552,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Stop pastel",
-        "funcao": "Garçonete",
-        "data_admissao": "2026-04-15",
-        "data_demissao": "2026-05-17"
-      }
-    ],
-    "id": "ae75022bbe6f",
-    "enviado_em": "2026-05-17T21:54:33.418972",
-    "status": "Novo",
-    "processado_em": "2026-05-17T21:54:33.418980"
-  },
-  {
     "nome": "Andreia Carolina",
     "cpf": "114.191.664-92",
     "telefone": "(82) 99874-9594",
