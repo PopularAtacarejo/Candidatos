@@ -13015,5 +13015,26 @@
     "enviado_em": "2026-08-17T14:41:23.142616",
     "status": "Novo",
     "processado_em": "2026-08-17T14:41:23.142624"
+  },
+  {
+    "nome": "Neimárcio Melo da Paz",
+    "cpf": "061.399.724-77",
+    "telefone": "(82) 99835-9704",
+    "email": "neimarciomelo@gmail.com",
+    "cep": "57307-350",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua José Emídio de Lima",
+    "transporte": "Sim",
+    "vaga": "Estoquista",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06139972477_Neimárcio_Melo_da_Paz_Estoquista_20260817_154345.pdf",
+    "arquivo_nome": "inbound538027037826346618.pdf",
+    "tamanho_arquivo": 463968,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9d5c3f6b860d",
+    "enviado_em": "2026-08-17T15:43:48.204672",
+    "status": "Novo",
+    "processado_em": "2026-08-17T15:43:48.204680"
   }
 ]
