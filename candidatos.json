@@ -13064,5 +13064,33 @@
     "enviado_em": "2026-08-17T15:44:37.223833",
     "status": "Novo",
     "processado_em": "2026-08-17T15:44:37.223840"
+  },
+  {
+    "nome": "Gustavo de Farias Barros",
+    "cpf": "123.739.924-69",
+    "telefone": "(82) 98164-6437",
+    "email": "gustavofarrias97@gmail.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca ",
+    "bairro": "Baixa ",
+    "rua": "Barro",
+    "transporte": "Sim",
+    "vaga": "Estoquista",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12373992469_Gustavo_de_Farias_Barros_Estoquista_20260817_155640.pdf",
+    "arquivo_nome": "inbound5369192758188881213.pdf",
+    "tamanho_arquivo": 37765,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Popular ",
+        "funcao": "Operado de empilhadeira ",
+        "data_admissao": "2024-09-20",
+        "data_demissao": "2026-08-04"
+      }
+    ],
+    "id": "b5cccc751e1d",
+    "enviado_em": "2026-08-17T15:56:43.328864",
+    "status": "Novo",
+    "processado_em": "2026-08-17T15:56:43.328873"
   }
 ]
