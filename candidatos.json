@@ -13035,7 +13035,15 @@
     "id": "9d5c3f6b860d",
     "enviado_em": "2026-08-17T15:43:48.204672",
     "status": "Novo",
-    "processado_em": "2026-08-17T15:43:48.204680"
+    "processado_em": "2026-08-17T15:43:48.204680",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-17T16:45:12.781153",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-17T16:45:12.781153"
+      }
+    ]
   },
   {
     "nome": "Joseane de Oliveira Costa dos Santos",
@@ -13125,15 +13133,7 @@
     "id": "f8f30a95b76f",
     "enviado_em": "2026-08-17T16:23:56.135780",
     "status": "Novo",
-    "processado_em": "2026-08-17T16:23:56.135791",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-17T16:44:16.577363",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-17T16:44:16.577363"
-      }
-    ]
+    "processado_em": "2026-08-17T16:23:56.135791"
   },
   {
     "nome": "Marcondes Costa Vasconcelos Filho",
