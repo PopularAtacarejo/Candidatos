@@ -13232,5 +13232,26 @@
         "timestamp": "2026-08-17T20:59:16.432399"
       }
     ]
+  },
+  {
+    "nome": "Micherllandia dos Santos",
+    "cpf": "104.603.024-85",
+    "telefone": "(82) 99980-7047",
+    "email": "santosmicherllandia@gmail.com",
+    "cep": "57311-550",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Teotônio Vilela",
+    "rua": "Rua Fausto Joaquim Luciano",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10460302485_Micherllandia_dos_Santos_REPOSITOR_A_20260817_233929.pdf",
+    "arquivo_nome": "inbound888332331343624008.pdf",
+    "tamanho_arquivo": 89828,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "3aa01fddcf33",
+    "enviado_em": "2026-08-17T23:39:30.816952",
+    "status": "Novo",
+    "processado_em": "2026-08-17T23:39:30.816963"
   }
 ]
