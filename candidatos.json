@@ -12930,15 +12930,7 @@
     "id": "424dab021318",
     "enviado_em": "2026-08-17T13:35:40.785275",
     "status": "Novo",
-    "processado_em": "2026-08-17T13:35:40.785284",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-17T18:15:00.862314",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-17T18:15:00.862314"
-      }
-    ]
+    "processado_em": "2026-08-17T13:35:40.785284"
   },
   {
     "nome": "Tayane evelin da silva",
@@ -13175,7 +13167,15 @@
     "id": "9d7ad7a77065",
     "enviado_em": "2026-08-17T17:00:37.150088",
     "status": "Novo",
-    "processado_em": "2026-08-17T17:00:37.150097"
+    "processado_em": "2026-08-17T17:00:37.150097",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-17T18:15:49.252486",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-17T18:15:49.252486"
+      }
+    ]
   },
   {
     "nome": "Roseane Silva Santos",
