@@ -12930,7 +12930,15 @@
     "id": "561e03df73f3",
     "enviado_em": "2026-08-17T14:41:23.142616",
     "status": "Novo",
-    "processado_em": "2026-08-17T14:41:23.142624"
+    "processado_em": "2026-08-17T14:41:23.142624",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-17T19:43:59.945009",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-17T19:43:59.945009"
+      }
+    ]
   },
   {
     "nome": "Neimárcio Melo da Paz",
