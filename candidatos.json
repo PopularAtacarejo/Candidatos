@@ -13146,5 +13146,69 @@
     "enviado_em": "2026-08-17T18:44:06.775940",
     "status": "Novo",
     "processado_em": "2026-08-17T18:44:06.775948"
+  },
+  {
+    "nome": "Laiza Silva",
+    "cpf": "013.453.734-30",
+    "telefone": "(82) 99381-3604",
+    "email": "laiza391@gmail.com",
+    "cep": "57301-704",
+    "cidade": "Arapiraca",
+    "bairro": "São Luiz II",
+    "rua": "Rua José Duda da Silva",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/01345373430_Laiza_Silva_OPERADOR_A_DE_CAIXA_20260817_185338.pdf",
+    "arquivo_nome": "Curriculo Laiza Maria da Silva (1) (1).pdf",
+    "tamanho_arquivo": 170614,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Araforros",
+        "funcao": "Auxiliar de escritório ",
+        "data_admissao": "2010-11-08",
+        "data_demissao": "2012-10-24"
+      },
+      {
+        "empresa": "Atacadao ",
+        "funcao": "Embaladora a mão ",
+        "data_admissao": "2012-12-01",
+        "data_demissao": "2014-07-20"
+      },
+      {
+        "empresa": "Aec",
+        "funcao": "Operadora de telemarketing ",
+        "data_admissao": "2016-01-02",
+        "data_demissao": "2017-08-07"
+      },
+      {
+        "empresa": "Lcl dos santos",
+        "funcao": "Vendedora ",
+        "data_admissao": "2019-10-21",
+        "data_demissao": "2020-03-02"
+      },
+      {
+        "empresa": "Zafer",
+        "funcao": "Auxiliar de serviços operacionais",
+        "data_admissao": "2020-09-09",
+        "data_demissao": "2020-09-14"
+      },
+      {
+        "empresa": "Ss distribuidora ",
+        "funcao": "Auxiliar de escritório ",
+        "data_admissao": "2021-02-01",
+        "data_demissao": "2023-05-25"
+      },
+      {
+        "empresa": "Lcl dos santos",
+        "funcao": "Vendedora",
+        "data_admissao": "2024-01-02",
+        "data_demissao": "2025-01-02"
+      }
+    ],
+    "id": "2fedee8ec5c3",
+    "enviado_em": "2026-08-17T18:53:40.919667",
+    "status": "Novo",
+    "processado_em": "2026-08-17T18:53:40.919677"
   }
 ]
