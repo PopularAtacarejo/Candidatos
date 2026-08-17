@@ -13134,5 +13134,39 @@
     "enviado_em": "2026-08-17T17:00:31.271899",
     "status": "Novo",
     "processado_em": "2026-08-17T17:00:31.271909"
+  },
+  {
+    "nome": "Raynara",
+    "cpf": "104.708.644-19",
+    "telefone": "(82) 98118-9156",
+    "email": "lorrayneraynara55@gmail.com",
+    "cep": "57306-510",
+    "cidade": "Arapiraca",
+    "bairro": "Cavaco",
+    "rua": "Rua Pedro Alexandre",
+    "transporte": "Sim",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10470864419_Raynara_Fiscal_de_Caixa_20260817_170034.pdf",
+    "arquivo_nome": "Minimalist Simple Marketing Manager Curriculum Vitae.pdf",
+    "tamanho_arquivo": 259353,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lojas americanas ",
+        "funcao": "Fiscal de caixa ",
+        "data_admissao": "2022-03-22",
+        "data_demissao": "2024-05-14"
+      },
+      {
+        "empresa": "Supermercado nossa Senhora Aparecida",
+        "funcao": "Gerente",
+        "data_admissao": "2024-06-17",
+        "data_demissao": "2025-07-17"
+      }
+    ],
+    "id": "9d7ad7a77065",
+    "enviado_em": "2026-08-17T17:00:37.150088",
+    "status": "Novo",
+    "processado_em": "2026-08-17T17:00:37.150097"
   }
 ]
