@@ -13133,7 +13133,15 @@
     "id": "abc97367eb91",
     "enviado_em": "2026-08-17T17:00:31.271899",
     "status": "Novo",
-    "processado_em": "2026-08-17T17:00:31.271909"
+    "processado_em": "2026-08-17T17:00:31.271909",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-17T18:18:07.065917",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-17T18:18:07.065917"
+      }
+    ]
   },
   {
     "nome": "Raynara",
