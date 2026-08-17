@@ -13166,16 +13166,13 @@
     ],
     "id": "9d7ad7a77065",
     "enviado_em": "2026-08-17T17:00:37.150088",
-    "status": "Novo",
+    "status": "Em análise",
     "processado_em": "2026-08-17T17:00:37.150097",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-17T18:17:50.901179",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-17T18:17:50.901179"
-      }
-    ]
+    "entrevistador": "",
+    "data_entrevista": "",
+    "observacoes": "",
+    "updated_at": "2026-08-17T18:17:55.955123",
+    "updated_by": "Maria Sabrina"
   },
   {
     "nome": "Roseane Silva Santos",
