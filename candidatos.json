@@ -12987,7 +12987,15 @@
     "id": "e2a8d2e6f117",
     "enviado_em": "2026-08-17T15:44:37.223833",
     "status": "Novo",
-    "processado_em": "2026-08-17T15:44:37.223840"
+    "processado_em": "2026-08-17T15:44:37.223840",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-17T19:10:43.843320",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-17T19:10:43.843320"
+      }
+    ]
   },
   {
     "nome": "Gustavo de Farias Barros",
@@ -13015,15 +13023,7 @@
     "id": "b5cccc751e1d",
     "enviado_em": "2026-08-17T15:56:43.328864",
     "status": "Novo",
-    "processado_em": "2026-08-17T15:56:43.328873",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-17T19:10:27.662073",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-17T19:10:27.662073"
-      }
-    ]
+    "processado_em": "2026-08-17T15:56:43.328873"
   },
   {
     "nome": "Vanderson ferreira santos",
