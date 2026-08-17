@@ -13092,5 +13092,39 @@
     "enviado_em": "2026-08-17T15:56:43.328864",
     "status": "Novo",
     "processado_em": "2026-08-17T15:56:43.328873"
+  },
+  {
+    "nome": "Vanderson ferreira santos",
+    "cpf": "111.811.234-29",
+    "telefone": "(82) 99640-5862",
+    "email": "ferrreiravanderson457@gmail.com",
+    "cep": "57309-415",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua João Nobre de Farias",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11181123429_Vanderson_ferreira_santos_REPOSITOR_A_20260817_162354.pdf",
+    "arquivo_nome": "inbound6315542105722195301.pdf",
+    "tamanho_arquivo": 119328,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado parana ",
+        "funcao": "Repositor de mercadorias ",
+        "data_admissao": "2023-01-03",
+        "data_demissao": "2024-01-02"
+      },
+      {
+        "empresa": "Supermercado pereira ",
+        "funcao": "Repositor de mercadorias ",
+        "data_admissao": "2019-01-03",
+        "data_demissao": "2022-05-10"
+      }
+    ],
+    "id": "f8f30a95b76f",
+    "enviado_em": "2026-08-17T16:23:56.135780",
+    "status": "Novo",
+    "processado_em": "2026-08-17T16:23:56.135791"
   }
 ]
