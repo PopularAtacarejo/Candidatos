@@ -13217,7 +13217,15 @@
     "id": "2fedee8ec5c3",
     "enviado_em": "2026-08-17T18:53:40.919667",
     "status": "Novo",
-    "processado_em": "2026-08-17T18:53:40.919677"
+    "processado_em": "2026-08-17T18:53:40.919677",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-17T19:28:53.504109",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-17T19:28:53.504109"
+      }
+    ]
   },
   {
     "nome": "Ana Kelly dos Santos",
