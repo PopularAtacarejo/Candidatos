@@ -12987,5 +12987,33 @@
     "enviado_em": "2026-08-17T13:35:40.785275",
     "status": "Novo",
     "processado_em": "2026-08-17T13:35:40.785284"
+  },
+  {
+    "nome": "Tayane evelin da silva",
+    "cpf": "119.066.494-13",
+    "telefone": "(82) 99662-8047",
+    "email": "tayanesilvva0@gmail.com",
+    "cep": "57313-760",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Nossa Senhora do Rosário",
+    "transporte": "Sim",
+    "vaga": "Repositor",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11906649413_Tayane_evelin_da_silva_Repositor_20260817_142033.pdf",
+    "arquivo_nome": "inbound1573638105015521348.pdf",
+    "tamanho_arquivo": 602529,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Panificadora KI-PÃO ",
+        "funcao": "Balconista",
+        "data_admissao": "2026-03-07",
+        "data_demissao": "2026-08-08"
+      }
+    ],
+    "id": "618bab5f4e3b",
+    "enviado_em": "2026-08-17T14:20:36.837188",
+    "status": "Novo",
+    "processado_em": "2026-08-17T14:20:36.837195"
   }
 ]
