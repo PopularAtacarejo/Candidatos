@@ -13036,5 +13036,33 @@
     "enviado_em": "2026-08-17T15:43:48.204672",
     "status": "Novo",
     "processado_em": "2026-08-17T15:43:48.204680"
+  },
+  {
+    "nome": "Joseane de Oliveira Costa dos Santos",
+    "cpf": "067.168.854-55",
+    "telefone": "(13) 99167-6283",
+    "email": "jo749706@gmail.com",
+    "cep": "57308-760",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Doutor Carlos André",
+    "transporte": "Não",
+    "vaga": "Operador de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06716885455_Joseane_de_Oliveira_Costa_dos_Santos_Operador_de_Caixa_20260817_154434.pdf",
+    "arquivo_nome": "inbound3532561951770251800.pdf",
+    "tamanho_arquivo": 130040,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Loja Celda",
+        "funcao": "Balconista e reposição ",
+        "data_admissao": "2008-05-05",
+        "data_demissao": "2012-11-20"
+      }
+    ],
+    "id": "e2a8d2e6f117",
+    "enviado_em": "2026-08-17T15:44:37.223833",
+    "status": "Novo",
+    "processado_em": "2026-08-17T15:44:37.223840"
   }
 ]
