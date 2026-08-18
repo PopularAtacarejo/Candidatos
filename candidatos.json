@@ -15248,7 +15248,15 @@
     "id": "949911a8e123",
     "enviado_em": "2026-08-18T17:19:32.802618",
     "status": "Novo",
-    "processado_em": "2026-08-18T17:19:32.802625"
+    "processado_em": "2026-08-18T17:19:32.802625",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T19:51:42.036731",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T19:51:42.036731"
+      }
+    ]
   },
   {
     "nome": "Braz Henrique Santos Lima Farias",
