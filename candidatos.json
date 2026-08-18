@@ -579,5 +579,39 @@
     "enviado_em": "2026-08-18T05:34:32.315676",
     "status": "Novo",
     "processado_em": "2026-08-18T05:34:32.315721"
+  },
+  {
+    "nome": "Victoria",
+    "cpf": "139.228.024-94",
+    "telefone": "(82) 99961-0573",
+    "email": "victoria.ste_10@icloud.com",
+    "cep": "57300-470",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Professor Domingos Rodrigues",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13922802494_Victoria_ASSISTENTE_DE_RH_20260818_054422.pdf",
+    "arquivo_nome": "IMG_5308.pdf",
+    "tamanho_arquivo": 277994,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente ",
+        "data_admissao": "2025-01-18",
+        "data_demissao": "2026-02-18"
+      },
+      {
+        "empresa": "Posto lourinho ",
+        "funcao": "Balconista",
+        "data_admissao": "2026-03-18",
+        "data_demissao": "2026-06-18"
+      }
+    ],
+    "id": "f8637b3d1a95",
+    "enviado_em": "2026-08-18T05:44:24.600415",
+    "status": "Novo",
+    "processado_em": "2026-08-18T05:44:24.600425"
   }
 ]
