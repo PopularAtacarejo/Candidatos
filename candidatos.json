@@ -14386,5 +14386,39 @@
     "enviado_em": "2026-08-18T13:10:07.916894",
     "status": "Novo",
     "processado_em": "2026-08-18T13:10:07.916901"
+  },
+  {
+    "nome": "WAGNER GENEZIO ROCHA",
+    "cpf": "101.864.424-59",
+    "telefone": "(82) 99189-1220",
+    "email": "wagnerrocha80685@gmail.com",
+    "cep": "57300-630",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Santo Antônio",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10186442459_WAGNER_GENEZIO_ROCHA_REPOSITOR_A_20260818_131738.pdf",
+    "arquivo_nome": "curriculo_wagner_rocha_moderno.pdf",
+    "tamanho_arquivo": 3273,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado Savegnago ",
+        "funcao": "Repositor ",
+        "data_admissao": "2016-07-04",
+        "data_demissao": "2017-08-18"
+      },
+      {
+        "empresa": "Cepera alimentos ",
+        "funcao": "Pontista",
+        "data_admissao": "2018-07-09",
+        "data_demissao": "2020-08-17"
+      }
+    ],
+    "id": "7c729817f2d8",
+    "enviado_em": "2026-08-18T13:17:40.448216",
+    "status": "Novo",
+    "processado_em": "2026-08-18T13:17:40.448223"
   }
 ]
