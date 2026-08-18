@@ -14945,5 +14945,26 @@
     "enviado_em": "2026-08-18T15:05:53.190958",
     "status": "Novo",
     "processado_em": "2026-08-18T15:05:53.190967"
+  },
+  {
+    "nome": "Amanda Beatriz Santos de Lima",
+    "cpf": "140.295.444-10",
+    "telefone": "(81) 99600-5914",
+    "email": "amandalaylla15@gmail.com",
+    "cep": "57319-30_",
+    "cidade": "Arapiraca",
+    "bairro": "Poção",
+    "rua": "Rua da união ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14029544410_Amanda_Beatriz_Santos_de_Lima_REPOSITOR_DE_FRIOS_20260818_151429.pdf",
+    "arquivo_nome": "Curriculo_Amanda_Beatriz_Santos_de_Lima.pdf",
+    "tamanho_arquivo": 149774,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e7a59a49727c",
+    "enviado_em": "2026-08-18T15:14:30.984748",
+    "status": "Novo",
+    "processado_em": "2026-08-18T15:14:30.984756"
   }
 ]
