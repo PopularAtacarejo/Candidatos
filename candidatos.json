@@ -193,5 +193,39 @@
     "enviado_em": "2026-08-18T00:56:15.484503",
     "status": "Novo",
     "processado_em": "2026-08-18T00:56:15.484512"
+  },
+  {
+    "nome": "Josenilda Valério Carvalho",
+    "cpf": "078.881.944-51",
+    "telefone": "(82) 99630-8971",
+    "email": "niveacarvalho1984@gmail.com",
+    "cep": "57309-497",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Nilo Coelho",
+    "rua": "Rua Paineira Branca",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07888194451_Josenilda_Valério_Carvalho_AUXILIAR_DE_LIMPEZA_20260818_012911.pdf",
+    "arquivo_nome": "Currículo Josenilda Valério .pdf",
+    "tamanho_arquivo": 134927,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Casa de Família ",
+        "funcao": "Serviços Gerais ",
+        "data_admissao": "2005-03-17",
+        "data_demissao": "2020-10-17"
+      },
+      {
+        "empresa": "Vendedora Autônoma ",
+        "funcao": "Vendas",
+        "data_admissao": "2020-01-17",
+        "data_demissao": "2026-08-17"
+      }
+    ],
+    "id": "5a23f601b5d5",
+    "enviado_em": "2026-08-18T01:29:13.719756",
+    "status": "Novo",
+    "processado_em": "2026-08-18T01:29:13.719763"
   }
 ]
