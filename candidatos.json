@@ -15240,15 +15240,7 @@
     "id": "949911a8e123",
     "enviado_em": "2026-08-18T17:19:32.802618",
     "status": "Novo",
-    "processado_em": "2026-08-18T17:19:32.802625",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T19:42:30.169651",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T19:42:30.169651"
-      }
-    ]
+    "processado_em": "2026-08-18T17:19:32.802625"
   },
   {
     "nome": "Braz Henrique Santos Lima Farias",
@@ -15318,7 +15310,15 @@
     "id": "478718ac937c",
     "enviado_em": "2026-08-18T18:34:42.642612",
     "status": "Novo",
-    "processado_em": "2026-08-18T18:34:42.642623"
+    "processado_em": "2026-08-18T18:34:42.642623",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T19:43:52.942888",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T19:43:52.942888"
+      }
+    ]
   },
   {
     "nome": "Carlos Eduardo da Silva Lopes",
