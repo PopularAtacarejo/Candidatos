@@ -1172,5 +1172,26 @@
     "enviado_em": "2026-08-18T11:55:42.681577",
     "status": "Novo",
     "processado_em": "2026-08-18T11:55:42.681587"
+  },
+  {
+    "nome": "Laura",
+    "cpf": "152.266.654-07",
+    "telefone": "(82) 99640-9884",
+    "email": "laurasilva5198@gmail.com",
+    "cep": "57303-849",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Antônio Ribeiro Pacheco",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15226665407_Laura_REPOSITOR_A_20260818_120039.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades_20260603_190053_0000.pdf",
+    "tamanho_arquivo": 51852,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e2c6c883436f",
+    "enviado_em": "2026-08-18T12:00:41.413983",
+    "status": "Novo",
+    "processado_em": "2026-08-18T12:00:41.413991"
   }
 ]
