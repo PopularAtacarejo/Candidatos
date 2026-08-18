@@ -14667,5 +14667,26 @@
     "enviado_em": "2026-08-18T13:54:00.685319",
     "status": "Novo",
     "processado_em": "2026-08-18T13:54:00.685328"
+  },
+  {
+    "nome": "Wallison Batista dos Santos",
+    "cpf": "153.533.614-58",
+    "telefone": "(82) 99949-7941",
+    "email": "wallissonvipa@gmail.com",
+    "cep": "57305-280",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua João Capristano Correia",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15353361458_Wallison_Batista_dos_Santos_REPOSITOR_A_20260818_135832.pdf",
+    "arquivo_nome": "output.pdf",
+    "tamanho_arquivo": 272069,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "7af8b38123d2",
+    "enviado_em": "2026-08-18T13:58:34.486054",
+    "status": "Novo",
+    "processado_em": "2026-08-18T13:58:34.486061"
   }
 ]
