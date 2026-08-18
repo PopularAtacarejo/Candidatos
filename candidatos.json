@@ -15290,5 +15290,26 @@
     "enviado_em": "2026-08-18T17:47:57.632659",
     "status": "Novo",
     "processado_em": "2026-08-18T17:47:57.632668"
+  },
+  {
+    "nome": "Jailson Dias Brito da Silva",
+    "cpf": "715.498.414-75",
+    "telefone": "(82) 99625-1806",
+    "email": "jailson.dias.an1@gmail.com",
+    "cep": "57304-560",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Antônio Leandro",
+    "transporte": "Não",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71549841475_Jailson_Dias_Brito_da_Silva_Auxiliar_de_Limpeza_20260818_183441.pdf",
+    "arquivo_nome": "inbound2364783967875360661.pdf",
+    "tamanho_arquivo": 2761,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "478718ac937c",
+    "enviado_em": "2026-08-18T18:34:42.642612",
+    "status": "Novo",
+    "processado_em": "2026-08-18T18:34:42.642623"
   }
 ]
