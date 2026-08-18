@@ -137,5 +137,33 @@
     "enviado_em": "2026-08-18T00:50:27.380664",
     "status": "Novo",
     "processado_em": "2026-08-18T00:50:27.380672"
+  },
+  {
+    "nome": "Erika Luana Rezende da silva",
+    "cpf": "114.407.014-74",
+    "telefone": "(82) 99396-3023",
+    "email": "erikaluana63@gmail.com",
+    "cep": "57307-170",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua José Honório",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11440701474_Erika_Luana_Rezende_da_silva_AUXILIAR_DE_PADEIRO_20260818_005058.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 639254,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Ft alimentação ",
+        "funcao": "Auxiliar de cozinha ",
+        "data_admissao": "2024-07-17",
+        "data_demissao": "2024-12-29"
+      }
+    ],
+    "id": "27f880d98e66",
+    "enviado_em": "2026-08-18T00:50:59.889303",
+    "status": "Novo",
+    "processado_em": "2026-08-18T00:50:59.889313"
   }
 ]
