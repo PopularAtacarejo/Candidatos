@@ -15048,15 +15048,7 @@
     "id": "398be0baebb2",
     "enviado_em": "2026-08-18T15:40:49.688240",
     "status": "Novo",
-    "processado_em": "2026-08-18T15:40:49.688250",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T19:53:02.533048",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T19:53:02.533048"
-      }
-    ]
+    "processado_em": "2026-08-18T15:40:49.688250"
   },
   {
     "nome": "Gustavo de Brito Soares",
@@ -15334,7 +15326,15 @@
     "id": "478718ac937c",
     "enviado_em": "2026-08-18T18:34:42.642612",
     "status": "Novo",
-    "processado_em": "2026-08-18T18:34:42.642623"
+    "processado_em": "2026-08-18T18:34:42.642623",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T19:54:03.666451",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T19:54:03.666451"
+      }
+    ]
   },
   {
     "nome": "Carlos Eduardo da Silva Lopes",
