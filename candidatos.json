@@ -14730,5 +14730,33 @@
     "enviado_em": "2026-08-18T14:20:43.936778",
     "status": "Novo",
     "processado_em": "2026-08-18T14:20:43.936787"
+  },
+  {
+    "nome": "Sarah Beatriz Santos Araújo",
+    "cpf": "149.247.364-22",
+    "telefone": "(82) 99944-1960",
+    "email": "biaaraujost0@gmail.com",
+    "cep": "57309-817",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Flávio Ramon de Almeida Filho",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14924736422_Sarah_Beatriz_Santos_Araújo_BALCONISTA_DE_PADARIA_20260818_143224.pdf",
+    "arquivo_nome": "CV Seu nome 11-08-2026.pdf",
+    "tamanho_arquivo": 403118,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lanchonete sabores ",
+        "funcao": "Atendente, pizzaiolo, caixa e chapeira ",
+        "data_admissao": "2024-12-18",
+        "data_demissao": "2026-03-07"
+      }
+    ],
+    "id": "f4b9c5483361",
+    "enviado_em": "2026-08-18T14:32:26.504530",
+    "status": "Novo",
+    "processado_em": "2026-08-18T14:32:26.504539"
   }
 ]
