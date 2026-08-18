@@ -15575,5 +15575,26 @@
     "enviado_em": "2026-08-18T22:58:30.881381",
     "status": "Novo",
     "processado_em": "2026-08-18T22:58:30.881390"
+  },
+  {
+    "nome": "Andreza Santana da Silva",
+    "cpf": "125.430.884-90",
+    "telefone": "(82) 99612-4301",
+    "email": "a99909642@gmail.com",
+    "cep": "57308-190",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Anadia",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12543088490_Andreza_Santana_da_Silva_OPERADOR_A_DE_CAIXA_20260818_230847.pdf",
+    "arquivo_nome": "ANDREZA SANTANA (5).pdf",
+    "tamanho_arquivo": 224765,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b13de9df61d9",
+    "enviado_em": "2026-08-18T23:08:49.167398",
+    "status": "Novo",
+    "processado_em": "2026-08-18T23:08:49.167406"
   }
 ]
