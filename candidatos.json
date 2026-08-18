@@ -1046,5 +1046,33 @@
     "enviado_em": "2026-08-18T11:08:03.672963",
     "status": "Novo",
     "processado_em": "2026-08-18T11:08:03.672971"
+  },
+  {
+    "nome": "Lara Beatriz Soares da Silva",
+    "cpf": "152.649.024-29",
+    "telefone": "(82) 99152-9789",
+    "email": "larab5340@gmail.com",
+    "cep": "57308-450",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Vereador Alípio de Oliveira Caldas",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15264902429_Lara_Beatriz_Soares_da_Silva_OPERADOR_A_DE_CAIXA_20260818_111802.pdf",
+    "arquivo_nome": "20260710_204338.pdf",
+    "tamanho_arquivo": 582320,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Oi web",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2024-04-11",
+        "data_demissao": "2025-11-21"
+      }
+    ],
+    "id": "006f7e93318f",
+    "enviado_em": "2026-08-18T11:18:04.856720",
+    "status": "Novo",
+    "processado_em": "2026-08-18T11:18:04.856731"
   }
 ]
