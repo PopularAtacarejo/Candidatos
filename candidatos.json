@@ -15209,5 +15209,33 @@
     "enviado_em": "2026-08-18T17:16:25.555978",
     "status": "Novo",
     "processado_em": "2026-08-18T17:16:25.555986"
+  },
+  {
+    "nome": "Braz Henrique Santos Lima Farias",
+    "cpf": "121.635.304-26",
+    "telefone": "(82) 99348-8135",
+    "email": "brazh2351@gmail.com",
+    "cep": "57303-320",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Manoel Saturnino de Almeida",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12163530426_Braz_Henrique_Santos_Lima_Farias_REPOSITOR_A_20260818_171930.pdf",
+    "arquivo_nome": "Braz Henrique.pdf",
+    "tamanho_arquivo": 85924,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec centro de relacionamentos",
+        "funcao": "Atendente / operador de telemarketing ",
+        "data_admissao": "2025-04-18",
+        "data_demissao": "2025-10-08"
+      }
+    ],
+    "id": "949911a8e123",
+    "enviado_em": "2026-08-18T17:19:32.802618",
+    "status": "Novo",
+    "processado_em": "2026-08-18T17:19:32.802625"
   }
 ]
