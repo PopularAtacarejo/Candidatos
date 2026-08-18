@@ -14420,5 +14420,33 @@
     "enviado_em": "2026-08-18T13:17:40.448216",
     "status": "Novo",
     "processado_em": "2026-08-18T13:17:40.448223"
+  },
+  {
+    "nome": "Josécarlos dos Santos Cavalcante",
+    "cpf": "058.995.444-06",
+    "telefone": "(82) 99611-7054",
+    "email": "santoscavalcantejosecarlos@gmail.com",
+    "cep": "57313-360",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Praça Edmundo Félix da Silva",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05899544406_Josécarlos_dos_Santos_Cavalcante_operador_de_empilhadeira_20260818_132550.pdf",
+    "arquivo_nome": "inbound7602189169934231224.pdf",
+    "tamanho_arquivo": 144774,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Madeiras do Brasil ",
+        "funcao": " Conferente ",
+        "data_admissao": "2009-10-01",
+        "data_demissao": "2020-12-18"
+      }
+    ],
+    "id": "54723725f008",
+    "enviado_em": "2026-08-18T13:25:52.487102",
+    "status": "Novo",
+    "processado_em": "2026-08-18T13:25:52.487110"
   }
 ]
