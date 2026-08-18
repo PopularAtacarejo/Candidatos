@@ -488,5 +488,26 @@
     "enviado_em": "2026-08-18T04:52:26.726654",
     "status": "Novo",
     "processado_em": "2026-08-18T04:52:26.726662"
+  },
+  {
+    "nome": "Yallyson Riquellmer Ventura da Silva",
+    "cpf": "147.757.534-01",
+    "telefone": "(82) 99630-1799",
+    "email": "yallysonr117@gmail.com",
+    "cep": "57306-060",
+    "cidade": "Arapiraca",
+    "bairro": "Eldorado",
+    "rua": "Rua Antônio Rochery de Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14775753401_Yallyson_Riquellmer_Ventura_da_Silva_REPOSITOR_DE_FRIOS_20260818_045631.pdf",
+    "arquivo_nome": "currículo_1_.pdf",
+    "tamanho_arquivo": 173632,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "0661da4fe721",
+    "enviado_em": "2026-08-18T04:56:33.524123",
+    "status": "Novo",
+    "processado_em": "2026-08-18T04:56:33.524133"
   }
 ]
