@@ -15265,5 +15265,26 @@
     "enviado_em": "2026-08-18T17:22:10.403811",
     "status": "Novo",
     "processado_em": "2026-08-18T17:22:10.403819"
+  },
+  {
+    "nome": "Jonas damasceno farias nunes",
+    "cpf": "153.276.724-25",
+    "telefone": "(82) 99930-8576",
+    "email": "jonasfarias316@gmail.com",
+    "cep": "57304-010",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Duarte Coelho",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15327672425_Jonas_damasceno_farias_nunes_EMBALADOR_A_20260818_174755.pdf",
+    "arquivo_nome": "All PDF Reader 20260818 14.43.24.pdf",
+    "tamanho_arquivo": 273583,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "abc2f0e184f8",
+    "enviado_em": "2026-08-18T17:47:57.632659",
+    "status": "Novo",
+    "processado_em": "2026-08-18T17:47:57.632668"
   }
 ]
