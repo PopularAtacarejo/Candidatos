@@ -378,5 +378,45 @@
     "enviado_em": "2026-08-18T04:24:56.252924",
     "status": "Novo",
     "processado_em": "2026-08-18T04:24:56.252931"
+  },
+  {
+    "nome": "Ana Beatriz Pereira dos Santos",
+    "cpf": "142.217.744-01",
+    "telefone": "(41) 99179-8546",
+    "email": "biahsanttoos74@gmail.com",
+    "cep": "57316-090",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua Adrião Henrique Silva",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14221774401_Ana_Beatriz_Pereira_dos_Santos_OPERADOR_A_DE_CAIXA_20260818_043544.pdf",
+    "arquivo_nome": "CV_2026072822155091.pdf",
+    "tamanho_arquivo": 1409374,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC Contatos S/A",
+        "funcao": "Atendente de telemarketing",
+        "data_admissao": "2023-11-28",
+        "data_demissao": "2025-10-10"
+      },
+      {
+        "empresa": "The Waffle King",
+        "funcao": "Atendente",
+        "data_admissao": "2023-03-20",
+        "data_demissao": "2023-07-03"
+      },
+      {
+        "empresa": "McDonald's",
+        "funcao": "Atendente",
+        "data_admissao": "2022-03-26",
+        "data_demissao": "2023-04-09"
+      }
+    ],
+    "id": "2c69e3620b4f",
+    "enviado_em": "2026-08-18T04:35:47.066722",
+    "status": "Novo",
+    "processado_em": "2026-08-18T04:35:47.066730"
   }
 ]
