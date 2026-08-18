@@ -25424,5 +25424,33 @@
     "enviado_em": "2026-02-12T18:45:18.437524",
     "status": "Novo",
     "processado_em": "2026-02-12T18:45:18.437531"
+  },
+  {
+    "nome": "Andeivison de freitas Barbosa",
+    "cpf": "106.230.254-00",
+    "telefone": "(82) 99157-3086",
+    "email": "freitasandeivison@gmail.com",
+    "cep": "57308-440",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua José Eliotério Sobrinho",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10623025400_Andeivison_de_freitas_Barbosa_ASSISTENTE_DE_RH_20260818_133325.pdf",
+    "arquivo_nome": "Currículo 7.pdf",
+    "tamanho_arquivo": 1666219,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Americanas ",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2026-01-05",
+        "data_demissao": "2026-07-31"
+      }
+    ],
+    "id": "95fb25b44189",
+    "enviado_em": "2026-08-18T13:33:28.279178",
+    "status": "Novo",
+    "processado_em": "2026-08-18T13:33:28.279186"
   }
 ]
