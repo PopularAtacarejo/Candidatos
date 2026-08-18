@@ -641,5 +641,33 @@
     "enviado_em": "2026-08-18T05:44:30.882426",
     "status": "Novo",
     "processado_em": "2026-08-18T05:44:30.882436"
+  },
+  {
+    "nome": "Ana Paula Nunes dos Santos silva",
+    "cpf": "051.880.574-33",
+    "telefone": "(82) 99901-3215",
+    "email": "ananunesdossantossilva@gmail.com",
+    "cep": "57300-460",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Santa Terezinha",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05188057433_Ana_Paula_Nunes_dos_Santos_silva_OPERADOR_A_DE_CAIXA_20260818_085013.pdf",
+    "arquivo_nome": "ANA PAULA 2026_Atual-3.pdf",
+    "tamanho_arquivo": 164920,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "São luiz ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2025-07-09",
+        "data_demissao": "2026-01-23"
+      }
+    ],
+    "id": "a7a8c78dd0ca",
+    "enviado_em": "2026-08-18T08:50:15.407332",
+    "status": "Novo",
+    "processado_em": "2026-08-18T08:50:15.407341"
   }
 ]
