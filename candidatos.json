@@ -830,5 +830,26 @@
     "enviado_em": "2026-08-18T10:17:53.430041",
     "status": "Novo",
     "processado_em": "2026-08-18T10:17:53.430049"
+  },
+  {
+    "nome": "Laura",
+    "cpf": "152.266.654-07",
+    "telefone": "(82) 99640-9884",
+    "email": "laurasilva5196@gmail.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15226665407_Laura_BALCONISTA_DE_PADARIA_20260818_101801.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades_20260603_190053_0000.pdf",
+    "tamanho_arquivo": 51852,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "6ab5be9904ef",
+    "enviado_em": "2026-08-18T10:18:03.635997",
+    "status": "Novo",
+    "processado_em": "2026-08-18T10:18:03.636006"
   }
 ]
