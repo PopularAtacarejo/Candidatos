@@ -697,5 +697,33 @@
     "enviado_em": "2026-08-18T09:27:42.653525",
     "status": "Novo",
     "processado_em": "2026-08-18T09:27:42.653532"
+  },
+  {
+    "nome": "CRISNAILHE LIMA DA SILVA",
+    "cpf": "128.683.934-38",
+    "telefone": "(82) 98218-4383",
+    "email": "crissilva5679d@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Carrasco",
+    "rua": "Projetada ",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12868393438_CRISNAILHE_LIMA_DA_SILVA_AUXILIAR_DE_LIMPEZA_20260818_095359.pdf",
+    "arquivo_nome": "currículo novo (1).pdf",
+    "tamanho_arquivo": 227946,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado são Francisco ",
+        "funcao": "Auxiliar de serviços gerais ",
+        "data_admissao": "2023-10-18",
+        "data_demissao": "2024-09-10"
+      }
+    ],
+    "id": "10ea58ee449d",
+    "enviado_em": "2026-08-18T09:54:01.449391",
+    "status": "Novo",
+    "processado_em": "2026-08-18T09:54:01.449399"
   }
 ]
