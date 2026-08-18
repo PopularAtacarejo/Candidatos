@@ -14966,5 +14966,26 @@
     "enviado_em": "2026-08-18T15:14:30.984748",
     "status": "Novo",
     "processado_em": "2026-08-18T15:14:30.984756"
+  },
+  {
+    "nome": "Amanda Beatriz",
+    "cpf": "140.295.444-10",
+    "telefone": "(81) 99600-5914",
+    "email": "amandalaylla15@gmail.com",
+    "cep": "57319-30_",
+    "cidade": "Arapiraca",
+    "bairro": "Poção",
+    "rua": "Rua da união ",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14029544410_Amanda_Beatriz_EMBALADOR_A_20260818_151651.pdf",
+    "arquivo_nome": "Amanda Beatriz Santos de Lima (1).pdf",
+    "tamanho_arquivo": 202386,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "933ec4d9122d",
+    "enviado_em": "2026-08-18T15:16:54.575532",
+    "status": "Novo",
+    "processado_em": "2026-08-18T15:16:54.575541"
   }
 ]
