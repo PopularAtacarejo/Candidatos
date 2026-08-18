@@ -14372,7 +14372,15 @@
     "id": "febbb0fb9b2c",
     "enviado_em": "2026-08-18T13:08:07.775677",
     "status": "Novo",
-    "processado_em": "2026-08-18T13:08:07.775705"
+    "processado_em": "2026-08-18T13:08:07.775705",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T13:34:10.930243",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T13:34:10.930243"
+      }
+    ]
   },
   {
     "nome": "Iasmim da silva souza",
@@ -14427,15 +14435,7 @@
     "id": "7c729817f2d8",
     "enviado_em": "2026-08-18T13:17:40.448216",
     "status": "Novo",
-    "processado_em": "2026-08-18T13:17:40.448223",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T13:32:15.420810",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T13:32:15.420810"
-      }
-    ]
+    "processado_em": "2026-08-18T13:17:40.448223"
   },
   {
     "nome": "Josécarlos dos Santos Cavalcante",
@@ -25424,33 +25424,5 @@
     "enviado_em": "2026-02-12T18:45:18.437524",
     "status": "Novo",
     "processado_em": "2026-02-12T18:45:18.437531"
-  },
-  {
-    "nome": "Andeivison de freitas Barbosa",
-    "cpf": "106.230.254-00",
-    "telefone": "(82) 99157-3086",
-    "email": "freitasandeivison@gmail.com",
-    "cep": "57308-440",
-    "cidade": "Arapiraca",
-    "bairro": "Planalto",
-    "rua": "Rua José Eliotério Sobrinho",
-    "transporte": "Não",
-    "vaga": "ASSISTENTE DE RH",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10623025400_Andeivison_de_freitas_Barbosa_ASSISTENTE_DE_RH_20260818_133325.pdf",
-    "arquivo_nome": "Currículo 7.pdf",
-    "tamanho_arquivo": 1666219,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Americanas ",
-        "funcao": "Operador de caixa",
-        "data_admissao": "2026-01-05",
-        "data_demissao": "2026-07-31"
-      }
-    ],
-    "id": "95fb25b44189",
-    "enviado_em": "2026-08-18T13:33:28.279178",
-    "status": "Novo",
-    "processado_em": "2026-08-18T13:33:28.279186"
   }
 ]
