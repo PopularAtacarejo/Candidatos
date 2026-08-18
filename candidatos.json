@@ -872,5 +872,39 @@
     "enviado_em": "2026-08-18T10:18:43.610655",
     "status": "Novo",
     "processado_em": "2026-08-18T10:18:43.610664"
+  },
+  {
+    "nome": "Kelloren pereira Barbosa",
+    "cpf": "117.164.864-24",
+    "telefone": "(82) 99370-8950",
+    "email": "kellorenp@gmail.com",
+    "cep": "57010-260",
+    "cidade": "Maceió",
+    "bairro": "Prado",
+    "rua": "Rua Franco Jatobá",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11716486424_Kelloren_pereira_Barbosa_OPERADOR_A_DE_CAIXA_20260818_103021.pdf",
+    "arquivo_nome": "Kelloren Pereira Barbosa_20260810_090837_0000.pdf",
+    "tamanho_arquivo": 124410,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Interprest",
+        "funcao": "Serviços gerais ",
+        "data_admissao": "2021-10-20",
+        "data_demissao": "2022-04-01"
+      },
+      {
+        "empresa": "Brunch",
+        "funcao": "Operadora de caixa",
+        "data_admissao": "2024-05-01",
+        "data_demissao": "2024-08-06"
+      }
+    ],
+    "id": "8fde5166129a",
+    "enviado_em": "2026-08-18T10:30:23.559210",
+    "status": "Novo",
+    "processado_em": "2026-08-18T10:30:23.559218"
   }
 ]
