@@ -669,5 +669,33 @@
     "enviado_em": "2026-08-18T08:50:15.407332",
     "status": "Novo",
     "processado_em": "2026-08-18T08:50:15.407341"
+  },
+  {
+    "nome": "Andressa Karla Pantaleão dos Santos",
+    "cpf": "058.123.914-83",
+    "telefone": "(82) 98107-0476",
+    "email": "andressapantaleao4@gmail.com",
+    "cep": "57317-506",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas",
+    "rua": "Avenida Nossa Senhora das Graças",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05812391483_Andressa_Karla_Pantaleão_dos_Santos_OPERADOR_A_DE_CAIXA_20260818_092740.pdf",
+    "arquivo_nome": "curriculun Andressa-1.pdf",
+    "tamanho_arquivo": 228756,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "BR PARAFUSOS, NR FERRAGENS ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2026-02-05",
+        "data_demissao": "2026-07-11"
+      }
+    ],
+    "id": "4245df7cc77c",
+    "enviado_em": "2026-08-18T09:27:42.653525",
+    "status": "Novo",
+    "processado_em": "2026-08-18T09:27:42.653532"
   }
 ]
