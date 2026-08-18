@@ -725,5 +725,26 @@
     "enviado_em": "2026-08-18T09:54:01.449391",
     "status": "Novo",
     "processado_em": "2026-08-18T09:54:01.449399"
+  },
+  {
+    "nome": "Sheila Silva de Oliveira",
+    "cpf": "154.366.784-83",
+    "telefone": "(82) 99954-8442",
+    "email": "sheilllasilva07@gmail.com",
+    "cep": "57305-325",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Avenida Pedro Leão",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15436678483_Sheila_Silva_de_Oliveira_OPERADOR_A_DE_CAIXA_20260818_100923.pdf",
+    "arquivo_nome": "Currículo - Sheila Silva de Oliveira_20260410_172546_0000.pdf",
+    "tamanho_arquivo": 44826,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "f04c464664bb",
+    "enviado_em": "2026-08-18T10:09:25.164445",
+    "status": "Novo",
+    "processado_em": "2026-08-18T10:09:25.164455"
   }
 ]
