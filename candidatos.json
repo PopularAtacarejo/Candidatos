@@ -248,5 +248,33 @@
     "enviado_em": "2026-08-18T02:13:48.698798",
     "status": "Novo",
     "processado_em": "2026-08-18T02:13:48.698805"
+  },
+  {
+    "nome": "Wanderson Matheus Carvalho de Souza",
+    "cpf": "117.265.784-02",
+    "telefone": "(82) 99616-2859",
+    "email": "wandersonsouza108011@gmail.com",
+    "cep": "57312-420",
+    "cidade": "Arapiraca",
+    "bairro": "Alto do Cruzeiro",
+    "rua": "Rua Marcelino Magalhães",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11726578402_Wanderson_Matheus_Carvalho_de_Souza_EMBALADOR_A_20260818_031917.pdf",
+    "arquivo_nome": "inbound5201420727940740675.pdf",
+    "tamanho_arquivo": 125703,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Azul atacarejo ",
+        "funcao": "Repositor e operador de loja ",
+        "data_admissao": "2026-04-02",
+        "data_demissao": "2026-06-25"
+      }
+    ],
+    "id": "2c8103841efa",
+    "enviado_em": "2026-08-18T03:19:19.408448",
+    "status": "Novo",
+    "processado_em": "2026-08-18T03:19:19.408457"
   }
 ]
