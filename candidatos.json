@@ -774,5 +774,33 @@
     "enviado_em": "2026-08-18T10:11:12.870099",
     "status": "Novo",
     "processado_em": "2026-08-18T10:11:12.870107"
+  },
+  {
+    "nome": "Bruna emanuelle dos santos",
+    "cpf": "136.356.364-52",
+    "telefone": "(82) 99935-5350",
+    "email": "brunaemanuellesantoss@gmail.com",
+    "cep": "57312-230",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua da Liberdade",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13635636452_Bruna_emanuelle_dos_santos_BALCONISTA_DE_PADARIA_20260818_101246.pdf",
+    "arquivo_nome": "Currículo de Design de Sistemas em Estilo Simples Branco e Preto_20260810_152209_0000.pdf",
+    "tamanho_arquivo": 143105,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Sandubom ",
+        "funcao": "Serviços gerais ",
+        "data_admissao": "2025-06-10",
+        "data_demissao": "2026-02-21"
+      }
+    ],
+    "id": "5fa70861faba",
+    "enviado_em": "2026-08-18T10:12:47.542871",
+    "status": "Novo",
+    "processado_em": "2026-08-18T10:12:47.542878"
   }
 ]
