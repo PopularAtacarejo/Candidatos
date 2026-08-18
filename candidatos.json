@@ -746,5 +746,33 @@
     "enviado_em": "2026-08-18T10:09:25.164445",
     "status": "Novo",
     "processado_em": "2026-08-18T10:09:25.164455"
+  },
+  {
+    "nome": "Maria Cláudia dos Santos",
+    "cpf": "078.098.604-02",
+    "telefone": "(79) 99929-7189",
+    "email": "cs615267@gmail.com",
+    "cep": "57307-460",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua Maria de Castro Tavares",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07809860402_Maria_Cláudia_dos_Santos_BALCONISTA_DE_PADARIA_20260818_101110.pdf",
+    "arquivo_nome": "curriculum.pdf",
+    "tamanho_arquivo": 2393842,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mix matey",
+        "funcao": "Op de loja ",
+        "data_admissao": "2026-04-02",
+        "data_demissao": "2026-08-10"
+      }
+    ],
+    "id": "f6caa5cc2566",
+    "enviado_em": "2026-08-18T10:11:12.870099",
+    "status": "Novo",
+    "processado_em": "2026-08-18T10:11:12.870107"
   }
 ]
