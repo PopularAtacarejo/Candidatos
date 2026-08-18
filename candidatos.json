@@ -15076,5 +15076,39 @@
     "enviado_em": "2026-08-18T16:01:48.983386",
     "status": "Novo",
     "processado_em": "2026-08-18T16:01:48.983394"
+  },
+  {
+    "nome": "Adryelle dos Santos Lopes",
+    "cpf": "146.233.124-61",
+    "telefone": "(82) 99637-7424",
+    "email": "adryellel529@gmail.com",
+    "cep": "57300-011",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Domingos Correia",
+    "transporte": "Não",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14623312461_Adryelle_dos_Santos_Lopes_Fiscal_de_Caixa_20260818_162736.pdf",
+    "arquivo_nome": "Curriculo_Atualizado.pdf",
+    "tamanho_arquivo": 1120695,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2021-05-18",
+        "data_demissao": "2023-11-18"
+      },
+      {
+        "empresa": "Hotel pequeno príncipe ",
+        "funcao": "Recepcionista vc",
+        "data_admissao": "2025-05-18",
+        "data_demissao": "2026-08-18"
+      }
+    ],
+    "id": "6ad2fe5ea247",
+    "enviado_em": "2026-08-18T16:27:39.299327",
+    "status": "Novo",
+    "processado_em": "2026-08-18T16:27:39.299335"
   }
 ]
