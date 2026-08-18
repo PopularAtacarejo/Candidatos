@@ -15498,5 +15498,33 @@
     "enviado_em": "2026-08-18T22:33:12.041271",
     "status": "Novo",
     "processado_em": "2026-08-18T22:33:12.041282"
+  },
+  {
+    "nome": "Edson de Menezes chagas",
+    "cpf": "138.296.434-03",
+    "telefone": "(82) 99620-1377",
+    "email": "menezesedson80@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Cangandu",
+    "rua": "Loteamento são Gabriel ",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13829643403_Edson_de_Menezes_chagas_operador_de_empilhadeira_20260818_224934.pdf",
+    "arquivo_nome": "EDSON DE MENEZES CHAGAS_260818_194022.pdf",
+    "tamanho_arquivo": 162343,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Spessoa embalagem ",
+        "funcao": "Operador de empilhadeira",
+        "data_admissao": "2021-10-06",
+        "data_demissao": "2023-12-04"
+      }
+    ],
+    "id": "2cd09d5225d6",
+    "enviado_em": "2026-08-18T22:49:37.219160",
+    "status": "Novo",
+    "processado_em": "2026-08-18T22:49:37.219168"
   }
 ]
