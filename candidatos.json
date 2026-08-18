@@ -460,5 +460,33 @@
     "enviado_em": "2026-08-18T04:51:08.409897",
     "status": "Novo",
     "processado_em": "2026-08-18T04:51:08.409904"
+  },
+  {
+    "nome": "Maria de Fátima da Silva santos",
+    "cpf": "111.093.174-33",
+    "telefone": "(82) 98716-0170",
+    "email": "faahsantosrj@gmail.com",
+    "cep": "57080-090",
+    "cidade": "Maceió",
+    "bairro": "Canaã",
+    "rua": "Rua Porto Calvo",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11109317433_Maria_de_Fátima_da_Silva_santos_OPERADOR_A_DE_CAIXA_20260818_045224.pdf",
+    "arquivo_nome": "MARIA DE FÁTIMA DA SILVA SANTOS.pdf",
+    "tamanho_arquivo": 139695,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Transporte escolar",
+        "funcao": "Monitora de transporte escolar",
+        "data_admissao": "2014-05-26",
+        "data_demissao": "2020-03-20"
+      }
+    ],
+    "id": "29482123b692",
+    "enviado_em": "2026-08-18T04:52:26.726654",
+    "status": "Novo",
+    "processado_em": "2026-08-18T04:52:26.726662"
   }
 ]
