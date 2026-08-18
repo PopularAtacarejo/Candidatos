@@ -14779,5 +14779,45 @@
     "enviado_em": "2026-08-18T14:32:43.409938",
     "status": "Novo",
     "processado_em": "2026-08-18T14:32:43.409945"
+  },
+  {
+    "nome": "PAULO RICARDO FERREIRA DOS SANTOS",
+    "cpf": "154.409.924-05",
+    "telefone": "(82) 98101-1831",
+    "email": "dekato2020fla@gmail.com",
+    "cep": "57312-120",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Prefeito Higino Vital",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15440992405_PAULO_RICARDO_FERREIRA_DOS_SANTOS_AUXILIAR_DE_T.I_20260818_144217.pdf",
+    "arquivo_nome": "2026 Currículo_paulo_ricardo_ferreira_dos_santos lv.pdf",
+    "tamanho_arquivo": 239561,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Operador de telemarketing ",
+        "data_admissao": "2021-04-17",
+        "data_demissao": "2025-01-07"
+      },
+      {
+        "empresa": "Century",
+        "funcao": "Tecnico de campo ",
+        "data_admissao": "2025-05-07",
+        "data_demissao": "2025-07-30"
+      },
+      {
+        "empresa": "MG petro combustivel ",
+        "funcao": "Frentista ",
+        "data_admissao": "2026-10-27",
+        "data_demissao": "2026-06-17"
+      }
+    ],
+    "id": "1eea0f848d85",
+    "enviado_em": "2026-08-18T14:42:19.314415",
+    "status": "Novo",
+    "processado_em": "2026-08-18T14:42:19.314422"
   }
 ]
