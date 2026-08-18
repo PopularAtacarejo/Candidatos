@@ -14709,5 +14709,26 @@
     "enviado_em": "2026-08-18T14:14:59.039261",
     "status": "Novo",
     "processado_em": "2026-08-18T14:14:59.039269"
+  },
+  {
+    "nome": "Maria Gabriella Lourenço Da Silva",
+    "cpf": "126.046.614-03",
+    "telefone": "(82) 99664-7256",
+    "email": "gabymariax080929@gmail.com",
+    "cep": "57075-680",
+    "cidade": "Maceió",
+    "bairro": "Santos Dumont",
+    "rua": "Avenida Doutor Duda Calado",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12604661403_Maria_Gabriella_Lourenço_Da_Silva_AUXILIAR_DE_LIMPEZA_20260818_142040.pdf",
+    "arquivo_nome": "downloadfile.jpg.pdf",
+    "tamanho_arquivo": 2943272,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "fa7891ea84f4",
+    "enviado_em": "2026-08-18T14:20:43.936778",
+    "status": "Novo",
+    "processado_em": "2026-08-18T14:20:43.936787"
   }
 ]
