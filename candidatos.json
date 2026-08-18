@@ -15596,5 +15596,33 @@
     "enviado_em": "2026-08-18T23:08:49.167398",
     "status": "Novo",
     "processado_em": "2026-08-18T23:08:49.167406"
+  },
+  {
+    "nome": "Almir Oliveira da silva",
+    "cpf": "085.080.274-19",
+    "telefone": "(82) 99961-9252",
+    "email": "almiroliveiramjs@gmail.com",
+    "cep": "57303-098",
+    "cidade": "Arapiraca",
+    "bairro": "Verdes Campos",
+    "rua": "Rua Estudante Pedro Paulo Tenório Cavalcante",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08508027419_Almir_Oliveira_da_silva_REPOSITOR_A_20260818_235454.pdf",
+    "arquivo_nome": "inbound612340661284837944.pdf",
+    "tamanho_arquivo": 18825,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Macro comsteucoes",
+        "funcao": "Entregador, vendedor, conferente, repositor ",
+        "data_admissao": "2011-01-10",
+        "data_demissao": "2016-01-16"
+      }
+    ],
+    "id": "3506f16d9420",
+    "enviado_em": "2026-08-18T23:54:56.444295",
+    "status": "Novo",
+    "processado_em": "2026-08-18T23:54:56.444303"
   }
 ]
