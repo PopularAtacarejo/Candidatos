@@ -418,5 +418,26 @@
     "enviado_em": "2026-08-18T04:35:47.066722",
     "status": "Novo",
     "processado_em": "2026-08-18T04:35:47.066730"
+  },
+  {
+    "nome": "Yallyson Riquellmer Ventura da Silva",
+    "cpf": "147.757.534-01",
+    "telefone": "(82) 99630-1799",
+    "email": "yallysonr117@gmail.com",
+    "cep": "57306-060",
+    "cidade": "Arapiraca",
+    "bairro": "Eldorado",
+    "rua": "Rua Antônio Rochery de Lima",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14775753401_Yallyson_Riquellmer_Ventura_da_Silva_REPOSITOR_A_20260818_044612.pdf",
+    "arquivo_nome": "currículo___.pdf",
+    "tamanho_arquivo": 161028,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "109a83cb3c7e",
+    "enviado_em": "2026-08-18T04:46:14.142437",
+    "status": "Novo",
+    "processado_em": "2026-08-18T04:46:14.142445"
   }
 ]
