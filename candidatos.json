@@ -14492,5 +14492,26 @@
     "enviado_em": "2026-08-18T13:36:30.884074",
     "status": "Novo",
     "processado_em": "2026-08-18T13:36:30.884083"
+  },
+  {
+    "nome": "Maria Izabel Santos Silva",
+    "cpf": "161.593.414-64",
+    "telefone": "(82) 99813-5138",
+    "email": "mmariaizabelll@gmail.com",
+    "cep": "57302-519",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Professora Maria Ana dos Santos Galindo",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16159341464_Maria_Izabel_Santos_Silva_AUX._DE_PREVENÇÃO_E_PERDAS_20260818_133915.pdf",
+    "arquivo_nome": "CURRÍCULO izabel.pdf",
+    "tamanho_arquivo": 20678,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "761a0a872907",
+    "enviado_em": "2026-08-18T13:39:18.125156",
+    "status": "Novo",
+    "processado_em": "2026-08-18T13:39:18.125177"
   }
 ]
