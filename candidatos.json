@@ -1018,5 +1018,33 @@
     "enviado_em": "2026-08-18T11:05:14.052762",
     "status": "Novo",
     "processado_em": "2026-08-18T11:05:14.052771"
+  },
+  {
+    "nome": "Nivaldo de Almeida dantas",
+    "cpf": "496.822.104-53",
+    "telefone": "(82) 99959-7096",
+    "email": "dantasnivaldo989@gmail.com",
+    "cep": "57316-152",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Tropical",
+    "rua": "Rua José Ferreira Barbosa",
+    "transporte": "Sim",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/49682210453_Nivaldo_de_Almeida_dantas_Auxiliar_de_Limpeza_20260818_110801.pdf",
+    "arquivo_nome": "statement_month_16_07_2026_20_19_25.pdf",
+    "tamanho_arquivo": 93458,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Lance serviços gerais ",
+        "funcao": "Porteiro ",
+        "data_admissao": "2014-04-04",
+        "data_demissao": "2024-06-06"
+      }
+    ],
+    "id": "45342df71da8",
+    "enviado_em": "2026-08-18T11:08:03.672963",
+    "status": "Novo",
+    "processado_em": "2026-08-18T11:08:03.672971"
   }
 ]
