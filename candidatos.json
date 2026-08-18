@@ -14868,7 +14868,15 @@
     "id": "213032f8dcad",
     "enviado_em": "2026-08-18T14:49:07.997306",
     "status": "Novo",
-    "processado_em": "2026-08-18T14:49:07.997314"
+    "processado_em": "2026-08-18T14:49:07.997314",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T16:53:17.415644",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T16:53:17.415644"
+      }
+    ]
   },
   {
     "nome": "Maria Eduarda",
@@ -15028,15 +15036,7 @@
     "id": "398be0baebb2",
     "enviado_em": "2026-08-18T15:40:49.688240",
     "status": "Novo",
-    "processado_em": "2026-08-18T15:40:49.688250",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T16:52:09.514161",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T16:52:09.514161"
-      }
-    ]
+    "processado_em": "2026-08-18T15:40:49.688250"
   },
   {
     "nome": "Gustavo de Brito Soares",
