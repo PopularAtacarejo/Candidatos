@@ -549,15 +549,7 @@
     "id": "3b8e2d03915f",
     "enviado_em": "2026-08-18T05:01:53.046962",
     "status": "Novo",
-    "processado_em": "2026-08-18T05:01:53.046970",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T16:39:33.730176",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T16:39:33.730176"
-      }
-    ]
+    "processado_em": "2026-08-18T05:01:53.046970"
   },
   {
     "nome": "Yallyson Riquellmer Ventura da Silva",
@@ -578,7 +570,15 @@
     "id": "ccbf9f5041a9",
     "enviado_em": "2026-08-18T05:08:20.795460",
     "status": "Novo",
-    "processado_em": "2026-08-18T05:08:20.795468"
+    "processado_em": "2026-08-18T05:08:20.795468",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T16:41:13.904392",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T16:41:13.904392"
+      }
+    ]
   },
   {
     "nome": "CARLOS HENRIQUE PEREIRA DOS SANTOS",
