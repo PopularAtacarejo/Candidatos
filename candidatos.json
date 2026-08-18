@@ -1144,5 +1144,33 @@
     "enviado_em": "2026-08-18T11:53:35.134543",
     "status": "Novo",
     "processado_em": "2026-08-18T11:53:35.134550"
+  },
+  {
+    "nome": "Jadielson Carlos de Araújo Rocha",
+    "cpf": "114.972.244-46",
+    "telefone": "(82) 99384-4208",
+    "email": "jadielsonrocha01@gmail.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca ",
+    "bairro": "Canafístula ",
+    "rua": "Lt Dona Lourdes, Qd G Lt 14 ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11497224446_Jadielson_Carlos_de_Araújo_Rocha_REPOSITOR_A_20260818_115540.docx",
+    "arquivo_nome": "Jadielson Rocha Currículo.docx",
+    "tamanho_arquivo": 19625,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "15 Supermercados ",
+        "funcao": "Embalador ",
+        "data_admissao": "2021-06-01",
+        "data_demissao": "2022-03-17"
+      }
+    ],
+    "id": "534042d77b8d",
+    "enviado_em": "2026-08-18T11:55:42.681577",
+    "status": "Novo",
+    "processado_em": "2026-08-18T11:55:42.681587"
   }
 ]
