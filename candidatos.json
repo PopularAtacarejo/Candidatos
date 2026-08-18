@@ -14903,5 +14903,26 @@
     "enviado_em": "2026-08-18T14:49:07.997306",
     "status": "Novo",
     "processado_em": "2026-08-18T14:49:07.997314"
+  },
+  {
+    "nome": "Maria Eduarda",
+    "cpf": "147.912.674-86",
+    "telefone": "(82) 98782-7583",
+    "email": "eeduardasantoss@icloud.com",
+    "cep": "57300-030",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Boa Vista",
+    "transporte": "Não",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14791267486_Maria_Eduarda_REPOSITOR_DE_FRIOS_20260818_145413.pdf",
+    "arquivo_nome": "Curriculo_Maria_Eduarda_Atualizado_Endereco.pdf",
+    "tamanho_arquivo": 2004,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "9f46d2f11b58",
+    "enviado_em": "2026-08-18T14:54:15.740861",
+    "status": "Novo",
+    "processado_em": "2026-08-18T14:54:15.740868"
   }
 ]
