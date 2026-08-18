@@ -15464,5 +15464,39 @@
     "enviado_em": "2026-08-18T21:54:48.547151",
     "status": "Novo",
     "processado_em": "2026-08-18T21:54:48.547159"
+  },
+  {
+    "nome": "Maria cicera dos santos tavares",
+    "cpf": "136.945.844-47",
+    "telefone": "(82) 98874-5022",
+    "email": "w0s013984@gmai.com",
+    "cep": "57316-899",
+    "cidade": "Arapiraca",
+    "bairro": "Área Rural de Arapiraca",
+    "rua": "Área Rural",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13694584447_Maria_cicera_dos_santos_tavares_AUXILIAR_DE_LIMPEZA_20260818_223309.pdf",
+    "arquivo_nome": "Maria Cícera.pdf",
+    "tamanho_arquivo": 86479,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Telemarketing",
+        "data_admissao": "2025-07-07",
+        "data_demissao": "2025-11-10"
+      },
+      {
+        "empresa": "Investmais",
+        "funcao": "Auxiliar de limpeza ",
+        "data_admissao": "2025-02-12",
+        "data_demissao": "2025-10-20"
+      }
+    ],
+    "id": "7b98fb52cb07",
+    "enviado_em": "2026-08-18T22:33:12.041271",
+    "status": "Novo",
+    "processado_em": "2026-08-18T22:33:12.041282"
   }
 ]
