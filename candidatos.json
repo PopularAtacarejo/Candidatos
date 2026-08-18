@@ -276,5 +276,51 @@
     "enviado_em": "2026-08-18T03:19:19.408448",
     "status": "Novo",
     "processado_em": "2026-08-18T03:19:19.408457"
+  },
+  {
+    "nome": "Felipe Samuel Ramos Santos Silva",
+    "cpf": "075.409.794-37",
+    "telefone": "(82) 99118-5871",
+    "email": "trabalhadorcristao2018@gmail.com",
+    "cep": "57313-740",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua São Judas Tadeu",
+    "transporte": "Sim",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07540979437_Felipe_Samuel_Ramos_Santos_Silva_Fiscal_de_Caixa_20260818_041423.pdf",
+    "arquivo_nome": "inbound5091990623617091690.pdf",
+    "tamanho_arquivo": 481765,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Loja Centauro - SBF Comércio de Produtos Esportivos Ltda ",
+        "funcao": "Supervisor de Loja e Subgerente",
+        "data_admissao": "2013-05-13",
+        "data_demissao": "2016-05-09"
+      },
+      {
+        "empresa": "Secretaria Municipal de Saúde – Prefeitura Municipal de Belém ",
+        "funcao": "Supervisor Administrativo",
+        "data_admissao": "2018-01-08",
+        "data_demissao": "2021-01-04"
+      },
+      {
+        "empresa": "Loja Flulook – Centro Visual Ltda – EPP ",
+        "funcao": "Auxiliar de Gerente e Subgerente",
+        "data_admissao": "2022-03-10",
+        "data_demissao": "2023-08-18"
+      },
+      {
+        "empresa": "Loja Casa Vieira – S. Vieira da Silva Ltda ",
+        "funcao": "Supervisão e Gerência de Loja",
+        "data_admissao": "2023-10-09",
+        "data_demissao": "2026-06-30"
+      }
+    ],
+    "id": "01556afd0879",
+    "enviado_em": "2026-08-18T04:14:25.422270",
+    "status": "Novo",
+    "processado_em": "2026-08-18T04:14:25.422279"
   }
 ]
