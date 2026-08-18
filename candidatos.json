@@ -518,7 +518,7 @@
     "status": "Novo",
     "processado_em": "2026-08-18T04:56:33.524133",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T16:38:02.418474",
+    "ultimo_visualizado_em": "2026-08-18T12:11:46.234756",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
@@ -527,10 +527,6 @@
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-18T12:11:46.234756"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T16:38:02.418474"
       }
     ]
   },
@@ -553,7 +549,15 @@
     "id": "3b8e2d03915f",
     "enviado_em": "2026-08-18T05:01:53.046962",
     "status": "Novo",
-    "processado_em": "2026-08-18T05:01:53.046970"
+    "processado_em": "2026-08-18T05:01:53.046970",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T16:39:26.899785",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T16:39:26.899785"
+      }
+    ]
   },
   {
     "nome": "Yallyson Riquellmer Ventura da Silva",
