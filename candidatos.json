@@ -14494,5 +14494,51 @@
     "enviado_em": "2026-08-18T13:42:49.910210",
     "status": "Novo",
     "processado_em": "2026-08-18T13:42:49.910219"
+  },
+  {
+    "nome": "Carlos Alberto de Oliveira Lira",
+    "cpf": "123.047.364-59",
+    "telefone": "(82) 99997-8447",
+    "email": "carlosoliveira201709@gmail.com",
+    "cep": "57313-180",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Bela Vista",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12304736459_Carlos_Alberto_de_Oliveira_Lira_AUX._DE_ESTOQUE_20260818_134254.pdf",
+    "arquivo_nome": "Currículo.pdf",
+    "tamanho_arquivo": 15760,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "ERISVALDA MENDES FREIRE SILVA",
+        "funcao": "REPOSITOR DE MERCADORIAS ",
+        "data_admissao": "2025-03-05",
+        "data_demissao": "2026-02-18"
+      },
+      {
+        "empresa": "J W DA SILVA COSTA PAPELARIA",
+        "funcao": "ESTOQUISTA",
+        "data_admissao": "2023-10-18",
+        "data_demissao": "2024-06-18"
+      },
+      {
+        "empresa": "COMERCIAL SILVA E LIRA LTDA",
+        "funcao": "REPOSITOR",
+        "data_admissao": "2021-07-18",
+        "data_demissao": "2023-03-18"
+      },
+      {
+        "empresa": "OSANA VIRGINIA DOS SANTOS LIMA",
+        "funcao": "ESTOQUISTA",
+        "data_admissao": "2024-10-18",
+        "data_demissao": "2024-12-18"
+      }
+    ],
+    "id": "60cf22e73a0f",
+    "enviado_em": "2026-08-18T13:42:55.774977",
+    "status": "Novo",
+    "processado_em": "2026-08-18T13:42:55.774986"
   }
 ]
