@@ -15160,5 +15160,33 @@
     "enviado_em": "2026-08-18T16:49:39.063326",
     "status": "Novo",
     "processado_em": "2026-08-18T16:49:39.063335"
+  },
+  {
+    "nome": "José Cristiano da Silva",
+    "cpf": "064.672.194-14",
+    "telefone": "(82) 99315-8220",
+    "email": "nossocliente101@gmail.com",
+    "cep": "57302-695",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Martinha Barbosa",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06467219414_José_Cristiano_da_Silva_operador_de_empilhadeira_20260818_170637.pdf",
+    "arquivo_nome": "Jose Cristiano da silva (1) (2).pdf",
+    "tamanho_arquivo": 395978,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Casa de carnes triângulo ",
+        "funcao": "Açougueiro ",
+        "data_admissao": "2023-01-27",
+        "data_demissao": "2024-02-29"
+      }
+    ],
+    "id": "240ade5a231b",
+    "enviado_em": "2026-08-18T17:06:40.865418",
+    "status": "Novo",
+    "processado_em": "2026-08-18T17:06:40.865427"
   }
 ]
