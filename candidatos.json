@@ -15118,5 +15118,39 @@
     "enviado_em": "2026-08-18T16:27:39.299327",
     "status": "Novo",
     "processado_em": "2026-08-18T16:27:39.299335"
+  },
+  {
+    "nome": "Josélia de Oliveira",
+    "cpf": "042.180.834-95",
+    "telefone": "(82) 98171-2927",
+    "email": "joseliajaaoliveira36@gmail.com",
+    "cep": "57315-200",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Benvindo Batista de Lira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/04218083495_Josélia_de_Oliveira_OPERADOR_A_DE_CAIXA_20260818_164935.pdf",
+    "arquivo_nome": "Currículo - Josélia de Oliveira.pdf",
+    "tamanho_arquivo": 717331,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercadinho Padre Cícero",
+        "funcao": "Caixa e atendente",
+        "data_admissao": "1995-01-02",
+        "data_demissao": "1996-01-02"
+      },
+      {
+        "empresa": "Churrascaria Lael & Filhos",
+        "funcao": "Garçonete",
+        "data_admissao": "1996-02-01",
+        "data_demissao": "1996-08-30"
+      }
+    ],
+    "id": "f5d521f861bd",
+    "enviado_em": "2026-08-18T16:49:39.063326",
+    "status": "Novo",
+    "processado_em": "2026-08-18T16:49:39.063335"
   }
 ]
