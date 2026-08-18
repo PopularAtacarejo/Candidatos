@@ -14323,5 +14323,26 @@
         "timestamp": "2026-08-17T20:59:16.432399"
       }
     ]
+  },
+  {
+    "nome": "VANESSA MARIA DA SILVA LIMA",
+    "cpf": "088.675.594-86",
+    "telefone": "(82) 99917-5582",
+    "email": "vanessa_mary@hotmail.com.br",
+    "cep": "57313-285",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Nossa Senhora da Salete",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/08867559486_VANESSA_MARIA_DA_SILVA_LIMA_REPOSITOR_A_20260818_125713.pdf",
+    "arquivo_nome": "currículo atual .pdf",
+    "tamanho_arquivo": 1774270,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "29b9dd198578",
+    "enviado_em": "2026-08-18T12:57:17.595732",
+    "status": "Novo",
+    "processado_em": "2026-08-18T12:57:17.595740"
   }
 ]
