@@ -947,15 +947,7 @@
     "id": "3f92ee94063e",
     "enviado_em": "2026-08-18T10:47:42.290947",
     "status": "Novo",
-    "processado_em": "2026-08-18T10:47:42.290958",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T12:03:56.214640",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-18T12:03:56.214640"
-      }
-    ]
+    "processado_em": "2026-08-18T10:47:42.290958"
   },
   {
     "nome": "Maria Soares Gonçalves",
@@ -1025,7 +1017,15 @@
     "id": "9b8659012f44",
     "enviado_em": "2026-08-18T11:05:14.052762",
     "status": "Novo",
-    "processado_em": "2026-08-18T11:05:14.052771"
+    "processado_em": "2026-08-18T11:05:14.052771",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-18T12:04:36.828878",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-18T12:04:36.828878"
+      }
+    ]
   },
   {
     "nome": "Nivaldo de Almeida dantas",
