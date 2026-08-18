@@ -851,5 +851,26 @@
     "enviado_em": "2026-08-18T10:18:03.635997",
     "status": "Novo",
     "processado_em": "2026-08-18T10:18:03.636006"
+  },
+  {
+    "nome": "Ivan Alves Feitoza Filho",
+    "cpf": "119.626.604-27",
+    "telefone": "(82) 99690-4165",
+    "email": "ivan.alves625@gmail.com",
+    "cep": "57303-856",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Manoel Ângelo Sobrinho",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11962660427_Ivan_Alves_Feitoza_Filho_operador_de_empilhadeira_20260818_101841.pdf",
+    "arquivo_nome": "Currículo Ivan Alves FF.pdf",
+    "tamanho_arquivo": 539647,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "02b93d557986",
+    "enviado_em": "2026-08-18T10:18:43.610655",
+    "status": "Novo",
+    "processado_em": "2026-08-18T10:18:43.610664"
   }
 ]
