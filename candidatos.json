@@ -1074,5 +1074,26 @@
     "enviado_em": "2026-08-18T11:18:04.856720",
     "status": "Novo",
     "processado_em": "2026-08-18T11:18:04.856731"
+  },
+  {
+    "nome": "Evelly Vitória Da Silva",
+    "cpf": "178.330.364-63",
+    "telefone": "(82) 99680-3818",
+    "email": "ev5564829@gmail.com",
+    "cep": "57315-774",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Josefa Josenilda da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/17833036463_Evelly_Vitória_Da_Silva_BALCONISTA_DE_PADARIA_20260818_114201.pdf",
+    "arquivo_nome": "Currículo A4 simples preto_20260811_131921_0000.pdf",
+    "tamanho_arquivo": 29050,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "06061c98dac7",
+    "enviado_em": "2026-08-18T11:42:03.315212",
+    "status": "Novo",
+    "processado_em": "2026-08-18T11:42:03.315219"
   }
 ]
