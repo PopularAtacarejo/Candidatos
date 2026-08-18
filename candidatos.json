@@ -14688,5 +14688,26 @@
     "enviado_em": "2026-08-18T13:58:34.486054",
     "status": "Novo",
     "processado_em": "2026-08-18T13:58:34.486061"
+  },
+  {
+    "nome": "ialisson da Silva Bezerra",
+    "cpf": "151.467.974-47",
+    "telefone": "(82) 99966-6424",
+    "email": "ialisson13sb@gmail.com",
+    "cep": "57305-750",
+    "cidade": "Arapiraca",
+    "bairro": "Zélia Barbosa Rocha",
+    "rua": "Rua Áurea Barbosa Wanderley",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15146797447_ialisson_da_Silva_Bezerra_EMBALADOR_A_20260818_141457.pdf",
+    "arquivo_nome": "CURRÍCULO DE IALISSON .pdf",
+    "tamanho_arquivo": 29077,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "32f8f06110af",
+    "enviado_em": "2026-08-18T14:14:59.039261",
+    "status": "Novo",
+    "processado_em": "2026-08-18T14:14:59.039269"
   }
 ]
