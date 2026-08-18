@@ -15188,5 +15188,26 @@
     "enviado_em": "2026-08-18T17:06:40.865418",
     "status": "Novo",
     "processado_em": "2026-08-18T17:06:40.865427"
+  },
+  {
+    "nome": "José Weverton Martins dos Santos",
+    "cpf": "124.312.014-22",
+    "telefone": "(82) 98223-2670",
+    "email": "wetomwetom855@gmail.com",
+    "cep": "57313-180",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Bela Vista",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12431201422_José_Weverton_Martins_dos_Santos_BALCONISTA_DE_PADARIA_20260818_171623.pdf",
+    "arquivo_nome": "Currículo Simples Profissional Formação experiência cursos e habilidades.pdf",
+    "tamanho_arquivo": 64019,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c6c899ab686d",
+    "enviado_em": "2026-08-18T17:16:25.555978",
+    "status": "Novo",
+    "processado_em": "2026-08-18T17:16:25.555986"
   }
 ]
