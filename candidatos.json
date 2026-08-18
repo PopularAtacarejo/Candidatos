@@ -75,5 +75,39 @@
     "enviado_em": "2026-08-18T00:38:32.401157",
     "status": "Novo",
     "processado_em": "2026-08-18T00:38:32.401165"
+  },
+  {
+    "nome": "Claudene Ferreira da Silva",
+    "cpf": "079.078.524-20",
+    "telefone": "(82) 99393-6087",
+    "email": "carolhello1111@gmail.com",
+    "cep": "57305-242",
+    "cidade": "Arapiraca",
+    "bairro": "Manuel Teles",
+    "rua": "Rua Agostinho Severino dos Santos",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07907852420_Claudene_Ferreira_da_Silva_BALCONISTA_DE_PADARIA_20260818_004115.pdf",
+    "arquivo_nome": "inbound8792458283137684738.pdf",
+    "tamanho_arquivo": 73445,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Leal serviços especializados ",
+        "funcao": "Porteiro",
+        "data_admissao": "2017-10-11",
+        "data_demissao": "2019-07-29"
+      },
+      {
+        "empresa": "Mikaele modas",
+        "funcao": "Vendedora ",
+        "data_admissao": "2014-04-01",
+        "data_demissao": "2016-04-29"
+      }
+    ],
+    "id": "f3609bc3282d",
+    "enviado_em": "2026-08-18T00:41:17.197966",
+    "status": "Novo",
+    "processado_em": "2026-08-18T00:41:17.197975"
   }
 ]
