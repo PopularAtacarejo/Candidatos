@@ -47,5 +47,33 @@
     "enviado_em": "2026-08-18T00:35:47.427799",
     "status": "Novo",
     "processado_em": "2026-08-18T00:35:47.427808"
+  },
+  {
+    "nome": "Ariel Ramos de Oliveira",
+    "cpf": "152.729.734-96",
+    "telefone": "(82) 99910-4459",
+    "email": "r14559060@gmail.com",
+    "cep": "57304-550",
+    "cidade": "Arapiraca",
+    "bairro": "Cacimbas",
+    "rua": "Rua Irineu Valeriano Magalhães",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15272973496_Ariel_Ramos_de_Oliveira_OPERADOR_A_DE_CAIXA_20260818_003830.pdf",
+    "arquivo_nome": "CURRICULO - ARIEL.pdf",
+    "tamanho_arquivo": 422178,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec ",
+        "funcao": "Atendente ",
+        "data_admissao": "2026-01-29",
+        "data_demissao": "2026-05-01"
+      }
+    ],
+    "id": "c1872cb1916c",
+    "enviado_em": "2026-08-18T00:38:32.401157",
+    "status": "Novo",
+    "processado_em": "2026-08-18T00:38:32.401165"
   }
 ]
