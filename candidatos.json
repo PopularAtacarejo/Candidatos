@@ -16041,5 +16041,33 @@
     "enviado_em": "2026-08-19T15:13:02.446383",
     "status": "Novo",
     "processado_em": "2026-08-19T15:13:02.446393"
+  },
+  {
+    "nome": "Ariel da Silva Santos",
+    "cpf": "108.323.314-90",
+    "telefone": "(82) 99103-6708",
+    "email": "nexussocialmidia@gmail.com",
+    "cep": "57314-300",
+    "cidade": "Arapiraca",
+    "bairro": "Itapoã",
+    "rua": "Rua José Ferreira da Silva",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10832331490_Ariel_da_Silva_Santos_AUXILIAR_DE_LIMPEZA_20260819_153407.pdf",
+    "arquivo_nome": "Curriculo_Ariel_Servicos_Gerais.pdf",
+    "tamanho_arquivo": 2269,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Parrilla grill ",
+        "funcao": "Auxiliar de serviços gerais ",
+        "data_admissao": "2024-12-13",
+        "data_demissao": "2025-03-25"
+      }
+    ],
+    "id": "0fe99bfa9a32",
+    "enviado_em": "2026-08-19T15:34:08.742655",
+    "status": "Novo",
+    "processado_em": "2026-08-19T15:34:08.742664"
   }
 ]
