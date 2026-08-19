@@ -15714,7 +15714,15 @@
     "id": "ba65271471c9",
     "enviado_em": "2026-08-19T01:54:40.205281",
     "status": "Novo",
-    "processado_em": "2026-08-19T01:54:40.205291"
+    "processado_em": "2026-08-19T01:54:40.205291",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-19T12:17:31.557918",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-19T12:17:31.557918"
+      }
+    ]
   },
   {
     "nome": "Eliege Maria dá Silva",
@@ -15805,15 +15813,7 @@
     "id": "33b2ae81a9f8",
     "enviado_em": "2026-08-19T09:35:13.636203",
     "status": "Novo",
-    "processado_em": "2026-08-19T09:35:13.636211",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-19T12:16:16.409217",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-19T12:16:16.409217"
-      }
-    ]
+    "processado_em": "2026-08-19T09:35:13.636211"
   },
   {
     "nome": "José Gabriel de Oliveira",
