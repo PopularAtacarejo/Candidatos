@@ -15863,5 +15863,33 @@
     "enviado_em": "2026-08-19T12:32:27.415186",
     "status": "Novo",
     "processado_em": "2026-08-19T12:32:27.415203"
+  },
+  {
+    "nome": "Maria Neuzete dos Santos Bigas",
+    "cpf": "132.624.684-44",
+    "telefone": "(82) 99315-7422",
+    "email": "neuzeteds53@gmail.com",
+    "cep": "57265-120",
+    "cidade": "Teotônio Vilela",
+    "bairro": "Centro",
+    "rua": "Avenida Marie Jeanne Moreira Sampaio",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13262468444_Maria_Neuzete_dos_Santos_Bigas_REPOSITOR_A_20260819_123234.pdf",
+    "arquivo_nome": "inbound178802451315309404.pdf",
+    "tamanho_arquivo": 252296,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado Santana lucia ",
+        "funcao": "Repositor de mercadoria ",
+        "data_admissao": "2026-06-01",
+        "data_demissao": "2026-08-15"
+      }
+    ],
+    "id": "2f0d4203b284",
+    "enviado_em": "2026-08-19T12:32:36.762967",
+    "status": "Novo",
+    "processado_em": "2026-08-19T12:32:36.762981"
   }
 ]
