@@ -15956,5 +15956,26 @@
     "enviado_em": "2026-08-19T12:57:34.329780",
     "status": "Novo",
     "processado_em": "2026-08-19T12:57:34.329789"
+  },
+  {
+    "nome": "Letícia Barbosa Félix da Silva",
+    "cpf": "114.567.314-75",
+    "telefone": "(82) 99606-8060",
+    "email": "leticiiahsilva@gmail.com",
+    "cep": "57316-606",
+    "cidade": "Arapiraca",
+    "bairro": "João Paulo II",
+    "rua": "Rua Maria Evangelista da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11456731475_Letícia_Barbosa_Félix_da_Silva_REPOSITOR_DE_FRIOS_20260819_130149.pdf",
+    "arquivo_nome": "curriculo_leticia_barbosa_felix_da_silva.pdf",
+    "tamanho_arquivo": 37900,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a5843497ee1e",
+    "enviado_em": "2026-08-19T13:01:51.434053",
+    "status": "Novo",
+    "processado_em": "2026-08-19T13:01:51.434062"
   }
 ]
