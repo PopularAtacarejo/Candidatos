@@ -15603,5 +15603,33 @@
     "enviado_em": "2026-08-18T23:54:56.444295",
     "status": "Novo",
     "processado_em": "2026-08-18T23:54:56.444303"
+  },
+  {
+    "nome": "Adeilma maria Silva",
+    "cpf": "076.699.074-52",
+    "telefone": "(82) 99619-4314",
+    "email": "adeilmamariasilva4@gmail.com",
+    "cep": "57303-848",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Eduardo Alves da Silva",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/07669907452_Adeilma_maria_Silva_AUXILIAR_DE_LIMPEZA_20260819_004927.pdf",
+    "arquivo_nome": "flavio soares da silva.pdf",
+    "tamanho_arquivo": 62386,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jf serviços ",
+        "funcao": " Serviços gerais ",
+        "data_admissao": "2024-04-24",
+        "data_demissao": "2026-02-19"
+      }
+    ],
+    "id": "d3514a7b8a96",
+    "enviado_em": "2026-08-19T00:49:29.216719",
+    "status": "Novo",
+    "processado_em": "2026-08-19T00:49:29.216727"
   }
 ]
