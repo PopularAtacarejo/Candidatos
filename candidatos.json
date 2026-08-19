@@ -16069,5 +16069,33 @@
     "enviado_em": "2026-08-19T15:34:08.742655",
     "status": "Novo",
     "processado_em": "2026-08-19T15:34:08.742664"
+  },
+  {
+    "nome": "Maria Vitória Rodrigues dos Santos",
+    "cpf": "149.034.864-60",
+    "telefone": "(82) 98840-8393",
+    "email": "vs1322317@gmail.com",
+    "cep": "57303-215",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Luciana Rodrigues de Araújo",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14903486460_Maria_Vitória_Rodrigues_dos_Santos_OPERADOR_A_DE_CAIXA_20260819_163557.pdf",
+    "arquivo_nome": "inbound2274060054760397018.pdf",
+    "tamanho_arquivo": 236953,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bela compra ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2025-11-19",
+        "data_demissao": "2026-06-19"
+      }
+    ],
+    "id": "df8b6e590427",
+    "enviado_em": "2026-08-19T16:36:00.171989",
+    "status": "Novo",
+    "processado_em": "2026-08-19T16:36:00.171999"
   }
 ]
