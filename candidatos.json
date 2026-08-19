@@ -16013,5 +16013,33 @@
     "enviado_em": "2026-08-19T14:39:00.009831",
     "status": "Novo",
     "processado_em": "2026-08-19T14:39:00.009843"
+  },
+  {
+    "nome": "Luanderson Dos Santos Lima",
+    "cpf": "111.806.144-61",
+    "telefone": "(11) 96171-2610",
+    "email": "luandersonmeet@hotmail.com",
+    "cep": "57310-110",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Dom João VI",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11180614461_Luanderson_Dos_Santos_Lima_REPOSITOR_A_20260819_151300.pdf",
+    "arquivo_nome": "Curriculo_Luanderson_dos_Santos_Lima_ATUAL.pdf",
+    "tamanho_arquivo": 2835,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Azul linhas aéreas ",
+        "funcao": "Agente de cargas ",
+        "data_admissao": "2019-09-23",
+        "data_demissao": "2024-02-02"
+      }
+    ],
+    "id": "f3efb4ca79a4",
+    "enviado_em": "2026-08-19T15:13:02.446383",
+    "status": "Novo",
+    "processado_em": "2026-08-19T15:13:02.446393"
   }
 ]
