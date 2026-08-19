@@ -15736,5 +15736,33 @@
     "enviado_em": "2026-08-19T01:55:02.818466",
     "status": "Novo",
     "processado_em": "2026-08-19T01:55:02.818476"
+  },
+  {
+    "nome": "Jose Gabriel De Oliveira",
+    "cpf": "134.665.614-26",
+    "telefone": "(82) 99667-2254",
+    "email": "go0385884@gmail.com",
+    "cep": "57316-310",
+    "cidade": "Arapiraca",
+    "bairro": "Nova Esperança",
+    "rua": "Rua Dom Oscar Arnulfo Homero",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13466561426_Jose_Gabriel_De_Oliveira_AUXILIAR_DE_LIMPEZA_20260819_091310.pdf",
+    "arquivo_nome": "CV_202608190535486.pdf",
+    "tamanho_arquivo": 86482,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "NR veículos ",
+        "funcao": "Serviços gerais ",
+        "data_admissao": "2025-03-19",
+        "data_demissao": "2026-08-05"
+      }
+    ],
+    "id": "96a05074b637",
+    "enviado_em": "2026-08-19T09:13:12.860898",
+    "status": "Novo",
+    "processado_em": "2026-08-19T09:13:12.860922"
   }
 ]
