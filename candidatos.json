@@ -15442,15 +15442,7 @@
     "id": "e34de846ee4c",
     "enviado_em": "2026-08-18T21:54:48.547151",
     "status": "Novo",
-    "processado_em": "2026-08-18T21:54:48.547159",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-19T12:45:49.977478",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-19T12:45:49.977478"
-      }
-    ]
+    "processado_em": "2026-08-18T21:54:48.547159"
   },
   {
     "nome": "Maria cicera dos santos tavares",
@@ -15878,7 +15870,15 @@
     "id": "c8a92d4cf29e",
     "enviado_em": "2026-08-19T12:32:27.415186",
     "status": "Novo",
-    "processado_em": "2026-08-19T12:32:27.415203"
+    "processado_em": "2026-08-19T12:32:27.415203",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-19T12:46:47.612379",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-19T12:46:47.612379"
+      }
+    ]
   },
   {
     "nome": "Maria Neuzete dos Santos Bigas",
@@ -27019,26 +27019,5 @@
     "enviado_em": "2026-02-12T18:45:18.437524",
     "status": "Novo",
     "processado_em": "2026-02-12T18:45:18.437531"
-  },
-  {
-    "nome": "Darllyson Rodrigues dos Santos",
-    "cpf": "148.587.284-71",
-    "telefone": "(82) 9954-6541",
-    "email": "darllysonrodrigues56@gmail.clm",
-    "cep": "57304-560",
-    "cidade": "Arapiraca",
-    "bairro": "Cacimbas",
-    "rua": "Rua Antônio Leandro",
-    "transporte": "Não",
-    "vaga": "EMBALADOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14858728471_Darllyson_Rodrigues_dos_Santos_EMBALADOR_A_20260819_124641.pdf",
-    "arquivo_nome": "cv_darllyson_rodrigues_dos_santos.pdf",
-    "tamanho_arquivo": 326020,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "596c0e2158e6",
-    "enviado_em": "2026-08-19T12:46:43.967807",
-    "status": "Novo",
-    "processado_em": "2026-08-19T12:46:43.967817"
   }
 ]
