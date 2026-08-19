@@ -15985,5 +15985,33 @@
     "enviado_em": "2026-08-19T13:01:51.434053",
     "status": "Novo",
     "processado_em": "2026-08-19T13:01:51.434062"
+  },
+  {
+    "nome": "Arthur Ferreira Lúcio",
+    "cpf": "181.077.404-75",
+    "telefone": "(82) 99938-9883",
+    "email": "arthurf91009971@gmail.com",
+    "cep": "57315-200",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Benvindo Batista de Lira",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/18107740475_Arthur_Ferreira_Lúcio_AUXILIAR_DE_PADEIRO_20260819_143857.pdf",
+    "arquivo_nome": "ARTHUR FERREIRA LUCIO currículo .pdf",
+    "tamanho_arquivo": 50329,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bela compra ",
+        "funcao": "Balconista de frios ",
+        "data_admissao": "2025-01-13",
+        "data_demissao": "2026-06-05"
+      }
+    ],
+    "id": "dd6054e33f83",
+    "enviado_em": "2026-08-19T14:39:00.009831",
+    "status": "Novo",
+    "processado_em": "2026-08-19T14:39:00.009843"
   }
 ]
