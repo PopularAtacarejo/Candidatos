@@ -15806,5 +15806,26 @@
     "enviado_em": "2026-08-19T09:35:13.636203",
     "status": "Novo",
     "processado_em": "2026-08-19T09:35:13.636211"
+  },
+  {
+    "nome": "José Gabriel de Oliveira",
+    "cpf": "134.665.614-26",
+    "telefone": "(82) 99667-2254",
+    "email": "go0385884@gmail.com",
+    "cep": "57316-310",
+    "cidade": "Arapiraca",
+    "bairro": "Nova Esperança",
+    "rua": "Rua Dom Oscar Arnulfo Homero",
+    "transporte": "Não",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13466561426_José_Gabriel_de_Oliveira_EMBALADOR_A_20260819_093901.pdf",
+    "arquivo_nome": "inbound398790748392489957.pdf",
+    "tamanho_arquivo": 86482,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "6387f6d4df68",
+    "enviado_em": "2026-08-19T09:39:04.111299",
+    "status": "Novo",
+    "processado_em": "2026-08-19T09:39:04.111310"
   }
 ]
