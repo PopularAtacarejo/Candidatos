@@ -15442,7 +15442,15 @@
     "id": "e34de846ee4c",
     "enviado_em": "2026-08-18T21:54:48.547151",
     "status": "Novo",
-    "processado_em": "2026-08-18T21:54:48.547159"
+    "processado_em": "2026-08-18T21:54:48.547159",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-19T12:45:30.045306",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-19T12:45:30.045306"
+      }
+    ]
   },
   {
     "nome": "Maria cicera dos santos tavares",
