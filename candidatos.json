@@ -15687,5 +15687,33 @@
     "enviado_em": "2026-08-19T01:40:21.861884",
     "status": "Novo",
     "processado_em": "2026-08-19T01:40:21.861892"
+  },
+  {
+    "nome": "Samuel dos santos gomes",
+    "cpf": "121.840.054-44",
+    "telefone": "(82) 99803-0447",
+    "email": "samuel112ccb@gmail.com",
+    "cep": "57317-581",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas",
+    "rua": "Rua Princesa Izabel",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12184005444_Samuel_dos_santos_gomes_AUX._DE_PREVENÇÃO_E_PERDAS_20260819_015438.pdf",
+    "arquivo_nome": "samuel santos novo.pdf",
+    "tamanho_arquivo": 207144,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2023-10-30",
+        "data_demissao": "2025-10-30"
+      }
+    ],
+    "id": "ba65271471c9",
+    "enviado_em": "2026-08-19T01:54:40.205281",
+    "status": "Novo",
+    "processado_em": "2026-08-19T01:54:40.205291"
   }
 ]
