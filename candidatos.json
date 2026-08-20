@@ -16019,7 +16019,15 @@
     "id": "0fe99bfa9a32",
     "enviado_em": "2026-08-19T15:34:08.742655",
     "status": "Novo",
-    "processado_em": "2026-08-19T15:34:08.742664"
+    "processado_em": "2026-08-19T15:34:08.742664",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-20T14:23:59.920042",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-20T14:23:59.920042"
+      }
+    ]
   },
   {
     "nome": "Maria Vitória Rodrigues dos Santos",
