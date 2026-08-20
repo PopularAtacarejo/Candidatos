@@ -15751,7 +15751,15 @@
     "id": "ba291d8d2903",
     "enviado_em": "2026-08-19T09:29:17.699464",
     "status": "Novo",
-    "processado_em": "2026-08-19T09:29:17.699475"
+    "processado_em": "2026-08-19T09:29:17.699475",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-20T19:06:53.995135",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-20T19:06:53.995135"
+      }
+    ]
   },
   {
     "nome": "José Gabriel de Oliveira",
