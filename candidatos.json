@@ -16125,5 +16125,51 @@
     "enviado_em": "2026-08-21T12:51:51.923561",
     "status": "Novo",
     "processado_em": "2026-08-21T12:51:51.923569"
+  },
+  {
+    "nome": "DARLANE BARBOSA DA SILVA",
+    "cpf": "111.939.664-69",
+    "telefone": "(82) 99686-4634",
+    "email": "barbosadarlane01@gmail.com",
+    "cep": "57304-170",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Pio X",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11193966469_DARLANE_BARBOSA_DA_SILVA_REPOSITOR_A_20260821_142635.docx",
+    "arquivo_nome": "Curriculo - DARLANE BARBOSA DA SILVA.docx",
+    "tamanho_arquivo": 19467,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "atendente",
+        "data_admissao": "2020-05-17",
+        "data_demissao": "2026-01-18"
+      },
+      {
+        "empresa": "JC ",
+        "funcao": "atendente ",
+        "data_admissao": "2025-08-20",
+        "data_demissao": "2026-05-20"
+      },
+      {
+        "empresa": "cartão de todos",
+        "funcao": "atendente ",
+        "data_admissao": "2026-02-01",
+        "data_demissao": "2026-05-20"
+      },
+      {
+        "empresa": "bella compra ",
+        "funcao": "operador de supermercado ",
+        "data_admissao": "2016-10-25",
+        "data_demissao": "2019-12-26"
+      }
+    ],
+    "id": "8634271843fc",
+    "enviado_em": "2026-08-21T14:26:37.798181",
+    "status": "Novo",
+    "processado_em": "2026-08-21T14:26:37.798190"
   }
 ]
