@@ -16069,5 +16069,33 @@
     "enviado_em": "2026-08-21T11:45:35.308180",
     "status": "Novo",
     "processado_em": "2026-08-21T11:45:35.308188"
+  },
+  {
+    "nome": "João Lucas de Andrade Silva Santos",
+    "cpf": "068.388.864-13",
+    "telefone": "(82) 99676-0869",
+    "email": "mickaellysevero145@gmail.com",
+    "cep": "57300-310",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Estudante José de Oliveira Leite",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06838886413_João_Lucas_de_Andrade_Silva_Santos_REPOSITOR_DE_FRIOS_20260821_114748.pdf",
+    "arquivo_nome": "curriculo_joao_lucas-1.pdf",
+    "tamanho_arquivo": 157944,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mart Minas ",
+        "funcao": "Trabalhei como repositor em supermercado abc Durante um tempo e fui trabalhar como prevenção de perdas no Mart Minas atacado e varejo em extrema minas gerais fazia   os controles dos produtos mantia sempre a postura no serviço e exercia minha função evitava perde as mercadorias",
+        "data_admissao": "2024-01-19",
+        "data_demissao": "2026-02-28"
+      }
+    ],
+    "id": "7740e954aebe",
+    "enviado_em": "2026-08-21T11:47:50.672491",
+    "status": "Novo",
+    "processado_em": "2026-08-21T11:47:50.672501"
   }
 ]
