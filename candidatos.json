@@ -16171,5 +16171,26 @@
     "enviado_em": "2026-08-21T14:26:37.798181",
     "status": "Novo",
     "processado_em": "2026-08-21T14:26:37.798190"
+  },
+  {
+    "nome": "Amanda Mickaelly Rocha Silva",
+    "cpf": "155.017.384-73",
+    "telefone": "(82) 99605-7095",
+    "email": "amandarochaz@icloud.com",
+    "cep": "57308-140",
+    "cidade": "Arapiraca ",
+    "bairro": "Planalto ",
+    "rua": "Antônio Pereira dos Santos 38",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15501738473_Amanda_Mickaelly_Rocha_Silva_OPERADOR_A_DE_CAIXA_20260821_180910.pdf",
+    "arquivo_nome": "Curriculo Amanda.pdf",
+    "tamanho_arquivo": 379113,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b1a56beffe78",
+    "enviado_em": "2026-08-21T18:09:13.012824",
+    "status": "Novo",
+    "processado_em": "2026-08-21T18:09:13.012833"
   }
 ]
