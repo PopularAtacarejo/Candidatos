@@ -16041,5 +16041,33 @@
     "enviado_em": "2026-08-20T05:04:24.063277",
     "status": "Novo",
     "processado_em": "2026-08-20T05:04:24.063290"
+  },
+  {
+    "nome": "João Lucas de Andrade Silva Santos",
+    "cpf": "068.388.864-13",
+    "telefone": "(82) 99676-0869",
+    "email": "mickaellysevero145@gmail.com",
+    "cep": "57300-310",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Estudante José de Oliveira Leite",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06838886413_João_Lucas_de_Andrade_Silva_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260821_114533.pdf",
+    "arquivo_nome": "curriculo_joao_lucas-1.pdf",
+    "tamanho_arquivo": 157944,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mart Minas ",
+        "funcao": "Fazia os controles de produtos e mercadorias",
+        "data_admissao": "2024-10-24",
+        "data_demissao": "2026-02-10"
+      }
+    ],
+    "id": "bb9308e1227a",
+    "enviado_em": "2026-08-21T11:45:35.308180",
+    "status": "Novo",
+    "processado_em": "2026-08-21T11:45:35.308188"
   }
 ]
