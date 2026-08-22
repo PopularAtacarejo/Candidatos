@@ -16105,5 +16105,39 @@
     "enviado_em": "2026-08-21T18:09:13.012824",
     "status": "Novo",
     "processado_em": "2026-08-21T18:09:13.012833"
+  },
+  {
+    "nome": "Weslley Ricardo Silva Santos",
+    "cpf": "154.635.264-35",
+    "telefone": "(82) 98130-7190",
+    "email": "wesleyricardo3422@gmail.com",
+    "cep": "57303-765",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Antônia Barbosa",
+    "transporte": "Sim",
+    "vaga": "EMBALADOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15463526435_Weslley_Ricardo_Silva_Santos_EMBALADOR_A_20260822_122432.pdf",
+    "arquivo_nome": "inbound3330403076145525339.pdf",
+    "tamanho_arquivo": 135760,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendimento ",
+        "data_admissao": "2022-10-06",
+        "data_demissao": "2023-09-14"
+      },
+      {
+        "empresa": "São Luiz ",
+        "funcao": "Operador de loja ",
+        "data_admissao": "2025-08-14",
+        "data_demissao": "2026-08-22"
+      }
+    ],
+    "id": "25aae4f0e2a1",
+    "enviado_em": "2026-08-22T12:24:34.563028",
+    "status": "Novo",
+    "processado_em": "2026-08-22T12:24:34.563036"
   }
 ]
