@@ -16084,5 +16084,26 @@
     "enviado_em": "2026-08-22T12:24:34.563028",
     "status": "Novo",
     "processado_em": "2026-08-22T12:24:34.563036"
+  },
+  {
+    "nome": "Maria Luiza Almeida",
+    "cpf": "127.200.914-99",
+    "telefone": "(82) 99621-0237",
+    "email": "marialuizaalmeida1234@gmail.com",
+    "cep": "57308-530",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Avenida Antônio Lemos Palmeira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12720091499_Maria_Luiza_Almeida_OPERADOR_A_DE_CAIXA_20260823_201115.pdf",
+    "arquivo_nome": "inbound2580704311837052049.pdf",
+    "tamanho_arquivo": 128823,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a36696f986e5",
+    "enviado_em": "2026-08-23T20:11:17.126027",
+    "status": "Novo",
+    "processado_em": "2026-08-23T20:11:17.126034"
   }
 ]
