@@ -14481,7 +14481,7 @@
     "status": "Novo",
     "processado_em": "2026-08-18T14:49:07.997314",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-18T19:55:23.487376",
+    "ultimo_visualizado_em": "2026-08-24T15:18:44.361740",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
@@ -14490,6 +14490,10 @@
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-18T19:55:23.487376"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-24T15:18:44.361740"
       }
     ]
   },
