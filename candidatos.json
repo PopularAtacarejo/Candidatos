@@ -16054,5 +16054,26 @@
     "enviado_em": "2026-08-24T20:20:44.500815",
     "status": "Novo",
     "processado_em": "2026-08-24T20:20:44.500825"
+  },
+  {
+    "nome": "Camille Vitória Souza Alves",
+    "cpf": "110.148.465-95",
+    "telefone": "(79) 99680-7747",
+    "email": "camillevitoriasouzaalves@gmail.com",
+    "cep": "57313-380",
+    "cidade": "Arapiraca",
+    "bairro": "Brasília",
+    "rua": "Rua Luiz Duarte",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11014846595_Camille_Vitória_Souza_Alves_REPOSITOR_A_20260824_205902.pdf",
+    "arquivo_nome": "Currículo Camille Vitória .pdf",
+    "tamanho_arquivo": 372541,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "479b21942853",
+    "enviado_em": "2026-08-24T20:59:04.706609",
+    "status": "Novo",
+    "processado_em": "2026-08-24T20:59:04.706619"
   }
 ]
