@@ -15906,7 +15906,15 @@
     "id": "bb9308e1227a",
     "enviado_em": "2026-08-21T11:45:35.308180",
     "status": "Novo",
-    "processado_em": "2026-08-21T11:45:35.308188"
+    "processado_em": "2026-08-21T11:45:35.308188",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-24T16:32:24.948692",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-24T16:32:24.948692"
+      }
+    ]
   },
   {
     "nome": "João Lucas de Andrade Silva Santos",
