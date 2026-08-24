@@ -16101,5 +16101,26 @@
     "enviado_em": "2026-08-24T03:12:01.776934",
     "status": "Novo",
     "processado_em": "2026-08-24T03:12:01.776942"
+  },
+  {
+    "nome": "Ana Carla da Silva",
+    "cpf": "717.289.974-10",
+    "telefone": "(82) 99936-6692",
+    "email": "jkarla3334@icloud.com",
+    "cep": "57300-970",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Praça Luiz Pereira Lima",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/71728997410_Ana_Carla_da_Silva_BALCONISTA_DE_PADARIA_20260824_202042.pdf",
+    "arquivo_nome": "Ana Carla da Silva 2026 2.pdf",
+    "tamanho_arquivo": 93998,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "160a5c473083",
+    "enviado_em": "2026-08-24T20:20:44.500815",
+    "status": "Novo",
+    "processado_em": "2026-08-24T20:20:44.500825"
   }
 ]
