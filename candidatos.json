@@ -15778,5 +15778,33 @@
     "enviado_em": "2026-08-25T02:05:01.458484",
     "status": "Novo",
     "processado_em": "2026-08-25T02:05:01.458494"
+  },
+  {
+    "nome": "Isadora Santos Marinho",
+    "cpf": "137.528.534-33",
+    "telefone": "(82) 99186-3312",
+    "email": "isadorah.marinho@gmail.com",
+    "cep": "57303-215",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Luciana Rodrigues de Araújo",
+    "transporte": "Não",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13752853433_Isadora_Santos_Marinho_ASSISTENTE_DE_RH_20260825_023711.pdf",
+    "arquivo_nome": "Currículo Isadora Marinho.pdf",
+    "tamanho_arquivo": 205094,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Jadielson Odonto ",
+        "funcao": "Recepcionista ",
+        "data_admissao": "2025-03-02",
+        "data_demissao": "2026-02-03"
+      }
+    ],
+    "id": "d71e23f91460",
+    "enviado_em": "2026-08-25T02:37:13.654371",
+    "status": "Novo",
+    "processado_em": "2026-08-25T02:37:13.654379"
   }
 ]
