@@ -15778,5 +15778,33 @@
     "enviado_em": "2026-08-25T00:24:48.682898",
     "status": "Novo",
     "processado_em": "2026-08-25T00:24:48.682907"
+  },
+  {
+    "nome": "Jefferson Dantas",
+    "cpf": "117.061.794-80",
+    "telefone": "(82) 99625-6966",
+    "email": "jefersond66@gmail.com",
+    "cep": "57304-420",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Olinda",
+    "transporte": "Sim",
+    "vaga": "ASSISTENTE DE RH",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11706179480_Jefferson_Dantas_ASSISTENTE_DE_RH_20260825_020459.docx",
+    "arquivo_nome": "Jefferson Dantas - Curriculum Atualizado.docx",
+    "tamanho_arquivo": 22952,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "AeC",
+        "funcao": "Monitor de Qualidade",
+        "data_admissao": "2021-12-20",
+        "data_demissao": "2023-09-13"
+      }
+    ],
+    "id": "5fe16a495ae6",
+    "enviado_em": "2026-08-25T02:05:01.458484",
+    "status": "Novo",
+    "processado_em": "2026-08-25T02:05:01.458494"
   }
 ]
