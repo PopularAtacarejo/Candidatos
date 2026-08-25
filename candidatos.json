@@ -1526,34 +1526,6 @@
     ]
   },
   {
-    "nome": "Ana Maria Luiza bezerra dos santos",
-    "cpf": "158.037.124-85",
-    "telefone": "(82) 99976-0083",
-    "email": "anamarialuiza82@gmail.com",
-    "cep": "57316-899",
-    "cidade": "Arapiraca",
-    "bairro": "Área Rural de Arapiraca",
-    "rua": "Área Rural",
-    "transporte": "Sim",
-    "vaga": "AUXILIAR DE LIMPEZA",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15803712485_Ana_Maria_Luiza_bezerra_dos_santos_AUXILIAR_DE_LIMPEZA_20260527_022950.pdf",
-    "arquivo_nome": "inbound956145461473596293.pdf",
-    "tamanho_arquivo": 458043,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Mercado",
-        "funcao": "Limpeza",
-        "data_admissao": "2025-03-08",
-        "data_demissao": "2026-03-10"
-      }
-    ],
-    "id": "dd5b4faeb121",
-    "enviado_em": "2026-05-27T02:29:52.138750",
-    "status": "Novo",
-    "processado_em": "2026-05-27T02:29:52.138761"
-  },
-  {
     "nome": "Fabiana Barbosa da Silva",
     "cpf": "151.679.534-21",
     "telefone": "(82) 98141-3559",
