@@ -14694,5 +14694,45 @@
     "enviado_em": "2026-08-25T20:45:05.789999",
     "status": "Novo",
     "processado_em": "2026-08-25T20:45:05.790008"
+  },
+  {
+    "nome": "Deyvisson Pereira da Silva",
+    "cpf": "114.819.384-79",
+    "telefone": "(82) 99694-2095",
+    "email": "deyvissonsilva896@gmail.com",
+    "cep": "57304-280",
+    "cidade": "Arapiraca",
+    "bairro": "Primavera",
+    "rua": "Rua Ana Maria Mendes Lira",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11481938479_Deyvisson_Pereira_da_Silva_REPOSITOR_A_20260826_105616.pdf",
+    "arquivo_nome": "Curriculo_Deyvisson_Pereira_da_Silva.pdf",
+    "tamanho_arquivo": 1504798,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Bonetto Holding Patrimonial Ltda.",
+        "funcao": "Balconista Hortfruti",
+        "data_admissao": "2020-12-15",
+        "data_demissao": "2022-06-06"
+      },
+      {
+        "empresa": "Líder Locadora e Transportadora Ltda.",
+        "funcao": "Repositor/Conferente ",
+        "data_admissao": "2023-01-20",
+        "data_demissao": "2023-07-10"
+      },
+      {
+        "empresa": "E. de Albuquerque Melo & Cia Ltda.",
+        "funcao": "Conferente ",
+        "data_admissao": "2023-08-04",
+        "data_demissao": "2026-04-30"
+      }
+    ],
+    "id": "03e7679fc205",
+    "enviado_em": "2026-08-26T10:56:19.176179",
+    "status": "Novo",
+    "processado_em": "2026-08-26T10:56:19.176189"
   }
 ]
