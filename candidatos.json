@@ -1171,7 +1171,15 @@
     "id": "95b83fdbca3d",
     "enviado_em": "2026-08-18T11:53:35.134543",
     "status": "Novo",
-    "processado_em": "2026-08-18T11:53:35.134550"
+    "processado_em": "2026-08-18T11:53:35.134550",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-27T14:00:25.866258",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-27T14:00:25.866258"
+      }
+    ]
   },
   {
     "nome": "Jadielson Carlos de Araújo Rocha",
