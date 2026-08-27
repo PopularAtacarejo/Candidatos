@@ -14205,7 +14205,7 @@
     "status": "Novo",
     "processado_em": "2026-08-21T11:45:35.308188",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-25T11:10:12.303837",
+    "ultimo_visualizado_em": "2026-08-27T13:54:45.936871",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
@@ -14214,6 +14214,10 @@
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-25T11:10:12.303837"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-27T13:54:45.936871"
       }
     ]
   },
@@ -14273,15 +14277,11 @@
     "status": "Novo",
     "processado_em": "2026-08-21T12:51:51.923569",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-27T13:54:08.537106",
+    "ultimo_visualizado_em": "2026-08-24T11:48:23.894167",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-24T11:48:23.894167"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-27T13:54:08.537106"
       }
     ]
   },
