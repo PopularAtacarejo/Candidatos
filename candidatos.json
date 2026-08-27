@@ -12752,7 +12752,15 @@
     "id": "28f0e5cf246c",
     "enviado_em": "2026-08-18T14:48:33.307752",
     "status": "Novo",
-    "processado_em": "2026-08-18T14:48:33.307759"
+    "processado_em": "2026-08-18T14:48:33.307759",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-27T13:55:25.271865",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-27T13:55:25.271865"
+      }
+    ]
   },
   {
     "nome": "Samuel Jhone",
@@ -14205,7 +14213,7 @@
     "status": "Novo",
     "processado_em": "2026-08-21T11:45:35.308188",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-27T13:54:51.007478",
+    "ultimo_visualizado_em": "2026-08-25T11:10:12.303837",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
@@ -14214,10 +14222,6 @@
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-25T11:10:12.303837"
-      },
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-27T13:54:51.007478"
       }
     ]
   },
