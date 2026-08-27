@@ -14754,7 +14754,15 @@
     "id": "23576646d2dc",
     "enviado_em": "2026-08-26T17:30:37.990267",
     "status": "Novo",
-    "processado_em": "2026-08-26T17:30:37.990275"
+    "processado_em": "2026-08-26T17:30:37.990275",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-27T20:27:40.104223",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-27T20:27:40.104223"
+      }
+    ]
   },
   {
     "nome": "Liorran Gabriel Marques dos Santos",
