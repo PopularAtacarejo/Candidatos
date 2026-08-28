@@ -14653,5 +14653,33 @@
         "timestamp": "2026-08-27T20:27:44.419322"
       }
     ]
+  },
+  {
+    "nome": "José Fernandes dos Santos da Silva",
+    "cpf": "152.462.444-66",
+    "telefone": "(82) 99934-9942",
+    "email": "jfernandee29@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus ",
+    "rua": "Nossa senhora da penha ",
+    "transporte": "Sim",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15246244466_José_Fernandes_dos_Santos_da_Silva_Auxiliar_de_Limpeza_20260828_000040.pdf",
+    "arquivo_nome": "inbound2488600713664417503.pdf",
+    "tamanho_arquivo": 28930,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Gonzaga hipermercado ",
+        "funcao": "Serviços Gerais ",
+        "data_admissao": "2026-05-28",
+        "data_demissao": "2026-08-07"
+      }
+    ],
+    "id": "76b5aa2fee69",
+    "enviado_em": "2026-08-28T00:00:42.613062",
+    "status": "Novo",
+    "processado_em": "2026-08-28T00:00:42.613072"
   }
 ]
