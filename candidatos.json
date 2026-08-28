@@ -13384,7 +13384,15 @@
     "id": "3926b6b1a336",
     "enviado_em": "2026-08-18T22:52:35.180163",
     "status": "Novo",
-    "processado_em": "2026-08-18T22:52:35.180174"
+    "processado_em": "2026-08-18T22:52:35.180174",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-28T13:29:34.546617",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-28T13:29:34.546617"
+      }
+    ]
   },
   {
     "nome": "Matheus Henrique Araujo da Silva",
