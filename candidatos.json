@@ -13702,15 +13702,7 @@
     "id": "6387f6d4df68",
     "enviado_em": "2026-08-19T09:39:04.111299",
     "status": "Novo",
-    "processado_em": "2026-08-19T09:39:04.111310",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-28T13:24:37.428547",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-28T13:24:37.428547"
-      }
-    ]
+    "processado_em": "2026-08-19T09:39:04.111310"
   },
   {
     "nome": "Maria Neuzete dos Santos Bigas",
@@ -13797,11 +13789,15 @@
     "status": "Novo",
     "processado_em": "2026-08-19T12:49:52.674285",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-19T13:11:15.892125",
+    "ultimo_visualizado_em": "2026-08-28T13:25:18.716650",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-19T13:11:15.892125"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-28T13:25:18.716650"
       }
     ]
   },
