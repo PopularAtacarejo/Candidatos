@@ -13702,7 +13702,15 @@
     "id": "6387f6d4df68",
     "enviado_em": "2026-08-19T09:39:04.111299",
     "status": "Novo",
-    "processado_em": "2026-08-19T09:39:04.111310"
+    "processado_em": "2026-08-19T09:39:04.111310",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-28T13:24:32.850620",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-28T13:24:32.850620"
+      }
+    ]
   },
   {
     "nome": "Maria Neuzete dos Santos Bigas",
@@ -14006,15 +14014,7 @@
     "id": "fbd9c0432988",
     "enviado_em": "2026-08-19T18:42:34.700248",
     "status": "Novo",
-    "processado_em": "2026-08-19T18:42:34.700259",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-28T13:23:31.552644",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-28T13:23:31.552644"
-      }
-    ]
+    "processado_em": "2026-08-19T18:42:34.700259"
   },
   {
     "nome": "Júlio César ferreira neto aquino",
