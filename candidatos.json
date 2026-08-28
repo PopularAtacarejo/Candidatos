@@ -933,7 +933,15 @@
     "id": "8fde5166129a",
     "enviado_em": "2026-08-18T10:30:23.559210",
     "status": "Novo",
-    "processado_em": "2026-08-18T10:30:23.559218"
+    "processado_em": "2026-08-18T10:30:23.559218",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-08-28T13:30:44.976273",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-28T13:30:44.976273"
+      }
+    ]
   },
   {
     "nome": "Vitória dos Santos Souza",
@@ -13384,15 +13392,7 @@
     "id": "3926b6b1a336",
     "enviado_em": "2026-08-18T22:52:35.180163",
     "status": "Novo",
-    "processado_em": "2026-08-18T22:52:35.180174",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-28T13:29:39.114783",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-28T13:29:39.114783"
-      }
-    ]
+    "processado_em": "2026-08-18T22:52:35.180174"
   },
   {
     "nome": "Matheus Henrique Araujo da Silva",
