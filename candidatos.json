@@ -14806,5 +14806,39 @@
     "enviado_em": "2026-08-28T13:00:52.917864",
     "status": "Novo",
     "processado_em": "2026-08-28T13:00:52.917873"
+  },
+  {
+    "nome": "Lyandra Mercia Martins Soares",
+    "cpf": "153.446.554-52",
+    "telefone": "(82) 99143-5277",
+    "email": "soareslih861@gmail.com",
+    "cep": "57303-808",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Vera Lúcia dos Santos",
+    "transporte": "Não",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15344655452_Lyandra_Mercia_Martins_Soares_Auxiliar_de_Limpeza_20260828_173408.pdf",
+    "arquivo_nome": "inbound7402343830335374589.pdf",
+    "tamanho_arquivo": 807546,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Clubinho03",
+        "funcao": "Vendedora",
+        "data_admissao": "2026-08-28",
+        "data_demissao": "2026-08-28"
+      },
+      {
+        "empresa": "Aigoo",
+        "funcao": "Vendedora",
+        "data_admissao": "2026-08-28",
+        "data_demissao": "2026-08-28"
+      }
+    ],
+    "id": "a94a1737c695",
+    "enviado_em": "2026-08-28T17:34:10.554866",
+    "status": "Novo",
+    "processado_em": "2026-08-28T17:34:10.554874"
   }
 ]
