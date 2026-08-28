@@ -13119,15 +13119,7 @@
     "id": "abc2f0e184f8",
     "enviado_em": "2026-08-18T17:47:57.632659",
     "status": "Novo",
-    "processado_em": "2026-08-18T17:47:57.632668",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-28T13:25:59.479195",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-08-28T13:25:59.479195"
-      }
-    ]
+    "processado_em": "2026-08-18T17:47:57.632668"
   },
   {
     "nome": "Jailson Dias Brito da Silva",
@@ -14625,11 +14617,15 @@
     "status": "Novo",
     "processado_em": "2026-08-26T13:01:15.960198",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-08-26T16:31:40.855974",
+    "ultimo_visualizado_em": "2026-08-28T13:27:35.215631",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-08-26T16:31:40.855974"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-08-28T13:27:35.215631"
       }
     ]
   },
