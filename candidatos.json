@@ -1542,40 +1542,6 @@
     ]
   },
   {
-    "nome": "Claudia Maria dos Santos",
-    "cpf": "123.125.168-96",
-    "telefone": "(82) 99619-3427",
-    "email": "claudia-maria27@hotmail.com",
-    "cep": "57315-776",
-    "cidade": "Arapiraca",
-    "bairro": "Senador Arnon de Melo",
-    "rua": "Rua Iraci Nunes de Brito",
-    "transporte": "Sim",
-    "vaga": "EMBALADOR (A)",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12312516896_Claudia_Maria_dos_Santos_EMBALADOR_A_20260530_233131.pdf",
-    "arquivo_nome": "inbound6429202650612243415.pdf",
-    "tamanho_arquivo": 53468,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Supermercado São Luís",
-        "funcao": "Confeitaria",
-        "data_admissao": "2025-04-10",
-        "data_demissao": "2026-06-05"
-      },
-      {
-        "empresa": "Massagueirinha",
-        "funcao": "Auxiliar de cozinha",
-        "data_admissao": "2026-01-05",
-        "data_demissao": "2026-05-10"
-      }
-    ],
-    "id": "c19afe86b1c9",
-    "enviado_em": "2026-05-30T23:31:32.605542",
-    "status": "Novo",
-    "processado_em": "2026-05-30T23:31:32.605555"
-  },
-  {
     "nome": "Jeferson Jefry",
     "cpf": "107.738.464-50",
     "telefone": "(82) 99915-8412",
