@@ -14826,5 +14826,26 @@
     "enviado_em": "2026-08-29T01:03:35.014126",
     "status": "Novo",
     "processado_em": "2026-08-29T01:03:35.014139"
+  },
+  {
+    "nome": "Gilvânia Silva Santos",
+    "cpf": "706.530.941-08",
+    "telefone": "(82) 99607-0898",
+    "email": "kenasantos78@gmail.com",
+    "cep": "57302-707",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Margarida Maria Lopes Barbosa",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/70653094108_Gilvânia_Silva_Santos_REPOSITOR_A_20260829_014518.pdf",
+    "arquivo_nome": "inbound3215908552641102271.pdf",
+    "tamanho_arquivo": 112666,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "20e6933d9c09",
+    "enviado_em": "2026-08-29T01:45:20.722813",
+    "status": "Novo",
+    "processado_em": "2026-08-29T01:45:20.722822"
   }
 ]
