@@ -14721,5 +14721,26 @@
     "enviado_em": "2026-08-31T17:02:53.705983",
     "status": "Novo",
     "processado_em": "2026-08-31T17:02:53.705991"
+  },
+  {
+    "nome": "Rayane maria Calixto silva",
+    "cpf": "126.639.104-57",
+    "telefone": "(82) 99637-8204",
+    "email": "lucassvinincil@gmail.com",
+    "cep": "57311-247",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Avenida Vicente Nunes de Albuquerque",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12663910457_Rayane_maria_Calixto_silva_BALCONISTA_DE_PADARIA_20260831_175114.pdf",
+    "arquivo_nome": "RAYANE MARIA CALIXTO SILVA.pdf",
+    "tamanho_arquivo": 278221,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c88ba245c13b",
+    "enviado_em": "2026-08-31T17:51:16.566653",
+    "status": "Novo",
+    "processado_em": "2026-08-31T17:51:16.566662"
   }
 ]
