@@ -14714,5 +14714,39 @@
     "enviado_em": "2026-08-30T11:08:16.964045",
     "status": "Novo",
     "processado_em": "2026-08-30T11:08:16.964052"
+  },
+  {
+    "nome": "Marina Justino dos Santos",
+    "cpf": "151.556.834-24",
+    "telefone": "(82) 99914-7729",
+    "email": "santosmarina9136@gmail.com",
+    "cep": "57360-0__",
+    "cidade": "Girau do Ponciano",
+    "bairro": "Canafístula do Cipriano ",
+    "rua": "Rua São Vicente 101",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15155683424_Marina_Justino_dos_Santos_OPERADOR_A_DE_CAIXA_20260831_132518.pdf",
+    "arquivo_nome": "inbound5952801652106661201.pdf",
+    "tamanho_arquivo": 277172,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Mercado da família ",
+        "funcao": "Operador de Caixa ",
+        "data_admissao": "2026-01-03",
+        "data_demissao": "2026-07-05"
+      },
+      {
+        "empresa": "Ifp",
+        "funcao": "Call center ",
+        "data_admissao": "2025-06-12",
+        "data_demissao": "2026-12-20"
+      }
+    ],
+    "id": "1fdc70ed433d",
+    "enviado_em": "2026-08-31T13:25:20.642292",
+    "status": "Novo",
+    "processado_em": "2026-08-31T13:25:20.642302"
   }
 ]
