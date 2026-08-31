@@ -14714,5 +14714,26 @@
     "enviado_em": "2026-08-31T17:51:16.566653",
     "status": "Novo",
     "processado_em": "2026-08-31T17:51:16.566662"
+  },
+  {
+    "nome": "Micaele Maria de Brito",
+    "cpf": "051.091.534-50",
+    "telefone": "(82) 99608-8133",
+    "email": "britomicaele226@gmail.com",
+    "cep": "57308-735",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua do Sol",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05109153450_Micaele_Maria_de_Brito_OPERADOR_A_DE_CAIXA_20260831_180711.pdf",
+    "arquivo_nome": "inbound1510787759960543646.pdf",
+    "tamanho_arquivo": 314736,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a97f9db111ea",
+    "enviado_em": "2026-08-31T18:07:13.606947",
+    "status": "Novo",
+    "processado_em": "2026-08-31T18:07:13.606954"
   }
 ]
