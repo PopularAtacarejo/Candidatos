@@ -14700,5 +14700,26 @@
     "enviado_em": "2026-08-31T15:20:47.881183",
     "status": "Novo",
     "processado_em": "2026-08-31T15:20:47.881194"
+  },
+  {
+    "nome": "Jesus Gabriel felix da silva",
+    "cpf": "167.384.944-08",
+    "telefone": "(84) 99146-6250",
+    "email": "jesusgabrielfelixdasilva@gmail.com",
+    "cep": "57312-020",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Ouro Branco",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16738494408_Jesus_Gabriel_felix_da_silva_AUX._DE_ESTOQUE_20260831_170250.pdf",
+    "arquivo_nome": "inbound375297098344913791.pdf",
+    "tamanho_arquivo": 605358,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "c9d1e257f449",
+    "enviado_em": "2026-08-31T17:02:53.705983",
+    "status": "Novo",
+    "processado_em": "2026-08-31T17:02:53.705991"
   }
 ]
