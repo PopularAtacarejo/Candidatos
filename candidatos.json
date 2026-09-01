@@ -14440,7 +14440,15 @@
     "id": "aed26a9c3f05",
     "enviado_em": "2026-08-29T01:50:06.396180",
     "status": "Novo",
-    "processado_em": "2026-08-29T01:50:06.396190"
+    "processado_em": "2026-08-29T01:50:06.396190",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-01T11:00:56.437912",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-01T11:00:56.437912"
+      }
+    ]
   },
   {
     "nome": "Júlio César ferreira neto Aquino",
@@ -14580,15 +14588,7 @@
     "id": "c9d1e257f449",
     "enviado_em": "2026-08-31T17:02:53.705983",
     "status": "Novo",
-    "processado_em": "2026-08-31T17:02:53.705991",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-01T10:58:49.382493",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-01T10:58:49.382493"
-      }
-    ]
+    "processado_em": "2026-08-31T17:02:53.705991"
   },
   {
     "nome": "Rayane maria Calixto silva",
