@@ -14520,5 +14520,26 @@
     "enviado_em": "2026-08-31T21:30:17.971869",
     "status": "Novo",
     "processado_em": "2026-08-31T21:30:17.971876"
+  },
+  {
+    "nome": "Roberta da Silva Santos",
+    "cpf": "151.647.334-55",
+    "telefone": "(82) 99827-4661",
+    "email": "roberthasantoos44@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Coité do noia ",
+    "bairro": "Centro ",
+    "rua": "Rua quinze de novembro ",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15164733455_Roberta_da_Silva_Santos_OPERADOR_A_DE_CAIXA_20260901_195927.pdf",
+    "arquivo_nome": "a9d5b0ec-fbf1-4500-aa0c-23c909ae0ada.pdf",
+    "tamanho_arquivo": 33304,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "fd20b30e756c",
+    "enviado_em": "2026-09-01T19:59:29.170271",
+    "status": "Novo",
+    "processado_em": "2026-09-01T19:59:29.170279"
   }
 ]
