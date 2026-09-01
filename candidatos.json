@@ -14609,7 +14609,15 @@
     "id": "c88ba245c13b",
     "enviado_em": "2026-08-31T17:51:16.566653",
     "status": "Novo",
-    "processado_em": "2026-08-31T17:51:16.566662"
+    "processado_em": "2026-08-31T17:51:16.566662",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-01T11:15:39.148669",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-01T11:15:39.148669"
+      }
+    ]
   },
   {
     "nome": "Micaele Maria de Brito",
