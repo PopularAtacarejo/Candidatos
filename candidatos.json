@@ -1542,34 +1542,6 @@
     ]
   },
   {
-    "nome": "Karine Stephanie Souza Barbosa Lima",
-    "cpf": "406.014.438-02",
-    "telefone": "(11) 95473-0492",
-    "email": "kalulorena08@gmail.com",
-    "cep": "57310-110",
-    "cidade": "Arapiraca",
-    "bairro": "Capiatã",
-    "rua": "Rua Dom João VI",
-    "transporte": "Sim",
-    "vaga": "CONFEITEIRO",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/40601443802_Karine_Stephanie_Souza_Barbosa_Lima_CONFEITEIRO_20260604_000754.pdf",
-    "arquivo_nome": "Curriculo_Karine_Lima_Com_Endereco.pdf",
-    "tamanho_arquivo": 2876,
-    "tem_experiencia": "Sim",
-    "experiencias": [
-      {
-        "empresa": "Mercado Monteiro",
-        "funcao": "Auxiliar de Produção (fazia todas as produções da padaria bolos, tortas, sonhos e etc)",
-        "data_admissao": "2024-11-01",
-        "data_demissao": "2025-10-31"
-      }
-    ],
-    "id": "096728ef5f3e",
-    "enviado_em": "2026-06-04T00:07:55.291257",
-    "status": "Novo",
-    "processado_em": "2026-06-04T00:07:55.291269"
-  },
-  {
     "nome": "Maria Eduarda Menezes Santos",
     "cpf": "114.669.274-96",
     "telefone": "(82) 99643-1742",
