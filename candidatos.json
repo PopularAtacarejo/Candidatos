@@ -14400,5 +14400,26 @@
     "enviado_em": "2026-09-02T18:18:59.382325",
     "status": "Novo",
     "processado_em": "2026-09-02T18:18:59.382334"
+  },
+  {
+    "nome": "Rogerio de Oliveira Nobre",
+    "cpf": "105.289.194-23",
+    "telefone": "(82) 99662-7887",
+    "email": "roger.nbr@gmail.com",
+    "cep": "57314-110",
+    "cidade": "Arapiraca",
+    "bairro": "Itapoã",
+    "rua": "Rua João Nunes Barbosa",
+    "transporte": "Não",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10528919423_Rogerio_de_Oliveira_Nobre_REPOSITOR_A_20260902_200852.pdf",
+    "arquivo_nome": "Currículo Rogério de Oliveira Nobre 2025.pdf",
+    "tamanho_arquivo": 128658,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "e00ebb17e120",
+    "enviado_em": "2026-09-02T20:08:54.648820",
+    "status": "Novo",
+    "processado_em": "2026-09-02T20:08:54.648827"
   }
 ]
