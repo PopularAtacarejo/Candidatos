@@ -14513,5 +14513,33 @@
     "enviado_em": "2026-09-01T19:59:29.170271",
     "status": "Novo",
     "processado_em": "2026-09-01T19:59:29.170279"
+  },
+  {
+    "nome": "Joseane Silvestre da silva",
+    "cpf": "121.230.084-00",
+    "telefone": "(82) 99627-8748",
+    "email": "jooh_jb13ed@hotmail.com",
+    "cep": "57309-640",
+    "cidade": "Arapiraca",
+    "bairro": "Massaranduba",
+    "rua": "Rua Sapotizeiro",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12123008400_Joseane_Silvestre_da_silva_OPERADOR_A_DE_CAIXA_20260902_034511.pdf",
+    "arquivo_nome": "CURRÍCULUM PROFISSIONAL.pdf",
+    "tamanho_arquivo": 129193,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão ",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2020-10-02",
+        "data_demissao": "2023-09-02"
+      }
+    ],
+    "id": "20bc15b236ad",
+    "enviado_em": "2026-09-02T03:45:13.895923",
+    "status": "Novo",
+    "processado_em": "2026-09-02T03:45:13.895932"
   }
 ]
