@@ -14393,5 +14393,39 @@
     "enviado_em": "2026-09-03T15:54:18.733797",
     "status": "Novo",
     "processado_em": "2026-09-03T15:54:18.733807"
+  },
+  {
+    "nome": "Jean Carlos Ramos de Almeida",
+    "cpf": "113.682.634-37",
+    "telefone": "(82) 99997-1994",
+    "email": "ns750375@gmail.com",
+    "cep": "57308-090",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Né Firmino",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11368263437_Jean_Carlos_Ramos_de_Almeida_REPOSITOR_A_20260903_155448.pdf",
+    "arquivo_nome": "Currículo de Marketing e Vendas Estilo Simples em Cinza e Preto.pdf",
+    "tamanho_arquivo": 130209,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "GB Barbosa ",
+        "funcao": "Repositor, empilhador , operador de caixa ",
+        "data_admissao": "2019-01-03",
+        "data_demissao": "2023-01-03"
+      },
+      {
+        "empresa": "Dismoto Honda ",
+        "funcao": "Jovem aprendiz ",
+        "data_admissao": "2014-09-03",
+        "data_demissao": "2015-09-03"
+      }
+    ],
+    "id": "b0676d5dc632",
+    "enviado_em": "2026-09-03T15:54:50.111617",
+    "status": "Novo",
+    "processado_em": "2026-09-03T15:54:50.111625"
   }
 ]
