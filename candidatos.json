@@ -14456,5 +14456,33 @@
     "enviado_em": "2026-09-03T20:36:59.386150",
     "status": "Novo",
     "processado_em": "2026-09-03T20:36:59.386158"
+  },
+  {
+    "nome": "Nicolas David Felix da Rocha",
+    "cpf": "162.662.984-65",
+    "telefone": "(82) 98781-1782",
+    "email": "nycollasdavid@icloud.com",
+    "cep": "57350-00_",
+    "cidade": "Campo Grande",
+    "bairro": "Centro",
+    "rua": "Rua da linha ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/16266298465_Nicolas_David_Felix_da_Rocha_REPOSITOR_A_20260903_235435.pdf",
+    "arquivo_nome": "Foto.pdf",
+    "tamanho_arquivo": 400383,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Souza e Nery",
+        "funcao": "Repositor ",
+        "data_admissao": "2026-01-27",
+        "data_demissao": "2026-09-29"
+      }
+    ],
+    "id": "4a5f491a3b3c",
+    "enviado_em": "2026-09-03T23:54:37.813599",
+    "status": "Novo",
+    "processado_em": "2026-09-03T23:54:37.813607"
   }
 ]
