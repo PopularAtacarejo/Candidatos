@@ -14435,5 +14435,26 @@
     "enviado_em": "2026-09-05T16:10:12.698384",
     "status": "Novo",
     "processado_em": "2026-09-05T16:10:12.698391"
+  },
+  {
+    "nome": "Ayra Beatriz Teles de Barros Pereira",
+    "cpf": "125.941.424-84",
+    "telefone": "(82) 99913-2046",
+    "email": "telesayrabeatriz@gmail.com",
+    "cep": "57315-748",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua José Otávio de Oliveira",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE T.I",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12594142484_Ayra_Beatriz_Teles_de_Barros_Pereira_AUXILIAR_DE_T.I_20260905_210917.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 42978,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "2731407b2a85",
+    "enviado_em": "2026-09-05T21:09:19.678467",
+    "status": "Novo",
+    "processado_em": "2026-09-05T21:09:19.678476"
   }
 ]
