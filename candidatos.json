@@ -14407,5 +14407,33 @@
         "timestamp": "2026-09-04T16:40:17.081544"
       }
     ]
+  },
+  {
+    "nome": "Rosangela do Socorro Maia da Silva",
+    "cpf": "643.852.992-34",
+    "telefone": "(96) 98809-8277",
+    "email": "help988098277@gmail.com",
+    "cep": "57315-760",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua José Arestides da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/64385299234_Rosangela_do_Socorro_Maia_da_Silva_REPOSITOR_A_20260905_161010.pdf",
+    "arquivo_nome": "inbound507775040504291213.pdf",
+    "tamanho_arquivo": 355140,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Prefeitura Municipal de Serra do Navio",
+        "funcao": "Auxilia de serviços gerais",
+        "data_admissao": "2004-06-04",
+        "data_demissao": "2022-06-01"
+      }
+    ],
+    "id": "33b185fd1e06",
+    "enviado_em": "2026-09-05T16:10:12.698384",
+    "status": "Novo",
+    "processado_em": "2026-09-05T16:10:12.698391"
   }
 ]
