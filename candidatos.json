@@ -14414,5 +14414,26 @@
     "enviado_em": "2026-09-05T21:09:19.678467",
     "status": "Novo",
     "processado_em": "2026-09-05T21:09:19.678476"
+  },
+  {
+    "nome": "Sabrina Kelly Rodrigues Santos",
+    "cpf": "120.208.744-23",
+    "telefone": "(82) 99637-2456",
+    "email": "sabrinakellyr00@gmail.com",
+    "cep": "57315-776",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Iraci Nunes de Brito",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12020874423_Sabrina_Kelly_Rodrigues_Santos_OPERADOR_A_DE_CAIXA_20260906_211914.pdf",
+    "arquivo_nome": "SABRINA KELLY RODRIGUES SANTOS-1-4.pdf",
+    "tamanho_arquivo": 286383,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "84ee103076ad",
+    "enviado_em": "2026-09-06T21:19:17.021036",
+    "status": "Novo",
+    "processado_em": "2026-09-06T21:19:17.021050"
   }
 ]
