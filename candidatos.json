@@ -14210,5 +14210,26 @@
     "enviado_em": "2026-09-09T10:35:31.253126",
     "status": "Novo",
     "processado_em": "2026-09-09T10:35:31.279536"
+  },
+  {
+    "nome": "Greice  Kesia Pereira da Silva",
+    "cpf": "120.910.994-81",
+    "telefone": "(82) 99128-6878",
+    "email": "greicekesia9@gmail.com",
+    "cep": "57307-420",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua José Antônio dos Santos",
+    "transporte": "Não",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12091099481_Greice_Kesia_Pereira_da_Silva_AUX._DE_ESTOQUE_20260909_112541.pdf",
+    "arquivo_nome": "muka_v1.11.0.2_20260828193130.pdf",
+    "tamanho_arquivo": 280568,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "baf7f7c34397",
+    "enviado_em": "2026-09-09T11:25:44.260025",
+    "status": "Novo",
+    "processado_em": "2026-09-09T11:25:44.260035"
   }
 ]
