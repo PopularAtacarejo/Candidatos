@@ -14196,5 +14196,26 @@
     "enviado_em": "2026-09-09T00:04:10.104787",
     "status": "Novo",
     "processado_em": "2026-09-09T00:04:10.104795"
+  },
+  {
+    "nome": "Wesley Lucas",
+    "cpf": "136.867.154-30",
+    "telefone": "(82) 99653-3112",
+    "email": "elosanto608@gmail.com",
+    "cep": "57311-450",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua Francisco Carlos Barbosa Rocha",
+    "transporte": "Sim",
+    "vaga": "AUX. DE ESTOQUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13686715430_Wesley_Lucas_AUX._DE_ESTOQUE_20260909_014131.pdf",
+    "arquivo_nome": "inbound6625992103881218446.pdf",
+    "tamanho_arquivo": 240560,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "68079b46b1ea",
+    "enviado_em": "2026-09-09T01:41:33.277101",
+    "status": "Novo",
+    "processado_em": "2026-09-09T01:41:33.277111"
   }
 ]
