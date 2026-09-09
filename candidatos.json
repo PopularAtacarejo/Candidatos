@@ -14189,5 +14189,26 @@
     "enviado_em": "2026-09-09T01:41:33.277101",
     "status": "Novo",
     "processado_em": "2026-09-09T01:41:33.277111"
+  },
+  {
+    "nome": "Maria das Graças Duarte oliveira",
+    "cpf": "129.304.184-00",
+    "telefone": "(82) 98166-9901",
+    "email": "maria81669901@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Coité do Nóia",
+    "bairro": "Alto santo Antônio ",
+    "rua": "Rua Maria da Conceição nascimento ",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12930418400_Maria_das_Graças_Duarte_oliveira_BALCONISTA_DE_PADARIA_20260909_103529.pdf",
+    "arquivo_nome": "inbound4648321263249088229.pdf",
+    "tamanho_arquivo": 628895,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "b1fe6c1ff12f",
+    "enviado_em": "2026-09-09T10:35:31.253126",
+    "status": "Novo",
+    "processado_em": "2026-09-09T10:35:31.279536"
   }
 ]
