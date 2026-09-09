@@ -14295,5 +14295,26 @@
     "enviado_em": "2026-09-09T15:59:02.465416",
     "status": "Novo",
     "processado_em": "2026-09-09T15:59:02.465424"
+  },
+  {
+    "nome": "Matheus Firmino dos Santos",
+    "cpf": "157.055.024-78",
+    "telefone": "(82) 99835-0917",
+    "email": "matheusfirminodossantos123@gmail.com",
+    "cep": "57300-000",
+    "cidade": "Arapiraca",
+    "bairro": "Nova esperança ",
+    "rua": "Bahia ",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDAS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15705502478_Matheus_Firmino_dos_Santos_AUX._DE_PREVENÇÃO_E_PERDAS_20260909_161208.pdf",
+    "arquivo_nome": "Currículo .pdf",
+    "tamanho_arquivo": 92007,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a3a92a2a17cd",
+    "enviado_em": "2026-09-09T16:12:10.318505",
+    "status": "Novo",
+    "processado_em": "2026-09-09T16:12:10.318517"
   }
 ]
