@@ -14188,7 +14188,15 @@
     "id": "68079b46b1ea",
     "enviado_em": "2026-09-09T01:41:33.277101",
     "status": "Novo",
-    "processado_em": "2026-09-09T01:41:33.277111"
+    "processado_em": "2026-09-09T01:41:33.277111",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-09T11:31:50.577978",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-09T11:31:50.577978"
+      }
+    ]
   },
   {
     "nome": "Maria das Graças Duarte oliveira",
