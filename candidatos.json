@@ -14267,5 +14267,33 @@
     "enviado_em": "2026-09-09T14:12:31.106552",
     "status": "Novo",
     "processado_em": "2026-09-09T14:12:31.106561"
+  },
+  {
+    "nome": "Jessica Pereira da silva",
+    "cpf": "142.987.514-30",
+    "telefone": "(82) 98168-7756",
+    "email": "js3719772@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca ",
+    "bairro": "Nilo Coelho",
+    "rua": "Luar de Arapiraca 2",
+    "transporte": "Sim",
+    "vaga": "Repositor",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14298751430_Jessica_Pereira_da_silva_Repositor_20260909_155859.pdf",
+    "arquivo_nome": "Curriculo_Jessica_Final_CNH_AB.pdf",
+    "tamanho_arquivo": 445265,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Central do Cabeleireiro ",
+        "funcao": "Vendedora ",
+        "data_admissao": "2023-11-11",
+        "data_demissao": "2026-08-14"
+      }
+    ],
+    "id": "a39b741e6c54",
+    "enviado_em": "2026-09-09T15:59:02.465416",
+    "status": "Novo",
+    "processado_em": "2026-09-09T15:59:02.465424"
   }
 ]
