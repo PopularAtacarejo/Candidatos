@@ -14218,5 +14218,33 @@
     "enviado_em": "2026-09-09T11:25:44.260025",
     "status": "Novo",
     "processado_em": "2026-09-09T11:25:44.260035"
+  },
+  {
+    "nome": "Joseane oliveira da silva",
+    "cpf": "125.695.584-19",
+    "telefone": "(82) 99801-8050",
+    "email": "joseanecat20@gmail.com",
+    "cep": "57302-710",
+    "cidade": "Arapiraca",
+    "bairro": "Canafístula",
+    "rua": "Rua Manoel Lopes da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE PADARIA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12569558419_Joseane_oliveira_da_silva_BALCONISTA_DE_PADARIA_20260909_140144.pdf",
+    "arquivo_nome": "inbound8569362803563227312.pdf",
+    "tamanho_arquivo": 414034,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Panificadora oliveira ",
+        "funcao": "Balconista ",
+        "data_admissao": "2024-02-10",
+        "data_demissao": "2026-04-03"
+      }
+    ],
+    "id": "5c5e644d04c8",
+    "enviado_em": "2026-09-09T14:01:47.617960",
+    "status": "Novo",
+    "processado_em": "2026-09-09T14:01:47.617968"
   }
 ]
