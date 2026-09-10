@@ -14385,7 +14385,15 @@
     "id": "40fde5884bb7",
     "enviado_em": "2026-09-09T16:39:10.194483",
     "status": "Novo",
-    "processado_em": "2026-09-09T16:39:10.194491"
+    "processado_em": "2026-09-09T16:39:10.194491",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-10T11:07:04.963013",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-10T11:07:04.963013"
+      }
+    ]
   },
   {
     "nome": "Lyedson vital Galdino",
@@ -14406,15 +14414,7 @@
     "id": "e5a290099723",
     "enviado_em": "2026-09-09T17:18:21.534564",
     "status": "Novo",
-    "processado_em": "2026-09-09T17:18:21.534574",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-10T11:05:17.898836",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-10T11:05:17.898836"
-      }
-    ]
+    "processado_em": "2026-09-09T17:18:21.534574"
   },
   {
     "nome": "Lyedson vital galdino",
