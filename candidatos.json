@@ -14439,5 +14439,33 @@
     "enviado_em": "2026-09-10T01:09:51.987828",
     "status": "Novo",
     "processado_em": "2026-09-10T01:09:51.987836"
+  },
+  {
+    "nome": "Rosangela do Socorro Maia da Silva",
+    "cpf": "643.852.992-34",
+    "telefone": "(96) 98809-8277",
+    "email": "help988098277@gmail.com",
+    "cep": "57315-760",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua José Arestides da Silva",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/64385299234_Rosangela_do_Socorro_Maia_da_Silva_AUXILIAR_DE_PADEIRO_20260912_174658.pdf",
+    "arquivo_nome": "inbound8578094779820802736.pdf",
+    "tamanho_arquivo": 355140,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Prefeitura municipal de serra do navio ",
+        "funcao": "Servente",
+        "data_admissao": "2004-06-04",
+        "data_demissao": "2022-07-31"
+      }
+    ],
+    "id": "a3cf8716bbba",
+    "enviado_em": "2026-09-12T17:47:00.655746",
+    "status": "Novo",
+    "processado_em": "2026-09-12T17:47:00.655756"
   }
 ]
