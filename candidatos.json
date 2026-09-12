@@ -14467,5 +14467,26 @@
     "enviado_em": "2026-09-12T17:47:00.655746",
     "status": "Novo",
     "processado_em": "2026-09-12T17:47:00.655756"
+  },
+  {
+    "nome": "João Lucas de Andrade Silva Santos",
+    "cpf": "068.388.864-13",
+    "telefone": "(35) 98423-4974",
+    "email": "la2232581@gmail.com",
+    "cep": "57300-310",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Estudante José de Oliveira Leite",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06838886413_João_Lucas_de_Andrade_Silva_Santos_REPOSITOR_A_20260912_195515.pdf",
+    "arquivo_nome": "inbound4656327966181267296.pdf",
+    "tamanho_arquivo": 157944,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "37d313e50dc1",
+    "enviado_em": "2026-09-12T19:55:18.089656",
+    "status": "Novo",
+    "processado_em": "2026-09-12T19:55:18.089665"
   }
 ]
