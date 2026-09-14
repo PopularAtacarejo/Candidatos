@@ -104,12 +104,13 @@
   {
     "id": "operador-de-empilhadeira",
     "nome": "operador de empilhadeira",
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "requisitos": [],
     "beneficios": [],
     "created_by": "Maria Sabrina",
     "created_at": "2026-07-14T15:04:41.464373",
-    "inserido_em": "2026-07-14T15:04:41.464373"
+    "inserido_em": "2026-07-14T15:04:41.464373",
+    "updated_at": "2026-09-14T10:49:50.092810"
   }
 ]
