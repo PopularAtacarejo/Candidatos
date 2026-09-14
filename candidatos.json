@@ -14269,5 +14269,33 @@
     "enviado_em": "2026-09-14T17:39:27.566808",
     "status": "Novo",
     "processado_em": "2026-09-14T17:39:27.566820"
+  },
+  {
+    "nome": "Reinaldo Alves Moreira",
+    "cpf": "707.271.114-77",
+    "telefone": "(84) 99111-2048",
+    "email": "wreinaldo91@gmail.com",
+    "cep": "57324-000",
+    "cidade": "Arapiraca ",
+    "bairro": "Centro ",
+    "rua": "Quinze de Novembro ",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/70727111477_Reinaldo_Alves_Moreira_OPERADOR_A_DE_CAIXA_20260914_204257.pdf",
+    "arquivo_nome": "inbound3366701551263372311.pdf",
+    "tamanho_arquivo": 77349,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão s.a",
+        "funcao": "Operador de caixa ",
+        "data_admissao": "2026-05-29",
+        "data_demissao": "2026-08-31"
+      }
+    ],
+    "id": "b1b0c82c400f",
+    "enviado_em": "2026-09-14T20:42:58.988870",
+    "status": "Novo",
+    "processado_em": "2026-09-14T20:42:58.988879"
   }
 ]
