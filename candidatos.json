@@ -14352,5 +14352,26 @@
     "enviado_em": "2026-09-14T21:46:59.166610",
     "status": "Novo",
     "processado_em": "2026-09-14T21:46:59.166620"
+  },
+  {
+    "nome": "Maria Alice Miranda da Silva",
+    "cpf": "144.249.884-65",
+    "telefone": "(82) 99964-2228",
+    "email": "m.alice3796@gmail.com",
+    "cep": "57___-___",
+    "cidade": "Craíbas",
+    "bairro": "Zona rural ",
+    "rua": "Pedro gama ",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14424988465_Maria_Alice_Miranda_da_Silva_OPERADOR_A_DE_CAIXA_20260914_221437.pdf",
+    "arquivo_nome": "curriculo pra enviar .pdf",
+    "tamanho_arquivo": 84651,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "ef82db2af3f1",
+    "enviado_em": "2026-09-14T22:14:39.689379",
+    "status": "Novo",
+    "processado_em": "2026-09-14T22:14:39.689392"
   }
 ]
