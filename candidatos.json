@@ -14415,5 +14415,26 @@
     "enviado_em": "2026-09-14T23:51:38.054375",
     "status": "Novo",
     "processado_em": "2026-09-14T23:51:38.054386"
+  },
+  {
+    "nome": "Marcos Lucas Silva Lima",
+    "cpf": "121.308.544-60",
+    "telefone": "(82) 99139-2489",
+    "email": "marcoslucas200014@gmail.com",
+    "cep": "57317-581",
+    "cidade": "Arapiraca",
+    "bairro": "Batingas",
+    "rua": "Rua Princesa Izabel",
+    "transporte": "Sim",
+    "vaga": "operador de empilhadeira",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12130854460_Marcos_Lucas_Silva_Lima_operador_de_empilhadeira_20260914_235833.pdf",
+    "arquivo_nome": "inbound5679899040550046948.pdf",
+    "tamanho_arquivo": 568725,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "f5b53c9e0ca9",
+    "enviado_em": "2026-09-14T23:58:35.445992",
+    "status": "Novo",
+    "processado_em": "2026-09-14T23:58:35.446001"
   }
 ]
