@@ -64,14 +64,15 @@
     "tipo_contrato": "",
     "requisitos": [],
     "beneficios": [],
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "created_by": "Jeferson",
     "id": "13",
     "criado_em": "2026-01-27T16:29:09.237171",
     "criado_por": "Jeferson",
     "atualizado_em": "2026-01-27T16:29:09.237171",
-    "atualizado_por": "Jeferson"
+    "atualizado_por": "Jeferson",
+    "updated_at": "2026-09-14T10:46:42.590254"
   },
   {
     "nome": "OPERADOR (A) DE CAIXA",
