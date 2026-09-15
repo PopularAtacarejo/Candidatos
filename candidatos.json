@@ -14449,5 +14449,39 @@
     "enviado_em": "2026-09-15T17:04:32.344415",
     "status": "Novo",
     "processado_em": "2026-09-15T17:04:32.344426"
+  },
+  {
+    "nome": "Lígia Milena de lima Pereira",
+    "cpf": "113.262.964-00",
+    "telefone": "(82) 99677-9841",
+    "email": "ligiamilena9@gmail.com",
+    "cep": "57307-420",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua José Antônio dos Santos",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11326296400_Lígia_Milena_de_lima_Pereira_OPERADOR_A_DE_CAIXA_20260915_172856.pdf",
+    "arquivo_nome": "curriculum.pdf",
+    "tamanho_arquivo": 446648,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Supermercado Albuquerque ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2025-01-16",
+        "data_demissao": "2026-02-28"
+      },
+      {
+        "empresa": "Aec ",
+        "funcao": "Telemarketing ",
+        "data_admissao": "2019-09-15",
+        "data_demissao": "2020-07-09"
+      }
+    ],
+    "id": "d7c9b243cb52",
+    "enviado_em": "2026-09-15T17:28:58.823534",
+    "status": "Novo",
+    "processado_em": "2026-09-15T17:28:58.823541"
   }
 ]
