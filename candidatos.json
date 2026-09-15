@@ -14483,5 +14483,33 @@
     "enviado_em": "2026-09-15T17:28:58.823534",
     "status": "Novo",
     "processado_em": "2026-09-15T17:28:58.823541"
+  },
+  {
+    "nome": "Thais Pereira da Silva Santos",
+    "cpf": "091.431.074-78",
+    "telefone": "(82) 99810-9527",
+    "email": "pereirathais690@gmail.com",
+    "cep": "57312-530",
+    "cidade": "Arapiraca",
+    "bairro": "Novo Horizonte",
+    "rua": "Rua José Cloves Resende de Barros",
+    "transporte": "Não",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09143107478_Thais_Pereira_da_Silva_Santos_REPOSITOR_DE_FRIOS_20260915_180012.pdf",
+    "arquivo_nome": "inbound6063046130995783730.pdf",
+    "tamanho_arquivo": 434741,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "BELLACOMPRASUPERMERCADOSLTDA",
+        "funcao": "Balconista de frios",
+        "data_admissao": "2014-03-13",
+        "data_demissao": "2016-12-27"
+      }
+    ],
+    "id": "026453fb0dae",
+    "enviado_em": "2026-09-15T18:00:14.996006",
+    "status": "Novo",
+    "processado_em": "2026-09-15T18:00:14.996018"
   }
 ]
