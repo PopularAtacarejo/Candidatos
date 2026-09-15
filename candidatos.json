@@ -14595,5 +14595,33 @@
     "enviado_em": "2026-09-15T18:51:08.578944",
     "status": "Novo",
     "processado_em": "2026-09-15T18:51:08.578956"
+  },
+  {
+    "nome": "Aguida camilly Bernardo da Silva",
+    "cpf": "157.310.944-46",
+    "telefone": "(82) 99104-5014",
+    "email": "aguidacamilly406@gmail.com",
+    "cep": "57303-180",
+    "cidade": "Arapiraca",
+    "bairro": "Verdes Campos",
+    "rua": "Rua José Lúcio de Melo",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15731094446_Aguida_camilly_Bernardo_da_Silva_OPERADOR_A_DE_CAIXA_20260915_195102.pdf",
+    "arquivo_nome": "inbound6483819879825381177.pdf",
+    "tamanho_arquivo": 133214,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Autopostogol ",
+        "funcao": "Assistente administrativo ( trabalhava no ajudando no escritório e atendendo pista e conveniência ",
+        "data_admissao": "2024-01-15",
+        "data_demissao": "2026-06-06"
+      }
+    ],
+    "id": "987b03c26d8f",
+    "enviado_em": "2026-09-15T19:51:05.034779",
+    "status": "Novo",
+    "processado_em": "2026-09-15T19:51:05.034790"
   }
 ]
