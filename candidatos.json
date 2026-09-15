@@ -14532,5 +14532,33 @@
     "enviado_em": "2026-09-15T18:23:01.643793",
     "status": "Novo",
     "processado_em": "2026-09-15T18:23:01.643803"
+  },
+  {
+    "nome": "Ana Beatriz Cavalcante Pereira da Silva",
+    "cpf": "001.404.034-42",
+    "telefone": "(82) 98823-4810",
+    "email": "anabeatrizcavalcante186@gmail.com",
+    "cep": "_____-___",
+    "cidade": "Arapiraca ",
+    "bairro": "Planalto ",
+    "rua": "Loteamento dos anjos ",
+    "transporte": "Não",
+    "vaga": "Fiscal de Caixa",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/00140403442_Ana_Beatriz_Cavalcante_Pereira_da_Silva_Fiscal_de_Caixa_20260915_182536.pdf",
+    "arquivo_nome": "ANA BEATRIZ CAVALCANTE PEREIRA DA SILVA.pdf",
+    "tamanho_arquivo": 135046,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Matuta ",
+        "funcao": "Balconista ",
+        "data_admissao": "2026-09-01",
+        "data_demissao": "2026-09-15"
+      }
+    ],
+    "id": "abb16888c87e",
+    "enviado_em": "2026-09-15T18:25:38.580287",
+    "status": "Novo",
+    "processado_em": "2026-09-15T18:25:38.580296"
   }
 ]
