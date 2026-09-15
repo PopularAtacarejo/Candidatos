@@ -14387,5 +14387,33 @@
     "enviado_em": "2026-09-14T23:58:35.445992",
     "status": "Novo",
     "processado_em": "2026-09-14T23:58:35.446001"
+  },
+  {
+    "nome": "Manoel João da Silva",
+    "cpf": "024.194.394-90",
+    "telefone": "(82) 98706-9603",
+    "email": "rosanasilvaal71@gmail.com",
+    "cep": "57311-245",
+    "cidade": "Arapiraca",
+    "bairro": "Caititus",
+    "rua": "Rua José Francelino de Albuquerque",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/02419439490_Manoel_João_da_Silva_REPOSITOR_DE_FRIOS_20260915_123827.pdf",
+    "arquivo_nome": "inbound2422175130192171536.pdf",
+    "tamanho_arquivo": 70999,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Xapada parque ytu",
+        "funcao": "Vigia motorizado",
+        "data_admissao": "2010-12-01",
+        "data_demissao": "2024-09-01"
+      }
+    ],
+    "id": "fb791d63b305",
+    "enviado_em": "2026-09-15T12:38:29.934027",
+    "status": "Novo",
+    "processado_em": "2026-09-15T12:38:29.934036"
   }
 ]
