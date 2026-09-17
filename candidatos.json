@@ -14232,7 +14232,15 @@
     "id": "c66301657e11",
     "enviado_em": "2026-09-14T23:51:38.054375",
     "status": "Novo",
-    "processado_em": "2026-09-14T23:51:38.054386"
+    "processado_em": "2026-09-14T23:51:38.054386",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-17T13:31:50.669097",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-17T13:31:50.669097"
+      }
+    ]
   },
   {
     "nome": "Marcos Lucas Silva Lima",
@@ -14281,15 +14289,7 @@
     "id": "fb791d63b305",
     "enviado_em": "2026-09-15T12:38:29.934027",
     "status": "Novo",
-    "processado_em": "2026-09-15T12:38:29.934036",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-17T13:30:50.312794",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-17T13:30:50.312794"
-      }
-    ]
+    "processado_em": "2026-09-15T12:38:29.934036"
   },
   {
     "nome": "Gerfferson Euzébio Argemiro Silva",
