@@ -14281,7 +14281,15 @@
     "id": "fb791d63b305",
     "enviado_em": "2026-09-15T12:38:29.934027",
     "status": "Novo",
-    "processado_em": "2026-09-15T12:38:29.934036"
+    "processado_em": "2026-09-15T12:38:29.934036",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-17T13:30:50.312794",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-17T13:30:50.312794"
+      }
+    ]
   },
   {
     "nome": "Gerfferson Euzébio Argemiro Silva",
@@ -14315,15 +14323,7 @@
     "id": "7b315ff1a7c6",
     "enviado_em": "2026-09-15T17:04:32.344415",
     "status": "Novo",
-    "processado_em": "2026-09-15T17:04:32.344426",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-17T13:29:00.855263",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-17T13:29:00.855263"
-      }
-    ]
+    "processado_em": "2026-09-15T17:04:32.344426"
   },
   {
     "nome": "Lígia Milena de lima Pereira",
