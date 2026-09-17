@@ -14315,7 +14315,15 @@
     "id": "7b315ff1a7c6",
     "enviado_em": "2026-09-15T17:04:32.344415",
     "status": "Novo",
-    "processado_em": "2026-09-15T17:04:32.344426"
+    "processado_em": "2026-09-15T17:04:32.344426",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-17T13:28:56.942710",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-17T13:28:56.942710"
+      }
+    ]
   },
   {
     "nome": "Lígia Milena de lima Pereira",
@@ -14599,15 +14607,7 @@
     "id": "89beedcec6e9",
     "enviado_em": "2026-09-15T20:24:03.780203",
     "status": "Novo",
-    "processado_em": "2026-09-15T20:24:03.780211",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-17T13:27:56.871742",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-17T13:27:56.871742"
-      }
-    ]
+    "processado_em": "2026-09-15T20:24:03.780211"
   },
   {
     "nome": "Pamela Yara Silva Gois",
