@@ -14649,5 +14649,39 @@
     "enviado_em": "2026-09-16T19:01:39.773555",
     "status": "Novo",
     "processado_em": "2026-09-16T19:01:39.773563"
+  },
+  {
+    "nome": "victoria stefanny cruz da silva",
+    "cpf": "139.228.024-94",
+    "telefone": "(82) 98716-3120",
+    "email": "victoria.ste_10@icloud.com",
+    "cep": "57300-470",
+    "cidade": "Arapiraca",
+    "bairro": "Centro",
+    "rua": "Rua Professor Domingos Rodrigues",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/13922802494_victoria_stefanny_cruz_da_silva_OPERADOR_A_DE_CAIXA_20260917_032331.pdf",
+    "arquivo_nome": "IMG_5308.pdf",
+    "tamanho_arquivo": 656804,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Posto lourinho ",
+        "funcao": "Caixa/balconista",
+        "data_admissao": "2026-07-09",
+        "data_demissao": "2026-11-09"
+      },
+      {
+        "empresa": "AeC",
+        "funcao": "Analista ",
+        "data_admissao": "2025-03-17",
+        "data_demissao": "2026-03-17"
+      }
+    ],
+    "id": "ea997881da6e",
+    "enviado_em": "2026-09-17T03:23:34.020905",
+    "status": "Novo",
+    "processado_em": "2026-09-17T03:23:34.020913"
   }
 ]
