@@ -14169,7 +14169,15 @@
     "id": "bde84284b9ec",
     "enviado_em": "2026-09-14T21:46:59.166610",
     "status": "Novo",
-    "processado_em": "2026-09-14T21:46:59.166620"
+    "processado_em": "2026-09-14T21:46:59.166620",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-17T13:34:35.617149",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-17T13:34:35.617149"
+      }
+    ]
   },
   {
     "nome": "Maria Alice Miranda da Silva",
@@ -14211,15 +14219,7 @@
     "id": "1120b123a4e1",
     "enviado_em": "2026-09-14T22:35:01.810871",
     "status": "Novo",
-    "processado_em": "2026-09-14T22:35:01.810880",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-17T13:33:37.147212",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-17T13:33:37.147212"
-      }
-    ]
+    "processado_em": "2026-09-14T22:35:01.810880"
   },
   {
     "nome": "Caio Sérgio Silva Santos",
