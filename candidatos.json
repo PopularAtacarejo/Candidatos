@@ -75,5 +75,33 @@
     "enviado_em": "2026-09-17T19:07:23.154762",
     "status": "Novo",
     "processado_em": "2026-09-17T19:07:23.154772"
+  },
+  {
+    "nome": "Andreza vieira da Silva",
+    "cpf": "159.196.154-86",
+    "telefone": "(82) 99843-2705",
+    "email": "vieiradasilvaandreza933@gmail.com",
+    "cep": "57303-720",
+    "cidade": "Arapiraca",
+    "bairro": "Guaribas",
+    "rua": "Rua Magna Maria Melquíades",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15919615486_Andreza_vieira_da_Silva_OPERADOR_A_DE_CAIXA_20260917_191942.pdf",
+    "arquivo_nome": "inbound8641468721027719023.pdf",
+    "tamanho_arquivo": 1051775,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Burguer king ",
+        "funcao": "Atendente ",
+        "data_admissao": "2026-01-16",
+        "data_demissao": "2026-06-01"
+      }
+    ],
+    "id": "0c1fa333aaf2",
+    "enviado_em": "2026-09-17T19:19:45.389356",
+    "status": "Novo",
+    "processado_em": "2026-09-17T19:19:45.389363"
   }
 ]
