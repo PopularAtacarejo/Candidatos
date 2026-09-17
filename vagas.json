@@ -78,18 +78,6 @@
     "inserido_em": "2026-05-18T15:14:20.343997"
   },
   {
-    "id": "assistente-de-rh",
-    "nome": "ASSISTENTE DE RH",
-    "status": "inativa",
-    "vagas_disponiveis": 1,
-    "requisitos": [],
-    "beneficios": [],
-    "created_by": "Jeferson",
-    "created_at": "2026-05-26T14:41:35.766440",
-    "inserido_em": "2026-05-26T14:41:35.766440",
-    "updated_at": "2026-06-08T10:29:26.807261"
-  },
-  {
     "id": "operador-de-empilhadeira",
     "nome": "operador de empilhadeira",
     "status": "inativa",
