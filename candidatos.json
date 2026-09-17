@@ -14086,7 +14086,15 @@
     "id": "a23f146d6620",
     "enviado_em": "2026-09-14T17:39:27.566808",
     "status": "Novo",
-    "processado_em": "2026-09-14T17:39:27.566820"
+    "processado_em": "2026-09-14T17:39:27.566820",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-17T13:36:49.291934",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-17T13:36:49.291934"
+      }
+    ]
   },
   {
     "nome": "Reinaldo Alves Moreira",
@@ -14114,15 +14122,7 @@
     "id": "b1b0c82c400f",
     "enviado_em": "2026-09-14T20:42:58.988870",
     "status": "Novo",
-    "processado_em": "2026-09-14T20:42:58.988879",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-17T13:35:09.400916",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-17T13:35:09.400916"
-      }
-    ]
+    "processado_em": "2026-09-14T20:42:58.988879"
   },
   {
     "nome": "Layane Maysa dos santos",
