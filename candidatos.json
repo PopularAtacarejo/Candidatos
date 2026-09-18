@@ -40,5 +40,33 @@
     "enviado_em": "2026-09-18T13:36:41.351344",
     "status": "Novo",
     "processado_em": "2026-09-18T13:36:41.351350"
+  },
+  {
+    "nome": "Layane Maysa dos Santos",
+    "cpf": "120.348.504-24",
+    "telefone": "(82) 99137-6586",
+    "email": "layanemaysa_2023@outlook.com",
+    "cep": "57317-088",
+    "cidade": "Arapiraca",
+    "bairro": "Deputado Nezinho",
+    "rua": "Rua Monsenhor Aldo de Melo Brandão",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/12034850424_Layane_Maysa_dos_Santos_OPERADOR_A_DE_CAIXA_20260918_140333.pdf",
+    "arquivo_nome": "inbound1876247717781248197.pdf",
+    "tamanho_arquivo": 384282,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Arapiraca utlidade ",
+        "funcao": "Operadora de caixa ",
+        "data_admissao": "2024-10-09",
+        "data_demissao": "2026-09-18"
+      }
+    ],
+    "id": "059c48ddf22d",
+    "enviado_em": "2026-09-18T14:03:35.303376",
+    "status": "Novo",
+    "processado_em": "2026-09-18T14:03:35.303385"
   }
 ]
