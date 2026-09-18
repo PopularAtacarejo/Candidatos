@@ -74,15 +74,7 @@
     "id": "60205c95b111",
     "enviado_em": "2026-09-17T19:07:23.154762",
     "status": "Novo",
-    "processado_em": "2026-09-17T19:07:23.154772",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-18T11:53:50.135570",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-18T11:53:50.135570"
-      }
-    ]
+    "processado_em": "2026-09-17T19:07:23.154772"
   },
   {
     "nome": "Andreza vieira da Silva",
@@ -189,11 +181,15 @@
     "status": "Novo",
     "processado_em": "2026-09-18T08:37:41.037235",
     "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-18T11:42:16.027907",
+    "ultimo_visualizado_em": "2026-09-18T11:58:11.909380",
     "view_history": [
       {
         "viewer": "Maria Sabrina",
         "timestamp": "2026-09-18T11:42:16.027907"
+      },
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-18T11:58:11.909380"
       }
     ]
   },
