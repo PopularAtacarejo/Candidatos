@@ -74,7 +74,15 @@
     "id": "60205c95b111",
     "enviado_em": "2026-09-17T19:07:23.154762",
     "status": "Novo",
-    "processado_em": "2026-09-17T19:07:23.154772"
+    "processado_em": "2026-09-17T19:07:23.154772",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-18T11:53:46.269980",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-18T11:53:46.269980"
+      }
+    ]
   },
   {
     "nome": "Andreza vieira da Silva",
