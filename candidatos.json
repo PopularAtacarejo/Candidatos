@@ -25,15 +25,7 @@
     "id": "7390fb85d783",
     "enviado_em": "2026-09-21T13:05:36.698502",
     "status": "Novo",
-    "processado_em": "2026-09-21T13:05:36.698513",
-    "ultimo_visualizador": "Maria Sabrina",
-    "ultimo_visualizado_em": "2026-09-21T14:41:52.072973",
-    "view_history": [
-      {
-        "viewer": "Maria Sabrina",
-        "timestamp": "2026-09-21T14:41:52.072973"
-      }
-    ]
+    "processado_em": "2026-09-21T13:05:36.698513"
   },
   {
     "nome": "Ana Carla Leticia dos Santos",
@@ -82,7 +74,15 @@
     "id": "75c35d44e2f5",
     "enviado_em": "2026-09-21T14:28:23.364861",
     "status": "Novo",
-    "processado_em": "2026-09-21T14:28:23.364870"
+    "processado_em": "2026-09-21T14:28:23.364870",
+    "ultimo_visualizador": "Maria Sabrina",
+    "ultimo_visualizado_em": "2026-09-21T14:43:21.281641",
+    "view_history": [
+      {
+        "viewer": "Maria Sabrina",
+        "timestamp": "2026-09-21T14:43:21.281641"
+      }
+    ]
   },
   {
     "nome": "Weslley Silva Santos",
