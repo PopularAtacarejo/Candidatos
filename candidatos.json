@@ -32,5 +32,33 @@
     "enviado_em": "2026-09-21T17:05:43.801680",
     "status": "Novo",
     "processado_em": "2026-09-21T17:05:43.801690"
+  },
+  {
+    "nome": "Elenildo Carvalho dos Santos",
+    "cpf": "069.939.634-42",
+    "telefone": "(82) 99837-1087",
+    "email": "elenildomotodivulgacoes@gmail.com",
+    "cep": "57317-450",
+    "cidade": "Arapiraca ",
+    "bairro": "Bananeiras ",
+    "rua": "Santo Antônio ",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/06993963442_Elenildo_Carvalho_dos_Santos_REPOSITOR_DE_FRIOS_20260921_232420.pdf",
+    "arquivo_nome": "inbound4445625336260932898.pdf",
+    "tamanho_arquivo": 228565,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Novo Atacarejo",
+        "funcao": "Operador frente de loja",
+        "data_admissao": "2026-08-20",
+        "data_demissao": "2026-09-20"
+      }
+    ],
+    "id": "687534911c0e",
+    "enviado_em": "2026-09-21T23:24:22.793065",
+    "status": "Novo",
+    "processado_em": "2026-09-21T23:24:22.793074"
   }
 ]
