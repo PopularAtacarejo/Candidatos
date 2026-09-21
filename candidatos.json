@@ -54,5 +54,26 @@
     "enviado_em": "2026-09-21T13:33:23.368344",
     "status": "Novo",
     "processado_em": "2026-09-21T13:33:23.368353"
+  },
+  {
+    "nome": "Adailson José da Silva Santos",
+    "cpf": "152.031.924-05",
+    "telefone": "(82) 99804-3415",
+    "email": "adailson505silva@gmail.com",
+    "cep": "57303-817",
+    "cidade": "Arapiraca",
+    "bairro": "Olho D'Água dos Cazuzinhas",
+    "rua": "Rua Marlene Barbosa da Silva",
+    "transporte": "Sim",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15203192405_Adailson_José_da_Silva_Santos_BALCONISTA_DE_AÇOUGUE_20260921_142820.pdf",
+    "arquivo_nome": "inbound5780305692003891183.pdf",
+    "tamanho_arquivo": 1721154,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "75c35d44e2f5",
+    "enviado_em": "2026-09-21T14:28:23.364861",
+    "status": "Novo",
+    "processado_em": "2026-09-21T14:28:23.364870"
   }
 ]
