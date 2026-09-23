@@ -47,5 +47,39 @@
     "enviado_em": "2026-09-23T21:24:33.791381",
     "status": "Novo",
     "processado_em": "2026-09-23T21:24:33.791389"
+  },
+  {
+    "nome": "Maria Alice Oliveira Gama",
+    "cpf": "115.405.334-25",
+    "telefone": "(82) 99667-0957",
+    "email": "mariaaliceoliveiragama22@gmail.com",
+    "cep": "57310-455",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Ernesto Leandro de Lira",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11540533425_Maria_Alice_Oliveira_Gama_OPERADOR_A_DE_CAIXA_20260923_231131.pdf",
+    "arquivo_nome": "Currículo Maria Alice .pdf",
+    "tamanho_arquivo": 2065788,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Operadora de Telemarketing ",
+        "data_admissao": "2022-04-23",
+        "data_demissao": "2024-05-23"
+      },
+      {
+        "empresa": "Oops Telecom",
+        "funcao": "Auxiliar de escritório, caixa e vendedora",
+        "data_admissao": "2024-08-16",
+        "data_demissao": "2026-03-02"
+      }
+    ],
+    "id": "7b53ebc93dfc",
+    "enviado_em": "2026-09-23T23:11:34.669703",
+    "status": "Novo",
+    "processado_em": "2026-09-23T23:11:34.669713"
   }
 ]
