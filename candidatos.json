@@ -19,5 +19,33 @@
     "enviado_em": "2026-09-23T12:36:34.791990",
     "status": "Novo",
     "processado_em": "2026-09-23T12:36:34.791999"
+  },
+  {
+    "nome": "José Lucas da Silva Rocha",
+    "cpf": "153.900.324-89",
+    "telefone": "(82) 99660-7039",
+    "email": "calibramjoestar2121@gmail.com",
+    "cep": "57307-006",
+    "cidade": "Arapiraca",
+    "bairro": "Baixa Grande",
+    "rua": "Rua Adolfo Bispo da Silva",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15390032489_José_Lucas_da_Silva_Rocha_REPOSITOR_DE_FRIOS_20260923_212432.pdf",
+    "arquivo_nome": "Curriculo_.pdf",
+    "tamanho_arquivo": 70748,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "atendente",
+        "data_admissao": "2025-01-23",
+        "data_demissao": "2026-01-15"
+      }
+    ],
+    "id": "ecfdcb4dc266",
+    "enviado_em": "2026-09-23T21:24:33.791381",
+    "status": "Novo",
+    "processado_em": "2026-09-23T21:24:33.791389"
   }
 ]
