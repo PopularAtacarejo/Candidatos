@@ -14841,5 +14841,33 @@
     "enviado_em": "2026-09-24T22:54:06.717048",
     "status": "Novo",
     "processado_em": "2026-09-24T22:54:06.717056"
+  },
+  {
+    "nome": "Águeda Izabel Nicácio da Silva",
+    "cpf": "099.376.144-57",
+    "telefone": "(82) 99636-3596",
+    "email": "aguedas2002@gmail.coma",
+    "cep": "57315-762",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Cícero Ferreira da Silva",
+    "transporte": "Não",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09937614457_Águeda_Izabel_Nicácio_da_Silva_REPOSITOR_DE_FRIOS_20260924_225646.pdf",
+    "arquivo_nome": "inbound2018024523215646879.pdf",
+    "tamanho_arquivo": 90199,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão ",
+        "funcao": "Operador de Caixa",
+        "data_admissao": "2022-10-07",
+        "data_demissao": "2023-01-04"
+      }
+    ],
+    "id": "f028e27d4f64",
+    "enviado_em": "2026-09-24T22:56:47.760269",
+    "status": "Novo",
+    "processado_em": "2026-09-24T22:56:47.760278"
   }
 ]
