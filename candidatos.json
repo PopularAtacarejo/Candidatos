@@ -14869,5 +14869,33 @@
     "enviado_em": "2026-09-24T22:56:47.760269",
     "status": "Novo",
     "processado_em": "2026-09-24T22:56:47.760278"
+  },
+  {
+    "nome": "Águeda Izabel Nicácio da Silva",
+    "cpf": "099.376.144-57",
+    "telefone": "(82) 99636-3596",
+    "email": "aguedas2002@gmail.coma",
+    "cep": "57315-762",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Cícero Ferreira da Silva",
+    "transporte": "Não",
+    "vaga": "BALCONISTA DE AÇOUGUE",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09937614457_Águeda_Izabel_Nicácio_da_Silva_BALCONISTA_DE_AÇOUGUE_20260924_225900.pdf",
+    "arquivo_nome": "inbound3237505260034791761.pdf",
+    "tamanho_arquivo": 90199,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Atacadão ",
+        "funcao": "Operador de caixa",
+        "data_admissao": "2022-10-07",
+        "data_demissao": "2023-01-04"
+      }
+    ],
+    "id": "ec5b19224862",
+    "enviado_em": "2026-09-24T22:59:01.976862",
+    "status": "Novo",
+    "processado_em": "2026-09-24T22:59:01.976870"
   }
 ]
