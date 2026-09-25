@@ -14706,5 +14706,26 @@
     "enviado_em": "2026-09-24T22:59:01.976862",
     "status": "Novo",
     "processado_em": "2026-09-24T22:59:01.976870"
+  },
+  {
+    "nome": "Larissa Cláudia da Silva Lima",
+    "cpf": "096.785.414-83",
+    "telefone": "(82) 99605-3872",
+    "email": "larissaclaudia576@gmail.com",
+    "cep": "57317-900",
+    "cidade": "Arapiraca ",
+    "bairro": "Capim",
+    "rua": "Wanderley Valfrido ",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/09678541483_Larissa_Cláudia_da_Silva_Lima_AUXILIAR_DE_LIMPEZA_20260925_122327.pdf",
+    "arquivo_nome": "inbound2308554635058614722.pdf",
+    "tamanho_arquivo": 128758,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "a4fa6a7fd990",
+    "enviado_em": "2026-09-25T12:23:30.030537",
+    "status": "Novo",
+    "processado_em": "2026-09-25T12:23:30.030547"
   }
 ]
