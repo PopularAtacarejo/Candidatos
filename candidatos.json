@@ -14710,5 +14710,33 @@
     "enviado_em": "2026-09-25T15:18:16.997720",
     "status": "Novo",
     "processado_em": "2026-09-25T15:18:16.997730"
+  },
+  {
+    "nome": "Elayne vitoria ferreira de Lima",
+    "cpf": "119.339.154-71",
+    "telefone": "(82) 99992-0845",
+    "email": "vittoriferreira1999@gmail.com",
+    "cep": "57300-001",
+    "cidade": "Arapiraca ",
+    "bairro": "Canafistula ",
+    "rua": "Tertuliano barbosa leite ",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11933915471_Elayne_vitoria_ferreira_de_Lima_AUXILIAR_DE_LIMPEZA_20260925_162920.pdf",
+    "arquivo_nome": "inbound8698799951399335050.pdf",
+    "tamanho_arquivo": 2639,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Auto posto carango ",
+        "funcao": "Conveniência ",
+        "data_admissao": "2025-07-17",
+        "data_demissao": "2026-08-17"
+      }
+    ],
+    "id": "f2753f8fcdc9",
+    "enviado_em": "2026-09-25T16:29:22.237292",
+    "status": "Novo",
+    "processado_em": "2026-09-25T16:29:22.237299"
   }
 ]
