@@ -14700,5 +14700,33 @@
     "enviado_em": "2026-09-25T19:00:46.124231",
     "status": "Novo",
     "processado_em": "2026-09-25T19:00:46.124241"
+  },
+  {
+    "nome": "Eduardo Marinho Gomes Silva",
+    "cpf": "151.005.814-17",
+    "telefone": "(82) 82999-3817",
+    "email": "eduardomarinho0701@gmail.com",
+    "cep": "57310-233",
+    "cidade": "Arapiraca",
+    "bairro": "Capiatã",
+    "rua": "Rua Petrolina",
+    "transporte": "Sim",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/15100581417_Eduardo_Marinho_Gomes_Silva_OPERADOR_A_DE_CAIXA_20260925_190116.pdf",
+    "arquivo_nome": "inbound1218824652551727206.pdf",
+    "tamanho_arquivo": 114666,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Operador de telemarketing ",
+        "data_admissao": "2025-01-31",
+        "data_demissao": "2025-08-31"
+      }
+    ],
+    "id": "51135f446915",
+    "enviado_em": "2026-09-25T19:01:18.921832",
+    "status": "Novo",
+    "processado_em": "2026-09-25T19:01:18.921842"
   }
 ]
