@@ -14679,5 +14679,26 @@
     "enviado_em": "2026-09-25T18:14:56.169767",
     "status": "Novo",
     "processado_em": "2026-09-25T18:14:56.169775"
+  },
+  {
+    "nome": "Alice Ferreira da Silva",
+    "cpf": "118.092.474-62",
+    "telefone": "(82) 99383-4962",
+    "email": "alicearyane2@gmail.com",
+    "cep": "57307-520",
+    "cidade": "Arapiraca",
+    "bairro": "Jardim Esperança",
+    "rua": "Rua Pedro Livino",
+    "transporte": "Não",
+    "vaga": "Auxiliar de Limpeza",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/11809247462_Alice_Ferreira_da_Silva_Auxiliar_de_Limpeza_20260925_190043.pdf",
+    "arquivo_nome": "Currículo - Alice Ferreira.pdf",
+    "tamanho_arquivo": 52965,
+    "tem_experiencia": "Não",
+    "experiencias": [],
+    "id": "99dd96be8972",
+    "enviado_em": "2026-09-25T19:00:46.124231",
+    "status": "Novo",
+    "processado_em": "2026-09-25T19:00:46.124241"
   }
 ]
