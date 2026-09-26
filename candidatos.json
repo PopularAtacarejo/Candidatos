@@ -14729,5 +14729,33 @@
     "enviado_em": "2026-09-25T22:00:18.526833",
     "status": "Novo",
     "processado_em": "2026-09-25T22:00:18.526840"
+  },
+  {
+    "nome": "Sineide Pereira da Silva",
+    "cpf": "057.620.834-54",
+    "telefone": "(82) 99806-8454",
+    "email": "sineidepereirad@gmail.com",
+    "cep": "57305-380",
+    "cidade": "Arapiraca",
+    "bairro": "Baixão",
+    "rua": "Rua São Tomé",
+    "transporte": "Não",
+    "vaga": "OPERADOR (A) DE CAIXA",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/05762083454_Sineide_Pereira_da_Silva_OPERADOR_A_DE_CAIXA_20260926_124932.pdf",
+    "arquivo_nome": "inbound5883108167679127580.pdf",
+    "tamanho_arquivo": 96121,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Aec",
+        "funcao": "Atendente de telemarketing ",
+        "data_admissao": "2022-02-01",
+        "data_demissao": "2025-06-12"
+      }
+    ],
+    "id": "80f315924f37",
+    "enviado_em": "2026-09-26T12:49:34.867897",
+    "status": "Novo",
+    "processado_em": "2026-09-26T12:49:34.867905"
   }
 ]
