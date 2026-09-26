@@ -14757,5 +14757,33 @@
     "enviado_em": "2026-09-26T12:49:34.867897",
     "status": "Novo",
     "processado_em": "2026-09-26T12:49:34.867905"
+  },
+  {
+    "nome": "Carlos Eduardo Gomes",
+    "cpf": "140.351.124-10",
+    "telefone": "(82) 99391-0856",
+    "email": "eduardogomesc12@gmail.com",
+    "cep": "57312-160",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua Marechal Rondon",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR DE FRIOS",
+    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/14035112410_Carlos_Eduardo_Gomes_REPOSITOR_DE_FRIOS_20260926_143054.pdf",
+    "arquivo_nome": "Currículo - Carlos Eduardo Gomes.docx (2).pdf",
+    "tamanho_arquivo": 66094,
+    "tem_experiencia": "Sim",
+    "experiencias": [
+      {
+        "empresa": "Departamento Estadual de Trânsito de Alagoas ",
+        "funcao": "Estagiário ",
+        "data_admissao": "2023-12-13",
+        "data_demissao": "2025-12-16"
+      }
+    ],
+    "id": "2b7c7fd8b0e5",
+    "enviado_em": "2026-09-26T14:30:57.131548",
+    "status": "Novo",
+    "processado_em": "2026-09-26T14:30:57.131560"
   }
 ]
