@@ -13871,34 +13871,5 @@
         "timestamp": "2026-09-28T14:33:50.749774"
       }
     ]
-  },
-  {
-    "nome": "Jeferson Jefry",
-    "cpf": "107.738.464-50",
-    "telefone": "(82) 99915-8412",
-    "email": "popularatacarejomkt@gmail.com",
-    "cep": "57312-110",
-    "cidade": "Arapiraca",
-    "bairro": "Santa Esmeralda",
-    "rua": "Rua José Augusto Pereira",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR DE FRIOS",
-    "arquivo_url": "https://raw.githubusercontent.com/PopularAtacarejo/Candidatos/main/curriculos/10773846450_Jeferson_Jefry_REPOSITOR_DE_FRIOS_20260928_172120.pdf",
-    "arquivo_nome": "ofertas diaria - envio (1).pdf",
-    "tamanho_arquivo": 124858,
-    "tem_experiencia": "Não",
-    "experiencias": [],
-    "id": "ee8c58938486",
-    "enviado_em": "2026-09-28T17:21:22.559791",
-    "status": "Novo",
-    "processado_em": "2026-09-28T17:21:22.559801",
-    "ultimo_visualizador": "Jeferson",
-    "ultimo_visualizado_em": "2026-09-28T17:28:02.896228",
-    "view_history": [
-      {
-        "viewer": "Jeferson",
-        "timestamp": "2026-09-28T17:28:02.896228"
-      }
-    ]
   }
 ]
