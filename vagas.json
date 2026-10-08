@@ -77,5 +77,16 @@
     "created_by": "Natallia Katiane",
     "created_at": "2026-05-18T15:14:20.343997",
     "inserido_em": "2026-05-18T15:14:20.343997"
+  },
+  {
+    "id": "auxiliar-de-acougue",
+    "nome": "Auxiliar de Açougue",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Maria Sabrina",
+    "created_at": "2026-10-08T09:09:45.075030",
+    "inserido_em": "2026-10-08T09:09:45.075030"
   }
 ]
