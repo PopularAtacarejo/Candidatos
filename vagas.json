@@ -57,5 +57,16 @@
     "created_by": "Maria Sabrina",
     "created_at": "2026-10-08T09:10:33.619629",
     "inserido_em": "2026-10-08T09:10:33.619629"
+  },
+  {
+    "id": "auxiliar-de-cozinha",
+    "nome": "Auxiliar de Cozinha",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Maria Sabrina",
+    "created_at": "2026-10-08T09:12:37.648119",
+    "inserido_em": "2026-10-08T09:12:37.648119"
   }
 ]
