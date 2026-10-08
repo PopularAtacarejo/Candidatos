@@ -37,25 +37,6 @@
     "atualizado_por": "Jeferson"
   },
   {
-    "nome": "OPERADOR (A) DE CAIXA",
-    "descricao": "",
-    "departamento": "",
-    "localizacao": "",
-    "salario": "",
-    "tipo_contrato": "",
-    "requisitos": [],
-    "beneficios": [],
-    "status": "inativa",
-    "vagas_disponiveis": 1,
-    "created_by": "Jeferson",
-    "id": "16",
-    "criado_em": "2026-01-27T16:29:29.763308",
-    "criado_por": "Jeferson",
-    "atualizado_em": "2026-01-27T16:29:29.763308",
-    "atualizado_por": "Jeferson",
-    "updated_at": "2026-09-24T17:46:47.428631"
-  },
-  {
     "id": "auxiliar-de-limpeza",
     "nome": "Auxiliar de Limpeza",
     "status": "ativa",
