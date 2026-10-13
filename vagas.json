@@ -68,5 +68,16 @@
     "created_by": "Maria Sabrina",
     "created_at": "2026-10-08T09:12:37.648119",
     "inserido_em": "2026-10-08T09:12:37.648119"
+  },
+  {
+    "id": "prevencao-de-perdas",
+    "nome": "Prevenção de Perdas",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Maria Sabrina",
+    "created_at": "2026-10-13T16:13:11.246620",
+    "inserido_em": "2026-10-13T16:13:11.246620"
   }
 ]
