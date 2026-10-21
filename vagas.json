@@ -114,5 +114,16 @@
     "created_by": "Maria Sabrina",
     "created_at": "2026-10-19T09:19:43.265099",
     "inserido_em": "2026-10-19T09:19:43.265099"
+  },
+  {
+    "id": "lider-de-hori",
+    "nome": "lider de hori",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Maria Sabrina",
+    "created_at": "2026-10-21T14:06:17.259028",
+    "inserido_em": "2026-10-21T14:06:17.259028"
   }
 ]
