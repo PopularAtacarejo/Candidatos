@@ -51,13 +51,14 @@
   {
     "id": "embalador",
     "nome": "Embalador",
-    "status": "ativa",
+    "status": "inativa",
     "vagas_disponiveis": 1,
     "requisitos": [],
     "beneficios": [],
     "created_by": "Maria Sabrina",
     "created_at": "2026-10-08T09:10:33.619629",
-    "inserido_em": "2026-10-08T09:10:33.619629"
+    "inserido_em": "2026-10-08T09:10:33.619629",
+    "updated_at": "2026-11-10T07:51:48.605677"
   },
   {
     "id": "auxiliar-de-cozinha",
