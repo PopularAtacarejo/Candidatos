@@ -187,5 +187,16 @@
     "created_by": "Maria Sabrina",
     "created_at": "2026-11-19T08:02:55.373689",
     "inserido_em": "2026-11-19T08:02:55.373689"
+  },
+  {
+    "id": "vendedor",
+    "nome": "Vendedor",
+    "status": "ativa",
+    "vagas_disponiveis": 1,
+    "requisitos": [],
+    "beneficios": [],
+    "created_by": "Maria Sabrina",
+    "created_at": "2026-11-19T17:20:37.909719",
+    "inserido_em": "2026-11-19T17:20:37.909719"
   }
 ]
